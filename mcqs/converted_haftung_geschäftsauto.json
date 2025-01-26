@@ -1,0 +1,274 @@
+{
+  "title": "haftung_geschäftsauto",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was war die Frage des Hörers an die Espresso-Redaktion?</p>",
+      "options": [
+        {
+          "text": "Ob er im Sommer Winterreifen fahren darf.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer sorgt sich um die Haftung bei einem Unfall mit Winterreifen im Sommer."
+        },
+        {
+          "text": "Ob er bei einem Unfall mit Winterreifen im Sommer haftbar gemacht werden kann.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ob der Arbeitgeber die Winterreifen bezahlen muss.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer sorgt sich um die Haftung bei einem Unfall mit Winterreifen im Sommer."
+        },
+        {
+          "text": "Ob er die Winterreifen wechseln muss.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer sorgt sich um die Haftung bei einem Unfall mit Winterreifen im Sommer."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ist es in der Schweiz verboten, im Sommer mit Winterreifen zu fahren?</p>",
+      "options": [
+        {
+          "text": "Ja",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist nicht verboten, im Sommer mit Winterreifen zu fahren, aber es wird nicht empfohlen."
+        },
+        {
+          "text": "Nein",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Nur auf Autobahnen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist nicht verboten, im Sommer mit Winterreifen zu fahren, aber es wird nicht empfohlen."
+        },
+        {
+          "text": "Nur bei hohen Temperaturen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist nicht verboten, im Sommer mit Winterreifen zu fahren, aber es wird nicht empfohlen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Winterreifen im Sommer führen zu einem kürzeren Bremsweg.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Winterreifen im Sommer führen zu einem längeren Bremsweg.",
+      "feedback_incorrect": "❌ Richtig. Winterreifen im Sommer führen zu einem längeren Bremsweg."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Hörer kann bei einem Unfall haftbar gemacht werden, wenn er nachweislich zu wenig Abstand gehalten hat.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Unvorsichtiges Fahren trotz des längeren Bremswegs kann zu Haftung führen.",
+      "feedback_incorrect": "❌ Falsch. Unvorsichtiges Fahren trotz des längeren Bremswegs kann zu Haftung führen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer bezahlt den Schaden am anderen Auto bei einem Unfall, den der Hörer verursacht?</p>",
+      "options": [
+        {
+          "text": "Der Hörer",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Haftpflichtversicherung deckt Schäden am anderen Fahrzeug."
+        },
+        {
+          "text": "Der Arbeitgeber",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Haftpflichtversicherung deckt Schäden am anderen Fahrzeug."
+        },
+        {
+          "text": "Die Haftpflichtversicherung",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Kaskoversicherung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Haftpflichtversicherung deckt Schäden am anderen Fahrzeug."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wann kann der Hörer für den Schaden am Geschäftsauto haftbar gemacht werden?</p>",
+      "options": [
+        {
+          "text": "Immer",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Fahrlässiges Verhalten kann den Hörer haftbar machen."
+        },
+        {
+          "text": "Nur bei grober Fahrlässigkeit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Fahrlässiges Verhalten kann den Hörer haftbar machen."
+        },
+        {
+          "text": "Bei Fahrlässigkeit",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Nie",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Fahrlässiges Verhalten kann den Hörer haftbar machen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Es ist erlaubt, im Winter mit Sommerreifen zu fahren.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Es ist in der Schweiz verboten, im Winter mit Sommerreifen zu fahren.",
+      "feedback_incorrect": "❌ Richtig. Es ist in der Schweiz verboten, im Winter mit Sommerreifen zu fahren."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Bei einem Unfall im Winter mit Sommerreifen kann der Führerausweis entzogen werden.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Führerausweis kann entzogen werden, wenn der Unfall mit Winterreifen vermeidbar gewesen wäre.",
+      "feedback_incorrect": "❌ Falsch. Der Führerausweis kann entzogen werden, wenn der Unfall mit Winterreifen vermeidbar gewesen wäre."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Verhalten kann im Zusammenhang mit der Bereifung zu einem Unfall führen?</p>",
+      "options": [
+        {
+          "text": "Angepasstes Fahren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Zu geringer Abstand in Kombination mit dem längeren Bremsweg von Winterreifen kann zu Unfällen führen."
+        },
+        {
+          "text": "Vorausschauendes Fahren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Zu geringer Abstand in Kombination mit dem längeren Bremsweg von Winterreifen kann zu Unfällen führen."
+        },
+        {
+          "text": "Zu geringer Abstand",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Richtiges Bremsen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Zu geringer Abstand in Kombination mit dem längeren Bremsweg von Winterreifen kann zu Unfällen führen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Reifenart wird im Sommer empfohlen?</p>",
+      "options": [
+        {
+          "text": "Winterreifen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Sommer werden Sommerreifen empfohlen."
+        },
+        {
+          "text": "Sommerreifen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ganzjahresreifen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Sommer werden Sommerreifen empfohlen."
+        },
+        {
+          "text": "Es spielt keine Rolle",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Sommer werden Sommerreifen empfohlen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Arbeitgeber ist immer für Schäden am Geschäftsauto verantwortlich.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Arbeitgeber ist nicht verantwortlich, wenn der Unfall durch Fahrlässigkeit des Mitarbeiters verursacht wurde.",
+      "feedback_incorrect": "❌ Richtig. Der Arbeitgeber ist nicht verantwortlich, wenn der Unfall durch Fahrlässigkeit des Mitarbeiters verursacht wurde."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Winterreifen im Sommer erhöhen den Benzinverbrauch.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Winterreifen im Sommer erhöhen den Rollwiderstand und somit den Benzinverbrauch.",
+      "feedback_incorrect": "❌ Falsch. Winterreifen im Sommer erhöhen den Rollwiderstand und somit den Benzinverbrauch."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte der Hörer tun, um die Sicherheit im Strassenverkehr zu gewährleisten?</p>",
+      "options": [
+        {
+          "text": "Im Sommer Winterreifen fahren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Anpassung der Reifen an die Jahreszeit erhöht die Fahrsicherheit."
+        },
+        {
+          "text": "Den Reifenluftdruck nicht kontrollieren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Anpassung der Reifen an die Jahreszeit erhöht die Fahrsicherheit."
+        },
+        {
+          "text": "Die Reifen an die Jahreszeit anpassen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Schnell fahren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Anpassung der Reifen an die Jahreszeit erhöht die Fahrsicherheit."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Versicherung kommt für Schäden am Geschäftsauto auf, wenn der Unfall nicht durch Fahrlässigkeit des Fahrers verursacht wurde?</p>",
+      "options": [
+        {
+          "text": "Haftpflichtversicherung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Kaskoversicherung deckt Schäden am eigenen Fahrzeug, auch am Geschäftsauto."
+        },
+        {
+          "text": "Kaskoversicherung",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Unfallversicherung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Kaskoversicherung deckt Schäden am eigenen Fahrzeug, auch am Geschäftsauto."
+        },
+        {
+          "text": "Keine Versicherung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Kaskoversicherung deckt Schäden am eigenen Fahrzeug, auch am Geschäftsauto."
+        }
+      ]
+    }
+  ]
+}

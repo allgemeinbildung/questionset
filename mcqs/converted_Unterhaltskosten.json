@@ -1,0 +1,198 @@
+{
+  "title": "Unterhaltskosten",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer muss die Kosten für das Entkalken eines Boilers in einer Mietwohnung übernehmen?</p>",
+      "options": [
+        {
+          "text": "Der Mieter",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Entkalken eines Boilers erfordert Fachwissen und gehört zum Unterhalt der Wohnung, der vom Vermieter zu tragen ist."
+        },
+        {
+          "text": "Der Vermieter",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Der Sanitär",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Entkalken eines Boilers erfordert Fachwissen und gehört zum Unterhalt der Wohnung, der vom Vermieter zu tragen ist."
+        },
+        {
+          "text": "Die Hausverwaltung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Entkalken eines Boilers erfordert Fachwissen und gehört zum Unterhalt der Wohnung, der vom Vermieter zu tragen ist."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist der Grund, warum der Mieter die Rechnung für das Entkalken nicht bezahlen muss?</p>",
+      "options": [
+        {
+          "text": "Der Boiler war bereits beim Einzug defekt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Da für das Entkalken eines Boilers Fachwissen erforderlich ist, muss der Vermieter die Kosten übernehmen."
+        },
+        {
+          "text": "Das Entkalken ist Aufgabe des Mieters.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Da für das Entkalken eines Boilers Fachwissen erforderlich ist, muss der Vermieter die Kosten übernehmen."
+        },
+        {
+          "text": "Das Entkalken erfordert Fachwissen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Der Mieter hat den Boiler nicht selbst entkalkt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Da für das Entkalken eines Boilers Fachwissen erforderlich ist, muss der Vermieter die Kosten übernehmen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Mieter muss die Kosten für den Service einer Abwaschmaschine selbst tragen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Auch für den Service von Haushaltsgeräten wie Abwaschmaschinen muss der Vermieter aufkommen, da hierfür Fachwissen benötigt wird.",
+      "feedback_incorrect": "❌ Richtig. Auch für den Service von Haushaltsgeräten wie Abwaschmaschinen muss der Vermieter aufkommen, da hierfür Fachwissen benötigt wird."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wenn der Mieter den Abfluss durch unsachgemässes Verhalten verstopft, muss er die Kosten für die Reparatur selbst tragen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Schäden, die durch den Mieter verursacht wurden, muss dieser selbst beheben.",
+      "feedback_incorrect": "❌ Falsch. Schäden, die durch den Mieter verursacht wurden, muss dieser selbst beheben."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>An wen sollte sich der Hörer wenden, um die Rechnung zu klären?</p>",
+      "options": [
+        {
+          "text": "An den Sanitär",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter ist für den Unterhalt der Wohnung zuständig und muss die Rechnung begleichen."
+        },
+        {
+          "text": "An die Hausverwaltung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter ist für den Unterhalt der Wohnung zuständig und muss die Rechnung begleichen."
+        },
+        {
+          "text": "An den Vermieter",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "An den Mieterverband",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter ist für den Unterhalt der Wohnung zuständig und muss die Rechnung begleichen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Dokument sollte der Hörer dem Vermieter vorlegen?</p>",
+      "options": [
+        {
+          "text": "Die Rechnung des Sanitärs",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Den Mietvertrag",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer sollte dem Vermieter die Rechnung des Sanitärs vorlegen, damit dieser die Kosten übernehmen kann."
+        },
+        {
+          "text": "Ein Merkblatt zum Mietrecht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer sollte dem Vermieter die Rechnung des Sanitärs vorlegen, damit dieser die Kosten übernehmen kann."
+        },
+        {
+          "text": "Eine Bestätigung des Mieterverbands",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer sollte dem Vermieter die Rechnung des Sanitärs vorlegen, damit dieser die Kosten übernehmen kann."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Rechtsexpertin rät dem Hörer, die Rechnung direkt zu bezahlen und sich das Geld vom Vermieter zurückzuholen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Rechtsexpertin rät dem Hörer, die Rechnung an den Vermieter weiterzuleiten und ihn aufzufordern, die Kosten zu übernehmen.",
+      "feedback_incorrect": "❌ Richtig. Die Rechtsexpertin rät dem Hörer, die Rechnung an den Vermieter weiterzuleiten und ihn aufzufordern, die Kosten zu übernehmen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Boiler ist ein Gerät zur Warmwasseraufbereitung.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Ein Boiler erwärmt Wasser für den Gebrauch in der Wohnung.",
+      "feedback_incorrect": "❌ Falsch. Ein Boiler erwärmt Wasser für den Gebrauch in der Wohnung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Gabriela Baumgartner ist die Rechtsexpertin im Beitrag.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Gabriela Baumgartner gibt im Beitrag Auskunft zur Rechtslage.",
+      "feedback_incorrect": "❌ Falsch. Gabriela Baumgartner gibt im Beitrag Auskunft zur Rechtslage."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Hörer wohnt in Trimbach bei Olten.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Hörer, der die Frage stellt, wohnt in Trimbach bei Olten.",
+      "feedback_incorrect": "❌ Falsch. Der Hörer, der die Frage stellt, wohnt in Trimbach bei Olten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Betrag der Rechnung beläuft sich auf 4000 Franken.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Betrag der Rechnung beträgt 400 Franken.",
+      "feedback_incorrect": "❌ Richtig. Der Betrag der Rechnung beträgt 400 Franken."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Im Beitrag wird empfohlen, den Sanitär über die Rechtslage zu informieren.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Es wird empfohlen, den Sanitär zu informieren, um Mahnungen zu vermeiden.",
+      "feedback_incorrect": "❌ Falsch. Es wird empfohlen, den Sanitär zu informieren, um Mahnungen zu vermeiden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein verstopfter Abfluss muss immer vom Vermieter bezahlt werden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Nur wenn der Abfluss aufgrund von Altersschwäche verstopft ist, muss der Vermieter die Kosten übernehmen. Verschuldet der Mieter die Verstopfung, muss er die Kosten selbst tragen.",
+      "feedback_incorrect": "❌ Richtig. Nur wenn der Abfluss aufgrund von Altersschwäche verstopft ist, muss der Vermieter die Kosten übernehmen. Verschuldet der Mieter die Verstopfung, muss er die Kosten selbst tragen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Merkblatt vom Mieterinnen- und Mieterverband ist online verfügbar.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Beitrag verweist auf ein online verfügbares Merkblatt.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag verweist auf ein online verfügbares Merkblatt."
+    }
+  ]
+}

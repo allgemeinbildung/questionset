@@ -1,0 +1,274 @@
+{
+  "title": "ueberwachungskameras",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was war der Auslöser für den Rechtsstreit um die Überwachungskameras?</p>",
+      "options": [
+        {
+          "text": "Lärmbelästigung durch die Kameras",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Mieter fühlte sich durch die Positionierung einer Kamera, die seinen Wohnungseingang filmte, in seiner Privatsphäre verletzt."
+        },
+        {
+          "text": "Die Kosten für die Installation der Kameras",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Mieter fühlte sich durch die Positionierung einer Kamera, die seinen Wohnungseingang filmte, in seiner Privatsphäre verletzt."
+        },
+        {
+          "text": "Verletzung der Privatsphäre eines Mieters",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Unstimmigkeiten über die Anzahl der Kameras",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Mieter fühlte sich durch die Positionierung einer Kamera, die seinen Wohnungseingang filmte, in seiner Privatsphäre verletzt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Gericht fällte das endgültige Urteil in diesem Fall?</p>",
+      "options": [
+        {
+          "text": "Das Bezirksgericht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Fall ging durch mehrere Instanzen und wurde schliesslich vom Bundesgericht entschieden."
+        },
+        {
+          "text": "Das Obergericht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Fall ging durch mehrere Instanzen und wurde schliesslich vom Bundesgericht entschieden."
+        },
+        {
+          "text": "Das Bundesgericht",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Das Europäische Gerichtshof für Menschenrechte",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Fall ging durch mehrere Instanzen und wurde schliesslich vom Bundesgericht entschieden."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Bundesgericht entschied, dass alle Überwachungskameras entfernt werden müssen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Das Bundesgericht entschied, dass nur die Kamera, die den Wohnungseingang des klagenden Mieters filmte, entfernt werden muss. Die übrigen Kameras wurden als zulässig erachtet.",
+      "feedback_incorrect": "❌ Richtig. Das Bundesgericht entschied, dass nur die Kamera, die den Wohnungseingang des klagenden Mieters filmte, entfernt werden muss. Die übrigen Kameras wurden als zulässig erachtet."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine Schlichtungsstelle kann ein rechtskräftiges Urteil fällen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Eine Schlichtungsstelle versucht, eine gütliche Einigung zwischen den Streitparteien zu vermitteln. Sie fällt kein Urteil.",
+      "feedback_incorrect": "❌ Richtig. Eine Schlichtungsstelle versucht, eine gütliche Einigung zwischen den Streitparteien zu vermitteln. Sie fällt kein Urteil."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Problem hatte der Mieter mit den Überwachungskameras?</p>",
+      "options": [
+        {
+          "text": "Sie waren zu laut.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Mieter fühlte sich durch die Kamera, die seinen Wohnungseingang filmte, in seiner Privatsphäre gestört."
+        },
+        {
+          "text": "Sie waren zu teuer.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Mieter fühlte sich durch die Kamera, die seinen Wohnungseingang filmte, in seiner Privatsphäre gestört."
+        },
+        {
+          "text": "Sie filmten seinen Wohnungseingang.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie waren nicht ausreichend gesichert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Mieter fühlte sich durch die Kamera, die seinen Wohnungseingang filmte, in seiner Privatsphäre gestört."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was war das Hauptargument der Vermieterin für die Installation der Kameras?</p>",
+      "options": [
+        {
+          "text": "Abschreckung von Einbrechern",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Überwachung der Mieter",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Vermieterin argumentierte, dass die Kameras dazu dienen, Einbrüche zu verhindern, da es in der Vergangenheit wiederholt zu solchen Vorfällen gekommen war."
+        },
+        {
+          "text": "Kosteneinsparungen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Vermieterin argumentierte, dass die Kameras dazu dienen, Einbrüche zu verhindern, da es in der Vergangenheit wiederholt zu solchen Vorfällen gekommen war."
+        },
+        {
+          "text": "Verbesserung der Energieeffizienz",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Vermieterin argumentierte, dass die Kameras dazu dienen, Einbrüche zu verhindern, da es in der Vergangenheit wiederholt zu solchen Vorfällen gekommen war."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Mieter gewann den Prozess vor allen Gerichtsinstanzen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Mieter gewann zwar vor dem Bundesgericht, aber nicht unbedingt vor den vorherigen Instanzen (Schlichtungsstelle und Mietgericht).",
+      "feedback_incorrect": "❌ Richtig. Der Mieter gewann zwar vor dem Bundesgericht, aber nicht unbedingt vor den vorherigen Instanzen (Schlichtungsstelle und Mietgericht)."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Kosten eines Gerichtsverfahrens müssen immer von der Partei getragen werden, die den Prozess verliert.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Partei, die den Prozess verliert, muss in der Regel die Gerichtskosten und die Anwaltskosten beider Parteien tragen.",
+      "feedback_incorrect": "❌ Falsch. Die Partei, die den Prozess verliert, muss in der Regel die Gerichtskosten und die Anwaltskosten beider Parteien tragen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wozu dient eine Schlichtungsstelle?</p>",
+      "options": [
+        {
+          "text": "Ein rechtskräftiges Urteil fällen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schlichtungsstelle versucht, eine aussergerichtliche Einigung zu erzielen, um ein Gerichtsverfahren zu vermeiden."
+        },
+        {
+          "text": "Eine gütliche Einigung zwischen den Parteien vermitteln",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Beweise im Streitfall sammeln",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schlichtungsstelle versucht, eine aussergerichtliche Einigung zu erzielen, um ein Gerichtsverfahren zu vermeiden."
+        },
+        {
+          "text": "Die Polizei bei Ermittlungen unterstützen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schlichtungsstelle versucht, eine aussergerichtliche Einigung zu erzielen, um ein Gerichtsverfahren zu vermeiden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Aussage trifft auf die Kosten eines Gerichtsverfahrens zu?</p>",
+      "options": [
+        {
+          "text": "Sie sind immer gleich hoch.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Kosten eines Gerichtsverfahrens hängen von verschiedenen Faktoren ab, wie der Dauer des Verfahrens und der Komplexität des Falls."
+        },
+        {
+          "text": "Sie werden von der Schlichtungsstelle übernommen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Kosten eines Gerichtsverfahrens hängen von verschiedenen Faktoren ab, wie der Dauer des Verfahrens und der Komplexität des Falls."
+        },
+        {
+          "text": "Sie können sehr hoch sein, besonders bei komplexen Fällen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie müssen nur von der Partei bezahlt werden, die den Prozess gewinnt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Kosten eines Gerichtsverfahrens hängen von verschiedenen Faktoren ab, wie der Dauer des Verfahrens und der Komplexität des Falls."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Mieter war mit der Installation aller Überwachungskameras einverstanden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Mieter war nur mit der Positionierung der Kamera, die seinen Wohnungseingang filmte, nicht einverstanden.",
+      "feedback_incorrect": "❌ Richtig. Der Mieter war nur mit der Positionierung der Kamera, die seinen Wohnungseingang filmte, nicht einverstanden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Vermieterin argumentierte, dass die Kameras die Sicherheit der Mieter erhöhen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Vermieterin begründete die Installation der Kameras mit der Notwendigkeit, die Sicherheit der Mieter zu gewährleisten und Einbrüche zu verhindern.",
+      "feedback_incorrect": "❌ Falsch. Die Vermieterin begründete die Installation der Kameras mit der Notwendigkeit, die Sicherheit der Mieter zu gewährleisten und Einbrüche zu verhindern."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was war die Folge des Urteils des Bundesgerichts?</p>",
+      "options": [
+        {
+          "text": "Alle Kameras mussten entfernt werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Bundesgericht entschied, dass nur die eine Kamera entfernt werden muss, die die Privatsphäre des Mieters verletzte."
+        },
+        {
+          "text": "Nur die Kamera, die den Wohnungseingang filmte, musste entfernt werden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Dem Mieter wurde eine Entschädigung zugesprochen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Bundesgericht entschied, dass nur die eine Kamera entfernt werden muss, die die Privatsphäre des Mieters verletzte."
+        },
+        {
+          "text": "Die Vermieterin musste die Kosten des Verfahrens nicht tragen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Bundesgericht entschied, dass nur die eine Kamera entfernt werden muss, die die Privatsphäre des Mieters verletzte."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Aussage zum Ablauf des Rechtsstreits ist korrekt?</p>",
+      "options": [
+        {
+          "text": "Der Fall wurde direkt vor dem Bundesgericht verhandelt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Rechtsstreit durchlief mehrere Instanzen, beginnend mit der Schlichtungsstelle."
+        },
+        {
+          "text": "Der Fall ging zuerst vor die Schlichtungsstelle, dann vor das Mietgericht und schliesslich vor das Bundesgericht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Der Fall wurde nur vor der Schlichtungsstelle verhandelt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Rechtsstreit durchlief mehrere Instanzen, beginnend mit der Schlichtungsstelle."
+        },
+        {
+          "text": "Der Fall ging zuerst vor das Obergericht und dann vor das Bundesgericht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Rechtsstreit durchlief mehrere Instanzen, beginnend mit der Schlichtungsstelle."
+        }
+      ]
+    }
+  ]
+}

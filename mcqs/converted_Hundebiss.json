@@ -1,0 +1,274 @@
+{
+  "title": "Hundebiss",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer haftet gemäss Beitrag, wenn ein freilaufender Hund eine angeleinte Katze beisst?</p>",
+      "options": [
+        {
+          "text": "Die Katzenhalterin",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Halterin des freilaufenden Hundes haftet, da sie ihre Aufsichtspflicht verletzt hat."
+        },
+        {
+          "text": "Die Hundebesitzerin",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Beide Halterinnen zu gleichen Teilen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Halterin des freilaufenden Hundes haftet, da sie ihre Aufsichtspflicht verletzt hat."
+        },
+        {
+          "text": "Niemand",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Halterin des freilaufenden Hundes haftet, da sie ihre Aufsichtspflicht verletzt hat."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist gemäss Beitrag die rechtliche Grundlage der Tierhalterhaftung?</p>",
+      "options": [
+        {
+          "text": "Das Tierhaltergesetz",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Tierhalterhaftung ist im Obligationenrecht geregelt."
+        },
+        {
+          "text": "Das Tierschutzgesetz",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Tierhalterhaftung ist im Obligationenrecht geregelt."
+        },
+        {
+          "text": "Das Obligationenrecht",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Das Strafgesetzbuch",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Tierhalterhaftung ist im Obligationenrecht geregelt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Es spielt keine Rolle, ob Leinenpflicht besteht oder nicht, die Halterin des freilaufenden Hundes haftet immer.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Auch ohne Leinenpflicht gilt die Aufsichtspflicht. Ein freilaufender Hund gilt als nicht beaufsichtigt.",
+      "feedback_incorrect": "❌ Falsch. Auch ohne Leinenpflicht gilt die Aufsichtspflicht. Ein freilaufender Hund gilt als nicht beaufsichtigt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wenn die Katze den Hund verletzt, haftet die Katzenhalterin.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Hundebesitzerin haftet, da ihr Hund die angeleinte Katze angegriffen hat und nicht beaufsichtigt war.",
+      "feedback_incorrect": "❌ Richtig. Die Hundebesitzerin haftet, da ihr Hund die angeleinte Katze angegriffen hat und nicht beaufsichtigt war."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welcher Stadt lebt die Hörerin, die die Frage gestellt hat?</p>",
+      "options": [
+        {
+          "text": "Zürich",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Bern",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin kommt aus Zürich, wie im Beitrag erwähnt."
+        },
+        {
+          "text": "Basel",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin kommt aus Zürich, wie im Beitrag erwähnt."
+        },
+        {
+          "text": "Genf",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin kommt aus Zürich, wie im Beitrag erwähnt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Tier sah die Hörerin zuerst?</p>",
+      "options": [
+        {
+          "text": "Einen Hund",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin dachte zuerst, sie sehe ein Bärchen."
+        },
+        {
+          "text": "Eine Katze",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin dachte zuerst, sie sehe ein Bärchen."
+        },
+        {
+          "text": "Ein Bärchen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ein Frettchen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin dachte zuerst, sie sehe ein Bärchen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin hatte ihren Hund an der Leine.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Hund der Hörerin war nicht an der Leine.",
+      "feedback_incorrect": "❌ Richtig. Der Hund der Hörerin war nicht an der Leine."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Katze war an der Leine.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Katze war an der Leine.",
+      "feedback_incorrect": "❌ Falsch. Die Katze war an der Leine."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was für eine Leine hatte die Katze?</p>",
+      "options": [
+        {
+          "text": "Eine Flexileine",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine feste Leine",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Katze war an einer Flexileine."
+        },
+        {
+          "text": "Eine Schleppleine",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Katze war an einer Flexileine."
+        },
+        {
+          "text": "Eine Kette",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Katze war an einer Flexileine."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo hat der Reporter die User nach ihrer Meinung gefragt?</p>",
+      "options": [
+        {
+          "text": "Instagram",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Reporter hat auf Facebook einen Aufruf gestartet."
+        },
+        {
+          "text": "Facebook",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Twitter",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Reporter hat auf Facebook einen Aufruf gestartet."
+        },
+        {
+          "text": "TikTok",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Reporter hat auf Facebook einen Aufruf gestartet."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Alle User waren der Meinung, dass die Hundehalterin haften würde.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Nicht alle User waren dieser Meinung.",
+      "feedback_incorrect": "❌ Richtig. Nicht alle User waren dieser Meinung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Gabriela Baumgartner ist Rechtsexpertin.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Gabriela Baumgartner ist Rechtsexpertin.",
+      "feedback_incorrect": "❌ Falsch. Gabriela Baumgartner ist Rechtsexpertin."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte man gemäss Tierschutzorganisation Vier Pfoten verwenden, um eine Katze an der Leine zu führen?</p>",
+      "options": [
+        {
+          "text": "Eine Halsbande",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Man sollte ein Geschirr verwenden."
+        },
+        {
+          "text": "Ein Geschirr",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Flexileine",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Man sollte ein Geschirr verwenden."
+        },
+        {
+          "text": "Eine Kette",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Man sollte ein Geschirr verwenden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Synonym für «behaupten»?</p>",
+      "options": [
+        {
+          "text": "bestätigen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Behaupten bedeutet, etwas als Tatsache darzustellen, ohne es unbedingt beweisen zu können. Beteuern ist ein passendes Synonym."
+        },
+        {
+          "text": "beweisen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Behaupten bedeutet, etwas als Tatsache darzustellen, ohne es unbedingt beweisen zu können. Beteuern ist ein passendes Synonym."
+        },
+        {
+          "text": "beteuern",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "begründen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Behaupten bedeutet, etwas als Tatsache darzustellen, ohne es unbedingt beweisen zu können. Beteuern ist ein passendes Synonym."
+        }
+      ]
+    }
+  ]
+}

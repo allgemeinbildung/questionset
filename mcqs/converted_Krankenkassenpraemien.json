@@ -1,0 +1,230 @@
+{
+  "title": "Krankenkassenpraemien",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum konnte der Hörer seine Krankenkassenprämien nicht bezahlen?</p>",
+      "options": [
+        {
+          "text": "Er war arbeitslos.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer wartete auf die Bewilligung seiner IV-Rente."
+        },
+        {
+          "text": "Er war gesundheitlich angeschlagen und arbeitsunfähig.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Er hatte vergessen, die Rechnung zu bezahlen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer wartete auf die Bewilligung seiner IV-Rente."
+        },
+        {
+          "text": "Er war mit der Krankenkasse unzufrieden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer wartete auf die Bewilligung seiner IV-Rente."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was tat die Krankenkasse, als der Hörer eine neue Versicherungskarte beantragte?</p>",
+      "options": [
+        {
+          "text": "Sie stellte ihm sofort eine neue Karte aus.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Krankenkasse begründete dies mit den offenen Prämien."
+        },
+        {
+          "text": "Sie verweigerte die Ausstellung einer neuen Karte.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie schickte ihm eine Mahnung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Krankenkasse begründete dies mit den offenen Prämien."
+        },
+        {
+          "text": "Sie bot ihm eine Ratenzahlung an.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Krankenkasse begründete dies mit den offenen Prämien."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Krankenkasse darf die Ausstellung einer neuen Versicherungskarte verweigern, wenn der Versicherte mit den Prämien im Rückstand ist.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Laut Gesetz muss die Krankenkasse jedem Versicherten eine Karte ausstellen, unabhängig vom Prämienzahlungsstatus.",
+      "feedback_incorrect": "❌ Richtig. Laut Gesetz muss die Krankenkasse jedem Versicherten eine Karte ausstellen, unabhängig vom Prämienzahlungsstatus."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>In allen Kantonen der Schweiz gibt es schwarze Listen für säumige Prämienzahler.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Nur die Kantone Aargau, Luzern, Tessin und Thurgau führen solche Listen.",
+      "feedback_incorrect": "❌ Richtig. Nur die Kantone Aargau, Luzern, Tessin und Thurgau führen solche Listen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Leistung muss die Krankenkasse in Kantonen mit schwarzen Listen noch erbringen?</p>",
+      "options": [
+        {
+          "text": "Gar keine Leistungen mehr.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Für Personen auf der schwarzen Liste werden nur noch Notfallbehandlungen übernommen."
+        },
+        {
+          "text": "Nur noch Notfallbehandlungen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Alle medizinisch notwendigen Leistungen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Für Personen auf der schwarzen Liste werden nur noch Notfallbehandlungen übernommen."
+        },
+        {
+          "text": "Nur noch Medikamentenkosten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Für Personen auf der schwarzen Liste werden nur noch Notfallbehandlungen übernommen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>An wen kann man sich wenden, wenn man Schwierigkeiten hat, die Krankenkassenprämien zu bezahlen?</p>",
+      "options": [
+        {
+          "text": "An die Polizei.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Beratungsstellen bieten Unterstützung und Hilfe bei finanziellen Problemen."
+        },
+        {
+          "text": "An das Bundesamt für Gesundheit.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Beratungsstellen bieten Unterstützung und Hilfe bei finanziellen Problemen."
+        },
+        {
+          "text": "An Beratungsstellen für Schuldenberatung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "An die eigene Bank.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Beratungsstellen bieten Unterstützung und Hilfe bei finanziellen Problemen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Hörer wohnt im Kanton Bern.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Hörer kommt aus dem Kanton Bern.",
+      "feedback_incorrect": "❌ Falsch. Der Hörer kommt aus dem Kanton Bern."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Hörer hat gesundheitliche Probleme und wartet auf seine IV.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Hörer ist gesundheitlich angeschlagen, arbeitsunfähig und wartet auf die Bewilligung seiner IV-Rente.",
+      "feedback_incorrect": "❌ Falsch. Der Hörer ist gesundheitlich angeschlagen, arbeitsunfähig und wartet auf die Bewilligung seiner IV-Rente."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Krankenkasse hat dem Hörer am Schluss die Versicherungskarte zugeschickt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Krankenkasse hat ihren Fehler eingesehen und die Karte nachgeschickt.",
+      "feedback_incorrect": "❌ Falsch. Die Krankenkasse hat ihren Fehler eingesehen und die Karte nachgeschickt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Im Kanton Bern gibt es eine schwarze Liste.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Im Kanton Bern gibt es keine schwarze Liste.",
+      "feedback_incorrect": "❌ Richtig. Im Kanton Bern gibt es keine schwarze Liste."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wenn man seine Krankenkassenprämie nicht bezahlt, kann das zu einer Betreibung führen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Nach einer Mahnung kann die Krankenkasse eine Betreibung einleiten.",
+      "feedback_incorrect": "❌ Falsch. Nach einer Mahnung kann die Krankenkasse eine Betreibung einleiten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Krankenkasse heisst Adupri.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Krankenkasse heisst Adubri",
+      "feedback_incorrect": "❌ Richtig. Die Krankenkasse heisst Adubri"
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wenn man seine Krankenkassenprämie nicht bezahlt, kann das im schlimmsten Fall zu einer Lohnpfändung führen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Je nach Umständen kann die Betreibung zu einer Lohnpfändung führen.",
+      "feedback_incorrect": "❌ Falsch. Je nach Umständen kann die Betreibung zu einer Lohnpfändung führen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Gabriela Baumgartner ist die Rechtsexpertin.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Gabriela Baumgartner ist Rechtsexpertin bei Espresso.",
+      "feedback_incorrect": "❌ Falsch. Gabriela Baumgartner ist Rechtsexpertin bei Espresso."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Versicherungsangestellte der Krankenkasse kannte das Gesetz nicht.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Angestellte hat sich nicht mit dem Gesetz befasst.",
+      "feedback_incorrect": "❌ Falsch. Der Angestellte hat sich nicht mit dem Gesetz befasst."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Krankenkasse hat sich beim Hörer entschuldigt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Krankenkasse hat ihren Fehler eingesehen und sich entschuldigt.",
+      "feedback_incorrect": "❌ Falsch. Die Krankenkasse hat ihren Fehler eingesehen und sich entschuldigt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Es gibt Beratungsstellen, die einem weiterhelfen, wenn man seine Prämien nicht zahlen kann.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Es gibt Schuldenberatungsstellen, die Unterstützung anbieten.",
+      "feedback_incorrect": "❌ Falsch. Es gibt Schuldenberatungsstellen, die Unterstützung anbieten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Man findet die Beratungsstellen beim Dachverband für Schuldenberatung.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Dachverband für Schuldenberatung bietet eine Übersicht über regionale Anlaufstellen.",
+      "feedback_incorrect": "❌ Falsch. Der Dachverband für Schuldenberatung bietet eine Übersicht über regionale Anlaufstellen."
+    }
+  ]
+}

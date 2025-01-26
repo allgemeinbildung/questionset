@@ -1,0 +1,274 @@
+{
+  "title": "Wasserschaden",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist das Problem in der Wohnung der Hörerin?</p>",
+      "options": [
+        {
+          "text": "Schimmelbefall im Badezimmer",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin beklagt sich über eine feuchte Wand im Schlafzimmer ihres Sohnes."
+        },
+        {
+          "text": "Undichte Dusche",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin beklagt sich über eine feuchte Wand im Schlafzimmer ihres Sohnes."
+        },
+        {
+          "text": "Feuchte Wand im Schlafzimmer",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Defekte Bodenheizung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin beklagt sich über eine feuchte Wand im Schlafzimmer ihres Sohnes."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange besteht das Problem bereits?</p>",
+      "options": [
+        {
+          "text": "Seit 6 Monaten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass die Familie seit 1.5 Jahren mit der feuchten Wand lebt."
+        },
+        {
+          "text": "Seit 1 Jahr",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass die Familie seit 1.5 Jahren mit der feuchten Wand lebt."
+        },
+        {
+          "text": "Seit 1.5 Jahren",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Seit 2 Jahren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass die Familie seit 1.5 Jahren mit der feuchten Wand lebt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Verwaltung hat die Ursache des Wasserschadens gefunden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Trotz Suche konnten die Handwerker die Ursache des Wasserschadens nicht finden.",
+      "feedback_incorrect": "❌ Richtig. Trotz Suche konnten die Handwerker die Ursache des Wasserschadens nicht finden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Mieterin kann die Miete selbstständig reduzieren.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Eine eigenmächtige Mietzinsreduktion ist ein Kündigungsgrund. Die Mieterin muss die Reduktion schriftlich verlangen und mit der Schlichtungsbehörde abklären.",
+      "feedback_incorrect": "❌ Richtig. Eine eigenmächtige Mietzinsreduktion ist ein Kündigungsgrund. Die Mieterin muss die Reduktion schriftlich verlangen und mit der Schlichtungsbehörde abklären."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte die Mieterin als erstes tun?</p>",
+      "options": [
+        {
+          "text": "Die Miete reduzieren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin empfiehlt, die Verwaltung schriftlich mit eingeschriebenem Brief zu kontaktieren und eine Frist zu setzen."
+        },
+        {
+          "text": "Ausziehen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin empfiehlt, die Verwaltung schriftlich mit eingeschriebenem Brief zu kontaktieren und eine Frist zu setzen."
+        },
+        {
+          "text": "Die Verwaltung schriftlich kontaktieren",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Einen Anwalt beauftragen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin empfiehlt, die Verwaltung schriftlich mit eingeschriebenem Brief zu kontaktieren und eine Frist zu setzen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Druckmittel kann die Mieterin einsetzen?</p>",
+      "options": [
+        {
+          "text": "Mietstreik",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Androhung einer Mietzinshinterlegung kann die Vermieterschaft dazu bewegen, den Mangel schneller zu beheben."
+        },
+        {
+          "text": "Anzeige bei der Polizei",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Androhung einer Mietzinshinterlegung kann die Vermieterschaft dazu bewegen, den Mangel schneller zu beheben."
+        },
+        {
+          "text": "Mietzinshinterlegung bei der Schlichtungsbehörde",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Öffentliche Beschwerde",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Androhung einer Mietzinshinterlegung kann die Vermieterschaft dazu bewegen, den Mangel schneller zu beheben."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Schlichtungsverfahren ist kostenlos.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Schlichtungsbehörde bietet ein kostenloses Schlichtungsverfahren an.",
+      "feedback_incorrect": "❌ Falsch. Die Schlichtungsbehörde bietet ein kostenloses Schlichtungsverfahren an."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Mieterin hat Anspruch auf Schadenersatz für die Reinigung.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Da die Mieterin selbst geputzt hat und keine weiteren Schäden entstanden sind, hat sie keinen Anspruch auf Schadenersatz.",
+      "feedback_incorrect": "❌ Richtig. Da die Mieterin selbst geputzt hat und keine weiteren Schäden entstanden sind, hat sie keinen Anspruch auf Schadenersatz."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo findet man weitere Informationen zu Mietrechten?</p>",
+      "options": [
+        {
+          "text": "Auf der Website des Mieterverbandes",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Im Mietvertrag",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag verweist auf die Website des Mieterverbandes für weitere Informationen."
+        },
+        {
+          "text": "Bei der Polizei",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag verweist auf die Website des Mieterverbandes für weitere Informationen."
+        },
+        {
+          "text": "Beim Einwohnermeldeamt",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag verweist auf die Website des Mieterverbandes für weitere Informationen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Mangel wird im Beitrag besprochen?</p>",
+      "options": [
+        {
+          "text": "Lärmbelästigung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag thematisiert einen Wasserschaden in einer Mietwohnung."
+        },
+        {
+          "text": "Wasserschaden",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Schimmelbefall",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag thematisiert einen Wasserschaden in einer Mietwohnung."
+        },
+        {
+          "text": "Defekte Heizung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag thematisiert einen Wasserschaden in einer Mietwohnung."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Mieterin muss die entstandenen Kosten für die Reparatur selbst tragen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Kosten für die Reparatur des Wasserschadens muss der Vermieter tragen.",
+      "feedback_incorrect": "❌ Richtig. Die Kosten für die Reparatur des Wasserschadens muss der Vermieter tragen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Rechtsexpertin rät der Mieterin, einen Anwalt zu kontaktieren.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Rechtsexpertin rät zunächst zu einem schriftlichen Kontakt mit der Verwaltung und einem Schlichtungsverfahren.",
+      "feedback_incorrect": "❌ Richtig. Die Rechtsexpertin rät zunächst zu einem schriftlichen Kontakt mit der Verwaltung und einem Schlichtungsverfahren."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Raum befindet sich der Wasserschaden?</p>",
+      "options": [
+        {
+          "text": "Küche",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Wasserschaden befindet sich im Schlafzimmer des Sohnes der Hörerin."
+        },
+        {
+          "text": "Wohnzimmer",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Wasserschaden befindet sich im Schlafzimmer des Sohnes der Hörerin."
+        },
+        {
+          "text": "Schlafzimmer",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Badezimmer",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Wasserschaden befindet sich im Schlafzimmer des Sohnes der Hörerin."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer hat die Rechtsfrage beantwortet?</p>",
+      "options": [
+        {
+          "text": "Stefan Wüthrich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin Raffaella Reichlin beantwortet die Rechtsfrage der Hörerin."
+        },
+        {
+          "text": "Raffaella Reichlin",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Hörerin selbst",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin Raffaella Reichlin beantwortet die Rechtsfrage der Hörerin."
+        },
+        {
+          "text": "Ein Handwerker",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin Raffaella Reichlin beantwortet die Rechtsfrage der Hörerin."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "title": "LauteNachbarn",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist die Hauptursache für Simon Martellas Lärmproblem?</p>",
+      "options": [
+        {
+          "text": "Baulärm von einer nahegelegenen Baustelle",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass ein neues Tanzstudio die Ursache für den Lärm ist."
+        },
+        {
+          "text": "Laute Musik aus einem benachbarten Tanzstudio",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Bellende Hunde im selben Gebäude",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass ein neues Tanzstudio die Ursache für den Lärm ist."
+        },
+        {
+          "text": "Strassenlärm durch starken Verkehr",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass ein neues Tanzstudio die Ursache für den Lärm ist."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie reagiert Simon Martellas Vermieter auf seine Beschwerde?</p>",
+      "options": [
+        {
+          "text": "Er verspricht, sich der Sache anzunehmen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter zeigt sich wenig kooperativ und weist die Beschwerde zurück."
+        },
+        {
+          "text": "Er verweist ihn an die Schlichtungsbehörde.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter zeigt sich wenig kooperativ und weist die Beschwerde zurück."
+        },
+        {
+          "text": "Er meint, er müsse mit dem Lärm leben.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Er kündigt dem Tanzstudio die Mietwohnung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter zeigt sich wenig kooperativ und weist die Beschwerde zurück."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die kantonale Lärmschutzfachstelle ist die richtige Anlaufstelle für Lärmbelästigung durch private Nachbarn.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Lärmschutzfachstelle ist für Lärm von Betrieben und Anlagen zuständig, nicht für private Streitigkeiten.",
+      "feedback_incorrect": "❌ Richtig. Die Lärmschutzfachstelle ist für Lärm von Betrieben und Anlagen zuständig, nicht für private Streitigkeiten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Gabriela Baumgartner rät Simon Martella, ein Lärmtagebuch zu führen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Das Lärmtagebuch dient als Beweismittel für die Lärmbelästigung.",
+      "feedback_incorrect": "❌ Falsch. Das Lärmtagebuch dient als Beweismittel für die Lärmbelästigung."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welchen Tipp gibt Gabriela Baumgartner zusätzlich zum Lärmtagebuch?</p>",
+      "options": [
+        {
+          "text": "Den Lärm mit einer App messen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sich Ohrstöpsel kaufen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Messung mit einer App kann als zusätzlicher Beweis dienen."
+        },
+        {
+          "text": "Die Polizei rufen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Messung mit einer App kann als zusätzlicher Beweis dienen."
+        },
+        {
+          "text": "Ausziehen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Messung mit einer App kann als zusätzlicher Beweis dienen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer ist gemäss Beitrag die erste Anlaufstelle bei Lärmproblemen?</p>",
+      "options": [
+        {
+          "text": "Die Polizei",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter ist in der Pflicht, für eine mangelfreie Wohnung zu sorgen."
+        },
+        {
+          "text": "Der Vermieter",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Schlichtungsbehörde",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter ist in der Pflicht, für eine mangelfreie Wohnung zu sorgen."
+        },
+        {
+          "text": "Die kantonale Lärmschutzfachstelle",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter ist in der Pflicht, für eine mangelfreie Wohnung zu sorgen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Behörde ist für die Kontrolle der Lärmschutzbestimmungen zuständig?</p>",
+      "options": [
+        {
+          "text": "Die Polizei",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese Stelle prüft, ob die Lärmschutzbestimmungen eingehalten werden."
+        },
+        {
+          "text": "Das Mietgericht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese Stelle prüft, ob die Lärmschutzbestimmungen eingehalten werden."
+        },
+        {
+          "text": "Die kantonale Lärmschutzfachstelle",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Das Bundesamt für Umwelt",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese Stelle prüft, ob die Lärmschutzbestimmungen eingehalten werden."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Lärm kann als Mangel der Mietsache gelten.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Überschreitet der Lärm ein bestimmtes Mass, kann dies als Mangel angesehen werden und der Mieter hat Anspruch auf Abhilfe.",
+      "feedback_incorrect": "❌ Falsch. Überschreitet der Lärm ein bestimmtes Mass, kann dies als Mangel angesehen werden und der Mieter hat Anspruch auf Abhilfe."
+    }
+  ]
+}

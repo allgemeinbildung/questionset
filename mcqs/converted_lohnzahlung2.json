@@ -1,0 +1,236 @@
+{
+  "title": "lohnzahlung2",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wann muss der Lohn in der Schweiz laut Gesetz spätestens ausbezahlt sein?</p>",
+      "options": [
+        {
+          "text": "Am letzten Tag des Monats",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Am 15. des Folgemonats",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Gesetz schreibt vor, dass der Lohn bis zum letzten Tag des Monats bezahlt werden muss."
+        },
+        {
+          "text": "Am 20. des Folgemonats",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Gesetz schreibt vor, dass der Lohn bis zum letzten Tag des Monats bezahlt werden muss."
+        },
+        {
+          "text": "Am Ende des Folgemonats",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Gesetz schreibt vor, dass der Lohn bis zum letzten Tag des Monats bezahlt werden muss."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was kann eine Ausnahme von der gesetzlichen Regelung zur Lohnzahlung darstellen?</p>",
+      "options": [
+        {
+          "text": "Ein Arbeitsvertrag",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im GAV können längere Zahlungsfristen vereinbart werden."
+        },
+        {
+          "text": "Ein Gesamtarbeitsvertrag (GAV)",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Grösse des Unternehmens",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im GAV können längere Zahlungsfristen vereinbart werden."
+        },
+        {
+          "text": "Die Anzahl der Mitarbeitenden",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im GAV können längere Zahlungsfristen vereinbart werden."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Es ist in der Schweiz unter keinen Umständen erlaubt, den Lohn später als am 15. des Folgemonats auszuzahlen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Auch wenn im GAV oder Arbeitsvertrag etwas anderes vereinbart wurde, ist eine Lohnzahlung nach dem 15. des Folgemonats nicht zulässig.",
+      "feedback_incorrect": "❌ Richtig. Auch wenn im GAV oder Arbeitsvertrag etwas anderes vereinbart wurde, ist eine Lohnzahlung nach dem 15. des Folgemonats nicht zulässig."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Arbeitgeber im Beitrag begründet die späte Lohnzahlung mit der Komplexität der Stundenabrechnung.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Er gibt an, dass er zuerst die Stunden genau abrechnen müsse.",
+      "feedback_incorrect": "❌ Falsch. Er gibt an, dass er zuerst die Stunden genau abrechnen müsse."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Lösung schlägt die Rechtsexpertin für die Problematik der späten Lohnzahlung bei Stundenlöhnen vor?</p>",
+      "options": [
+        {
+          "text": "Den Lohn erst nach der vollständigen Abrechnung auszahlen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. So wird sichergestellt, dass die Angestellten am Ende des Monats nicht ohne Lohn dastehen."
+        },
+        {
+          "text": "Den Lohn schätzen und die Differenz im Folgemonat ausgleichen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Den Lohn wöchentlich auszahlen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. So wird sichergestellt, dass die Angestellten am Ende des Monats nicht ohne Lohn dastehen."
+        },
+        {
+          "text": "Den Lohn im Voraus auszahlen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. So wird sichergestellt, dass die Angestellten am Ende des Monats nicht ohne Lohn dastehen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte man tun, wenn der Lohn gar nicht ausbezahlt wird?</p>",
+      "options": [
+        {
+          "text": "Den Arbeitgeber mündlich mahnen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine schriftliche Mahnung ist der erste Schritt, um die Lohnzahlung einzufordern."
+        },
+        {
+          "text": "Den Arbeitgeber schriftlich mahnen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Arbeit niederlegen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine schriftliche Mahnung ist der erste Schritt, um die Lohnzahlung einzufordern."
+        },
+        {
+          "text": "Eine Beschwerde bei der Gewerkschaft einreichen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine schriftliche Mahnung ist der erste Schritt, um die Lohnzahlung einzufordern."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin im Beitrag ist die einzige Person im Betrieb, die Probleme mit der späten Lohnzahlung hat.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Auch andere Angestellte im Stundenlohn sind betroffen.",
+      "feedback_incorrect": "❌ Richtig. Auch andere Angestellte im Stundenlohn sind betroffen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Rechtsexpertin im Beitrag heisst Raphaela Reichlin.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Sie wird im Beitrag als Rechtsexpertin genannt.",
+      "feedback_incorrect": "❌ Falsch. Sie wird im Beitrag als Rechtsexpertin genannt."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Monat spielt die Geschichte im Radiobeitrag?</p>",
+      "options": [
+        {
+          "text": "Januar",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wird explizit erwähnt, dass es Ende Februar ist."
+        },
+        {
+          "text": "Februar",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "März",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wird explizit erwähnt, dass es Ende Februar ist."
+        },
+        {
+          "text": "April",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wird explizit erwähnt, dass es Ende Februar ist."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Problem schildert die Hörerin?</p>",
+      "options": [
+        {
+          "text": "Ihr Lohn wird zu früh ausbezahlt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sie beklagt sich darüber, dass der Lohn erst Ende des Folgemonats kommt."
+        },
+        {
+          "text": "Ihr Lohn wird zu spät ausbezahlt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ihr Lohn wird nicht korrekt berechnet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sie beklagt sich darüber, dass der Lohn erst Ende des Folgemonats kommt."
+        },
+        {
+          "text": "Ihr Lohn wird gar nicht ausbezahlt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sie beklagt sich darüber, dass der Lohn erst Ende des Folgemonats kommt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Chef der Hörerin behauptet, er könne den Lohn nicht früher zahlen, weil er zuerst die Stunden abrechnen muss.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Das ist seine Begründung für die späte Lohnzahlung.",
+      "feedback_incorrect": "❌ Falsch. Das ist seine Begründung für die späte Lohnzahlung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Laut Bundesgericht ist eine Lohnzahlung nach dem 15. des Folgemonats in keinem Fall gültig.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Das Bundesgericht hat entschieden, dass eine solche Regelung ungültig ist.",
+      "feedback_incorrect": "❌ Falsch. Das Bundesgericht hat entschieden, dass eine solche Regelung ungültig ist."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Im Beitrag wird empfohlen, bei Problemen mit der Lohnzahlung sofort die Arbeit niederzulegen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Empfohlen wird eine schriftliche Mahnung.",
+      "feedback_incorrect": "❌ Richtig. Empfohlen wird eine schriftliche Mahnung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Im Beitrag wird die Sendung 'Espresso' von SRF erwähnt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Hörerin hat sich an die Sendung 'Espresso' gewandt.",
+      "feedback_incorrect": "❌ Falsch. Die Hörerin hat sich an die Sendung 'Espresso' gewandt."
+    }
+  ]
+}

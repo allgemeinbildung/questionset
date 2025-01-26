@@ -1,0 +1,236 @@
+{
+  "title": "Gehweg",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum ist die Hörerin besorgt über das Verhalten ihres Nachbarn?</p>",
+      "options": [
+        {
+          "text": "Weil der Schnee den Gehweg blockiert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Gehweg wird von vielen Menschen benutzt, darunter Kinder und Senioren, was die Gefahr erhöht."
+        },
+        {
+          "text": "Weil der Nachbar den Schnee auf ihren Balkon wirft.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Gehweg wird von vielen Menschen benutzt, darunter Kinder und Senioren, was die Gefahr erhöht."
+        },
+        {
+          "text": "Weil der Nachbar Schnee vom 10. Stock auf einen viel benutzten Gehweg wirft.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Weil der Nachbar zu laut Schnee räumt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Gehweg wird von vielen Menschen benutzt, darunter Kinder und Senioren, was die Gefahr erhöht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche rechtliche Konsequenz könnte das Verhalten des Nachbarn haben?</p>",
+      "options": [
+        {
+          "text": "Er muss den Schnee selbst wieder wegräumen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Werfen von Schnee aus grosser Höhe kann zu Verletzungen führen und strafrechtlich relevant sein."
+        },
+        {
+          "text": "Er muss ein Bussgeld bezahlen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Werfen von Schnee aus grosser Höhe kann zu Verletzungen führen und strafrechtlich relevant sein."
+        },
+        {
+          "text": "Er könnte wegen Körperverletzung belangt werden, wenn er jemanden verletzt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Es gibt keine rechtlichen Konsequenzen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Werfen von Schnee aus grosser Höhe kann zu Verletzungen führen und strafrechtlich relevant sein."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Rechtsexpertin empfiehlt der Hörerin, sofort gerichtliche Schritte einzuleiten.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Rechtsexpertin empfiehlt zunächst das Gespräch, die Kontaktaufnahme mit der Verwaltung oder Mediation.",
+      "feedback_incorrect": "❌ Richtig. Die Rechtsexpertin empfiehlt zunächst das Gespräch, die Kontaktaufnahme mit der Verwaltung oder Mediation."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Es ist erlaubt, Schnee vom Balkon zu werfen, solange niemand unten steht.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Das Werfen von Schnee vom Balkon ist generell gefährlich und kann zu Unfällen führen.",
+      "feedback_incorrect": "❌ Richtig. Das Werfen von Schnee vom Balkon ist generell gefährlich und kann zu Unfällen führen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was empfiehlt die Rechtsexpertin als ersten Schritt?</p>",
+      "options": [
+        {
+          "text": "Die Polizei rufen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Gespräch kann helfen, die Situation zu klären und eine einvernehmliche Lösung zu finden."
+        },
+        {
+          "text": "Mit dem Nachbarn sprechen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Einen Anwalt kontaktieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Gespräch kann helfen, die Situation zu klären und eine einvernehmliche Lösung zu finden."
+        },
+        {
+          "text": "Zum Mieterverband gehen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Gespräch kann helfen, die Situation zu klären und eine einvernehmliche Lösung zu finden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Alternative zum Schneeräumen vom Balkon wird im Beitrag NICHT genannt?</p>",
+      "options": [
+        {
+          "text": "Den Schnee in Behältern runterbringen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Werfen von Schnee vom Dach ist genauso gefährlich wie vom Balkon und wird daher nicht empfohlen."
+        },
+        {
+          "text": "Den Schnee in der Badewanne schmelzen lassen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Werfen von Schnee vom Dach ist genauso gefährlich wie vom Balkon und wird daher nicht empfohlen."
+        },
+        {
+          "text": "Den Schnee auf dem Balkon liegen lassen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Werfen von Schnee vom Dach ist genauso gefährlich wie vom Balkon und wird daher nicht empfohlen."
+        },
+        {
+          "text": "Den Schnee vom Dach werfen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Nachbar wirft neben Schnee auch andere Gegenstände vom Balkon.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Im Beitrag wird erwähnt, dass der Nachbar auch Sträucher und eine Sonnenstore vom Balkon geworfen hat.",
+      "feedback_incorrect": "❌ Falsch. Im Beitrag wird erwähnt, dass der Nachbar auch Sträucher und eine Sonnenstore vom Balkon geworfen hat."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin wohnt im selben Stockwerk wie der Nachbar.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Hörerin wohnt vermutlich in einem tieferen Stockwerk oder im Nachbarhaus.",
+      "feedback_incorrect": "❌ Richtig. Die Hörerin wohnt vermutlich in einem tieferen Stockwerk oder im Nachbarhaus."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo befindet sich das Haus, in dem die Hörerin wohnt?</p>",
+      "options": [
+        {
+          "text": "Im Bündnerland.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Im Kanton Zürich.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin schreibt aus dem Bündnerland."
+        },
+        {
+          "text": "Im Wallis.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin schreibt aus dem Bündnerland."
+        },
+        {
+          "text": "Im Tessin.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin schreibt aus dem Bündnerland."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welcher Sendung wurde der Fall besprochen?</p>",
+      "options": [
+        {
+          "text": "Kassensturz.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag ist Teil der Sendung \"Espresso\"."
+        },
+        {
+          "text": "Espresso.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "10vor10.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag ist Teil der Sendung \"Espresso\"."
+        },
+        {
+          "text": "Tagesschau.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag ist Teil der Sendung \"Espresso\"."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Nachbar hat sich bereits für sein Verhalten entschuldigt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Im Beitrag wird nicht erwähnt, dass sich der Nachbar entschuldigt hat.",
+      "feedback_incorrect": "❌ Richtig. Im Beitrag wird nicht erwähnt, dass sich der Nachbar entschuldigt hat."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Rechtsexpertin rät davon ab, sofort einen Anwalt einzuschalten.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Sie empfiehlt zuerst den Weg des Gesprächs oder die Mediation.",
+      "feedback_incorrect": "❌ Falsch. Sie empfiehlt zuerst den Weg des Gesprächs oder die Mediation."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Es gibt keine Alternativen zum Schneeräumen vom Balkon.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Im Beitrag werden Alternativen wie das Schmelzen des Schnees oder das Sammeln in Behältern genannt.",
+      "feedback_incorrect": "❌ Richtig. Im Beitrag werden Alternativen wie das Schmelzen des Schnees oder das Sammeln in Behältern genannt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Nachbar könnte für Schäden, die durch den fallenden Schnee entstehen, haftbar gemacht werden.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Wer durch unsachgemässes Schneeräumen Schäden verursacht, kann haftbar gemacht werden.",
+      "feedback_incorrect": "❌ Falsch. Wer durch unsachgemässes Schneeräumen Schäden verursacht, kann haftbar gemacht werden."
+    }
+  ]
+}

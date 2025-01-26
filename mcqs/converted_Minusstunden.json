@@ -1,0 +1,274 @@
+{
+  "title": "Minusstunden",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist das Thema des Radiobeitrags?</p>",
+      "options": [
+        {
+          "text": "Überstunden im Gastgewerbe",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag behandelt die Frage, ob Arbeitgeber Minusstunden mit Ferientagen verrechnen dürfen."
+        },
+        {
+          "text": "Minusstunden und Ferienverrechnung",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Kurzarbeit während der Pandemie",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag behandelt die Frage, ob Arbeitgeber Minusstunden mit Ferientagen verrechnen dürfen."
+        },
+        {
+          "text": "Lohnfortzahlung bei Krankheit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag behandelt die Frage, ob Arbeitgeber Minusstunden mit Ferientagen verrechnen dürfen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Sektor arbeitet der Partner des Hörers?</p>",
+      "options": [
+        {
+          "text": "Detailhandel",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer erwähnt, dass sein Partner im Service eines Restaurants arbeitet."
+        },
+        {
+          "text": "Gastgewerbe",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Gesundheitswesen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer erwähnt, dass sein Partner im Service eines Restaurants arbeitet."
+        },
+        {
+          "text": "Baugewerbe",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer erwähnt, dass sein Partner im Service eines Restaurants arbeitet."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Arbeitgeber darf Minusstunden immer mit den Ferientagen verrechnen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Arbeitgeber darf Minusstunden nur unter bestimmten Bedingungen, wie z.B. bei Vorkompensation, mit Ferientagen verrechnen.",
+      "feedback_incorrect": "❌ Richtig. Der Arbeitgeber darf Minusstunden nur unter bestimmten Bedingungen, wie z.B. bei Vorkompensation, mit Ferientagen verrechnen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Vorkompensation bedeutet, dass der Arbeitnehmer in einer Woche weniger arbeitet und in der nächsten Woche mehr.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Vorkompensation dient dazu, Minusstunden auszugleichen.",
+      "feedback_incorrect": "❌ Falsch. Die Vorkompensation dient dazu, Minusstunden auszugleichen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange kann der Partner des Hörers seine Ansprüche geltend machen?</p>",
+      "options": [
+        {
+          "text": "2 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ansprüche aus dem Arbeitsverhältnis verjähren erst nach fünf Jahren."
+        },
+        {
+          "text": "3 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ansprüche aus dem Arbeitsverhältnis verjähren erst nach fünf Jahren."
+        },
+        {
+          "text": "5 Jahre",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "10 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ansprüche aus dem Arbeitsverhältnis verjähren erst nach fünf Jahren."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist KEIN Beispiel für eine Situation, die zu Minusstunden führen kann?</p>",
+      "options": [
+        {
+          "text": "Krankheit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Überstundenabbau führt zu weniger Arbeitszeit, aber nicht zu Minusstunden."
+        },
+        {
+          "text": "Kurzarbeit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Überstundenabbau führt zu weniger Arbeitszeit, aber nicht zu Minusstunden."
+        },
+        {
+          "text": "Überstundenabbau",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Betriebsferien",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Überstundenabbau führt zu weniger Arbeitszeit, aber nicht zu Minusstunden."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Partner des Hörers hat sich beim Arbeitgeber beschwert.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Im Text steht, dass der Partner des Hörers keine \"Lämpen\" will und sich deshalb nicht wehrt.",
+      "feedback_incorrect": "❌ Richtig. Im Text steht, dass der Partner des Hörers keine \"Lämpen\" will und sich deshalb nicht wehrt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Expertin im Beitrag rät dem Partner des Hörers, die Ferientage am Ende des Arbeitsverhältnisses zurückzufordern.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Gabriela Baumgartner rät dazu, die Ansprüche nach Beendigung des Arbeitsverhältnisses geltend zu machen.",
+      "feedback_incorrect": "❌ Falsch. Gabriela Baumgartner rät dazu, die Ansprüche nach Beendigung des Arbeitsverhältnisses geltend zu machen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Gesamtarbeitsvertrag?</p>",
+      "options": [
+        {
+          "text": "Ein Vertrag zwischen einem einzelnen Arbeitnehmer und dem Arbeitgeber.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein GAV regelt die Arbeitsbedingungen für eine ganze Branche."
+        },
+        {
+          "text": "Ein Vertrag zwischen allen Arbeitnehmern eines Betriebs und dem Arbeitgeber.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein GAV regelt die Arbeitsbedingungen für eine ganze Branche."
+        },
+        {
+          "text": "Ein Vertrag zwischen einer Gewerkschaft und dem Arbeitgeberverband.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ein Vertrag zwischen dem Staat und den Arbeitgebern.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein GAV regelt die Arbeitsbedingungen für eine ganze Branche."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Recht schützt den Arbeitnehmer vor ungerechtfertigten Abzügen vom Lohn?</p>",
+      "options": [
+        {
+          "text": "Mietrecht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Arbeitsrecht regelt die Rechte und Pflichten von Arbeitnehmern und Arbeitgebern."
+        },
+        {
+          "text": "Strafrecht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Arbeitsrecht regelt die Rechte und Pflichten von Arbeitnehmern und Arbeitgebern."
+        },
+        {
+          "text": "Arbeitsrecht",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Verfassungsrecht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Arbeitsrecht regelt die Rechte und Pflichten von Arbeitnehmern und Arbeitgebern."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Minusstunden entstehen, wenn der Arbeitnehmer weniger arbeitet als vertraglich vereinbart.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Minusstunden bedeuten, dass der Arbeitnehmer dem Arbeitgeber Arbeitszeit \"schuldet\".",
+      "feedback_incorrect": "❌ Falsch. Minusstunden bedeuten, dass der Arbeitnehmer dem Arbeitgeber Arbeitszeit \"schuldet\"."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Radiobeitrag erwähnt die Corona-Erwerbsausfallentschädigung als Beispiel für Minusstunden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Kurzarbeitsentschädigung wurde erwähnt, aber nicht als Beispiel für Minusstunden.",
+      "feedback_incorrect": "❌ Richtig. Die Kurzarbeitsentschädigung wurde erwähnt, aber nicht als Beispiel für Minusstunden."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Sender hat den Beitrag ausgestrahlt?</p>",
+      "options": [
+        {
+          "text": "SRF 1",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag stammt von der Sendung Kassensturz-Espresso."
+        },
+        {
+          "text": "SRF 2 Kultur",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag stammt von der Sendung Kassensturz-Espresso."
+        },
+        {
+          "text": "SRF 3",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag stammt von der Sendung Kassensturz-Espresso."
+        },
+        {
+          "text": "SRF Kassensturz-Espresso",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Aus welchem Kanton stammt der Hörer?</p>",
+      "options": [
+        {
+          "text": "Zürich",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Bern",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Text wird erwähnt, dass der Hörer aus dem Kanton Zürich stammt."
+        },
+        {
+          "text": "Basel",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Text wird erwähnt, dass der Hörer aus dem Kanton Zürich stammt."
+        },
+        {
+          "text": "St. Gallen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Text wird erwähnt, dass der Hörer aus dem Kanton Zürich stammt."
+        }
+      ]
+    }
+  ]
+}

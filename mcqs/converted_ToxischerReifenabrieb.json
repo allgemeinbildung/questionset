@@ -1,0 +1,255 @@
+{
+  "title": "ToxischerReifenabrieb",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist laut Bericht die Hauptquelle von Mikroplastik in der Schweiz?</p>",
+      "options": [
+        {
+          "text": "Reifenabrieb",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Plastikverpackungen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Bericht der EMPA zeigt, dass Reifenabrieb für 90% des Mikroplastiks verantwortlich ist."
+        },
+        {
+          "text": "Textilien",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Bericht der EMPA zeigt, dass Reifenabrieb für 90% des Mikroplastiks verantwortlich ist."
+        },
+        {
+          "text": "Kosmetikprodukte",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Bericht der EMPA zeigt, dass Reifenabrieb für 90% des Mikroplastiks verantwortlich ist."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie gelangt der Reifenabrieb in die Umwelt?</p>",
+      "options": [
+        {
+          "text": "Über die Luft",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Reifenabrieb kann über die Luft, das Abwasser und den Boden in die Umwelt gelangen."
+        },
+        {
+          "text": "Über das Abwasser",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Reifenabrieb kann über die Luft, das Abwasser und den Boden in die Umwelt gelangen."
+        },
+        {
+          "text": "Über den Boden",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Reifenabrieb kann über die Luft, das Abwasser und den Boden in die Umwelt gelangen."
+        },
+        {
+          "text": "Alle genannten Möglichkeiten",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Mikroplastik von Reifen ist ungefährlich für Mensch und Umwelt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Mikroplastik kann über die Nahrungskette oder Atemwege in den menschlichen Körper gelangen und gesundheitsschädlich sein. Auch für Lebewesen in Gewässern ist es schädlich.",
+      "feedback_incorrect": "❌ Richtig. Mikroplastik kann über die Nahrungskette oder Atemwege in den menschlichen Körper gelangen und gesundheitsschädlich sein. Auch für Lebewesen in Gewässern ist es schädlich."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Gewicht des Autos hat keinen Einfluss auf die Menge des Reifenabriebs.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Schwerere Autos verursachen mehr Reifenabrieb.",
+      "feedback_incorrect": "❌ Richtig. Schwerere Autos verursachen mehr Reifenabrieb."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Massnahme wird im Beitrag NICHT zur Reduzierung von Reifenabrieb genannt?</p>",
+      "options": [
+        {
+          "text": "Leichtere Autos kaufen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Waschen der Reifen wird im Beitrag nicht als Massnahme genannt."
+        },
+        {
+          "text": "Gleichmässig fahren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Waschen der Reifen wird im Beitrag nicht als Massnahme genannt."
+        },
+        {
+          "text": "Reifen regelmässig waschen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Absetzbecken ausbauen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Waschen der Reifen wird im Beitrag nicht als Massnahme genannt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Anteil des Mikroplastiks landet gemäss Bericht in Gewässern?</p>",
+      "options": [
+        {
+          "text": "10%",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Laut Bericht landen ca. 30% des Mikroplastiks in Gewässern."
+        },
+        {
+          "text": "30%",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "60%",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Laut Bericht landen ca. 30% des Mikroplastiks in Gewässern."
+        },
+        {
+          "text": "90%",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Laut Bericht landen ca. 30% des Mikroplastiks in Gewässern."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Anteil des Mikroplastiks landet gemäss Bericht in Böden?</p>",
+      "options": [
+        {
+          "text": "10%",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Laut Bericht landen ca. 45% des Mikroplastiks in Böden."
+        },
+        {
+          "text": "30%",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Laut Bericht landen ca. 45% des Mikroplastiks in Böden."
+        },
+        {
+          "text": "45%",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "90%",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Laut Bericht landen ca. 45% des Mikroplastiks in Böden."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die EU arbeitet an neuen Schadstoffnormen für Reifenabrieb.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die EU plant die Einführung neuer Schadstoffnormen, die auch den Reifenabrieb berücksichtigen.",
+      "feedback_incorrect": "❌ Falsch. Die EU plant die Einführung neuer Schadstoffnormen, die auch den Reifenabrieb berücksichtigen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Es gibt bereits eine standardisierte Messmethode für Reifenabrieb.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Es gibt noch keine standardisierte und international anerkannte Messmethode für Reifenabrieb.",
+      "feedback_incorrect": "❌ Richtig. Es gibt noch keine standardisierte und international anerkannte Messmethode für Reifenabrieb."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Bereich liegt der Grossteil des Reifenabriebs?</p>",
+      "options": [
+        {
+          "text": "Nanometerbereich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Grossteil des Abriebs ist im Millimeterbereich und landet in der Umwelt."
+        },
+        {
+          "text": "Mikrometerbereich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Grossteil des Abriebs ist im Millimeterbereich und landet in der Umwelt."
+        },
+        {
+          "text": "Millimeterbereich",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Zentimeterbereich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Grossteil des Abriebs ist im Millimeterbereich und landet in der Umwelt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange dauert es voraussichtlich, bis die EU Grenzwerte für Reifenabrieb festlegt?</p>",
+      "options": [
+        {
+          "text": "1 Jahr",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Experten schätzen, dass es noch ca. 5 Jahre dauert, bis die EU Grenzwerte festlegt."
+        },
+        {
+          "text": "3 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Experten schätzen, dass es noch ca. 5 Jahre dauert, bis die EU Grenzwerte festlegt."
+        },
+        {
+          "text": "5 Jahre",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "10 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Experten schätzen, dass es noch ca. 5 Jahre dauert, bis die EU Grenzwerte festlegt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Reifenabrieb gelangt über die Abwasserreinigung ins Meer.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Ein Teil des Reifenabriebs wird zwar in Kläranlagen zurückgehalten, ein anderer Teil gelangt aber dennoch über das Abwasser ins Meer.",
+      "feedback_incorrect": "❌ Falsch. Ein Teil des Reifenabriebs wird zwar in Kläranlagen zurückgehalten, ein anderer Teil gelangt aber dennoch über das Abwasser ins Meer."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Reifen mit geringerem Abrieb sind in der Entwicklung.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Es gibt bereits Reifen mit geringerem Abrieb, die bis zu einem Drittel weniger Mikroplastik produzieren.",
+      "feedback_incorrect": "❌ Falsch. Es gibt bereits Reifen mit geringerem Abrieb, die bis zu einem Drittel weniger Mikroplastik produzieren."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ozonschutzmittel in Reifen sind schädlich für Wasserlebewesen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Ozonschutzmittel in Reifen haben sich als schädlich für Wasserlebewesen erwiesen.",
+      "feedback_incorrect": "❌ Falsch. Ozonschutzmittel in Reifen haben sich als schädlich für Wasserlebewesen erwiesen."
+    }
+  ]
+}

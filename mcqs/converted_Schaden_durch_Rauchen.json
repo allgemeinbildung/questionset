@@ -1,0 +1,236 @@
+{
+  "title": "Schaden_durch_Rauchen",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum verlangte der Vermieter Geld von den Angehörigen der Mieterin?</p>",
+      "options": [
+        {
+          "text": "Wegen Schäden am Parkettboden",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Mieterin rauchte in der Wohnung, was zu Nikotinablagerungen an den Wänden führte."
+        },
+        {
+          "text": "Wegen eines Wasserschadens",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Mieterin rauchte in der Wohnung, was zu Nikotinablagerungen an den Wänden führte."
+        },
+        {
+          "text": "Wegen Nikotinrückständen an den Wänden",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Wegen nicht gezahlter Miete",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Mieterin rauchte in der Wohnung, was zu Nikotinablagerungen an den Wänden führte."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Spezialanstrich/Nikotinsperre?</p>",
+      "options": [
+        {
+          "text": "Eine besonders teure Farbe",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Nikotinsperre verhindert, dass Nikotinrückstände durch die neue Farbschicht durchdringen."
+        },
+        {
+          "text": "Ein Anstrich, der Nikotinrückstände überdeckt",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Nikotinsperre verhindert, dass Nikotinrückstände durch die neue Farbschicht durchdringen."
+        },
+        {
+          "text": "Ein Anstrich, der das Durchdringen von Nikotin verhindert",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ein Anstrich, der die Wohnung schöner macht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Nikotinsperre verhindert, dass Nikotinrückstände durch die neue Farbschicht durchdringen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Angehörigen müssen die gesamten Renovierungskosten übernehmen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Sie müssen nur die Kosten für den Spezialanstrich übernehmen, nicht die allgemeinen Renovierungskosten nach 23 Jahren Mietdauer.",
+      "feedback_incorrect": "❌ Richtig. Sie müssen nur die Kosten für den Spezialanstrich übernehmen, nicht die allgemeinen Renovierungskosten nach 23 Jahren Mietdauer."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Haftpflichtversicherung übernimmt die Kosten für den Spezialanstrich.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Haftpflichtversicherung deckt keine Schäden, die bewusst in Kauf genommen wurden, wie die Nikotinablagerungen durch Rauchen.",
+      "feedback_incorrect": "❌ Richtig. Die Haftpflichtversicherung deckt keine Schäden, die bewusst in Kauf genommen wurden, wie die Nikotinablagerungen durch Rauchen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wann darf der Vermieter Kosten vom Mietdepot abziehen?</p>",
+      "options": [
+        {
+          "text": "Sobald die Wohnung leer ist",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter benötigt die finalen Rechnungen, um die Kosten vom Depot abziehen zu dürfen."
+        },
+        {
+          "text": "Nach der Besichtigung der Wohnung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter benötigt die finalen Rechnungen, um die Kosten vom Depot abziehen zu dürfen."
+        },
+        {
+          "text": "Wenn er einen Kostenvoranschlag hat",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter benötigt die finalen Rechnungen, um die Kosten vom Depot abziehen zu dürfen."
+        },
+        {
+          "text": "Wenn die Renovierung abgeschlossen ist und die Rechnungen vorliegen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sind typische Beispiele für normale Abnutzung?</p>",
+      "options": [
+        {
+          "text": "Abgelöste Tapeten durch Haustiere",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Leichte Kratzer im Parkett sind nach längerer Mietdauer üblich und gelten als normale Abnutzung."
+        },
+        {
+          "text": "Ein Brandfleck im Teppich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Leichte Kratzer im Parkett sind nach längerer Mietdauer üblich und gelten als normale Abnutzung."
+        },
+        {
+          "text": "Leichte Kratzer im Parkett",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ein Loch in der Wand",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Leichte Kratzer im Parkett sind nach längerer Mietdauer üblich und gelten als normale Abnutzung."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Rauchen in der Wohnung ist grundsätzlich verboten.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Rauchen in der Wohnung ist nicht per se verboten, kann aber zu Kosten für die Beseitigung von Nikotinrückständen führen.",
+      "feedback_incorrect": "❌ Richtig. Rauchen in der Wohnung ist nicht per se verboten, kann aber zu Kosten für die Beseitigung von Nikotinrückständen führen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Vermieter muss die Wohnung nach jedem Auszug renovieren.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Vermieter muss die Wohnung nur nach einer bestimmten Mietdauer oder bei übermässiger Abnutzung renovieren.",
+      "feedback_incorrect": "❌ Richtig. Der Vermieter muss die Wohnung nur nach einer bestimmten Mietdauer oder bei übermässiger Abnutzung renovieren."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welchen Tipp gab die Rechtsexpertin der Hörerin?</p>",
+      "options": [
+        {
+          "text": "Sie soll die Wohnung selbst renovieren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin sollte die Rechnungen prüfen, um sicherzustellen, dass nur die Kosten für den Spezialanstrich verrechnet werden."
+        },
+        {
+          "text": "Sie soll die Rechnungen des Vermieters kontrollieren",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie soll sich an einen Anwalt wenden",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin sollte die Rechnungen prüfen, um sicherzustellen, dass nur die Kosten für den Spezialanstrich verrechnet werden."
+        },
+        {
+          "text": "Sie soll die Kosten einfach bezahlen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin sollte die Rechnungen prüfen, um sicherzustellen, dass nur die Kosten für den Spezialanstrich verrechnet werden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Fall zahlt die Haftpflichtversicherung?</p>",
+      "options": [
+        {
+          "text": "Bei Schäden durch Absicht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Haftpflichtversicherung deckt Schäden ab, die durch Unachtsamkeit verursacht wurden."
+        },
+        {
+          "text": "Bei Schäden durch Unachtsamkeit",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Bei Schäden durch normale Abnutzung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Haftpflichtversicherung deckt Schäden ab, die durch Unachtsamkeit verursacht wurden."
+        },
+        {
+          "text": "Bei Schäden durch höhere Gewalt",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Haftpflichtversicherung deckt Schäden ab, die durch Unachtsamkeit verursacht wurden."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Vermieter darf die Kosten für den Spezialanstrich nur auf Basis eines Kostenvoranschlags vom Depot abziehen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Er benötigt die effektiven Rechnungen nach Abschluss der Renovierung.",
+      "feedback_incorrect": "❌ Richtig. Er benötigt die effektiven Rechnungen nach Abschluss der Renovierung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Nikotinrückstände an den Wänden gelten als normale Abnutzung.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Nikotinrückstände gelten als Schaden, der durch das Verhalten des Mieters verursacht wurde.",
+      "feedback_incorrect": "❌ Richtig. Nikotinrückstände gelten als Schaden, der durch das Verhalten des Mieters verursacht wurde."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Regelmässiges Lüften kann helfen, Nikotinablagerungen zu reduzieren.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Lüften hilft, die Nikotinablagerungen zu minimieren.",
+      "feedback_incorrect": "❌ Falsch. Lüften hilft, die Nikotinablagerungen zu minimieren."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Es ist ratsam, vor dem Einzug mit dem Vermieter über die Rauchgewohnheiten zu sprechen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Eine offene Kommunikation mit dem Vermieter kann spätere Konflikte vermeiden.",
+      "feedback_incorrect": "❌ Falsch. Eine offene Kommunikation mit dem Vermieter kann spätere Konflikte vermeiden."
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "title": "Betreibung_Zalando",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was war der Hauptgrund für die Betreibung?</p>",
+      "options": [
+        {
+          "text": "Ein gestohlenes Paket",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Zalando behauptete, das Paket sei leer zurückgekommen."
+        },
+        {
+          "text": "Ein leeres zurückgeschicktes Paket",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Unbezahlte Rechnungen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Zalando behauptete, das Paket sei leer zurückgekommen."
+        },
+        {
+          "text": "Falscher Adressat",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Zalando behauptete, das Paket sei leer zurückgekommen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Nachweise sammelte Selina Philipp?</p>",
+      "options": [
+        {
+          "text": "Einen Zahlungsbeleg",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beleg zeigte das Gewicht des zurückgesandten Pakets."
+        },
+        {
+          "text": "Einen Gewichtsbeleg der Post",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Fotos des Pakets",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beleg zeigte das Gewicht des zurückgesandten Pakets."
+        },
+        {
+          "text": "E-Mails von Zalando",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beleg zeigte das Gewicht des zurückgesandten Pakets."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Folgen hätte die Betreibung haben können?</p>",
+      "options": [
+        {
+          "text": "Gefängnisstrafe",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Betreibung kann die Bonität beeinträchtigen."
+        },
+        {
+          "text": "Schlechte Bonität",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Mehr Mahnungen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Betreibung kann die Bonität beeinträchtigen."
+        },
+        {
+          "text": "Keine Konsequenzen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Betreibung kann die Bonität beeinträchtigen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum wurde der Fall letztlich gelöst?</p>",
+      "options": [
+        {
+          "text": "Zalando bot eine Entschädigung an",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Medien machten den Fall öffentlich und setzten Zalando unter Druck."
+        },
+        {
+          "text": "Medienintervention",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Kundin zahlte die Rechnung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Medien machten den Fall öffentlich und setzten Zalando unter Druck."
+        },
+        {
+          "text": "Die Post übernahm die Verantwortung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Medien machten den Fall öffentlich und setzten Zalando unter Druck."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Empfehlung gibt der Beitrag bei solchen Problemen?</p>",
+      "options": [
+        {
+          "text": "Sofort zahlen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag rät, sich mit Nachweisen gegen falsche Forderungen zu wehren."
+        },
+        {
+          "text": "Sich wehren und Beweise sichern",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Angelegenheit ignorieren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag rät, sich mit Nachweisen gegen falsche Forderungen zu wehren."
+        },
+        {
+          "text": "Nur mit Anwälten kommunizieren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag rät, sich mit Nachweisen gegen falsche Forderungen zu wehren."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was war der Hauptgrund für die Betreibung?</p>",
+      "options": [
+        {
+          "text": "Ein gestohlenes Paket",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Zalando behauptete, das Paket sei leer zurückgekommen."
+        },
+        {
+          "text": "Ein leeres zurückgeschicktes Paket",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Unbezahlte Rechnungen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Zalando behauptete, das Paket sei leer zurückgekommen."
+        },
+        {
+          "text": "Falscher Adressat",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Zalando behauptete, das Paket sei leer zurückgekommen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Nachweise sammelte Selina Philipp?</p>",
+      "options": [
+        {
+          "text": "Einen Zahlungsbeleg",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beleg zeigte das Gewicht des zurückgesandten Pakets."
+        },
+        {
+          "text": "Einen Gewichtsbeleg der Post",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Fotos des Pakets",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beleg zeigte das Gewicht des zurückgesandten Pakets."
+        },
+        {
+          "text": "E-Mails von Zalando",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beleg zeigte das Gewicht des zurückgesandten Pakets."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Folgen hätte die Betreibung haben können?</p>",
+      "options": [
+        {
+          "text": "Gefängnisstrafe",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Betreibung kann die Bonität beeinträchtigen."
+        },
+        {
+          "text": "Schlechte Bonität",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Mehr Mahnungen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Betreibung kann die Bonität beeinträchtigen."
+        },
+        {
+          "text": "Keine Konsequenzen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Betreibung kann die Bonität beeinträchtigen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum wurde der Fall letztlich gelöst?</p>",
+      "options": [
+        {
+          "text": "Zalando bot eine Entschädigung an",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Medien machten den Fall öffentlich und setzten Zalando unter Druck."
+        },
+        {
+          "text": "Medienintervention",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Kundin zahlte die Rechnung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Medien machten den Fall öffentlich und setzten Zalando unter Druck."
+        },
+        {
+          "text": "Die Post übernahm die Verantwortung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Medien machten den Fall öffentlich und setzten Zalando unter Druck."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Empfehlung gibt der Beitrag bei solchen Problemen?</p>",
+      "options": [
+        {
+          "text": "Sofort zahlen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag rät, sich mit Nachweisen gegen falsche Forderungen zu wehren."
+        },
+        {
+          "text": "Sich wehren und Beweise sichern",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Angelegenheit ignorieren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag rät, sich mit Nachweisen gegen falsche Forderungen zu wehren."
+        },
+        {
+          "text": "Nur mit Anwälten kommunizieren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag rät, sich mit Nachweisen gegen falsche Forderungen zu wehren."
+        }
+      ]
+    }
+  ]
+}

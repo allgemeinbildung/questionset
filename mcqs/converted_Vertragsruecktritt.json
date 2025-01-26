@@ -1,0 +1,142 @@
+{
+  "title": "Vertragsruecktritt",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum wollte Monika Schnebeli vom Vertrag zurücktreten?</p>",
+      "options": [
+        {
+          "text": "Sie hatte den Vertrag versehentlich unterschrieben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass ihr nachträglich klar wurde, dass ihr der Eintrag nichts bringt."
+        },
+        {
+          "text": "Das Branchenverzeichnis war zu teuer.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass ihr nachträglich klar wurde, dass ihr der Eintrag nichts bringt."
+        },
+        {
+          "text": "Sie erkannte, dass der Eintrag ihr keinen Nutzen bringt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie hatte ein besseres Angebot von einem anderen Anbieter erhalten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass ihr nachträglich klar wurde, dass ihr der Eintrag nichts bringt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was war die Begründung des Verkäufers, warum Frau Schnebeli nicht zurücktreten konnte?</p>",
+      "options": [
+        {
+          "text": "Sie hatte die Widerrufsfrist verpasst.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Verkäufer argumentierte, dass nur Privatpersonen ein Widerrufsrecht hätten."
+        },
+        {
+          "text": "Der Vertrag war bereits in Kraft getreten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Verkäufer argumentierte, dass nur Privatpersonen ein Widerrufsrecht hätten."
+        },
+        {
+          "text": "Sie hatte als Geschäftsinhaberin kein Widerrufsrecht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie hatte die AGBs akzeptiert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Verkäufer argumentierte, dass nur Privatpersonen ein Widerrufsrecht hätten."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Frau Schnebeli hat die Möglichkeit, durch Zahlung eines Reuegeldes aus dem Vertrag auszusteigen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Im Beitrag wird die Möglichkeit einer Ausstiegsklausel mit Reuegeld erwähnt.",
+      "feedback_incorrect": "❌ Falsch. Im Beitrag wird die Möglichkeit einer Ausstiegsklausel mit Reuegeld erwähnt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Widerrufsrecht besteht immer, unabhängig vom Kaufbetrag.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Ein Widerrufsrecht besteht nicht bei Beträgen unter 100 Franken.",
+      "feedback_incorrect": "❌ Richtig. Ein Widerrufsrecht besteht nicht bei Beträgen unter 100 Franken."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Fall hat man kein Widerrufsrecht?</p>",
+      "options": [
+        {
+          "text": "Beim Kauf eines Produkts im Internet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Käufe an Messen oder Verkaufsveranstaltungen sind vom Widerrufsrecht ausgeschlossen."
+        },
+        {
+          "text": "Beim Kauf eines Produkts an einer Messe.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Beim Kauf eines Produkts im privaten Gebrauch.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Käufe an Messen oder Verkaufsveranstaltungen sind vom Widerrufsrecht ausgeschlossen."
+        },
+        {
+          "text": "Beim Kauf eines Produkts über 100 Franken.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Käufe an Messen oder Verkaufsveranstaltungen sind vom Widerrufsrecht ausgeschlossen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange hat man Zeit, um vom Vertrag zurückzutreten, wenn ein Widerrufsrecht besteht?</p>",
+      "options": [
+        {
+          "text": "7 Tage",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Widerrufsfrist beträgt 14 Tage."
+        },
+        {
+          "text": "10 Tage",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Widerrufsfrist beträgt 14 Tage."
+        },
+        {
+          "text": "14 Tage",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "30 Tage",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Widerrufsfrist beträgt 14 Tage."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wenn man den Verkäufer zu sich nach Hause einlädt, hat man kein Widerrufsrecht.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Wer den Verkäufer einlädt, kann sich nicht auf Überrumpelung berufen.",
+      "feedback_incorrect": "❌ Falsch. Wer den Verkäufer einlädt, kann sich nicht auf Überrumpelung berufen."
+    }
+  ]
+}

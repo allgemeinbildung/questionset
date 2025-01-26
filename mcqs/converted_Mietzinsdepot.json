@@ -1,0 +1,274 @@
+{
+  "title": "Mietzinsdepot",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum verlangt die neue Verwaltung von der Tochter ein Mietzinsdepot?</p>",
+      "options": [
+        {
+          "text": "Weil sie die Miete zu spät bezahlt hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird nicht explizit erwähnt, warum die neue Verwaltung ein Depot verlangt."
+        },
+        {
+          "text": "Weil die Wohnung renoviert werden muss.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird nicht explizit erwähnt, warum die neue Verwaltung ein Depot verlangt."
+        },
+        {
+          "text": "Weil es eine übliche Praxis bei einem Verwaltungswechsel ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird nicht explizit erwähnt, warum die neue Verwaltung ein Depot verlangt."
+        },
+        {
+          "text": "Es wird kein Grund im Beitrag genannt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was bedeutet es, dass die Forderung eines Depots \"verhältnismässig\" sein muss?</p>",
+      "options": [
+        {
+          "text": "Das Depot darf maximal drei Monatsmieten betragen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein verhältnismässiges Depot steht im Zusammenhang mit dem Risiko, dass der Mieter seinen Verpflichtungen nicht nachkommt."
+        },
+        {
+          "text": "Das Depot muss im Verhältnis zum Mietpreis stehen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein verhältnismässiges Depot steht im Zusammenhang mit dem Risiko, dass der Mieter seinen Verpflichtungen nicht nachkommt."
+        },
+        {
+          "text": "Das Depot muss im Verhältnis zum Risiko stehen, das der Vermieter mit dem Mieter hat.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Das Depot muss vom Mieter ohne Schwierigkeiten bezahlt werden können.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein verhältnismässiges Depot steht im Zusammenhang mit dem Risiko, dass der Mieter seinen Verpflichtungen nicht nachkommt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Vermieter darf jederzeit während des Mietverhältnisses ein Depot verlangen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Ein Vermieter darf auch nachträglich ein Depot verlangen, muss aber die gesetzlichen Vorgaben beachten.",
+      "feedback_incorrect": "❌ Falsch. Ein Vermieter darf auch nachträglich ein Depot verlangen, muss aber die gesetzlichen Vorgaben beachten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Studentin muss das Depot sofort bezahlen, wenn die Verwaltung es verlangt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Studentin kann die Forderung anfechten, wenn sie sie für unzumutbar hält.",
+      "feedback_incorrect": "❌ Richtig. Die Studentin kann die Forderung anfechten, wenn sie sie für unzumutbar hält."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>An wen kann sich die Studentin wenden, wenn sie mit der Forderung des Vermieters nicht einverstanden ist?</p>",
+      "options": [
+        {
+          "text": "An den Mieterverband.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Mietschlichtungsstelle ist die richtige Anlaufstelle bei Streitigkeiten zwischen Mietern und Vermietern."
+        },
+        {
+          "text": "An die Polizei.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Mietschlichtungsstelle ist die richtige Anlaufstelle bei Streitigkeiten zwischen Mietern und Vermietern."
+        },
+        {
+          "text": "An die Mietschlichtungsstelle.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "An das Betreibungsamt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Mietschlichtungsstelle ist die richtige Anlaufstelle bei Streitigkeiten zwischen Mietern und Vermietern."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welchen Vorteil hat ein Verfahren bei der Mietschlichtungsstelle für die Mieterin?</p>",
+      "options": [
+        {
+          "text": "Es ist kostenlos.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Kündigungsschutz ist ein wichtiger Vorteil, der Mieter vor einer Rachekündigung schützt."
+        },
+        {
+          "text": "Sie erhält einen Kündigungsschutz für drei Jahre, wenn sie gewinnt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Der Vermieter muss die Verfahrenskosten übernehmen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Kündigungsschutz ist ein wichtiger Vorteil, der Mieter vor einer Rachekündigung schützt."
+        },
+        {
+          "text": "Sie kann die Miete während des Verfahrens reduzieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Kündigungsschutz ist ein wichtiger Vorteil, der Mieter vor einer Rachekündigung schützt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Nathalie Redmanns Tochter hatte Glück, dass sie bei Mietbeginn kein Depot hinterlegen musste.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Es ist nicht selbstverständlich, dass man bei Mietbeginn kein Depot hinterlegen muss.",
+      "feedback_incorrect": "❌ Falsch. Es ist nicht selbstverständlich, dass man bei Mietbeginn kein Depot hinterlegen muss."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Mietzinsdepot dient dem Vermieter als zusätzliche Einnahmequelle.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Das Depot dient als Sicherheit für den Vermieter, nicht als Einnahmequelle.",
+      "feedback_incorrect": "❌ Richtig. Das Depot dient als Sicherheit für den Vermieter, nicht als Einnahmequelle."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Argument könnte die Studentin verwenden, um die Depotforderung anzufechten?</p>",
+      "options": [
+        {
+          "text": "Sie ist Studentin und hat nicht genügend Geld.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Alle genannten Punkte könnten Argumente gegen die Zumutbarkeit der Forderung sein."
+        },
+        {
+          "text": "Sie hat die Miete immer pünktlich bezahlt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Alle genannten Punkte könnten Argumente gegen die Zumutbarkeit der Forderung sein."
+        },
+        {
+          "text": "Sie wohnt schon zwei Jahre in der Wohnung ohne Probleme.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Alle genannten Punkte könnten Argumente gegen die Zumutbarkeit der Forderung sein."
+        },
+        {
+          "text": "Alle oben genannten Antworten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist die Aufgabe der Mietschlichtungsstelle?</p>",
+      "options": [
+        {
+          "text": "Sie entscheidet, ob der Vermieter die Wohnung kündigen darf.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Mietschlichtungsstelle prüft die Rechtmässigkeit der Forderung und versucht zu vermitteln."
+        },
+        {
+          "text": "Sie legt die Höhe des Mietzinsdepots fest.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Mietschlichtungsstelle prüft die Rechtmässigkeit der Forderung und versucht zu vermitteln."
+        },
+        {
+          "text": "Sie prüft, ob die Forderung des Vermieters rechtmässig ist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie vermittelt zwischen Mieter und Vermieter.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Mietschlichtungsstelle prüft die Rechtmässigkeit der Forderung und versucht zu vermitteln."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Verfahren bei der Mietschlichtungsstelle ist in der Regel kostenpflichtig.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Das Verfahren ist in der Regel kostenlos.",
+      "feedback_incorrect": "❌ Richtig. Das Verfahren ist in der Regel kostenlos."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Kündigungsschutz nach einem gewonnenen Verfahren bei der Mietschlichtungsstelle beträgt drei Jahre.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Kündigungsschutz von drei Jahren schützt den Mieter vor einer Rachekündigung.",
+      "feedback_incorrect": "❌ Falsch. Der Kündigungsschutz von drei Jahren schützt den Mieter vor einer Rachekündigung."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Mietzinsdepot?</p>",
+      "options": [
+        {
+          "text": "Eine zusätzliche Monatsmiete, die bei Vertragsabschluss fällig wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Depot dient als Sicherheit für den Vermieter, falls der Mieter seinen Verpflichtungen nicht nachkommt."
+        },
+        {
+          "text": "Eine Kaution, die als Sicherheit für den Vermieter dient.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Gebühr für die Verwaltung der Wohnung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Depot dient als Sicherheit für den Vermieter, falls der Mieter seinen Verpflichtungen nicht nachkommt."
+        },
+        {
+          "text": "Eine Versicherung für Schäden in der Wohnung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Depot dient als Sicherheit für den Vermieter, falls der Mieter seinen Verpflichtungen nicht nachkommt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Fall darf ein Vermieter das Mietzinsdepot verwenden?</p>",
+      "options": [
+        {
+          "text": "Für die Bezahlung von Nebenkosten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Depot darf nur für die Deckung von Mietrückständen oder Schäden in der Wohnung verwendet werden."
+        },
+        {
+          "text": "Für die Renovierung der Wohnung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Depot darf nur für die Deckung von Mietrückständen oder Schäden in der Wohnung verwendet werden."
+        },
+        {
+          "text": "Für die Deckung von Mietrückständen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Für die Begleichung von Verwaltungskosten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Depot darf nur für die Deckung von Mietrückständen oder Schäden in der Wohnung verwendet werden."
+        }
+      ]
+    }
+  ]
+}

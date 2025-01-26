@@ -1,0 +1,236 @@
+{
+  "title": "Umbau",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Darf der Vermieter während der Kündigungsfrist mit Umbauarbeiten in der Wohnung beginnen?</p>",
+      "options": [
+        {
+          "text": "Ja, immer.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter muss warten, bis der Mieter die Wohnung abgegeben hat."
+        },
+        {
+          "text": "Ja, mit Zustimmung des Mieters.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter muss warten, bis der Mieter die Wohnung abgegeben hat."
+        },
+        {
+          "text": "Nein, erst nach der Wohnungsabgabe.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Nein, ausser bei dringenden Reparaturen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter muss warten, bis der Mieter die Wohnung abgegeben hat."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Unter welcher Bedingung darf der Vermieter die Wohnung während der Kündigungsfrist betreten?</p>",
+      "options": [
+        {
+          "text": "Gar nicht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter muss Rücksicht auf den Mieter nehmen und einen geeigneten Termin vereinbaren."
+        },
+        {
+          "text": "Nur mit Zustimmung des Mieters.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Jederzeit, ohne Ankündigung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter muss Rücksicht auf den Mieter nehmen und einen geeigneten Termin vereinbaren."
+        },
+        {
+          "text": "Nur in Notfällen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter muss Rücksicht auf den Mieter nehmen und einen geeigneten Termin vereinbaren."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin muss die Umbauarbeiten während ihrer Kündigungsfrist dulden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Umbauarbeiten dürfen erst nach der Wohnungsabgabe durchgeführt werden.",
+      "feedback_incorrect": "❌ Richtig. Umbauarbeiten dürfen erst nach der Wohnungsabgabe durchgeführt werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Vermieter darf Handwerker in die Wohnung schicken, um die Umbauarbeiten zu planen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Vermieter darf die Wohnung betreten, um sie Handwerkern zu zeigen, muss aber Rücksicht auf den Mieter nehmen.",
+      "feedback_incorrect": "❌ Falsch. Der Vermieter darf die Wohnung betreten, um sie Handwerkern zu zeigen, muss aber Rücksicht auf den Mieter nehmen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist die Rechtslage bei Umbauarbeiten in Nebenräumen wie Keller oder Garage während der Kündigungsfrist?</p>",
+      "options": [
+        {
+          "text": "Sie sind immer erlaubt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Faktoren wie Lärm, Dreck und Dauer der Arbeiten spielen eine Rolle."
+        },
+        {
+          "text": "Sie sind verboten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Faktoren wie Lärm, Dreck und Dauer der Arbeiten spielen eine Rolle."
+        },
+        {
+          "text": "Es kommt auf die Umstände an.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Der Mieter muss sie dulden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Faktoren wie Lärm, Dreck und Dauer der Arbeiten spielen eine Rolle."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>An wen kann sich ein Mieter wenden, wenn er sich durch den Vermieter ungerecht behandelt fühlt?</p>",
+      "options": [
+        {
+          "text": "An die Polizei.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Mieterverband berät und unterstützt Mieter bei rechtlichen Fragen."
+        },
+        {
+          "text": "An den Vermieterverband.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Mieterverband berät und unterstützt Mieter bei rechtlichen Fragen."
+        },
+        {
+          "text": "An den Mieterverband.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ans Gericht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Mieterverband berät und unterstützt Mieter bei rechtlichen Fragen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Beitrag nennt den genauen Grund für den Auszug der Hörerin.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Beitrag erwähnt nur, dass die Hörerin gekündigt hat.",
+      "feedback_incorrect": "❌ Richtig. Der Beitrag erwähnt nur, dass die Hörerin gekündigt hat."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Vermieter muss den Mieter über geplante Umbauarbeiten informieren.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Vermieter muss den Mieter informieren und dessen Zustimmung einholen.",
+      "feedback_incorrect": "❌ Falsch. Der Vermieter muss den Mieter informieren und dessen Zustimmung einholen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches ist KEIN Schlüsselbegriff im Zusammenhang mit dem Radiobeitrag?</p>",
+      "options": [
+        {
+          "text": "Mietrecht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nebenkosten sind im Beitrag kein zentrales Thema."
+        },
+        {
+          "text": "Kündigung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nebenkosten sind im Beitrag kein zentrales Thema."
+        },
+        {
+          "text": "Umbau",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nebenkosten sind im Beitrag kein zentrales Thema."
+        },
+        {
+          "text": "Nebenkosten",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist das Hauptthema des Radiobeitrags?</p>",
+      "options": [
+        {
+          "text": "Die Höhe der Miete.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Zentrum steht die Frage, wann der Vermieter mit Umbauarbeiten beginnen darf."
+        },
+        {
+          "text": "Der Zeitpunkt von Umbauarbeiten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Kündigungsfrist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Zentrum steht die Frage, wann der Vermieter mit Umbauarbeiten beginnen darf."
+        },
+        {
+          "text": "Die Reinigung der Wohnung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Zentrum steht die Frage, wann der Vermieter mit Umbauarbeiten beginnen darf."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin hat ihre Wohnung per Ende Juni gekündigt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Hörerin hat ihre Wohnung per Ende Juni gekündigt.",
+      "feedback_incorrect": "❌ Falsch. Die Hörerin hat ihre Wohnung per Ende Juni gekündigt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Vermieter darf die Wohnung ohne Vorankündigung betreten.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Vermieter muss den Mieter informieren und dessen Zustimmung einholen.",
+      "feedback_incorrect": "❌ Richtig. Der Vermieter muss den Mieter informieren und dessen Zustimmung einholen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Lärm und Dreck durch Umbauarbeiten können für den Mieter relevant sein.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Lärm, Dreck und Dauer der Arbeiten sind Faktoren, die bei der Zulässigkeit von Umbauarbeiten in Nebenräumen berücksichtigt werden.",
+      "feedback_incorrect": "❌ Falsch. Lärm, Dreck und Dauer der Arbeiten sind Faktoren, die bei der Zulässigkeit von Umbauarbeiten in Nebenräumen berücksichtigt werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Mieter muss in jedem Fall den Handwerker in die Wohnung lassen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Mieter muss den Handwerker nur nach Absprache in die Wohnung lassen.",
+      "feedback_incorrect": "❌ Richtig. Der Mieter muss den Handwerker nur nach Absprache in die Wohnung lassen."
+    }
+  ]
+}

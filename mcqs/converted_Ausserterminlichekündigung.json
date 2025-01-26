@@ -1,0 +1,274 @@
+{
+  "title": "Ausserterminlichekündigung",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wann hat die Mieterin gekündigt?</p>",
+      "options": [
+        {
+          "text": "Im Frühling",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Mieterin hat im letzten Herbst gekündigt."
+        },
+        {
+          "text": "Im Sommer",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Mieterin hat im letzten Herbst gekündigt."
+        },
+        {
+          "text": "Im Herbst",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Im Winter",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Mieterin hat im letzten Herbst gekündigt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Auf welchen Zeitpunkt hat die Mieterin gekündigt?</p>",
+      "options": [
+        {
+          "text": "Ende Januar",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sie kündigte auf Ende Februar."
+        },
+        {
+          "text": "Ende Februar",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ende März",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sie kündigte auf Ende Februar."
+        },
+        {
+          "text": "Ende April",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sie kündigte auf Ende Februar."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Vermieter hat erst im Dezember einen Nachmieter gefunden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Vermieter fand bereits im November einen Nachmieter.",
+      "feedback_incorrect": "❌ Richtig. Der Vermieter fand bereits im November einen Nachmieter."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Mieterin muss die Miete für März nicht bezahlen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die beiden Parteien einigten sich darauf, dass die Mieterin die Märzmiete nicht bezahlen muss.",
+      "feedback_incorrect": "❌ Falsch. Die beiden Parteien einigten sich darauf, dass die Mieterin die Märzmiete nicht bezahlen muss."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was war das Problem in diesem Fall?</p>",
+      "options": [
+        {
+          "text": "Der Vermieter fand keinen Nachmieter.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dadurch hatte die Mieterin keine Chance mehr, selbst jemanden zu finden, der früher einziehen würde."
+        },
+        {
+          "text": "Die Mieterin fand keinen Nachmieter.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dadurch hatte die Mieterin keine Chance mehr, selbst jemanden zu finden, der früher einziehen würde."
+        },
+        {
+          "text": "Der Vermieter fand zu schnell einen Nachmieter.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Mieterin kündigte zu spät.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dadurch hatte die Mieterin keine Chance mehr, selbst jemanden zu finden, der früher einziehen würde."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was hätte der Vermieter besser machen sollen?</p>",
+      "options": [
+        {
+          "text": "Gar keinen Nachmieter suchen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. So hätte er der Mieterin die Möglichkeit gegeben, selbst einen Nachmieter zu suchen."
+        },
+        {
+          "text": "Mit der Mieterin Rücksprache halten, bevor er den Vertrag mit dem Nachmieter abschliesst.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Den Nachmieter erst auf Ende Februar einziehen lassen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. So hätte er der Mieterin die Möglichkeit gegeben, selbst einen Nachmieter zu suchen."
+        },
+        {
+          "text": "Die Mieterin für die Märzmiete belangen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. So hätte er der Mieterin die Möglichkeit gegeben, selbst einen Nachmieter zu suchen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Mieterin und der Vermieter mussten vor die Schlichtungsstelle.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Sie konnten sich aussergerichtlich einigen.",
+      "feedback_incorrect": "❌ Richtig. Sie konnten sich aussergerichtlich einigen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Vermieter hat in böser Absicht gehandelt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Es wird nicht erwähnt, dass er böse Absicht hatte. Er wollte lediglich schnell einen Nachmieter finden.",
+      "feedback_incorrect": "❌ Richtig. Es wird nicht erwähnt, dass er böse Absicht hatte. Er wollte lediglich schnell einen Nachmieter finden."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Recht hat ein Mieter bei ausserterminlicher Kündigung?</p>",
+      "options": [
+        {
+          "text": "Das Recht, die Wohnung sofort zu verlassen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Mieter hat das Recht, einen Nachmieter vorzuschlagen, um die Mietzahlungspflicht zu beenden."
+        },
+        {
+          "text": "Das Recht, die Miete nicht mehr zu bezahlen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Mieter hat das Recht, einen Nachmieter vorzuschlagen, um die Mietzahlungspflicht zu beenden."
+        },
+        {
+          "text": "Das Recht, einen Nachmieter vorzuschlagen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Das Recht, den Mietvertrag jederzeit zu kündigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Mieter hat das Recht, einen Nachmieter vorzuschlagen, um die Mietzahlungspflicht zu beenden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein offizieller Zügeltermin?</p>",
+      "options": [
+        {
+          "text": "Der 31. März",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird der 1. April als offizieller Zügeltermin genannt."
+        },
+        {
+          "text": "Der 1. April",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Der 30. Juni",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird der 1. April als offizieller Zügeltermin genannt."
+        },
+        {
+          "text": "Der 1. Oktober",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird der 1. April als offizieller Zügeltermin genannt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Vermieter ist verpflichtet, den ersten vorgeschlagenen Nachmieter zu akzeptieren.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Vermieter hat das Recht, einen Nachmieter abzulehnen, wenn triftige Gründe vorliegen.",
+      "feedback_incorrect": "❌ Richtig. Der Vermieter hat das Recht, einen Nachmieter abzulehnen, wenn triftige Gründe vorliegen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Mieterin hat sich bei der Schlichtungsstelle gemeldet.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Mieterin und der Vermieter konnten sich aussergerichtlich einigen, ein Gang vor die Schlichtungsstelle war nicht nötig.",
+      "feedback_incorrect": "❌ Richtig. Die Mieterin und der Vermieter konnten sich aussergerichtlich einigen, ein Gang vor die Schlichtungsstelle war nicht nötig."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Kanton wohnt der Vermieter?</p>",
+      "options": [
+        {
+          "text": "Nidwalden",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Obwalden",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter wohnt in Ennettbürgen im Kanton Nidwalden."
+        },
+        {
+          "text": "Uri",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter wohnt in Ennettbürgen im Kanton Nidwalden."
+        },
+        {
+          "text": "Schwyz",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter wohnt in Ennettbürgen im Kanton Nidwalden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Von wem stammt die E-Mail, die im Beitrag vorgelesen wird?</p>",
+      "options": [
+        {
+          "text": "Von der Mieterin",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Mail stammt von Severin Achermann, dem Vermieter."
+        },
+        {
+          "text": "Vom Vermieter",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Von der Schlichtungsstelle",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Mail stammt von Severin Achermann, dem Vermieter."
+        },
+        {
+          "text": "Von einem Anwalt",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Mail stammt von Severin Achermann, dem Vermieter."
+        }
+      ]
+    }
+  ]
+}

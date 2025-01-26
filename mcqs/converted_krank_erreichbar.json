@@ -1,0 +1,142 @@
+{
+  "title": "krank_erreichbar",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Darf die Chefin verlangen, dass die kranke Mitarbeiterin während ihrer Krankmeldung dienstliche E-Mails beantwortet?</p>",
+      "options": [
+        {
+          "text": "Ja, immer.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine kranke Mitarbeiterin muss sich erholen und nicht arbeiten. Daher darf die Chefin grundsätzlich nicht verlangen, dass sie während ihrer Krankmeldung dienstliche E-Mails beantwortet."
+        },
+        {
+          "text": "Ja, wenn es sich um eine dringende Angelegenheit handelt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine kranke Mitarbeiterin muss sich erholen und nicht arbeiten. Daher darf die Chefin grundsätzlich nicht verlangen, dass sie während ihrer Krankmeldung dienstliche E-Mails beantwortet."
+        },
+        {
+          "text": "Nein, grundsätzlich nicht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Nein, ausser die Mitarbeiterin hat sich dazu bereit erklärt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine kranke Mitarbeiterin muss sich erholen und nicht arbeiten. Daher darf die Chefin grundsätzlich nicht verlangen, dass sie während ihrer Krankmeldung dienstliche E-Mails beantwortet."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was gehört zur Treuepflicht der Mitarbeiterin im Krankheitsfall?</p>",
+      "options": [
+        {
+          "text": "Ständige Erreichbarkeit per Telefon.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die sofortige Meldung der Krankheit ist Teil der Treuepflicht, damit der Arbeitgeber planen kann."
+        },
+        {
+          "text": "Regelmässige Updates über den Gesundheitszustand per E-Mail.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die sofortige Meldung der Krankheit ist Teil der Treuepflicht, damit der Arbeitgeber planen kann."
+        },
+        {
+          "text": "Sofortige Meldung der Krankheit an den Arbeitgeber.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Teilnahme an Teambesprechungen per Videokonferenz.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die sofortige Meldung der Krankheit ist Teil der Treuepflicht, damit der Arbeitgeber planen kann."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Chefin darf der Mitarbeiterin auch auf ihr privates Handy schreiben, um ihr gute Besserung zu wünschen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Nachfragen nach dem Befinden sind in Ordnung, solange keine Arbeitsaufträge erteilt oder Kontrollen durchgeführt werden.",
+      "feedback_incorrect": "❌ Falsch. Nachfragen nach dem Befinden sind in Ordnung, solange keine Arbeitsaufträge erteilt oder Kontrollen durchgeführt werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Grad der Arbeitsunfähigkeit spielt keine Rolle bei der Frage, ob die Mitarbeiterin während der Krankmeldung erreichbar sein muss.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Grad der Arbeitsunfähigkeit (ganz oder teilweise) kann eine Rolle spielen, dies ist aber eine medizinische Frage und muss vom Arzt beurteilt werden.",
+      "feedback_incorrect": "❌ Richtig. Der Grad der Arbeitsunfähigkeit (ganz oder teilweise) kann eine Rolle spielen, dies ist aber eine medizinische Frage und muss vom Arzt beurteilt werden."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Kommunikationsmittel ist im Krankheitsfall am besten geeignet?</p>",
+      "options": [
+        {
+          "text": "WhatsApp",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Wahl des Kommunikationsmittels sollte im Vorfeld zwischen Arbeitgeber und Arbeitnehmer abgesprochen werden."
+        },
+        {
+          "text": "SMS",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Wahl des Kommunikationsmittels sollte im Vorfeld zwischen Arbeitgeber und Arbeitnehmer abgesprochen werden."
+        },
+        {
+          "text": "E-Mail",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Wahl des Kommunikationsmittels sollte im Vorfeld zwischen Arbeitgeber und Arbeitnehmer abgesprochen werden."
+        },
+        {
+          "text": "Es kommt auf die betriebliche Vereinbarung an.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte im Krankheitsfall mit dem Arbeitgeber abgeklärt werden?</p>",
+      "options": [
+        {
+          "text": "Auf welchen Kanälen kommuniziert wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Klare Absprachen über Kommunikationskanäle und Update-Häufigkeit sind wichtig, um Konflikte zu vermeiden."
+        },
+        {
+          "text": "Wie oft Updates erfolgen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Klare Absprachen über Kommunikationskanäle und Update-Häufigkeit sind wichtig, um Konflikte zu vermeiden."
+        },
+        {
+          "text": "Beides.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Keines von beiden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Klare Absprachen über Kommunikationskanäle und Update-Häufigkeit sind wichtig, um Konflikte zu vermeiden."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Mitarbeiterin muss im Krankheitsfall auf jede Nachricht der Chefin sofort reagieren.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Wenn klare Absprachen getroffen wurden, muss nicht auf jede Nachricht sofort reagiert werden.",
+      "feedback_incorrect": "❌ Richtig. Wenn klare Absprachen getroffen wurden, muss nicht auf jede Nachricht sofort reagiert werden."
+    }
+  ]
+}

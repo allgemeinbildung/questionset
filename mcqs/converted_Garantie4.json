@@ -1,0 +1,274 @@
+{
+  "title": "Garantie4",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Auf welche Prüfung bereitet sich Lukas Erne vor?</p>",
+      "options": [
+        {
+          "text": "Eidg. dipl. Elektroinstallateur",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eidg. dipl. Sanitärinstallateur",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Text wird erwähnt, dass er sich auf die Prüfung zum eidgenössisch diplomierten Elektroinstallateur vorbereitet."
+        },
+        {
+          "text": "Eidg. dipl. Schreiner",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Text wird erwähnt, dass er sich auf die Prüfung zum eidgenössisch diplomierten Elektroinstallateur vorbereitet."
+        },
+        {
+          "text": "Eidg. dipl. Maler",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Text wird erwähnt, dass er sich auf die Prüfung zum eidgenössisch diplomierten Elektroinstallateur vorbereitet."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Problem diskutiert die Lerngruppe?</p>",
+      "options": [
+        {
+          "text": "Kostenübernahme der Arbeitszeit bei Garantiefällen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Höhe des Stundenlohns für Elektroinstallateure",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Lerngruppe diskutiert, wer die Kosten für die Arbeitszeit des Installateurs übernimmt, wenn eine Lampe im Rahmen der Garantie repariert werden muss."
+        },
+        {
+          "text": "Die korrekte Installation von Deckenlampen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Lerngruppe diskutiert, wer die Kosten für die Arbeitszeit des Installateurs übernimmt, wenn eine Lampe im Rahmen der Garantie repariert werden muss."
+        },
+        {
+          "text": "Die verschiedenen Arten von Leuchtmitteln",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Lerngruppe diskutiert, wer die Kosten für die Arbeitszeit des Installateurs übernimmt, wenn eine Lampe im Rahmen der Garantie repariert werden muss."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Werk besteht aus mehreren Leistungen, z.B. Material und Arbeit.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Ein Werk ist eine Kombination aus Material und Arbeit, im Gegensatz zu einem Kaufgegenstand, der nur aus dem Gegenstand selbst besteht.",
+      "feedback_incorrect": "❌ Falsch. Ein Werk ist eine Kombination aus Material und Arbeit, im Gegensatz zu einem Kaufgegenstand, der nur aus dem Gegenstand selbst besteht."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Garantiefrist für ein bewegliches Werk beträgt fünf Jahre.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Garantiefrist für ein bewegliches Werk beträgt zwei Jahre, für ein unbewegliches Werk fünf Jahre.",
+      "feedback_incorrect": "❌ Richtig. Die Garantiefrist für ein bewegliches Werk beträgt zwei Jahre, für ein unbewegliches Werk fünf Jahre."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Beispiel für ein unbewegliches Werk?</p>",
+      "options": [
+        {
+          "text": "Fest installierte Deckenlampe",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ein Tisch",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine fest installierte Deckenlampe ist ein Beispiel für ein unbewegliches Werk, da sie fest mit dem Gebäude verbunden ist."
+        },
+        {
+          "text": "Eine Kaffeemaschine",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine fest installierte Deckenlampe ist ein Beispiel für ein unbewegliches Werk, da sie fest mit dem Gebäude verbunden ist."
+        },
+        {
+          "text": "Ein Fahrrad",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine fest installierte Deckenlampe ist ein Beispiel für ein unbewegliches Werk, da sie fest mit dem Gebäude verbunden ist."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Ansprüche hat ein Kunde während der Garantiezeit bei einem Werkvertrag?</p>",
+      "options": [
+        {
+          "text": "Nachbesserung, Preisminderung oder Austausch",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Nur Rückerstattung des Kaufpreises",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Kunde kann Nachbesserung, Preisminderung oder Austausch des Werks verlangen."
+        },
+        {
+          "text": "Nur Reparatur des defekten Teils",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Kunde kann Nachbesserung, Preisminderung oder Austausch des Werks verlangen."
+        },
+        {
+          "text": "Kostenlose Ersatzteile, aber keine Arbeitszeit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Kunde kann Nachbesserung, Preisminderung oder Austausch des Werks verlangen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Kunde muss die Arbeitszeit des Handwerkers bei einer Garantiereparatur bezahlen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Arbeitszeit ist im Werkvertrag inbegriffen und muss vom Kunden nicht separat bezahlt werden.",
+      "feedback_incorrect": "❌ Richtig. Die Arbeitszeit ist im Werkvertrag inbegriffen und muss vom Kunden nicht separat bezahlt werden."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Vertrag regelt die Installation der Deckenlampe?</p>",
+      "options": [
+        {
+          "text": "Werkvertrag",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Kaufvertrag",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Da die Installation der Lampe eine Dienstleistung ist, fällt sie unter den Werkvertrag."
+        },
+        {
+          "text": "Mietvertrag",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Da die Installation der Lampe eine Dienstleistung ist, fällt sie unter den Werkvertrag."
+        },
+        {
+          "text": "Leihvertrag",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Da die Installation der Lampe eine Dienstleistung ist, fällt sie unter den Werkvertrag."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer ist Gabriela Baumgartner?</p>",
+      "options": [
+        {
+          "text": "Espresso-Rechtsexpertin",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Elektroinstallateurin",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gabriela Baumgartner wird im Text als Espresso-Rechtsexpertin vorgestellt."
+        },
+        {
+          "text": "Moderatorin der Sendung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gabriela Baumgartner wird im Text als Espresso-Rechtsexpertin vorgestellt."
+        },
+        {
+          "text": "Kollegin von Lukas Erne",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gabriela Baumgartner wird im Text als Espresso-Rechtsexpertin vorgestellt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Lukas Erne wohnt in Klingnau AG.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Im Text wird erwähnt, dass Lukas Erne aus Klingnau AG kommt.",
+      "feedback_incorrect": "❌ Falsch. Im Text wird erwähnt, dass Lukas Erne aus Klingnau AG kommt."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange hat der Kunde Garantie auf die Deckenlampe?</p>",
+      "options": [
+        {
+          "text": "5 Jahre",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "2 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Unbewegliche Werke haben eine Garantiefrist von 5 Jahren."
+        },
+        {
+          "text": "1 Jahr",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Unbewegliche Werke haben eine Garantiefrist von 5 Jahren."
+        },
+        {
+          "text": "10 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Unbewegliche Werke haben eine Garantiefrist von 5 Jahren."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Beispiel für ein bewegliches Werk?</p>",
+      "options": [
+        {
+          "text": "Ein massgeschneiderter Tisch",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ein fest installiertes Fenster",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein massgeschneiderter Tisch ist beweglich und fällt somit unter die 2-jährige Garantiefrist für bewegliche Werke."
+        },
+        {
+          "text": "Ein eingebauter Backofen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein massgeschneiderter Tisch ist beweglich und fällt somit unter die 2-jährige Garantiefrist für bewegliche Werke."
+        },
+        {
+          "text": "Eine gemauerte Wand",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein massgeschneiderter Tisch ist beweglich und fällt somit unter die 2-jährige Garantiefrist für bewegliche Werke."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Bei einem Kaufvertrag muss der Kunde die Arbeitszeit für Reparaturen innerhalb der Garantiezeit bezahlen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Beim Kaufvertrag ist nur der Gegenstand selbst von der Garantie abgedeckt, nicht aber die Arbeitszeit für Reparaturen.",
+      "feedback_incorrect": "❌ Richtig. Beim Kaufvertrag ist nur der Gegenstand selbst von der Garantie abgedeckt, nicht aber die Arbeitszeit für Reparaturen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Sendung \"Espresso\" hat den Fall von Lukas Erne öffentlich gemacht.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Sendung \"Espresso\" hat die Frage des Hörers aufgegriffen und öffentlich diskutiert.",
+      "feedback_incorrect": "❌ Falsch. Die Sendung \"Espresso\" hat die Frage des Hörers aufgegriffen und öffentlich diskutiert."
+    }
+  ]
+}

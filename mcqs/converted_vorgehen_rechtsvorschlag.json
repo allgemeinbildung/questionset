@@ -1,0 +1,274 @@
+{
+  "title": "vorgehen_rechtsvorschlag",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Rechtsvorschlag?</p>",
+      "options": [
+        {
+          "text": "Eine Zustimmung zur Betreibung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mit einem Rechtsvorschlag erklärt man, dass man die Forderung nicht anerkennt."
+        },
+        {
+          "text": "Ein Einspruch gegen eine Betreibung",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Zahlungsaufforderung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mit einem Rechtsvorschlag erklärt man, dass man die Forderung nicht anerkennt."
+        },
+        {
+          "text": "Ein Antrag auf Ratenzahlung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mit einem Rechtsvorschlag erklärt man, dass man die Forderung nicht anerkennt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo kann man einen Rechtsvorschlag erheben?</p>",
+      "options": [
+        {
+          "text": "Bei der Polizei",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Rechtsvorschlag muss beim Betreibungsamt eingereicht werden."
+        },
+        {
+          "text": "Beim Gericht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Rechtsvorschlag muss beim Betreibungsamt eingereicht werden."
+        },
+        {
+          "text": "Beim Betreibungsamt",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Beim Gemeinderat",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Rechtsvorschlag muss beim Betreibungsamt eingereicht werden."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Frist für die Erhebung eines Rechtsvorschlags beträgt 20 Tage.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Frist beträgt 10 Tage ab Erhalt des Zahlungsbefehls.",
+      "feedback_incorrect": "❌ Richtig. Die Frist beträgt 10 Tage ab Erhalt des Zahlungsbefehls."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Betreibungsamt prüft die Rechtmässigkeit der Forderung.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Das Betreibungsamt prüft nicht die Rechtmässigkeit, sondern leitet lediglich die Betreibung ein.",
+      "feedback_incorrect": "❌ Richtig. Das Betreibungsamt prüft nicht die Rechtmässigkeit, sondern leitet lediglich die Betreibung ein."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was passiert, wenn kein Rechtsvorschlag erhoben wird?</p>",
+      "options": [
+        {
+          "text": "Die Betreibung wird automatisch eingestellt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ohne Rechtsvorschlag kann die Betreibung fortgesetzt werden."
+        },
+        {
+          "text": "Die Forderung verfällt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ohne Rechtsvorschlag kann die Betreibung fortgesetzt werden."
+        },
+        {
+          "text": "Der Gläubiger kann weitere Schritte einleiten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Man erhält eine Mahnung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ohne Rechtsvorschlag kann die Betreibung fortgesetzt werden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange bleibt ein Eintrag im Betreibungsregister bestehen?</p>",
+      "options": [
+        {
+          "text": "2 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Eintrag verschwindet nach 5 Jahren automatisch, wenn keine weiteren Massnahmen erfolgen."
+        },
+        {
+          "text": "3 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Eintrag verschwindet nach 5 Jahren automatisch, wenn keine weiteren Massnahmen erfolgen."
+        },
+        {
+          "text": "5 Jahre",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "10 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Eintrag verschwindet nach 5 Jahren automatisch, wenn keine weiteren Massnahmen erfolgen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Rechtsvorschlag kann nur schriftlich erfolgen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Ein Rechtsvorschlag kann schriftlich oder mündlich (beim Betreibungsamt) erfolgen.",
+      "feedback_incorrect": "❌ Richtig. Ein Rechtsvorschlag kann schriftlich oder mündlich (beim Betreibungsamt) erfolgen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>«Opposition» ist die französische Übersetzung für «Rechtsvorschlag».</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! «Opposition» bzw. «Oppositione» (italienisch) verdeutlicht die Bedeutung von Widerspruch besser als «Rechtsvorschlag».",
+      "feedback_incorrect": "❌ Falsch. «Opposition» bzw. «Oppositione» (italienisch) verdeutlicht die Bedeutung von Widerspruch besser als «Rechtsvorschlag»."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Fall ist ein Rechtsvorschlag besonders wichtig?</p>",
+      "options": [
+        {
+          "text": "Wenn man die Forderung anerkennt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Rechtsvorschlag dient dazu, sich gegen ungerechtfertigte Forderungen zu wehren."
+        },
+        {
+          "text": "Wenn man die Forderung bezahlen kann.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Rechtsvorschlag dient dazu, sich gegen ungerechtfertigte Forderungen zu wehren."
+        },
+        {
+          "text": "Wenn man die Forderung bestreitet.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Wenn man mit dem Gläubiger befreundet ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Rechtsvorschlag dient dazu, sich gegen ungerechtfertigte Forderungen zu wehren."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer muss nach Erhebung eines Rechtsvorschlags aktiv werden?</p>",
+      "options": [
+        {
+          "text": "Das Betreibungsamt",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Gläubiger muss beweisen, dass die Forderung berechtigt ist."
+        },
+        {
+          "text": "Der Schuldner",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Gläubiger muss beweisen, dass die Forderung berechtigt ist."
+        },
+        {
+          "text": "Der Gläubiger",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Polizei",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Gläubiger muss beweisen, dass die Forderung berechtigt ist."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Man benötigt einen Anwalt, um einen Rechtsvorschlag zu erheben.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Man kann einen Rechtsvorschlag selbst erheben, anwaltliche Hilfe ist nicht zwingend.",
+      "feedback_incorrect": "❌ Richtig. Man kann einen Rechtsvorschlag selbst erheben, anwaltliche Hilfe ist nicht zwingend."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Rechtsvorschlag stoppt das Betreibungsverfahren.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Durch den Rechtsvorschlag wird das Verfahren vorläufig gestoppt.",
+      "feedback_incorrect": "❌ Falsch. Durch den Rechtsvorschlag wird das Verfahren vorläufig gestoppt."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Dokument erhält man vom Betreibungsamt?</p>",
+      "options": [
+        {
+          "text": "Eine Rechnung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Betreibungsamt schickt einen Zahlungsbefehl."
+        },
+        {
+          "text": "Einen Zahlungsbefehl",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Quittung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Betreibungsamt schickt einen Zahlungsbefehl."
+        },
+        {
+          "text": "Einen Mahnbescheid",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Betreibungsamt schickt einen Zahlungsbefehl."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was bedeutet der Begriff «Rechtsvorschlag» etymologisch?</p>",
+      "options": [
+        {
+          "text": "Recht vorschlagen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Begriff «Rechtsvorschlag» kommt von «Rechtvorschlagen», was so viel wie «vor Gericht gehen» bedeutet."
+        },
+        {
+          "text": "Vor Gericht gehen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Rechtliche Beratung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Begriff «Rechtsvorschlag» kommt von «Rechtvorschlagen», was so viel wie «vor Gericht gehen» bedeutet."
+        },
+        {
+          "text": "Rechtliche Schritte einleiten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Begriff «Rechtsvorschlag» kommt von «Rechtvorschlagen», was so viel wie «vor Gericht gehen» bedeutet."
+        }
+      ]
+    }
+  ]
+}

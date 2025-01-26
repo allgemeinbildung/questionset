@@ -1,0 +1,236 @@
+{
+  "title": "Nachtlaerm",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wann darf man den Mietzins auf ein Sperrkonto einzahlen?</p>",
+      "options": [
+        {
+          "text": "Sobald die Nachbarn Lärm machen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Mietzins darf erst hinterlegt werden, wenn der Vermieter den Mangel (Lärm) trotz Mahnung nicht innert Frist behebt."
+        },
+        {
+          "text": "Nach der ersten Beschwerde beim Vermieter.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Mietzins darf erst hinterlegt werden, wenn der Vermieter den Mangel (Lärm) trotz Mahnung nicht innert Frist behebt."
+        },
+        {
+          "text": "Wenn der Vermieter trotz Mahnung den Mangel nicht behebt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Wenn man die Nachbarn persönlich auf den Lärm angesprochen hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Mietzins darf erst hinterlegt werden, wenn der Vermieter den Mangel (Lärm) trotz Mahnung nicht innert Frist behebt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie hoch kann die Mietzinsreduktion bei Lärmbelästigung sein?</p>",
+      "options": [
+        {
+          "text": "Bis zu 50%",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gemäss Gerichtspraxis kann die Mietzinsreduktion bei Lärmbelästigung bis zu 15% betragen."
+        },
+        {
+          "text": "Bis zu 30%",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gemäss Gerichtspraxis kann die Mietzinsreduktion bei Lärmbelästigung bis zu 15% betragen."
+        },
+        {
+          "text": "Bis zu 15%",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Bis zu 5%",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gemäss Gerichtspraxis kann die Mietzinsreduktion bei Lärmbelästigung bis zu 15% betragen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Man braucht einen Anwalt, um vor der Schlichtungsbehörde einen Fall zu eröffnen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Man benötigt keinen Anwalt für das Schlichtungsverfahren. Es ist jedoch ratsam, sich vorher rechtlich beraten zu lassen, z.B. bei einem Mieterverband.",
+      "feedback_incorrect": "❌ Richtig. Man benötigt keinen Anwalt für das Schlichtungsverfahren. Es ist jedoch ratsam, sich vorher rechtlich beraten zu lassen, z.B. bei einem Mieterverband."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Schlichtungsverfahren ist kostenlos.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Das Verfahren bei der Schlichtungsbehörde ist kostenlos.",
+      "feedback_incorrect": "❌ Falsch. Das Verfahren bei der Schlichtungsbehörde ist kostenlos."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte man tun, bevor man den Mietzins hinterlegt?</p>",
+      "options": [
+        {
+          "text": "Den Vermieter mündlich informieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter muss schriftlich und mit Fristsetzung zweimal gemahnt werden."
+        },
+        {
+          "text": "Die Nachbarn anzeigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter muss schriftlich und mit Fristsetzung zweimal gemahnt werden."
+        },
+        {
+          "text": "Den Vermieter zweimal schriftlich mahnen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sich rechtlichen Beistand suchen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter muss schriftlich und mit Fristsetzung zweimal gemahnt werden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo findet man Informationen zu Mietrechtsfragen?</p>",
+      "options": [
+        {
+          "text": "Beim Einwohnermeldeamt",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Mieterverbände bieten Beratung und Informationen zu Mietrechtsfragen."
+        },
+        {
+          "text": "Bei der Polizei",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Mieterverbände bieten Beratung und Informationen zu Mietrechtsfragen."
+        },
+        {
+          "text": "Bei den Mieterinnen- und Mieterverbänden",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Beim Betreibungsamt",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Mieterverbände bieten Beratung und Informationen zu Mietrechtsfragen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Man darf den Mietzins direkt auf ein privates Sperrkonto einzahlen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Miete darf nur auf das Konto der Schlichtungsbehörde eingezahlt werden, nachdem diese den Fall eröffnet hat.",
+      "feedback_incorrect": "❌ Richtig. Die Miete darf nur auf das Konto der Schlichtungsbehörde eingezahlt werden, nachdem diese den Fall eröffnet hat."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Lärm von Nachbarn kann als Mangel an der Mietsache gelten.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Anhaltender Lärm von Nachbarn, der die Wohnqualität erheblich beeinträchtigt, kann als Mangel gelten.",
+      "feedback_incorrect": "❌ Falsch. Anhaltender Lärm von Nachbarn, der die Wohnqualität erheblich beeinträchtigt, kann als Mangel gelten."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was macht die Schlichtungsbehörde mit dem hinterlegten Mietzins?</p>",
+      "options": [
+        {
+          "text": "Sie überweist ihn direkt an den Vermieter.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der hinterlegte Mietzins verbleibt bei der Schlichtungsbehörde, bis eine Lösung im Mietstreit gefunden wurde."
+        },
+        {
+          "text": "Sie behält ihn ein, bis der Konflikt gelöst ist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie leitet ihn an die lärmgeplagten Nachbarn weiter.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der hinterlegte Mietzins verbleibt bei der Schlichtungsbehörde, bis eine Lösung im Mietstreit gefunden wurde."
+        },
+        {
+          "text": "Sie verwendet ihn für die Verwaltungskosten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der hinterlegte Mietzins verbleibt bei der Schlichtungsbehörde, bis eine Lösung im Mietstreit gefunden wurde."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Weisungen kann die Schlichtungsbehörde dem Vermieter geben?</p>",
+      "options": [
+        {
+          "text": "Die Nachbarn zum Auszug auffordern.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schlichtungsbehörde kann den Vermieter anweisen, die lärmenden Nachbarn zu verwarnen, eine Mietzinsreduktion zu gewähren oder in schwerwiegenden Fällen die Kündigung auszusprechen."
+        },
+        {
+          "text": "Den Mietvertrag kündigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schlichtungsbehörde kann den Vermieter anweisen, die lärmenden Nachbarn zu verwarnen, eine Mietzinsreduktion zu gewähren oder in schwerwiegenden Fällen die Kündigung auszusprechen."
+        },
+        {
+          "text": "Die Nachbarn verwarnen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Mietzinsreduktion gewähren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schlichtungsbehörde kann den Vermieter anweisen, die lärmenden Nachbarn zu verwarnen, eine Mietzinsreduktion zu gewähren oder in schwerwiegenden Fällen die Kündigung auszusprechen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin im Beitrag darf den Mietzins sofort auf ein Sperrkonto einzahlen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Hörerin muss zuerst den Vermieter mahnen und die Fristen abwarten, bevor sie den Mietzins hinterlegen darf.",
+      "feedback_incorrect": "❌ Richtig. Die Hörerin muss zuerst den Vermieter mahnen und die Fristen abwarten, bevor sie den Mietzins hinterlegen darf."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine einmalige mündliche Beschwerde beim Vermieter reicht aus.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Vermieter muss zweimal schriftlich gemahnt werden.",
+      "feedback_incorrect": "❌ Richtig. Der Vermieter muss zweimal schriftlich gemahnt werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Lärm muss die Wohnqualität erheblich beeinträchtigen, um als Mangel zu gelten.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Nur erhebliche Lärmbelästigungen, die die Wohnqualität deutlich mindern, gelten als Mangel.",
+      "feedback_incorrect": "❌ Falsch. Nur erhebliche Lärmbelästigungen, die die Wohnqualität deutlich mindern, gelten als Mangel."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Man sollte sich vor dem Gang zur Schlichtungsbehörde rechtlich beraten lassen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Eine rechtliche Beratung im Voraus ist empfehlenswert.",
+      "feedback_incorrect": "❌ Falsch. Eine rechtliche Beratung im Voraus ist empfehlenswert."
+    }
+  ]
+}

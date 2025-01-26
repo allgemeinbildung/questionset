@@ -1,0 +1,236 @@
+{
+  "title": "Erbschaftsausschlagung",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was gilt als Annahme einer Erbschaft?</p>",
+      "options": [
+        {
+          "text": "Das Bezahlen der Beerdigungskosten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Räumen der Wohnung des Verstorbenen wird als aktive Handlung im Umgang mit dem Nachlass gewertet und somit als Annahme der Erbschaft interpretiert."
+        },
+        {
+          "text": "Das Räumen der Wohnung des Verstorbenen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Kontaktaufnahme mit dem Notar.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Räumen der Wohnung des Verstorbenen wird als aktive Handlung im Umgang mit dem Nachlass gewertet und somit als Annahme der Erbschaft interpretiert."
+        },
+        {
+          "text": "Die Anfrage beim Betreibungsamt nach Schulden des Verstorbenen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Räumen der Wohnung des Verstorbenen wird als aktive Handlung im Umgang mit dem Nachlass gewertet und somit als Annahme der Erbschaft interpretiert."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Innerhalb welcher Frist kann man eine Erbschaft ausschlagen?</p>",
+      "options": [
+        {
+          "text": "1 Woche",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Ausschlagungsfrist für eine Erbschaft beträgt 3 Monate nach Kenntnis des Todesfalls."
+        },
+        {
+          "text": "1 Monat",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Ausschlagungsfrist für eine Erbschaft beträgt 3 Monate nach Kenntnis des Todesfalls."
+        },
+        {
+          "text": "3 Monate",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "1 Jahr",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Ausschlagungsfrist für eine Erbschaft beträgt 3 Monate nach Kenntnis des Todesfalls."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wenn man die Erbschaft einmal angenommen hat, kann man sie später nicht mehr ausschlagen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Annahme einer Erbschaft ist unwiderruflich.",
+      "feedback_incorrect": "❌ Falsch. Die Annahme einer Erbschaft ist unwiderruflich."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein öffentliches Inventar ist kostenlos.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Ein öffentliches Inventar kostet mehrere Tausend Franken.",
+      "feedback_incorrect": "❌ Richtig. Ein öffentliches Inventar kostet mehrere Tausend Franken."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo kann man sich zum Thema Erbrecht beraten lassen?</p>",
+      "options": [
+        {
+          "text": "Beim Bestattungsinstitut.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gerichte bieten Rechtsauskünfte an, auch zum Thema Erbrecht."
+        },
+        {
+          "text": "Bei der Gemeindeverwaltung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gerichte bieten Rechtsauskünfte an, auch zum Thema Erbrecht."
+        },
+        {
+          "text": "Beim Gericht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Bei der Bank des Verstorbenen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gerichte bieten Rechtsauskünfte an, auch zum Thema Erbrecht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Dokument gibt Aufschluss über die finanzielle Situation des Verstorbenen?</p>",
+      "options": [
+        {
+          "text": "Der Mietvertrag.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Steuererklärung gibt Einblick in die Einkommens- und Vermögensverhältnisse des Verstorbenen."
+        },
+        {
+          "text": "Die Steuererklärung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Der Krankenkassennachweis.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Steuererklärung gibt Einblick in die Einkommens- und Vermögensverhältnisse des Verstorbenen."
+        },
+        {
+          "text": "Das Testament.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Steuererklärung gibt Einblick in die Einkommens- und Vermögensverhältnisse des Verstorbenen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Man erbt nur das Vermögen, nicht aber die Schulden einer verstorbenen Person.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Mit der Annahme einer Erbschaft übernimmt man sowohl Vermögen als auch Schulden.",
+      "feedback_incorrect": "❌ Richtig. Mit der Annahme einer Erbschaft übernimmt man sowohl Vermögen als auch Schulden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Es ist ratsam, sich vor der Annahme einer Erbschaft beraten zu lassen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Eine Beratung hilft, die rechtlichen und finanziellen Konsequenzen einer Erbschaft abzuschätzen.",
+      "feedback_incorrect": "❌ Falsch. Eine Beratung hilft, die rechtlichen und finanziellen Konsequenzen einer Erbschaft abzuschätzen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein wichtiges Indiz für eine mögliche Überschuldung des Verstorbenen?</p>",
+      "options": [
+        {
+          "text": "Ein teures Auto.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Bezug von Sozialhilfe kann ein Hinweis auf finanzielle Schwierigkeiten und mögliche Schulden sein."
+        },
+        {
+          "text": "Eine grosse Wohnung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Bezug von Sozialhilfe kann ein Hinweis auf finanzielle Schwierigkeiten und mögliche Schulden sein."
+        },
+        {
+          "text": "Der Bezug von Sozialhilfe.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ein wertvolles Schmuckstück.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Bezug von Sozialhilfe kann ein Hinweis auf finanzielle Schwierigkeiten und mögliche Schulden sein."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte man vermeiden, bevor man über die Annahme der Erbschaft entschieden hat?</p>",
+      "options": [
+        {
+          "text": "Die Wohnung des Verstorbenen betreten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Verkauf von Wertgegenständen wird als Annahme der Erbschaft gewertet."
+        },
+        {
+          "text": "Mit dem Bestattungsinstitut sprechen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Verkauf von Wertgegenständen wird als Annahme der Erbschaft gewertet."
+        },
+        {
+          "text": "Wertgegenstände des Verstorbenen verkaufen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sich über die Bestattungskosten informieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Verkauf von Wertgegenständen wird als Annahme der Erbschaft gewertet."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Rechnungen von Krankenkassen verjähren nach 3 Jahren.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Forderungen von Krankenkassen verjähren erst nach 5 Jahren.",
+      "feedback_incorrect": "❌ Richtig. Forderungen von Krankenkassen verjähren erst nach 5 Jahren."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Beratung bei einem Erbrechts-Experten ist in jedem Fall kostenlos.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Kosten für eine Beratung sind abhängig vom Anbieter und sollten im Voraus geklärt werden.",
+      "feedback_incorrect": "❌ Richtig. Die Kosten für eine Beratung sind abhängig vom Anbieter und sollten im Voraus geklärt werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wenn die Erbschaft überschuldet ist, haften die Erben für die Schulden.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Erben haften für die Schulden des Verstorbenen, wenn sie die Erbschaft annehmen.",
+      "feedback_incorrect": "❌ Falsch. Erben haften für die Schulden des Verstorbenen, wenn sie die Erbschaft annehmen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Erbe kann auch nach der Beerdigung noch ausgeschlagen werden.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Das Erbe kann innerhalb von 3 Monaten nach Kenntnis des Todesfalls ausgeschlagen werden, unabhängig vom Zeitpunkt der Beerdigung.",
+      "feedback_incorrect": "❌ Falsch. Das Erbe kann innerhalb von 3 Monaten nach Kenntnis des Todesfalls ausgeschlagen werden, unabhängig vom Zeitpunkt der Beerdigung."
+    }
+  ]
+}

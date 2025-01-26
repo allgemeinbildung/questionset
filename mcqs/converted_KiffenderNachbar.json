@@ -1,0 +1,255 @@
+{
+  "title": "KiffenderNachbar",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was kann eine Eigentümerin bei Rauchbelästigung durch den Nachbarn tun?</p>",
+      "options": [
+        {
+          "text": "Sie kann direkt die Polizei rufen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Falle von übermässiger Belästigung kann eine Eigentümerin rechtliche Schritte einleiten."
+        },
+        {
+          "text": "Sie kann den Nachbarn auf Schadenersatz verklagen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Falle von übermässiger Belästigung kann eine Eigentümerin rechtliche Schritte einleiten."
+        },
+        {
+          "text": "Sie kann gegen die Emissionen klagen, wenn diese übermässig sind.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie kann nichts tun, da Rauchen auf dem Balkon erlaubt ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Falle von übermässiger Belästigung kann eine Eigentümerin rechtliche Schritte einleiten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sind materielle Emissionen im Kontext des Nachbarschaftsrechts?</p>",
+      "options": [
+        {
+          "text": "Positive Einflüsse auf die Umwelt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Materielle Emissionen beziehen sich auf konkrete Beeinträchtigungen wie Rauch, Lärm oder Gerüche."
+        },
+        {
+          "text": "Störende Einwirkungen auf ein Nachbargrundstück.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Finanzielle Belastungen durch den Nachbarn.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Materielle Emissionen beziehen sich auf konkrete Beeinträchtigungen wie Rauch, Lärm oder Gerüche."
+        },
+        {
+          "text": "Geräuschemissionen von öffentlichen Veranstaltungen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Materielle Emissionen beziehen sich auf konkrete Beeinträchtigungen wie Rauch, Lärm oder Gerüche."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Bundesgesetz zum Schutz von Passivrauchen gilt auch für private Haushalte.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Das Gesetz schützt vor Passivrauchen in öffentlich zugänglichen Räumen und am Arbeitsplatz, nicht in privaten Haushalten.",
+      "feedback_incorrect": "❌ Richtig. Das Gesetz schützt vor Passivrauchen in öffentlich zugänglichen Räumen und am Arbeitsplatz, nicht in privaten Haushalten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Kantonale Vorschriften können strengere Regelungen zum Gesundheitsschutz als das Bundesgesetz enthalten.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Je nach Kanton können zusätzliche Regelungen gelten, die den Schutz vor Rauchbelästigung erweitern.",
+      "feedback_incorrect": "❌ Falsch. Je nach Kanton können zusätzliche Regelungen gelten, die den Schutz vor Rauchbelästigung erweitern."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist oft ein Problem bei Nachbarschaftsklagen?</p>",
+      "options": [
+        {
+          "text": "Sie sind schnell und kostengünstig.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nachbarschaftsklagen können komplexe und unangenehme Prozesse sein."
+        },
+        {
+          "text": "Sie stärken das Nachbarschaftsverhältnis.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nachbarschaftsklagen können komplexe und unangenehme Prozesse sein."
+        },
+        {
+          "text": "Sie sind langwierig, teuer und belasten das Nachbarschaftsverhältnis.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie führen immer zu einer zufriedenstellenden Lösung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nachbarschaftsklagen können komplexe und unangenehme Prozesse sein."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Möglichkeiten gibt es, wenn der Nachbar nachts durch Husten Lärm verursacht?</p>",
+      "options": [
+        {
+          "text": "Man kann den Nachbarn wegen Körperverletzung anzeigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bei übermässiger Lärmbelästigung können die Ruhezeiten in Polizeiverordnungen relevant sein."
+        },
+        {
+          "text": "Man kann sich auf Polizeiverordnungen zu Ruhezeiten berufen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Man kann den Nachbarn zwingen, zum Arzt zu gehen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bei übermässiger Lärmbelästigung können die Ruhezeiten in Polizeiverordnungen relevant sein."
+        },
+        {
+          "text": "Man hat keine rechtlichen Möglichkeiten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bei übermässiger Lärmbelästigung können die Ruhezeiten in Polizeiverordnungen relevant sein."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Polizeiverordnungen können das Rauchen auf dem Balkon grundsätzlich verbieten.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Polizeiverordnungen können das Rauchen auf dem Balkon nicht grundsätzlich verbieten, aber bei übermässiger Belästigung der Nachbarn einschreiten.",
+      "feedback_incorrect": "❌ Richtig. Polizeiverordnungen können das Rauchen auf dem Balkon nicht grundsätzlich verbieten, aber bei übermässiger Belästigung der Nachbarn einschreiten."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Tipp wird im Beitrag wiederholt gegeben?</p>",
+      "options": [
+        {
+          "text": "Sofort die Polizei rufen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die einvernehmliche Lösung ist der beste Weg, um Nachbarschaftskonflikte zu lösen."
+        },
+        {
+          "text": "Miteinander reden und eine gemeinsame Lösung suchen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Den Nachbarn anzeigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die einvernehmliche Lösung ist der beste Weg, um Nachbarschaftskonflikte zu lösen."
+        },
+        {
+          "text": "Ausziehen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die einvernehmliche Lösung ist der beste Weg, um Nachbarschaftskonflikte zu lösen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Im Beitrag wird empfohlen, bei Problemen mit den Nachbarn sofort einen Anwalt einzuschalten.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Es wird empfohlen, zuerst das Gespräch zu suchen und erst im Notfall rechtliche Schritte einzuleiten.",
+      "feedback_incorrect": "❌ Richtig. Es wird empfohlen, zuerst das Gespräch zu suchen und erst im Notfall rechtliche Schritte einzuleiten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wenn der Rauch des Nachbarn in die eigene Wohnung zieht, ist das immer ein Grund für eine Klage.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Eine Klage ist nur bei übermässiger Belästigung gerechtfertigt.",
+      "feedback_incorrect": "❌ Richtig. Eine Klage ist nur bei übermässiger Belästigung gerechtfertigt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Mediator kann bei Nachbarschaftskonflikten helfen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Ein Mediator kann als neutrale Partei die Kommunikation und Konfliktlösung unterstützen.",
+      "feedback_incorrect": "❌ Falsch. Ein Mediator kann als neutrale Partei die Kommunikation und Konfliktlösung unterstützen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Lärm durch Hustenanfälle kann in bestimmten Fällen als übermässige Belästigung gelten.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Auch Lärm, der durch Hustenanfälle entsteht, kann unter bestimmten Umständen als übermässige Belästigung gewertet werden.",
+      "feedback_incorrect": "❌ Falsch. Auch Lärm, der durch Hustenanfälle entsteht, kann unter bestimmten Umständen als übermässige Belästigung gewertet werden."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist im Zusammenhang mit Rauchbelästigung durch Nachbarn am wichtigsten?</p>",
+      "options": [
+        {
+          "text": "Die Rechte des Rauchers schützen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine einvernehmliche Lösung ist im Interesse aller Beteiligten und trägt zu einem guten Nachbarschaftsverhältnis bei."
+        },
+        {
+          "text": "Die Nachbarschaft vor Rauch schützen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine einvernehmliche Lösung ist im Interesse aller Beteiligten und trägt zu einem guten Nachbarschaftsverhältnis bei."
+        },
+        {
+          "text": "Eine einvernehmliche Lösung finden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Den Nachbarn anzeigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine einvernehmliche Lösung ist im Interesse aller Beteiligten und trägt zu einem guten Nachbarschaftsverhältnis bei."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>An wen kann man sich wenden, wenn man sich durch den Rauch des Nachbarn belästigt fühlt?</p>",
+      "options": [
+        {
+          "text": "An den Vermieter oder die Verwaltung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Je nach Situation und Schweregrad der Belästigung können verschiedene Ansprechpartner relevant sein."
+        },
+        {
+          "text": "An die Polizei.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Je nach Situation und Schweregrad der Belästigung können verschiedene Ansprechpartner relevant sein."
+        },
+        {
+          "text": "An einen Mediator.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Je nach Situation und Schweregrad der Belästigung können verschiedene Ansprechpartner relevant sein."
+        },
+        {
+          "text": "An alle oben genannten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    }
+  ]
+}

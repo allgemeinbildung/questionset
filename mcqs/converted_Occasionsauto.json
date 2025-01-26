@@ -1,0 +1,236 @@
+{
+  "title": "Occasionsauto",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum möchte die Verkäuferin vom Autokauf zurücktreten?</p>",
+      "options": [
+        {
+          "text": "Sie hat ein besseres Angebot erhalten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass die Tochter der Verkäuferin Interesse am Auto bekundet hat, nachdem der Kaufvertrag bereits abgeschlossen war."
+        },
+        {
+          "text": "Das Auto hat einen technischen Defekt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass die Tochter der Verkäuferin Interesse am Auto bekundet hat, nachdem der Kaufvertrag bereits abgeschlossen war."
+        },
+        {
+          "text": "Ihre Tochter möchte das Auto kaufen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie hat sich über den Preis geirrt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass die Tochter der Verkäuferin Interesse am Auto bekundet hat, nachdem der Kaufvertrag bereits abgeschlossen war."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Art von Vertrag wurde für den Autokauf geschlossen?</p>",
+      "options": [
+        {
+          "text": "Schriftlicher Vertrag",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag betont, dass ein mündlicher Vertrag genauso verbindlich ist wie ein schriftlicher."
+        },
+        {
+          "text": "Mündlicher Vertrag",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Online-Vertrag",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag betont, dass ein mündlicher Vertrag genauso verbindlich ist wie ein schriftlicher."
+        },
+        {
+          "text": "Notarieller Vertrag",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag betont, dass ein mündlicher Vertrag genauso verbindlich ist wie ein schriftlicher."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Verkäuferin kann vom Kaufvertrag zurücktreten, da noch keine Woche vergangen ist.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Das Widerrufsrecht gilt in diesem Fall nicht, da die Verkäuferin nicht die Konsumentin ist.",
+      "feedback_incorrect": "❌ Richtig. Das Widerrufsrecht gilt in diesem Fall nicht, da die Verkäuferin nicht die Konsumentin ist."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein mündlicher Kaufvertrag ist rechtlich nicht bindend.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Mündliche Verträge sind genauso bindend wie schriftliche Verträge.",
+      "feedback_incorrect": "❌ Richtig. Mündliche Verträge sind genauso bindend wie schriftliche Verträge."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Bei welcher Art von Geschäften hat man als Konsument ein Widerrufsrecht?</p>",
+      "options": [
+        {
+          "text": "Beim Kauf eines Occasionsautos von privat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Haustürgeschäfte, Telefonkäufe, Leasing- und Versicherungsverträge fallen unter das Widerrufsrecht."
+        },
+        {
+          "text": "Bei Haustürgeschäften.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Beim Kauf von Lebensmitteln im Supermarkt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Haustürgeschäfte, Telefonkäufe, Leasing- und Versicherungsverträge fallen unter das Widerrufsrecht."
+        },
+        {
+          "text": "Beim Kauf einer Immobilie.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Haustürgeschäfte, Telefonkäufe, Leasing- und Versicherungsverträge fallen unter das Widerrufsrecht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange gilt die gesetzliche Garantie bei einem Occasionsauto, wenn nichts anderes vereinbart wurde?</p>",
+      "options": [
+        {
+          "text": "6 Monate",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Laut Gesetz gilt bei Occasionsautos eine einjährige Garantie, sofern diese nicht ausgeschlossen wurde."
+        },
+        {
+          "text": "1 Jahr",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "2 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Laut Gesetz gilt bei Occasionsautos eine einjährige Garantie, sofern diese nicht ausgeschlossen wurde."
+        },
+        {
+          "text": "5 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Laut Gesetz gilt bei Occasionsautos eine einjährige Garantie, sofern diese nicht ausgeschlossen wurde."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Verkäuferin hätte die Garantie im Vertrag ausschliessen können.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! In einem schriftlichen Vertrag kann die Garantie ausgeschlossen werden.",
+      "feedback_incorrect": "❌ Falsch. In einem schriftlichen Vertrag kann die Garantie ausgeschlossen werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Anzahlung des Käufers spielt keine Rolle für die Gültigkeit des Vertrags.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Anzahlung macht den mündlichen Vertrag zusätzlich verbindlich.",
+      "feedback_incorrect": "❌ Richtig. Die Anzahlung macht den mündlichen Vertrag zusätzlich verbindlich."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo hat die Verkäuferin das Auto zum Verkauf angeboten?</p>",
+      "options": [
+        {
+          "text": "Im lokalen Anzeigenblatt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass das Auto auf einer Online-Plattform ausgeschrieben war."
+        },
+        {
+          "text": "Auf einem Online-Portal.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Durch Mundpropaganda.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass das Auto auf einer Online-Plattform ausgeschrieben war."
+        },
+        {
+          "text": "Bei einem Autohändler.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass das Auto auf einer Online-Plattform ausgeschrieben war."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist die Empfehlung der Rechtsexpertin für den Verkauf von teuren Gegenständen?</p>",
+      "options": [
+        {
+          "text": "Immer einen mündlichen Vertrag abschliessen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gerade bei teuren Dingen ist ein schriftlicher Vertrag immer empfehlenswert."
+        },
+        {
+          "text": "Immer einen schriftlichen Vertrag abschliessen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Nur online verkaufen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gerade bei teuren Dingen ist ein schriftlicher Vertrag immer empfehlenswert."
+        },
+        {
+          "text": "Nur über einen Händler verkaufen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gerade bei teuren Dingen ist ein schriftlicher Vertrag immer empfehlenswert."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Käufer kann rechtlich auf die Erfüllung des Kaufvertrags bestehen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Da ein gültiger Vertrag besteht, kann der Käufer auf die Übergabe des Autos bestehen.",
+      "feedback_incorrect": "❌ Falsch. Da ein gültiger Vertrag besteht, kann der Käufer auf die Übergabe des Autos bestehen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Widerrufsrecht gilt nur für Verkäufer, nicht für Käufer.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Das Widerrufsrecht gilt nur für Konsumenten, die ausserhalb von Geschäftsräumen einen Vertrag abschliessen, unabhängig davon, ob sie Käufer oder Verkäufer sind.",
+      "feedback_incorrect": "❌ Richtig. Das Widerrufsrecht gilt nur für Konsumenten, die ausserhalb von Geschäftsräumen einen Vertrag abschliessen, unabhängig davon, ob sie Käufer oder Verkäufer sind."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein schriftlicher Vertrag bietet mehr Sicherheit als ein mündlicher Vertrag.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Ein schriftlicher Vertrag dokumentiert die Vereinbarung und beugt Missverständnissen vor.",
+      "feedback_incorrect": "❌ Falsch. Ein schriftlicher Vertrag dokumentiert die Vereinbarung und beugt Missverständnissen vor."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Rechtsexpertin rät, bei Occasionsautos immer einen schriftlichen Vertrag aufzusetzen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Rechtsexpertin empfiehlt, bei teuren Gütern wie Autos immer einen schriftlichen Vertrag zu machen.",
+      "feedback_incorrect": "❌ Falsch. Die Rechtsexpertin empfiehlt, bei teuren Gütern wie Autos immer einen schriftlichen Vertrag zu machen."
+    }
+  ]
+}

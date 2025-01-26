@@ -1,0 +1,236 @@
+{
+  "title": "ferien",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Darf ein Arbeitgeber die Dauer der Betriebsferien erhöhen?</p>",
+      "options": [
+        {
+          "text": "Ja, grundsätzlich darf er das.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Nein, das ist grundsätzlich verboten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Arbeitgeber bestimmt den Zeitpunkt der Ferien, muss aber auf die Mitarbeiter Rücksicht nehmen."
+        },
+        {
+          "text": "Nur mit Zustimmung aller Mitarbeiter.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Arbeitgeber bestimmt den Zeitpunkt der Ferien, muss aber auf die Mitarbeiter Rücksicht nehmen."
+        },
+        {
+          "text": "Nur wenn es im Arbeitsvertrag steht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Arbeitgeber bestimmt den Zeitpunkt der Ferien, muss aber auf die Mitarbeiter Rücksicht nehmen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Worauf muss der Arbeitgeber bei der Festlegung der Betriebsferien Rücksicht nehmen?</p>",
+      "options": [
+        {
+          "text": "Auf die Wünsche der Mitarbeiter.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mitarbeiter mit schulpflichtigen Kindern sollen Ferien in den Schulferien nehmen können."
+        },
+        {
+          "text": "Auf die Bedürfnisse von Familien mit Kindern.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Auf die wirtschaftliche Lage des Betriebs.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mitarbeiter mit schulpflichtigen Kindern sollen Ferien in den Schulferien nehmen können."
+        },
+        {
+          "text": "Auf die Anzahl der Ferientage der Mitarbeiter.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mitarbeiter mit schulpflichtigen Kindern sollen Ferien in den Schulferien nehmen können."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Arbeitgeber muss die Betriebsferien mindestens 6 Monate im Voraus ankündigen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Ankündigung muss mindestens 3 Monate im Voraus erfolgen.",
+      "feedback_incorrect": "❌ Richtig. Die Ankündigung muss mindestens 3 Monate im Voraus erfolgen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wenn die Betriebsferien vertraglich vereinbart sind, kann der Arbeitgeber verlangen, dass alle Ferien während dieser Zeit bezogen werden.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Vorausgesetzt, die Vereinbarung wurde vor Arbeitsbeginn getroffen und vom Arbeitnehmer unterschrieben.",
+      "feedback_incorrect": "❌ Falsch. Vorausgesetzt, die Vereinbarung wurde vor Arbeitsbeginn getroffen und vom Arbeitnehmer unterschrieben."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist der erste Schritt, den ein Arbeitnehmer tun sollte, wenn er mit der Festlegung der Betriebsferien nicht einverstanden ist?</p>",
+      "options": [
+        {
+          "text": "Einen Anwalt kontaktieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Gespräch ist der beste Weg, um eine Lösung zu finden."
+        },
+        {
+          "text": "Eine Beschwerde einreichen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Gespräch ist der beste Weg, um eine Lösung zu finden."
+        },
+        {
+          "text": "Mit dem Arbeitgeber sprechen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Betriebsferien ignorieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Gespräch ist der beste Weg, um eine Lösung zu finden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Wochen Ferien am Stück hat ein Arbeitnehmer mindestens im Jahr Anspruch?</p>",
+      "options": [
+        {
+          "text": "Eine Woche",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Gesetz garantiert mindestens zwei Wochen Ferien am Stück."
+        },
+        {
+          "text": "Zwei Wochen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Drei Wochen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Gesetz garantiert mindestens zwei Wochen Ferien am Stück."
+        },
+        {
+          "text": "Vier Wochen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Gesetz garantiert mindestens zwei Wochen Ferien am Stück."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin im Beitrag hatte insgesamt 6 Wochen Ferien.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Von diesen 6 Wochen musste sie 4 Wochen während der Betriebsferien beziehen.",
+      "feedback_incorrect": "❌ Falsch. Von diesen 6 Wochen musste sie 4 Wochen während der Betriebsferien beziehen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin wohnt im Kanton Zürich.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Hörerin kommt aus dem Kanton Bern.",
+      "feedback_incorrect": "❌ Richtig. Die Hörerin kommt aus dem Kanton Bern."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Wochen Betriebsferien hatte die Firma bisher?</p>",
+      "options": [
+        {
+          "text": "Eine Woche",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Neu sind es vier Wochen."
+        },
+        {
+          "text": "Zwei Wochen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Neu sind es vier Wochen."
+        },
+        {
+          "text": "Drei Wochen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Vier Wochen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Neu sind es vier Wochen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Wochen Ferien konnte die Hörerin bisher frei planen?</p>",
+      "options": [
+        {
+          "text": "Zwei Wochen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bisher waren es drei Wochen, neu sind es nur noch zwei."
+        },
+        {
+          "text": "Drei Wochen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Vier Wochen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bisher waren es drei Wochen, neu sind es nur noch zwei."
+        },
+        {
+          "text": "Fünf Wochen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bisher waren es drei Wochen, neu sind es nur noch zwei."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Rechtsexpertin im Beitrag heisst Raffaella Reichlin.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Sie beantwortet die Rechtsfrage der Hörerin.",
+      "feedback_incorrect": "❌ Falsch. Sie beantwortet die Rechtsfrage der Hörerin."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Arbeitgeber muss bei der Ferienplanung die wirtschaftliche Lage des Betriebs berücksichtigen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Er muss in erster Linie auf die Bedürfnisse der Arbeitnehmer, insbesondere Familien mit Kindern, Rücksicht nehmen.",
+      "feedback_incorrect": "❌ Richtig. Er muss in erster Linie auf die Bedürfnisse der Arbeitnehmer, insbesondere Familien mit Kindern, Rücksicht nehmen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Arbeitnehmer haben das Recht, ihre Ferien frei zu wählen, unabhängig von den Betriebsferien.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Arbeitgeber legt den Zeitpunkt der Ferien fest, muss aber die Bedürfnisse der Arbeitnehmer berücksichtigen.",
+      "feedback_incorrect": "❌ Richtig. Der Arbeitgeber legt den Zeitpunkt der Ferien fest, muss aber die Bedürfnisse der Arbeitnehmer berücksichtigen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Betriebsferien müssen im Arbeitsvertrag festgehalten sein.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Sie können auch im Betriebsreglement geregelt sein.",
+      "feedback_incorrect": "❌ Richtig. Sie können auch im Betriebsreglement geregelt sein."
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "title": "betreibung_im_haus",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist der erste Schritt, den man unternehmen sollte, wenn man eine berechtigte Betreibung erhält und die Rechnung nicht sofort bezahlen kann?</p>",
+      "options": [
+        {
+          "text": "Sich beim Betreibungsamt melden und einen Rechtsvorschlag einreichen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Schuldenberatungsstelle kann helfen, eine Lösung mit den Gläubigern zu finden."
+        },
+        {
+          "text": "Die Rechnung ignorieren und hoffen, dass sie verschwindet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Schuldenberatungsstelle kann helfen, eine Lösung mit den Gläubigern zu finden."
+        },
+        {
+          "text": "Sich an eine Schuldenberatungsstelle wenden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Den Gläubiger anrufen und drohen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Schuldenberatungsstelle kann helfen, eine Lösung mit den Gläubigern zu finden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange ist ein Eintrag im Betreibungsregister sichtbar, wenn die Betreibung nicht zurückgezogen wird?</p>",
+      "options": [
+        {
+          "text": "2 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Betreibungseintrag bleibt 5 Jahre im Register sichtbar."
+        },
+        {
+          "text": "3 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Betreibungseintrag bleibt 5 Jahre im Register sichtbar."
+        },
+        {
+          "text": "5 Jahre",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "10 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Betreibungseintrag bleibt 5 Jahre im Register sichtbar."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Rechtsvorschlag bedeutet, dass man die Schuld anerkennt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Ein Rechtsvorschlag bedeutet, dass man die Forderung bestreitet.",
+      "feedback_incorrect": "❌ Richtig. Ein Rechtsvorschlag bedeutet, dass man die Forderung bestreitet."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Man kann einen Rechtsvorschlag nur schriftlich beim Betreibungsamt einreichen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Man kann den Rechtsvorschlag auch direkt beim Postboten abgeben.",
+      "feedback_incorrect": "❌ Richtig. Man kann den Rechtsvorschlag auch direkt beim Postboten abgeben."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie hoch sind die Kosten für die Löschung eines ungerechtfertigten Betreibungseintrags?</p>",
+      "options": [
+        {
+          "text": "20 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Löschung kostet 40 Franken."
+        },
+        {
+          "text": "40 Franken",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "60 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Löschung kostet 40 Franken."
+        },
+        {
+          "text": "80 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Löschung kostet 40 Franken."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange muss man nach einem Rechtsvorschlag warten, bevor man die Löschung eines ungerechtfertigten Betreibungseintrags beantragen kann?</p>",
+      "options": [
+        {
+          "text": "1 Monat",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Man muss 3 Monate warten."
+        },
+        {
+          "text": "2 Monate",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Man muss 3 Monate warten."
+        },
+        {
+          "text": "3 Monate",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "6 Monate",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Man muss 3 Monate warten."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine Betreibung kann auch erfolgen, wenn man eine Rechnung versehentlich nicht bezahlt hat.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Auch unbezahlte Rechnungen, unabhängig von der Absicht, können zu einer Betreibung führen.",
+      "feedback_incorrect": "❌ Falsch. Auch unbezahlte Rechnungen, unabhängig von der Absicht, können zu einer Betreibung führen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wenn der Gläubiger die Betreibung zurückzieht, entstehen keine Kosten.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Gläubiger kann für den Rückzug der Betreibung Gebühren verlangen (bis 200 CHF).",
+      "feedback_incorrect": "❌ Richtig. Der Gläubiger kann für den Rückzug der Betreibung Gebühren verlangen (bis 200 CHF)."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer hilft bei der Suche nach einer Lösung mit den Gläubigern?</p>",
+      "options": [
+        {
+          "text": "Der Postbote",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Schuldenberatungsstellen vermitteln und helfen bei der Findung von Lösungen."
+        },
+        {
+          "text": "Die Polizei",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Schuldenberatungsstellen vermitteln und helfen bei der Findung von Lösungen."
+        },
+        {
+          "text": "Eine Schuldenberatungsstelle",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Das Betreibungsamt",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Schuldenberatungsstellen vermitteln und helfen bei der Findung von Lösungen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Zahlungsbefehl?</p>",
+      "options": [
+        {
+          "text": "Eine Rechnung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mit dem Zahlungsbefehl wird die Betreibung offiziell angekündigt."
+        },
+        {
+          "text": "Eine Mahnung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mit dem Zahlungsbefehl wird die Betreibung offiziell angekündigt."
+        },
+        {
+          "text": "Die Ankündigung einer Betreibung",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ein Brief vom Gericht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mit dem Zahlungsbefehl wird die Betreibung offiziell angekündigt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wenn man eine Betreibung erhält, sollte man sofort einen Rechtsvorschlag einreichen, egal ob die Forderung berechtigt ist oder nicht.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Ein Rechtsvorschlag sollte nur eingereicht werden, wenn man die Forderung bestreitet.",
+      "feedback_incorrect": "❌ Richtig. Ein Rechtsvorschlag sollte nur eingereicht werden, wenn man die Forderung bestreitet."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Eintrag im Betreibungsregister kann die Kreditwürdigkeit beeinflussen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Ein Betreibungseintrag wirkt sich negativ auf die Kreditwürdigkeit aus.",
+      "feedback_incorrect": "❌ Falsch. Ein Betreibungseintrag wirkt sich negativ auf die Kreditwürdigkeit aus."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Man kann eine Betreibung verhindern, indem man alle Rechnungen pünktlich bezahlt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Wer seine Rechnungen bezahlt, erhält keine Betreibung.",
+      "feedback_incorrect": "❌ Falsch. Wer seine Rechnungen bezahlt, erhält keine Betreibung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Betreibungsamt ist zuständig für die Ausstellung von Rechnungen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Das Betreibungsamt ist für die Durchführung von Betreibungen zuständig, nicht für die Rechnungsstellung.",
+      "feedback_incorrect": "❌ Richtig. Das Betreibungsamt ist für die Durchführung von Betreibungen zuständig, nicht für die Rechnungsstellung."
+    }
+  ]
+}

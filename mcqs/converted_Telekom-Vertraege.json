@@ -1,0 +1,230 @@
+{
+  "title": "Telekom-Vertraege",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was passiert mit den Verträgen einer verstorbenen Person?</p>",
+      "options": [
+        {
+          "text": "Sie erlöschen automatisch mit dem Todestag.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Erben übernehmen die Rechte und Pflichten aus den Verträgen des Verstorbenen."
+        },
+        {
+          "text": "Sie gehen auf die Erben über.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie müssen vom Staat gekündigt werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Erben übernehmen die Rechte und Pflichten aus den Verträgen des Verstorbenen."
+        },
+        {
+          "text": "Sie werden eingefroren, bis die Erben eine Entscheidung treffen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Erben übernehmen die Rechte und Pflichten aus den Verträgen des Verstorbenen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie müssen die Erben die Verträge kündigen?</p>",
+      "options": [
+        {
+          "text": "Mündlich beim jeweiligen Anbieter.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine schriftliche Kündigung gibt den Erben und den Anbietern Rechtssicherheit."
+        },
+        {
+          "text": "Durch einen Anruf beim Zivilstandsamt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine schriftliche Kündigung gibt den Erben und den Anbietern Rechtssicherheit."
+        },
+        {
+          "text": "Schriftlich per Mail oder eingeschrieben.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Gar nicht, die Verträge enden automatisch.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine schriftliche Kündigung gibt den Erben und den Anbietern Rechtssicherheit."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Telekom-Anbieter müssen Verträge im Todesfall immer fristlos auflösen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Kündigungsfrist hängt von den allgemeinen Geschäftsbedingungen des Anbieters ab.",
+      "feedback_incorrect": "❌ Richtig. Die Kündigungsfrist hängt von den allgemeinen Geschäftsbedingungen des Anbieters ab."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Mietverträge können von den Erben unabhängig von den Vertragsbedingungen auf den nächstmöglichen gesetzlichen Termin gekündigt werden.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Das Gesetz schützt die Erben vor übermässig langen Kündigungsfristen bei Mietverträgen.",
+      "feedback_incorrect": "❌ Falsch. Das Gesetz schützt die Erben vor übermässig langen Kündigungsfristen bei Mietverträgen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was geschieht mit Arbeitsverträgen im Todesfall?</p>",
+      "options": [
+        {
+          "text": "Sie gehen auf die Erben über.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Arbeitsvertrag ist an die Person gebunden und endet mit deren Tod."
+        },
+        {
+          "text": "Sie werden bis zum Ende der vereinbarten Laufzeit weitergeführt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Arbeitsvertrag ist an die Person gebunden und endet mit deren Tod."
+        },
+        {
+          "text": "Sie werden mit dem Tod aufgelöst.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie müssen von den Erben gekündigt werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Arbeitsvertrag ist an die Person gebunden und endet mit deren Tod."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Bis wann müssen die Prämien der obligatorischen Krankenkassen bezahlt werden?</p>",
+      "options": [
+        {
+          "text": "Bis zum Ende des Monats, in dem der Tod eintrat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Bundesgericht hat entschieden, dass keine Prämien über den Todestag hinaus bezahlt werden müssen."
+        },
+        {
+          "text": "Bis zum Ende des Jahres.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Bundesgericht hat entschieden, dass keine Prämien über den Todestag hinaus bezahlt werden müssen."
+        },
+        {
+          "text": "Bis zur Auflösung des Vertrags durch die Erben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Bundesgericht hat entschieden, dass keine Prämien über den Todestag hinaus bezahlt werden müssen."
+        },
+        {
+          "text": "Bis zum Todestag.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Hörer muss die Telekomrechnung für den ganzen November bezahlen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Er muss nur anteilsmässig bis zum Todestag seiner Mutter bezahlen.",
+      "feedback_incorrect": "❌ Richtig. Er muss nur anteilsmässig bis zum Todestag seiner Mutter bezahlen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Sohn muss den Telekom-Anbieter nicht über den Tod seiner Mutter informieren.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Er muss den Anbieter informieren und den Vertrag kündigen.",
+      "feedback_incorrect": "❌ Richtig. Er muss den Anbieter informieren und den Vertrag kündigen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Erben erben nur das Vermögen, nicht aber die Verträge des Verstorbenen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Erben erben sowohl das Vermögen als auch die Verträge.",
+      "feedback_incorrect": "❌ Richtig. Die Erben erben sowohl das Vermögen als auch die Verträge."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Es ist ratsam, sich nach einem Todesfall sofort mit den Vertragsanbietern in Verbindung zu setzen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! So können die Verträge schnellstmöglich gekündigt und unnötige Kosten vermieden werden.",
+      "feedback_incorrect": "❌ Falsch. So können die Verträge schnellstmöglich gekündigt und unnötige Kosten vermieden werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Alle Telekom-Anbieter haben die gleiche Kündigungsfrist im Todesfall.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Kündigungsfristen variieren je nach Anbieter.",
+      "feedback_incorrect": "❌ Richtig. Die Kündigungsfristen variieren je nach Anbieter."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Gabriela Baumgartner ist die Rechtsexpertin bei Espresso.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Sie beantwortet die Rechtsfragen der Hörerinnen und Hörer.",
+      "feedback_incorrect": "❌ Falsch. Sie beantwortet die Rechtsfragen der Hörerinnen und Hörer."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Im Beitrag geht es um einen Hörer aus dem Kanton Zürich.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Hörer kommt aus dem Kanton Thurgau.",
+      "feedback_incorrect": "❌ Richtig. Der Hörer kommt aus dem Kanton Thurgau."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Hörer hat dem Telekom-Anbieter eine Kopie des Totenscheins geschickt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Er hat den Anbieter über den Tod seiner Mutter informiert.",
+      "feedback_incorrect": "❌ Falsch. Er hat den Anbieter über den Tod seiner Mutter informiert."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Mutter des Hörers ist im Herbst gestorben.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Todesfall ereignete sich im Herbst.",
+      "feedback_incorrect": "❌ Falsch. Der Todesfall ereignete sich im Herbst."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Hörer hat eine Mahnung für den ganzen November erhalten.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Obwohl er den Anbieter informiert hatte, erhielt er eine Mahnung.",
+      "feedback_incorrect": "❌ Falsch. Obwohl er den Anbieter informiert hatte, erhielt er eine Mahnung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Hörer möchte die Rechnung nur bis zum Todestag seiner Mutter bezahlen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Er ist der Meinung, dass der Vertrag mit dem Tod seiner Mutter endet.",
+      "feedback_incorrect": "❌ Falsch. Er ist der Meinung, dass der Vertrag mit dem Tod seiner Mutter endet."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Laut Beitrag ist es nicht ratsam, sofort zu reklamieren, wenn man eine ungerechtfertigte Mahnung erhält.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Im Beitrag wird empfohlen, die Rechnung zu reklamieren.",
+      "feedback_incorrect": "❌ Richtig. Im Beitrag wird empfohlen, die Rechnung zu reklamieren."
+    }
+  ]
+}

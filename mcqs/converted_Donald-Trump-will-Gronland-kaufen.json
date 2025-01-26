@@ -1,0 +1,217 @@
+{
+  "title": "Donald-Trump-will-Gronland-kaufen",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum will Donald Trump Grönland kaufen?</p>",
+      "options": [
+        {
+          "text": "Aus rein wirtschaftlichen Interessen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Trump begründet sein Interesse an Grönland mit der strategischen Lage der Insel und der nationalen Sicherheit der USA."
+        },
+        {
+          "text": "Um die Beziehungen zu Dänemark zu stärken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Trump begründet sein Interesse an Grönland mit der strategischen Lage der Insel und der nationalen Sicherheit der USA."
+        },
+        {
+          "text": "Aus strategischen und sicherheitspolitischen Gründen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Um dort einen Golfplatz zu bauen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Trump begründet sein Interesse an Grönland mit der strategischen Lage der Insel und der nationalen Sicherheit der USA."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Zu welchem Land gehört Grönland?</p>",
+      "options": [
+        {
+          "text": "USA",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Grönland gehört zu Dänemark, hat aber eine weitgehende Autonomie."
+        },
+        {
+          "text": "Kanada",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Grönland gehört zu Dänemark, hat aber eine weitgehende Autonomie."
+        },
+        {
+          "text": "Island",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Grönland gehört zu Dänemark, hat aber eine weitgehende Autonomie."
+        },
+        {
+          "text": "Dänemark",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Völkerrecht verbietet den Kauf von Ländern grundsätzlich.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Das Völkerrecht schliesst einen Landkauf nicht grundsätzlich aus, aber es gelten bestimmte Bedingungen.",
+      "feedback_incorrect": "❌ Richtig. Das Völkerrecht schliesst einen Landkauf nicht grundsätzlich aus, aber es gelten bestimmte Bedingungen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Bevölkerung Grönlands muss einem Verkauf der Insel zustimmen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Das Selbstbestimmungsrecht der Völker erfordert die Zustimmung der Bevölkerung in einem Referendum.",
+      "feedback_incorrect": "❌ Falsch. Das Selbstbestimmungsrecht der Völker erfordert die Zustimmung der Bevölkerung in einem Referendum."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Rolle spielt der Klimawandel im Zusammenhang mit Grönland?</p>",
+      "options": [
+        {
+          "text": "Er macht die Insel unbewohnbar.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Durch das Schmelzen des Eises werden Bodenschätze zugänglich und neue Schifffahrtswege nutzbar."
+        },
+        {
+          "text": "Er erhöht das Risiko von Naturkatastrophen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Durch das Schmelzen des Eises werden Bodenschätze zugänglich und neue Schifffahrtswege nutzbar."
+        },
+        {
+          "text": "Er ermöglicht den Zugang zu Bodenschätzen und neuen Schifffahrtswegen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Er spielt keine Rolle.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Durch das Schmelzen des Eises werden Bodenschätze zugänglich und neue Schifffahrtswege nutzbar."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was war die Reaktion Dänemarks auf Trumps Kaufangebot?</p>",
+      "options": [
+        {
+          "text": "Dänemark hat das Angebot angenommen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dänemark hat deutlich gemacht, dass Grönland nicht zum Verkauf steht."
+        },
+        {
+          "text": "Dänemark hat das Angebot abgelehnt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Dänemark verhandelt noch mit den USA.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dänemark hat deutlich gemacht, dass Grönland nicht zum Verkauf steht."
+        },
+        {
+          "text": "Dänemark hat kein offizielles Statement abgegeben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dänemark hat deutlich gemacht, dass Grönland nicht zum Verkauf steht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches historische Beispiel für einen Landkauf durch die USA wird im Beitrag genannt?</p>",
+      "options": [
+        {
+          "text": "Grönland",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die USA haben Alaska von Russland gekauft."
+        },
+        {
+          "text": "Hawaii",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die USA haben Alaska von Russland gekauft."
+        },
+        {
+          "text": "Alaska",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Kuba",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die USA haben Alaska von Russland gekauft."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Donald Trump ist der erste US-Präsident, der Interesse an einem Kauf Grönlands gezeigt hat.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Auch frühere US-Präsidenten haben versucht, Grönland zu kaufen oder dort eine Militärbasis zu errichten.",
+      "feedback_incorrect": "❌ Richtig. Auch frühere US-Präsidenten haben versucht, Grönland zu kaufen oder dort eine Militärbasis zu errichten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein unter militärischem Druck zustande gekommener Landkauf wäre völkerrechtlich gültig.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Ein solcher Vertrag wäre ungültig und ein Verstoss gegen das Gewaltverbot.",
+      "feedback_incorrect": "❌ Richtig. Ein solcher Vertrag wäre ungültig und ein Verstoss gegen das Gewaltverbot."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Grönland ist ein unabhängiger Staat.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Grönland gehört zu Dänemark, hat aber eine weitgehende Autonomie.",
+      "feedback_incorrect": "❌ Richtig. Grönland gehört zu Dänemark, hat aber eine weitgehende Autonomie."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die USA haben in der Vergangenheit noch nie Land von anderen Staaten gekauft.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die USA haben in der Vergangenheit Territorien von Frankreich, Spanien, Mexiko und Russland gekauft.",
+      "feedback_incorrect": "❌ Richtig. Die USA haben in der Vergangenheit Territorien von Frankreich, Spanien, Mexiko und Russland gekauft."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Grönland hat grosse Vorkommen an Bodenschätzen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Grönland verfügt über wertvolle Bodenschätze, die durch das Schmelzen des Eises zunehmend zugänglich werden.",
+      "feedback_incorrect": "❌ Falsch. Grönland verfügt über wertvolle Bodenschätze, die durch das Schmelzen des Eises zunehmend zugänglich werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Bewohner Grönlands haben sich in einem Referendum für den Verkauf der Insel ausgesprochen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Es gab kein Referendum zu diesem Thema. Die grönländische Bevölkerung und die dänische Regierung lehnen einen Verkauf ab.",
+      "feedback_incorrect": "❌ Richtig. Es gab kein Referendum zu diesem Thema. Die grönländische Bevölkerung und die dänische Regierung lehnen einen Verkauf ab."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die strategische Lage Grönlands im Nordatlantik spielt eine wichtige Rolle für das Interesse der USA.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Lage Grönlands ist sowohl militärisch als auch handelstechnisch von Bedeutung für die USA.",
+      "feedback_incorrect": "❌ Falsch. Die Lage Grönlands ist sowohl militärisch als auch handelstechnisch von Bedeutung für die USA."
+    }
+  ]
+}

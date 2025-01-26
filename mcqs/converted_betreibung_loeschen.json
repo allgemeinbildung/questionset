@@ -1,0 +1,274 @@
+{
+  "title": "betreibung_loeschen",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist der erste Schritt im Betreibungsprozess?</p>",
+      "options": [
+        {
+          "text": "Der Gläubiger schickt eine Betreibung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Vor einer Betreibung muss der Gläubiger mindestens eine Mahnung schicken."
+        },
+        {
+          "text": "Der Gläubiger schickt eine Mahnung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Der Gläubiger geht zum Betreibungsamt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Vor einer Betreibung muss der Gläubiger mindestens eine Mahnung schicken."
+        },
+        {
+          "text": "Der Gläubiger pfändet den Lohn des Schuldners.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Vor einer Betreibung muss der Gläubiger mindestens eine Mahnung schicken."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Behörde ist für Betreibungen zuständig?</p>",
+      "options": [
+        {
+          "text": "Die Polizei",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Betreibungsamt ist die zuständige Behörde für Betreibungen."
+        },
+        {
+          "text": "Das Gericht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Betreibungsamt ist die zuständige Behörde für Betreibungen."
+        },
+        {
+          "text": "Das Betreibungsamt",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Gemeinde",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Betreibungsamt ist die zuständige Behörde für Betreibungen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine Betreibung kann die Kreditwürdigkeit beeinträchtigen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Eine Betreibung hat negative Auswirkungen auf die Kreditwürdigkeit.",
+      "feedback_incorrect": "❌ Falsch. Eine Betreibung hat negative Auswirkungen auf die Kreditwürdigkeit."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Man kann eine Betreibung löschen lassen, ohne die Schulden zu bezahlen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Zur Löschung einer Betreibung müssen die Schulden und die Betreibungskosten beglichen werden.",
+      "feedback_incorrect": "❌ Richtig. Zur Löschung einer Betreibung müssen die Schulden und die Betreibungskosten beglichen werden."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte man tun, wenn man eine Betreibung erhält?</p>",
+      "options": [
+        {
+          "text": "Die Betreibung ignorieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist wichtig, die Forderung zu prüfen und mit dem Gläubiger Kontakt aufzunehmen."
+        },
+        {
+          "text": "Sich beim Gläubiger melden und die Forderung prüfen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sich verstecken.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist wichtig, die Forderung zu prüfen und mit dem Gläubiger Kontakt aufzunehmen."
+        },
+        {
+          "text": "Sofort einen Anwalt einschalten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist wichtig, die Forderung zu prüfen und mit dem Gläubiger Kontakt aufzunehmen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Faktor beeinflusst die Kosten einer Betreibungslöschung?</p>",
+      "options": [
+        {
+          "text": "Die Haarfarbe des Schuldners",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Kosten der Betreibungslöschung sind abhängig von der Höhe der ursprünglichen Forderung."
+        },
+        {
+          "text": "Die Höhe der Forderung",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Das Wetter",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Kosten der Betreibungslöschung sind abhängig von der Höhe der ursprünglichen Forderung."
+        },
+        {
+          "text": "Der Wochentag",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Kosten der Betreibungslöschung sind abhängig von der Höhe der ursprünglichen Forderung."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Experte im Beitrag rät, bei einer Betreibung sofort in Panik zu geraten.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Experte rät, Ruhe zu bewahren und die Situation zu analysieren.",
+      "feedback_incorrect": "❌ Richtig. Der Experte rät, Ruhe zu bewahren und die Situation zu analysieren."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine Betreibung kann zu Lohnpfändung führen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Im Extremfall kann eine Betreibung zu Lohnpfändung führen.",
+      "feedback_incorrect": "❌ Falsch. Im Extremfall kann eine Betreibung zu Lohnpfändung führen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist KEINE Folge einer Betreibung?</p>",
+      "options": [
+        {
+          "text": "Schwierigkeiten bei der Wohnungssuche",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Lottogewinn hat nichts mit den Folgen einer Betreibung zu tun."
+        },
+        {
+          "text": "Einschränkung der Kreditwürdigkeit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Lottogewinn hat nichts mit den Folgen einer Betreibung zu tun."
+        },
+        {
+          "text": "Gewinn im Lotto",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Kontosperrung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Lottogewinn hat nichts mit den Folgen einer Betreibung zu tun."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie kann man eine Betreibung verhindern?</p>",
+      "options": [
+        {
+          "text": "Rechnungen ignorieren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Rechtzeitiges Bezahlen von Rechnungen verhindert Betreibungen."
+        },
+        {
+          "text": "Rechnungen rechtzeitig bezahlen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sich beim Betreibungsamt anmelden",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Rechtzeitiges Bezahlen von Rechnungen verhindert Betreibungen."
+        },
+        {
+          "text": "Ins Ausland flüchten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Rechtzeitiges Bezahlen von Rechnungen verhindert Betreibungen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Betreibungsamt ist eine private Organisation.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Das Betreibungsamt ist eine staatliche Behörde.",
+      "feedback_incorrect": "❌ Richtig. Das Betreibungsamt ist eine staatliche Behörde."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Man sollte den Empfang einer Betreibung immer sofort bestätigen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Man sollte den Empfang nicht bestätigen bevor man die Forderung geprüft hat.",
+      "feedback_incorrect": "❌ Richtig. Man sollte den Empfang nicht bestätigen bevor man die Forderung geprüft hat."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Zahlungsbefehl?</p>",
+      "options": [
+        {
+          "text": "Eine Grusskarte",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Zahlungsbefehl ist ein offizielles Schreiben, das den Schuldner zur Zahlung auffordert."
+        },
+        {
+          "text": "Eine Rechnung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Zahlungsbefehl ist ein offizielles Schreiben, das den Schuldner zur Zahlung auffordert."
+        },
+        {
+          "text": "Ein offizielles Schreiben des Betreibungsamtes",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ein Mahnung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Zahlungsbefehl ist ein offizielles Schreiben, das den Schuldner zur Zahlung auffordert."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo kann man sich bei finanziellen Schwierigkeiten Hilfe suchen?</p>",
+      "options": [
+        {
+          "text": "Bei der Polizei",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Schuldnerberatung bietet professionelle Hilfe bei finanziellen Problemen."
+        },
+        {
+          "text": "Bei einer Schuldnerberatung",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Im Casino",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Schuldnerberatung bietet professionelle Hilfe bei finanziellen Problemen."
+        },
+        {
+          "text": "Bei einem Wahrsager",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Schuldnerberatung bietet professionelle Hilfe bei finanziellen Problemen."
+        }
+      ]
+    }
+  ]
+}

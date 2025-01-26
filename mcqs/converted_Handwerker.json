@@ -1,0 +1,236 @@
+{
+  "title": "Handwerker",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Worum geht es im Beitrag?</p>",
+      "options": [
+        {
+          "text": "Um die Bekämpfung von Mäusen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird der Fall einer Hörerin diskutiert, die die Rechnung eines Schädlingsbekämpfers für zu hoch hält."
+        },
+        {
+          "text": "Um die Kosten einer Schädlingsbekämpfung",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Um einen Wasserschaden in einer Wohnung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird der Fall einer Hörerin diskutiert, die die Rechnung eines Schädlingsbekämpfers für zu hoch hält."
+        },
+        {
+          "text": "Um die Kündigung eines Mietvertrags",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird der Fall einer Hörerin diskutiert, die die Rechnung eines Schädlingsbekämpfers für zu hoch hält."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welchen Betrag verlangte der Schädlingsbekämpfer?</p>",
+      "options": [
+        {
+          "text": "420 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Schädlingsbekämpfer stellte 620 Franken in Rechnung."
+        },
+        {
+          "text": "520 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Schädlingsbekämpfer stellte 620 Franken in Rechnung."
+        },
+        {
+          "text": "620 Franken",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "720 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Schädlingsbekämpfer stellte 620 Franken in Rechnung."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin war mit der Höhe der Rechnung einverstanden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Hörerin fand die Rechnung zu hoch, da der Aufwand geringer war als erwartet.",
+      "feedback_incorrect": "❌ Richtig. Die Hörerin fand die Rechnung zu hoch, da der Aufwand geringer war als erwartet."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Pauschalofferten sind rechtlich bindend.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Auch wenn der Aufwand geringer ausfällt als erwartet, sind Pauschalofferten verbindlich.",
+      "feedback_incorrect": "❌ Falsch. Auch wenn der Aufwand geringer ausfällt als erwartet, sind Pauschalofferten verbindlich."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was wurde an der Offerte kritisiert?</p>",
+      "options": [
+        {
+          "text": "Sie war zu kurz.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Offerte enthielt keine detaillierte Aufschlüsselung der Kosten und basierte nicht auf einer Besichtigung der Wohnung."
+        },
+        {
+          "text": "Sie war nicht detailliert genug.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie enthielt keine Preise.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Offerte enthielt keine detaillierte Aufschlüsselung der Kosten und basierte nicht auf einer Besichtigung der Wohnung."
+        },
+        {
+          "text": "Sie war handschriftlich verfasst.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Offerte enthielt keine detaillierte Aufschlüsselung der Kosten und basierte nicht auf einer Besichtigung der Wohnung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Möglichkeiten hat die Hörerin?</p>",
+      "options": [
+        {
+          "text": "Sie kann die Rechnung einfach ignorieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin kann die Rechnung bestreiten und ein Gerichtsverfahren anstreben oder versuchen, einen Kompromiss mit dem Handwerker zu finden."
+        },
+        {
+          "text": "Sie kann ein Gerichtsverfahren anstreben.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie kann den Schädlingsbekämpfer anzeigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin kann die Rechnung bestreiten und ein Gerichtsverfahren anstreben oder versuchen, einen Kompromiss mit dem Handwerker zu finden."
+        },
+        {
+          "text": "Sie kann eine neue Offerte verlangen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin kann die Rechnung bestreiten und ein Gerichtsverfahren anstreben oder versuchen, einen Kompromiss mit dem Handwerker zu finden."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Schädlingsbekämpfer hat die Wohnung vor der Offerterstellung besichtigt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Schädlingsbekämpfer hat die Wohnung nicht besichtigt.",
+      "feedback_incorrect": "❌ Richtig. Der Schädlingsbekämpfer hat die Wohnung nicht besichtigt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Rechtsexpertin rät der Hörerin, die Rechnung zu bezahlen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Rechtsexpertin gibt der Hörerin verschiedene Handlungsoptionen, darunter auch die Möglichkeit, die Rechnung zu bestreiten.",
+      "feedback_incorrect": "❌ Richtig. Die Rechtsexpertin gibt der Hörerin verschiedene Handlungsoptionen, darunter auch die Möglichkeit, die Rechnung zu bestreiten."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Tier verursachte die Probleme?</p>",
+      "options": [
+        {
+          "text": "Silberfische",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Mäuse",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag geht es um Silberfische."
+        },
+        {
+          "text": "Kakerlaken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag geht es um Silberfische."
+        },
+        {
+          "text": "Ameisen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag geht es um Silberfische."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Kanton wohnt die Hörerin?</p>",
+      "options": [
+        {
+          "text": "Bern",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin wohnt im Kanton Zürich."
+        },
+        {
+          "text": "Zürich",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Aargau",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin wohnt im Kanton Zürich."
+        },
+        {
+          "text": "Basel",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin wohnt im Kanton Zürich."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Nur die Wohnung der Hörerin war betroffen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der ganze Block war von Silberfischen betroffen.",
+      "feedback_incorrect": "❌ Richtig. Der ganze Block war von Silberfischen betroffen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Kammerjäger hat 5% Rabatt angeboten.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Kammerjäger bot 5% Rabatt an.",
+      "feedback_incorrect": "❌ Falsch. Der Kammerjäger bot 5% Rabatt an."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin hat sich vor der Behandlung eine Offerte erstellen lassen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Stockwerkeigentümerschaft hat sich vor der Behandlung eine Offerte erstellen lassen.",
+      "feedback_incorrect": "❌ Falsch. Die Stockwerkeigentümerschaft hat sich vor der Behandlung eine Offerte erstellen lassen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Handwerker war länger in der Wohnung als erwartet.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Handwerker war kürzer in der Wohnung als erwartet.",
+      "feedback_incorrect": "❌ Richtig. Der Handwerker war kürzer in der Wohnung als erwartet."
+    }
+  ]
+}

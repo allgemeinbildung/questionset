@@ -1,0 +1,274 @@
+{
+  "title": "erfolglose_betreibung",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum war die Betreibung der Hörerin erfolglos?</p>",
+      "options": [
+        {
+          "text": "Der Kollege hat einen Rechtsvorschlag eingereicht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Schweizer Behörden können im Ausland keine Betreibung durchführen."
+        },
+        {
+          "text": "Die Hörerin hatte keinen schriftlichen Vertrag.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Schweizer Behörden können im Ausland keine Betreibung durchführen."
+        },
+        {
+          "text": "Der Kollege ist ins Ausland gezogen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Das Betreibungsamt hat einen Fehler gemacht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Schweizer Behörden können im Ausland keine Betreibung durchführen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was rät die Rechtsexpertin der Hörerin?</p>",
+      "options": [
+        {
+          "text": "Die Forderung abschreiben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsschutzversicherung kann die Hörerin im weiteren Vorgehen unterstützen."
+        },
+        {
+          "text": "Sich an die Polizei wenden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsschutzversicherung kann die Hörerin im weiteren Vorgehen unterstützen."
+        },
+        {
+          "text": "Einen Anwalt im Ausland beauftragen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsschutzversicherung kann die Hörerin im weiteren Vorgehen unterstützen."
+        },
+        {
+          "text": "Sich an ihre Rechtsschutzversicherung wenden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin hat keine Chance mehr, ihr Geld zurückzubekommen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Es gibt noch Möglichkeiten, z.B. die Beschlagnahmung von Vermögenswerten in der Schweiz.",
+      "feedback_incorrect": "❌ Richtig. Es gibt noch Möglichkeiten, z.B. die Beschlagnahmung von Vermögenswerten in der Schweiz."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein schriftlicher Vertrag ist wichtig, wenn man jemandem Geld leiht.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Vertrag dient als Beweismittel für die Forderung.",
+      "feedback_incorrect": "❌ Falsch. Der Vertrag dient als Beweismittel für die Forderung."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welchen Betrag hat die Hörerin dem Kollegen geliehen?</p>",
+      "options": [
+        {
+          "text": "10'000 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird explizit von 20'000 Franken gesprochen."
+        },
+        {
+          "text": "15'000 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird explizit von 20'000 Franken gesprochen."
+        },
+        {
+          "text": "20'000 Franken",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "25'000 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird explizit von 20'000 Franken gesprochen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo befindet sich der Kollege der Hörerin?</p>",
+      "options": [
+        {
+          "text": "In der Schweiz",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wird nur erwähnt, dass er sich im Ausland befindet, ohne ein bestimmtes Land zu nennen."
+        },
+        {
+          "text": "In Deutschland",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wird nur erwähnt, dass er sich im Ausland befindet, ohne ein bestimmtes Land zu nennen."
+        },
+        {
+          "text": "In Österreich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wird nur erwähnt, dass er sich im Ausland befindet, ohne ein bestimmtes Land zu nennen."
+        },
+        {
+          "text": "Im Ausland (nicht näher spezifiziert)",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Betreibungsamt kann den Zahlungsbefehl im Ausland vollstrecken.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Das Betreibungsamt ist nur in der Schweiz zuständig.",
+      "feedback_incorrect": "❌ Richtig. Das Betreibungsamt ist nur in der Schweiz zuständig."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin muss die Kosten für ein allfälliges Gerichtsverfahren im Ausland selbst tragen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Wenn die Hörerin gewinnt, müsste der Kollege die Kosten tragen. Nur wenn er kein Geld hat, muss sie die Kosten tragen.",
+      "feedback_incorrect": "❌ Richtig. Wenn die Hörerin gewinnt, müsste der Kollege die Kosten tragen. Nur wenn er kein Geld hat, muss sie die Kosten tragen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Arrest im juristischen Sinne?</p>",
+      "options": [
+        {
+          "text": "Eine Gefängnisstrafe",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erklärt, dass ein Arrest die Beschlagnahmung von Vermögenswerten bedeutet."
+        },
+        {
+          "text": "Die Beschlagnahmung von Vermögenswerten",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ein schriftlicher Vertrag",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erklärt, dass ein Arrest die Beschlagnahmung von Vermögenswerten bedeutet."
+        },
+        {
+          "text": "Eine Busse",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erklärt, dass ein Arrest die Beschlagnahmung von Vermögenswerten bedeutet."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Auf welches Konto hat die Hörerin das Geld überwiesen?</p>",
+      "options": [
+        {
+          "text": "Ein ausländisches Konto",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wird erwähnt, dass das Geld auf ein Konto einer Schweizer Bank überwiesen wurde."
+        },
+        {
+          "text": "Ein Schweizer Konto",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ein Gemeinschaftskonto",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wird erwähnt, dass das Geld auf ein Konto einer Schweizer Bank überwiesen wurde."
+        },
+        {
+          "text": "Das ist nicht bekannt",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wird erwähnt, dass das Geld auf ein Konto einer Schweizer Bank überwiesen wurde."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Kollege hat den Zahlungsbefehl angefochten.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Es wird erwähnt, dass kein Rechtsvorschlag eingegangen ist.",
+      "feedback_incorrect": "❌ Richtig. Es wird erwähnt, dass kein Rechtsvorschlag eingegangen ist."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Rechtsexpertin rät der Hörerin, die Angelegenheit selbst in die Hand zu nehmen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Sie rät ihr, sich an die Rechtsschutzversicherung zu wenden.",
+      "feedback_incorrect": "❌ Richtig. Sie rät ihr, sich an die Rechtsschutzversicherung zu wenden."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was für ein Dokument hat die Hörerin mit dem Kollegen?</p>",
+      "options": [
+        {
+          "text": "Einen mündlichen Vertrag",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird explizit von einem schriftlichen Darlehensvertrag gesprochen."
+        },
+        {
+          "text": "Einen schriftlichen Darlehensvertrag",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Quittung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird explizit von einem schriftlichen Darlehensvertrag gesprochen."
+        },
+        {
+          "text": "Gar kein Dokument",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird explizit von einem schriftlichen Darlehensvertrag gesprochen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo findet man Informationen darüber, wie man einen Darlehensvertrag korrekt erstellt?</p>",
+      "options": [
+        {
+          "text": "Beim Betreibungsamt",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Am Ende des Beitrags wird auf srf.ch/espresso verwiesen."
+        },
+        {
+          "text": "Auf srf.ch/espresso",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Beim Anwalt",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Am Ende des Beitrags wird auf srf.ch/espresso verwiesen."
+        },
+        {
+          "text": "Bei der Bank",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Am Ende des Beitrags wird auf srf.ch/espresso verwiesen."
+        }
+      ]
+    }
+  ]
+}

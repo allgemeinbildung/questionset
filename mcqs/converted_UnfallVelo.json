@@ -1,0 +1,274 @@
+{
+  "title": "UnfallVelo",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum musste der Velofahrer die Rechnung für die Ambulanz und die Spitaluntersuchung bezahlen?</p>",
+      "options": [
+        {
+          "text": "Weil er die Ambulanz selbst gerufen hatte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nur eine urteilsfähige Person kann eine medizinische Behandlung wirksam ablehnen."
+        },
+        {
+          "text": "Weil er sich geweigert hatte, die Behandlung abzulehnen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nur eine urteilsfähige Person kann eine medizinische Behandlung wirksam ablehnen."
+        },
+        {
+          "text": "Weil er nicht urteilsfähig war und die Behandlung nicht wirksam ablehnen konnte.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Weil er Passanten beschimpft hatte, die ihm helfen wollten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nur eine urteilsfähige Person kann eine medizinische Behandlung wirksam ablehnen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Versicherung übernimmt die Kosten für die Behandlung im Spital?</p>",
+      "options": [
+        {
+          "text": "Die Haftpflichtversicherung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Krankenkasse übernimmt die Kosten für die medizinische Behandlung."
+        },
+        {
+          "text": "Die Krankenkasse",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Unfallversicherung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Krankenkasse übernimmt die Kosten für die medizinische Behandlung."
+        },
+        {
+          "text": "Die Lebensversicherung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Krankenkasse übernimmt die Kosten für die medizinische Behandlung."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Velofahrer war verpflichtet, die Ambulanz zu rufen, da er einen Unfall hatte.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Velofahrer war nicht verpflichtet, die Ambulanz zu rufen, da er sich nicht verletzt fühlte.",
+      "feedback_incorrect": "❌ Richtig. Der Velofahrer war nicht verpflichtet, die Ambulanz zu rufen, da er sich nicht verletzt fühlte."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Rettungssanitäter dürfen eine Person gegen ihren Willen behandeln, wenn sie nicht urteilsfähig ist.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Rettungssanitäter müssen in diesem Fall die Polizei rufen, um die Person behandeln zu können.",
+      "feedback_incorrect": "❌ Falsch. Die Rettungssanitäter müssen in diesem Fall die Polizei rufen, um die Person behandeln zu können."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer ist verpflichtet, bei einem Unfall Erste Hilfe zu leisten?</p>",
+      "options": [
+        {
+          "text": "Nur Personen, die einen Erste-Hilfe-Kurs absolviert haben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es besteht eine allgemeine Hilfeleistungspflicht bei Unfällen."
+        },
+        {
+          "text": "Nur Personen, die in den Unfall verwickelt sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es besteht eine allgemeine Hilfeleistungspflicht bei Unfällen."
+        },
+        {
+          "text": "Jede Person, die Zeuge eines Unfalls wird.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Nur die Polizei und Rettungssanitäter.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es besteht eine allgemeine Hilfeleistungspflicht bei Unfällen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein wichtiges Kriterium zur Beurteilung der Urteilsfähigkeit?</p>",
+      "options": [
+        {
+          "text": "Das Alter der Person",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Orientierung der Person ist ein wichtiges Kriterium zur Beurteilung der Urteilsfähigkeit."
+        },
+        {
+          "text": "Die körperliche Fitness der Person",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Orientierung der Person ist ein wichtiges Kriterium zur Beurteilung der Urteilsfähigkeit."
+        },
+        {
+          "text": "Die Orientierung der Person",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Der Beruf der Person",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Orientierung der Person ist ein wichtiges Kriterium zur Beurteilung der Urteilsfähigkeit."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Velofahrer hätte die Polizei rufen müssen, da er in einen Unfall verwickelt war.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Velofahrer war nicht verpflichtet, die Polizei zu rufen, da es sich um einen Alleinunfall handelte und er sich nicht verletzt fühlte.",
+      "feedback_incorrect": "❌ Richtig. Der Velofahrer war nicht verpflichtet, die Polizei zu rufen, da es sich um einen Alleinunfall handelte und er sich nicht verletzt fühlte."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Unfallversicherung übernimmt die gesamten Kosten für die Ambulanz.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Unfallversicherung übernimmt nur einen Teil der Kosten für die Ambulanz.",
+      "feedback_incorrect": "❌ Richtig. Die Unfallversicherung übernimmt nur einen Teil der Kosten für die Ambulanz."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Fall muss man bei einem Unfall unbedingt die Polizei rufen?</p>",
+      "options": [
+        {
+          "text": "Wenn der Verunfallte nicht ansprechbar ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bei Verkehrsunfällen muss immer die Polizei gerufen werden."
+        },
+        {
+          "text": "Wenn der Verunfallte über Schmerzen klagt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bei Verkehrsunfällen muss immer die Polizei gerufen werden."
+        },
+        {
+          "text": "Wenn es sich um einen Verkehrsunfall handelt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Wenn der Verunfallte eine blutende Wunde hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bei Verkehrsunfällen muss immer die Polizei gerufen werden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist die Aufgabe der Rettungssanitäter bei einem Unfall?</p>",
+      "options": [
+        {
+          "text": "Die Feststellung der Schuldfrage",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hauptaufgabe der Rettungssanitäter ist die medizinische Versorgung des Verunfallten."
+        },
+        {
+          "text": "Die medizinische Versorgung des Verunfallten",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Bergung des Verunfallten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hauptaufgabe der Rettungssanitäter ist die medizinische Versorgung des Verunfallten."
+        },
+        {
+          "text": "Die Sicherung der Unfallstelle",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hauptaufgabe der Rettungssanitäter ist die medizinische Versorgung des Verunfallten."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Velofahrer war topfit und ein ehemaliger Velorennfahrer.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Velofahrer war topfit und ein ehemaliger Velorennfahrer.",
+      "feedback_incorrect": "❌ Falsch. Der Velofahrer war topfit und ein ehemaliger Velorennfahrer."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Velofahrer ist mit dem Kopf auf dem Boden aufgeschlagen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Velofahrer ist mit dem Kopf auf dem Boden aufgeschlagen.",
+      "feedback_incorrect": "❌ Falsch. Der Velofahrer ist mit dem Kopf auf dem Boden aufgeschlagen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo findet man weitere Informationen zum Thema Unfall und Erste Hilfe?</p>",
+      "options": [
+        {
+          "text": "Auf der Webseite der Kantonspolizei Zürich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Online-Artikel von SRF Espresso findet man weitere Informationen zum Thema Unfall und Erste Hilfe."
+        },
+        {
+          "text": "Im Online-Artikel von SRF Espresso",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "In der Broschüre des Schweizerischen Roten Kreuzes",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Online-Artikel von SRF Espresso findet man weitere Informationen zum Thema Unfall und Erste Hilfe."
+        },
+        {
+          "text": "Im Handbuch für Verkehrsteilnehmer",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Online-Artikel von SRF Espresso findet man weitere Informationen zum Thema Unfall und Erste Hilfe."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist die wichtigste Voraussetzung, um eine medizinische Behandlung ablehnen zu können?</p>",
+      "options": [
+        {
+          "text": "Volljährigkeit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nur wer urteilsfähig ist, kann eine medizinische Behandlung wirksam ablehnen."
+        },
+        {
+          "text": "Einwandfreier Gesundheitszustand",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nur wer urteilsfähig ist, kann eine medizinische Behandlung wirksam ablehnen."
+        },
+        {
+          "text": "Urteilsfähigkeit",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Mitgliedschaft bei einer Krankenkasse",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nur wer urteilsfähig ist, kann eine medizinische Behandlung wirksam ablehnen."
+        }
+      ]
+    }
+  ]
+}

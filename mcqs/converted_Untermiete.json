@@ -1,0 +1,274 @@
+{
+  "title": "Untermiete",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Vermieter darf die Untermiete verbieten, wenn...</p>",
+      "options": [
+        {
+          "text": "der Untermieter raucht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Wenn die Hauptmieterin auszieht, darf der Vermieter die Untermiete verbieten."
+        },
+        {
+          "text": "die Hauptmieterin auszieht und die Wohnung selbst nicht mehr bewohnt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "der Untermieter ein Haustier hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Wenn die Hauptmieterin auszieht, darf der Vermieter die Untermiete verbieten."
+        },
+        {
+          "text": "die Hauptmieterin einen zu niedrigen Mietzins verlangt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Wenn die Hauptmieterin auszieht, darf der Vermieter die Untermiete verbieten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein überrissener Mietzins für eine Untermiete liegt vor, wenn er...</p>",
+      "options": [
+        {
+          "text": "höher ist als der Mietzins der Hauptmieterin.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Bundesgericht definiert einen überrissenen Mietzins als mehr als 30% des Gesamtmietzinses."
+        },
+        {
+          "text": "mehr als 30% des Mietzinses für die gesamte Wohnung beträgt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "niedriger ist als der Mietzins der Hauptmieterin.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Bundesgericht definiert einen überrissenen Mietzins als mehr als 30% des Gesamtmietzinses."
+        },
+        {
+          "text": "vom Untermieter als zu hoch empfunden wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Bundesgericht definiert einen überrissenen Mietzins als mehr als 30% des Gesamtmietzinses."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Verwaltung darf die Untermiete befristen, wenn sie dies im Mietvertrag festgehalten hat.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Eine Befristung der Untermiete ist nur aus den drei genannten Gründen zulässig.",
+      "feedback_incorrect": "❌ Richtig. Eine Befristung der Untermiete ist nur aus den drei genannten Gründen zulässig."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin kann die Mietschlechtungsbehörde kontaktieren, wenn die Verwaltung die Untermiete ungerechtfertigt verweigert.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Mietschlechtungsbehörde kann bei Streitigkeiten zwischen Mieter und Vermieter vermitteln.",
+      "feedback_incorrect": "❌ Falsch. Die Mietschlechtungsbehörde kann bei Streitigkeiten zwischen Mieter und Vermieter vermitteln."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches der folgenden Argumente ist KEIN zulässiger Grund für einen Vermieter, die Untermiete zu verbieten?</p>",
+      "options": [
+        {
+          "text": "Die Wohnung wäre überbelegt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Hausratversicherung ist Sache des Untermieters und kein Grund für ein Verbot der Untermiete."
+        },
+        {
+          "text": "Der Untermieter hat keine Hausratversicherung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Hauptmieterin zieht aus.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Hausratversicherung ist Sache des Untermieters und kein Grund für ein Verbot der Untermiete."
+        },
+        {
+          "text": "Es wird ein überhöhter Mietzins verlangt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Hausratversicherung ist Sache des Untermieters und kein Grund für ein Verbot der Untermiete."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte die Hörerin der Vermieterin bezüglich der Untermiete mitteilen?</p>",
+      "options": [
+        {
+          "text": "Die finanziellen Verhältnisse des Untermieters.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin muss den Mietzins und die Bedingungen der Untermiete offenlegen."
+        },
+        {
+          "text": "Den genauen Mietzins und die Mietbedingungen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die persönlichen Daten des Untermieters, einschliesslich AHV-Nummer.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin muss den Mietzins und die Bedingungen der Untermiete offenlegen."
+        },
+        {
+          "text": "Die Gründe, warum sie untervermieten möchte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin muss den Mietzins und die Bedingungen der Untermiete offenlegen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Rechtsexpertin rät der Hörerin, die Befristung der Untermiete zu akzeptieren.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Rechtsexpertin rät der Hörerin, die Befristung nicht zu akzeptieren, da sie nicht rechtens ist.",
+      "feedback_incorrect": "❌ Richtig. Die Rechtsexpertin rät der Hörerin, die Befristung nicht zu akzeptieren, da sie nicht rechtens ist."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Verfahren bei der Mietschlechtungsbehörde ist in der Regel kostenlos.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Das Verfahren bei der Mietschlechtungsbehörde ist in der Regel kostenlos.",
+      "feedback_incorrect": "❌ Falsch. Das Verfahren bei der Mietschlechtungsbehörde ist in der Regel kostenlos."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Fall darf die Vermieterin die Untermiete verbieten?</p>",
+      "options": [
+        {
+          "text": "Wenn der Untermieter jünger als 18 Jahre ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Überbelegung ist ein zulässiger Grund für ein Verbot der Untermiete."
+        },
+        {
+          "text": "Wenn die Hauptmieterin weiterhin in der Wohnung wohnt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Überbelegung ist ein zulässiger Grund für ein Verbot der Untermiete."
+        },
+        {
+          "text": "Wenn die Wohnung durch die Untermiete überbelegt wäre.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Wenn der Untermieter keiner geregelten Arbeit nachgeht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Überbelegung ist ein zulässiger Grund für ein Verbot der Untermiete."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer ist Gabriele Baumgartner im Kontext des Radiobeitrags?</p>",
+      "options": [
+        {
+          "text": "Die Hörerin, die untervermieten möchte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gabriele Baumgartner gibt im Radiobeitrag Auskunft zur Rechtslage."
+        },
+        {
+          "text": "Die Vermieterin der Wohnung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gabriele Baumgartner gibt im Radiobeitrag Auskunft zur Rechtslage."
+        },
+        {
+          "text": "Eine Rechtsexpertin.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Mitarbeiterin der Mietschlechtungsbehörde.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gabriele Baumgartner gibt im Radiobeitrag Auskunft zur Rechtslage."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hauptmieterin darf die Untermiete jederzeit und ohne Angabe von Gründen kündigen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Für die Kündigung einer Untermiete gelten die gleichen Regeln wie für die Kündigung eines normalen Mietvertrags.",
+      "feedback_incorrect": "❌ Richtig. Für die Kündigung einer Untermiete gelten die gleichen Regeln wie für die Kündigung eines normalen Mietvertrags."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Radiobeitrag wurde in der Sendung Kassensturz ausgestrahlt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Beitrag wurde in der Sendung Espresso ausgestrahlt.",
+      "feedback_incorrect": "❌ Richtig. Der Beitrag wurde in der Sendung Espresso ausgestrahlt."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo findet man weitere Informationen zum Thema Untermiete?</p>",
+      "options": [
+        {
+          "text": "Auf der Website des Bundesamts für Wohnungswesen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Radiobeitrag wird auf srf.ch/espresso verwiesen."
+        },
+        {
+          "text": "Auf srf.ch/espresso.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Im Schweizerischen Zivilgesetzbuch.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Radiobeitrag wird auf srf.ch/espresso verwiesen."
+        },
+        {
+          "text": "Auf der Website des Mieterinnen- und Mieterverbands.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Radiobeitrag wird auf srf.ch/espresso verwiesen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist die 'Pick at Home' Funktion der Post im Zusammenhang mit der Rücksendung?</p>",
+      "options": [
+        {
+          "text": "Die Post holt das Paket an einem vereinbarten Ort ab.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Rücksendung erfolgt über einen Paketshop.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mit der 'Pick at Home' Funktion holt die Post die Rücksendung ab."
+        },
+        {
+          "text": "Das Paket wird direkt an den Online-Händler zurückgeschickt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mit der 'Pick at Home' Funktion holt die Post die Rücksendung ab."
+        },
+        {
+          "text": "Die Rücksendung erfolgt über eine spezielle Paketbox.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mit der 'Pick at Home' Funktion holt die Post die Rücksendung ab."
+        }
+      ]
+    }
+  ]
+}

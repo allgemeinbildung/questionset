@@ -1,0 +1,360 @@
+{
+  "title": "5.2_Haftpflichtversicherungen",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist der Zweck einer Haftpflichtversicherung?</p>",
+      "options": [
+        {
+          "text": "Sie deckt Schäden ab, die man sich selbst zufügt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Haftpflichtversicherungen decken Schäden ab, die man Drittpersonen oder deren Sachen zufügt. (Seite 150)"
+        },
+        {
+          "text": "Sie deckt Schäden ab, die man Drittpersonen oder deren Sachen zufügt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie deckt Schäden ab, die durch Naturkatastrophen verursacht werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Haftpflichtversicherungen decken Schäden ab, die man Drittpersonen oder deren Sachen zufügt. (Seite 150)"
+        },
+        {
+          "text": "Sie deckt Schäden ab, die durch Arbeitsunfälle entstehen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Haftpflichtversicherungen decken Schäden ab, die man Drittpersonen oder deren Sachen zufügt. (Seite 150)"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer gilt als Drittperson im Kontext der Haftpflichtversicherung?</p>",
+      "options": [
+        {
+          "text": "Angehörige und Personen, die im selben Haushalt leben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Drittpersonen sind alle Personen, die nicht im selben Haushalt leben. (Seite 150)"
+        },
+        {
+          "text": "Alle Personen, die nicht im selben Haushalt leben.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Nur Personen, die im selben Haushalt leben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Drittpersonen sind alle Personen, die nicht im selben Haushalt leben. (Seite 150)"
+        },
+        {
+          "text": "Nur Angehörige.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Drittpersonen sind alle Personen, die nicht im selben Haushalt leben. (Seite 150)"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum ist die Motorfahrzeughaftpflichtversicherung in der Schweiz obligatorisch?</p>",
+      "options": [
+        {
+          "text": "Um die Versicherungsgesellschaften zu schützen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Motorfahrzeughaftpflichtversicherung ist obligatorisch, um sicherzustellen, dass Geschädigte ihre Ansprüche einfordern können. (Seite 150)"
+        },
+        {
+          "text": "Um sicherzustellen, dass Geschädigte ihre Ansprüche einfordern können.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Um die Kosten für die Fahrer zu senken.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Motorfahrzeughaftpflichtversicherung ist obligatorisch, um sicherzustellen, dass Geschädigte ihre Ansprüche einfordern können. (Seite 150)"
+        },
+        {
+          "text": "Um die Anzahl der Unfälle zu reduzieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Motorfahrzeughaftpflichtversicherung ist obligatorisch, um sicherzustellen, dass Geschädigte ihre Ansprüche einfordern können. (Seite 150)"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Selbstbehalt in der Motorfahrzeughaftpflichtversicherung?</p>",
+      "options": [
+        {
+          "text": "Ein Betrag, den die Versicherung an den Geschädigten zahlt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Selbstbehalt ist ein Betrag, den der Versicherungsnehmer selbst bezahlen muss, bevor die Versicherung eintritt. (Seite 150)"
+        },
+        {
+          "text": "Ein Betrag, den der Versicherungsnehmer selbst bezahlen muss, bevor die Versicherung eintritt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ein Betrag, der von der Versicherung zurückgefordert wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Selbstbehalt ist ein Betrag, den der Versicherungsnehmer selbst bezahlen muss, bevor die Versicherung eintritt. (Seite 150)"
+        },
+        {
+          "text": "Ein Betrag, der für die Prämienreduktion verwendet wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Selbstbehalt ist ein Betrag, den der Versicherungsnehmer selbst bezahlen muss, bevor die Versicherung eintritt. (Seite 150)"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Regressrecht in der Haftpflichtversicherung?</p>",
+      "options": [
+        {
+          "text": "Das Recht des Versicherungsnehmers, Schäden selbst zu regulieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Regressrecht ist das Recht der Versicherung, Gelder vom Versicherungsnehmer zurückzufordern. (Seite 150)"
+        },
+        {
+          "text": "Das Recht der Versicherung, Gelder vom Versicherungsnehmer zurückzufordern.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Das Recht des Geschädigten, Schadensersatz zu verlangen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Regressrecht ist das Recht der Versicherung, Gelder vom Versicherungsnehmer zurückzufordern. (Seite 150)"
+        },
+        {
+          "text": "Das Recht des Versicherungsnehmers, die Versicherung zu wechseln.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Regressrecht ist das Recht der Versicherung, Gelder vom Versicherungsnehmer zurückzufordern. (Seite 150)"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist die Bonus-Malus-Regelung in der Motorfahrzeughaftpflichtversicherung?</p>",
+      "options": [
+        {
+          "text": "Eine Regelung, die die Prämien für alle Versicherungsnehmer erhöht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Bonus-Malus-Regelung belohnt unfallfreie Fahrer mit Prämienreduktionen und bestraft Unfallverursacher mit höheren Prämien. (Seite 151)"
+        },
+        {
+          "text": "Eine Regelung, die die Prämien für unfallfreie Fahrer reduziert und für Unfallverursacher erhöht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Regelung, die die Selbstbehalte für alle Fahrer erhöht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Bonus-Malus-Regelung belohnt unfallfreie Fahrer mit Prämienreduktionen und bestraft Unfallverursacher mit höheren Prämien. (Seite 151)"
+        },
+        {
+          "text": "Eine Regelung, die die Versicherungskosten für Neulenker senkt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Bonus-Malus-Regelung belohnt unfallfreie Fahrer mit Prämienreduktionen und bestraft Unfallverursacher mit höheren Prämien. (Seite 151)"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was deckt die Privathaftpflichtversicherung ab?</p>",
+      "options": [
+        {
+          "text": "Schäden, die man sich selbst zufügt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Privathaftpflichtversicherung deckt Schäden ab, die man Drittpersonen zufügt, sofern keine grobe Fahrlässigkeit vorliegt. (Seite 151)"
+        },
+        {
+          "text": "Schäden, die man Drittpersonen zufügt, sofern keine grobe Fahrlässigkeit vorliegt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Schäden, die durch Naturkatastrophen verursacht werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Privathaftpflichtversicherung deckt Schäden ab, die man Drittpersonen zufügt, sofern keine grobe Fahrlässigkeit vorliegt. (Seite 151)"
+        },
+        {
+          "text": "Schäden, die durch Arbeitsunfälle entstehen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Privathaftpflichtversicherung deckt Schäden ab, die man Drittpersonen zufügt, sofern keine grobe Fahrlässigkeit vorliegt. (Seite 151)"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist Kausalhaftung?</p>",
+      "options": [
+        {
+          "text": "Die Haftung für Schäden, die man absichtlich verursacht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kausalhaftung ist die Haftung für Schäden, die man ohne eigenes Verschulden verursacht. (Seite 151)"
+        },
+        {
+          "text": "Die Haftung für Schäden, die man ohne eigenes Verschulden verursacht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Haftung für Schäden, die durch grobe Fahrlässigkeit verursacht werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kausalhaftung ist die Haftung für Schäden, die man ohne eigenes Verschulden verursacht. (Seite 151)"
+        },
+        {
+          "text": "Die Haftung für Schäden, die durch Naturkatastrophen verursacht werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kausalhaftung ist die Haftung für Schäden, die man ohne eigenes Verschulden verursacht. (Seite 151)"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum ist eine Privathaftpflichtversicherung empfehlenswert?</p>",
+      "options": [
+        {
+          "text": "Weil sie gesetzlich vorgeschrieben ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Privathaftpflichtversicherung ist empfehlenswert, weil sie Schäden abdeckt, die man Drittpersonen zufügt, und oft von Vermietern verlangt wird. (Seite 152)"
+        },
+        {
+          "text": "Weil sie Schäden abdeckt, die man sich selbst zufügt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Privathaftpflichtversicherung ist empfehlenswert, weil sie Schäden abdeckt, die man Drittpersonen zufügt, und oft von Vermietern verlangt wird. (Seite 152)"
+        },
+        {
+          "text": "Weil sie Schäden abdeckt, die man Drittpersonen zufügt, und oft von Vermietern verlangt wird.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Weil sie Schäden durch Naturkatastrophen abdeckt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Privathaftpflichtversicherung ist empfehlenswert, weil sie Schäden abdeckt, die man Drittpersonen zufügt, und oft von Vermietern verlangt wird. (Seite 152)"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist eine Bonusschutzversicherung?</p>",
+      "options": [
+        {
+          "text": "Eine Versicherung, die den Bonus in der Haftpflichtversicherung schützt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Versicherung, die die Prämien für Neulenker senkt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Bonusschutzversicherung schützt den im Prämienstufensystem erworbenen Bonus in der Haftpflichtversicherung. (Seite 151)"
+        },
+        {
+          "text": "Eine Versicherung, die Schäden durch Naturkatastrophen abdeckt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Bonusschutzversicherung schützt den im Prämienstufensystem erworbenen Bonus in der Haftpflichtversicherung. (Seite 151)"
+        },
+        {
+          "text": "Eine Versicherung, die die Selbstbehalte reduziert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Bonusschutzversicherung schützt den im Prämienstufensystem erworbenen Bonus in der Haftpflichtversicherung. (Seite 151)"
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Motorfahrzeughaftpflichtversicherung ist in der Schweiz obligatorisch.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Motorfahrzeughaftpflichtversicherung ist in der Schweiz obligatorisch. (Seite 150)",
+      "feedback_incorrect": "❌ Falsch. Die Motorfahrzeughaftpflichtversicherung ist in der Schweiz obligatorisch. (Seite 150)"
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Selbstbehalt wird nur von Junglenkern erhoben.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Selbstbehalte werden für Junglenker, Neulenker und in bestimmten Fällen auch für übrige Lenker erhoben. (Seite 150)",
+      "feedback_incorrect": "❌ Richtig. Selbstbehalte werden für Junglenker, Neulenker und in bestimmten Fällen auch für übrige Lenker erhoben. (Seite 150)"
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Regressrecht ermöglicht es der Versicherung, Gelder vom Versicherungsnehmer zurückzufordern.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Das Regressrecht ermöglicht es der Versicherung, Gelder vom Versicherungsnehmer zurückzufordern. (Seite 150)",
+      "feedback_incorrect": "❌ Falsch. Das Regressrecht ermöglicht es der Versicherung, Gelder vom Versicherungsnehmer zurückzufordern. (Seite 150)"
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Bonus-Malus-Regelung belohnt unfallfreie Fahrer mit höheren Prämien.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Bonus-Malus-Regelung belohnt unfallfreie Fahrer mit Prämienreduktionen. (Seite 151)",
+      "feedback_incorrect": "❌ Richtig. Die Bonus-Malus-Regelung belohnt unfallfreie Fahrer mit Prämienreduktionen. (Seite 151)"
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Privathaftpflichtversicherung ist in der Schweiz gesetzlich vorgeschrieben.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Privathaftpflichtversicherung ist nicht gesetzlich vorgeschrieben, wird aber empfohlen. (Seite 152)",
+      "feedback_incorrect": "❌ Richtig. Die Privathaftpflichtversicherung ist nicht gesetzlich vorgeschrieben, wird aber empfohlen. (Seite 152)"
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Kausalhaftung bedeutet, dass man für Schäden haftet, die man ohne eigenes Verschulden verursacht.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Kausalhaftung bedeutet, dass man für Schäden haftet, die man ohne eigenes Verschulden verursacht. (Seite 151)",
+      "feedback_incorrect": "❌ Falsch. Kausalhaftung bedeutet, dass man für Schäden haftet, die man ohne eigenes Verschulden verursacht. (Seite 151)"
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Bonusschutzversicherung schützt den Versicherungsnehmer vor höheren Prämien.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Bonusschutzversicherung schützt den im Prämienstufensystem erworbenen Bonus in der Haftpflichtversicherung. (Seite 151)",
+      "feedback_incorrect": "❌ Falsch. Die Bonusschutzversicherung schützt den im Prämienstufensystem erworbenen Bonus in der Haftpflichtversicherung. (Seite 151)"
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Privathaftpflichtversicherung deckt Schäden ab, die durch grobe Fahrlässigkeit verursacht werden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Privathaftpflichtversicherung deckt Schäden ab, die man Drittpersonen zufügt, sofern keine grobe Fahrlässigkeit vorliegt. (Seite 151)",
+      "feedback_incorrect": "❌ Richtig. Die Privathaftpflichtversicherung deckt Schäden ab, die man Drittpersonen zufügt, sofern keine grobe Fahrlässigkeit vorliegt. (Seite 151)"
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Vermieter verlangen oft den Abschluss einer Privathaftpflichtversicherung.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Vermieter verlangen oft den Abschluss einer Privathaftpflichtversicherung im Hinblick auf allfällige Schäden beim Auszug. (Seite 152)",
+      "feedback_incorrect": "❌ Falsch. Vermieter verlangen oft den Abschluss einer Privathaftpflichtversicherung im Hinblick auf allfällige Schäden beim Auszug. (Seite 152)"
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Privathaftpflichtversicherung deckt Schäden ab, die durch Naturkatastrophen verursacht werden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Privathaftpflichtversicherung deckt Schäden ab, die man Drittpersonen zufügt, nicht jedoch Schäden durch Naturkatastrophen. (Seite 151)",
+      "feedback_incorrect": "❌ Richtig. Die Privathaftpflichtversicherung deckt Schäden ab, die man Drittpersonen zufügt, nicht jedoch Schäden durch Naturkatastrophen. (Seite 151)"
+    }
+  ]
+}

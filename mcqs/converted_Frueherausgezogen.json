@@ -1,0 +1,169 @@
+{
+  "title": "Frueherausgezogen",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum ist Elisabeth Thoma früher aus ihrer Wohnung ausgezogen?</p>",
+      "options": [
+        {
+          "text": "Sie wurde vom Vermieter gekündigt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass sie bereits am neuen Ort wohnt."
+        },
+        {
+          "text": "Sie hat eine neue Wohnung gefunden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Wohnung war von Schimmel befallen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass sie bereits am neuen Ort wohnt."
+        },
+        {
+          "text": "Sie konnte sich die Miete nicht mehr leisten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass sie bereits am neuen Ort wohnt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was plant der Vermieter mit der Wohnung zu tun?</p>",
+      "options": [
+        {
+          "text": "Sie an einen neuen Mieter vermieten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter gibt an, Renovierungsarbeiten durchführen zu wollen."
+        },
+        {
+          "text": "Sie renovieren.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie selbst beziehen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter gibt an, Renovierungsarbeiten durchführen zu wollen."
+        },
+        {
+          "text": "Sie verkaufen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter gibt an, Renovierungsarbeiten durchführen zu wollen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Vermieter darf die Wohnung renovieren, obwohl Elisabeth Thoma noch Miete zahlt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Rechtsexpertin erklärt, dass der Vermieter während der Kündigungsfrist nur Schäden reparieren darf, die der Mieter verursacht hat.",
+      "feedback_incorrect": "❌ Richtig. Die Rechtsexpertin erklärt, dass der Vermieter während der Kündigungsfrist nur Schäden reparieren darf, die der Mieter verursacht hat."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Elisabeth Thoma kann den zu viel bezahlten Mietzins zurückfordern.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Sie kann sich an die Schlichtungsstelle wenden.",
+      "feedback_incorrect": "❌ Falsch. Sie kann sich an die Schlichtungsstelle wenden."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Beispiel nennt die Rechtsexpertin für einen Schaden, den der Mieter selbst beheben muss?</p>",
+      "options": [
+        {
+          "text": "Riss in der Wand",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin erwähnt den Duschschlauch explizit als Beispiel."
+        },
+        {
+          "text": "Defekter Duschschlauch",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Abgenutzter Fussboden",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin erwähnt den Duschschlauch explizit als Beispiel."
+        },
+        {
+          "text": "Undichte Fenster",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin erwähnt den Duschschlauch explizit als Beispiel."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>An wen kann sich Elisabeth Thoma wenden, um den Mietzins zurückzufordern?</p>",
+      "options": [
+        {
+          "text": "An den Mieterverband.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin rät ihr, sich an die Schlichtungsstelle zu wenden."
+        },
+        {
+          "text": "An die Schlichtungsstelle.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "An das Bezirksgericht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin rät ihr, sich an die Schlichtungsstelle zu wenden."
+        },
+        {
+          "text": "An den Vermieter.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin rät ihr, sich an die Schlichtungsstelle zu wenden."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Elisabeth Thoma muss die Wohnung renoviert übergeben.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Sie muss die Wohnung lediglich geräumt und geputzt übergeben.",
+      "feedback_incorrect": "❌ Richtig. Sie muss die Wohnung lediglich geräumt und geputzt übergeben."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo findet man weitere Informationen zum Thema Mietrecht?</p>",
+      "options": [
+        {
+          "text": "Auf der Website des Mieterverbandes.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag verweist auf den Mieterverband und die SRF Espresso-Website bietet weitere Informationen."
+        },
+        {
+          "text": "Auf der Website von Kassensturz.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag verweist auf den Mieterverband und die SRF Espresso-Website bietet weitere Informationen."
+        },
+        {
+          "text": "Auf der Website von SRF Espresso.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag verweist auf den Mieterverband und die SRF Espresso-Website bietet weitere Informationen."
+        },
+        {
+          "text": "Alle Antworten sind richtig.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    }
+  ]
+}

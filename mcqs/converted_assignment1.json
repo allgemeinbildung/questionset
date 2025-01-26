@@ -1,0 +1,64 @@
+{
+  "title": "assignment1",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist die Hauptstadt von Deutschland?</p>",
+      "options": [
+        {
+          "text": "Berlin",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "München",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Berlin ist die Hauptstadt von Deutschland seit der Wiedervereinigung 1990."
+        },
+        {
+          "text": "Hamburg",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Berlin ist die Hauptstadt von Deutschland seit der Wiedervereinigung 1990."
+        },
+        {
+          "text": "Frankfurt",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Berlin ist die Hauptstadt von Deutschland seit der Wiedervereinigung 1990."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Element hat das chemische Symbol 'O'?</p>",
+      "options": [
+        {
+          "text": "Gold",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das chemische Symbol 'O' steht für Oxygen, das auch als Sauerstoff bekannt ist."
+        },
+        {
+          "text": "Oxygen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Silber",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das chemische Symbol 'O' steht für Oxygen, das auch als Sauerstoff bekannt ist."
+        },
+        {
+          "text": "Wasserstoff",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das chemische Symbol 'O' steht für Oxygen, das auch als Sauerstoff bekannt ist."
+        }
+      ]
+    }
+  ]
+}

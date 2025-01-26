@@ -1,0 +1,274 @@
+{
+  "title": "Bildrechte",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum erhielt der Hörer eine Rechnung?</p>",
+      "options": [
+        {
+          "text": "Weil er die Webseite seiner Mutter kommerziell nutzte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Nutzung von urheberrechtlich geschützten Bildern ohne Erlaubnis kann zu Schadenersatzforderungen führen."
+        },
+        {
+          "text": "Weil er ein Bild ohne Erlaubnis verwendet hat.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Weil er die Webseite vor dem 1. April 2020 erstellt hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Nutzung von urheberrechtlich geschützten Bildern ohne Erlaubnis kann zu Schadenersatzforderungen führen."
+        },
+        {
+          "text": "Weil er das Bild aus einer deutschen Datenbank heruntergeladen hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Nutzung von urheberrechtlich geschützten Bildern ohne Erlaubnis kann zu Schadenersatzforderungen führen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange gilt der Urheberrechtsschutz in der Schweiz?</p>",
+      "options": [
+        {
+          "text": "50 Jahre nach Tod des Urhebers",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Urheberrechtsschutz gilt in der Schweiz 70 Jahre nach dem Tod des Urhebers."
+        },
+        {
+          "text": "70 Jahre nach Tod des Urhebers",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "100 Jahre nach Tod des Urhebers",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Urheberrechtsschutz gilt in der Schweiz 70 Jahre nach dem Tod des Urhebers."
+        },
+        {
+          "text": "Ewig",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Urheberrechtsschutz gilt in der Schweiz 70 Jahre nach dem Tod des Urhebers."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Schnappschüsse waren vor dem 1. April 2020 in der Schweiz nicht urheberrechtlich geschützt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Seit dem 1. April 2020 sind auch Schnappschüsse urheberrechtlich geschützt.",
+      "feedback_incorrect": "❌ Falsch. Seit dem 1. April 2020 sind auch Schnappschüsse urheberrechtlich geschützt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Es ist immer illegal, Bilder aus dem Internet zu verwenden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Es gibt lizenzfreie Bilder und Bilder mit Creative Commons Lizenzen, die unter bestimmten Bedingungen verwendet werden dürfen.",
+      "feedback_incorrect": "❌ Richtig. Es gibt lizenzfreie Bilder und Bilder mit Creative Commons Lizenzen, die unter bestimmten Bedingungen verwendet werden dürfen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Argument kann der Hörer verwenden, um die Kosten zu reduzieren?</p>",
+      "options": [
+        {
+          "text": "Die Webseite hat wenig Besucher.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Das Bild wurde aus Deutschland heruntergeladen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der geringe Traffic auf der Webseite kann als Argument für eine Reduktion der Schadenersatzforderung verwendet werden."
+        },
+        {
+          "text": "Er hat das Bild nur für seine Mutter verwendet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der geringe Traffic auf der Webseite kann als Argument für eine Reduktion der Schadenersatzforderung verwendet werden."
+        },
+        {
+          "text": "Er wusste nicht, dass er das Bild nicht verwenden darf.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der geringe Traffic auf der Webseite kann als Argument für eine Reduktion der Schadenersatzforderung verwendet werden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo findet man kostenlose Bilder?</p>",
+      "options": [
+        {
+          "text": "Auf Webseiten mit lizenzfreien Bildern.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Auf allen Webseiten im Internet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt Webseiten, die lizenzfreie Bilder zur kostenlosen Nutzung anbieten."
+        },
+        {
+          "text": "Nur auf privaten Webseiten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt Webseiten, die lizenzfreie Bilder zur kostenlosen Nutzung anbieten."
+        },
+        {
+          "text": "Nur auf Webseiten von Fotografen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt Webseiten, die lizenzfreie Bilder zur kostenlosen Nutzung anbieten."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Man sollte die Lizenzbedingungen von kostenlosen Bildern immer prüfen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Auch bei kostenlosen Bildern können Lizenzbedingungen gelten, die man beachten muss.",
+      "feedback_incorrect": "❌ Falsch. Auch bei kostenlosen Bildern können Lizenzbedingungen gelten, die man beachten muss."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte man bei einer Abmahnung wegen Urheberrechtsverletzung tun?</p>",
+      "options": [
+        {
+          "text": "Das betroffene Bild sofort entfernen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Rechnung ignorieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Entfernen des Bildes ist der erste Schritt, um weitere Kosten zu vermeiden."
+        },
+        {
+          "text": "Den Fotografen kontaktieren und sich entschuldigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Entfernen des Bildes ist der erste Schritt, um weitere Kosten zu vermeiden."
+        },
+        {
+          "text": "Einen Anwalt kontaktieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Entfernen des Bildes ist der erste Schritt, um weitere Kosten zu vermeiden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein \"Schnappschuss\" im Kontext des Urheberrechts?</p>",
+      "options": [
+        {
+          "text": "Ein Foto ohne künstlerischen Wert.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ein Foto mit künstlerischem Wert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Kontext des Urheberrechts wird ein Schnappschuss als ein Foto ohne individuellen Charakter betrachtet."
+        },
+        {
+          "text": "Ein Foto von einem Schnappschuss.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Kontext des Urheberrechts wird ein Schnappschuss als ein Foto ohne individuellen Charakter betrachtet."
+        },
+        {
+          "text": "Ein schnell gemachtes Foto.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Kontext des Urheberrechts wird ein Schnappschuss als ein Foto ohne individuellen Charakter betrachtet."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Hörer muss auf jeden Fall die volle Rechnung bezahlen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Hörer kann versuchen, mit der fordernden Firma zu verhandeln und die Kosten zu reduzieren.",
+      "feedback_incorrect": "❌ Richtig. Der Hörer kann versuchen, mit der fordernden Firma zu verhandeln und die Kosten zu reduzieren."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist eine wichtige Anlaufstelle für Fragen zu Bildrechten?</p>",
+      "options": [
+        {
+          "text": "Schweizerische Arbeitsgemeinschaft der Bildagenturen und Archive",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Bundesamt für Kommunikation (BAKOM)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die SAB bietet Informationen und Empfehlungen zu Bildhonoraren."
+        },
+        {
+          "text": "Schweizerischer Gewerbeverband",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die SAB bietet Informationen und Empfehlungen zu Bildhonoraren."
+        },
+        {
+          "text": "Konsumentenschutz",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die SAB bietet Informationen und Empfehlungen zu Bildhonoraren."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Kostenlose Bilder dürfen immer ohne Einschränkungen verwendet werden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Auch kostenlose Bilder können Lizenzbedingungen haben, die man beachten muss.",
+      "feedback_incorrect": "❌ Richtig. Auch kostenlose Bilder können Lizenzbedingungen haben, die man beachten muss."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist der erste Schritt, wenn man eine Abmahnung wegen Urheberrechtsverletzung erhält?</p>",
+      "options": [
+        {
+          "text": "Das betroffene Bild entfernen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Rechnung bezahlen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Entfernen des Bildes ist der erste Schritt, um weitere Kosten zu vermeiden."
+        },
+        {
+          "text": "Einen Anwalt kontaktieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Entfernen des Bildes ist der erste Schritt, um weitere Kosten zu vermeiden."
+        },
+        {
+          "text": "Die Abmahnung ignorieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Entfernen des Bildes ist der erste Schritt, um weitere Kosten zu vermeiden."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Urheberrechtsschutz gilt auch für Texte.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Urheberrechtsschutz gilt für verschiedene kreative Inhalte, einschliesslich Texte.",
+      "feedback_incorrect": "❌ Falsch. Der Urheberrechtsschutz gilt für verschiedene kreative Inhalte, einschliesslich Texte."
+    }
+  ]
+}

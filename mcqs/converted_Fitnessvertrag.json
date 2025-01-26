@@ -1,0 +1,198 @@
+{
+  "title": "Fitnessvertrag",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum möchte die Frau aus dem Fitnessvertrag aussteigen?</p>",
+      "options": [
+        {
+          "text": "Sie zieht in eine andere Stadt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass die Frau aufgrund von Schwangerschaftskomplikationen nicht mehr trainieren darf."
+        },
+        {
+          "text": "Das Fitnessstudio ist zu teuer geworden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass die Frau aufgrund von Schwangerschaftskomplikationen nicht mehr trainieren darf."
+        },
+        {
+          "text": "Sie hat gesundheitliche Probleme aufgrund ihrer Schwangerschaft.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie hat keine Zeit mehr zum Trainieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass die Frau aufgrund von Schwangerschaftskomplikationen nicht mehr trainieren darf."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was bietet das Fitnesscenter der Frau an?</p>",
+      "options": [
+        {
+          "text": "Eine kostenlose Vertragsauflösung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Fitnesscenter erlaubt ihr, den Vertrag für einen Monat zu pausieren."
+        },
+        {
+          "text": "Die Rückerstattung der Abogebühren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Fitnesscenter erlaubt ihr, den Vertrag für einen Monat zu pausieren."
+        },
+        {
+          "text": "Das Hinterlegen des Abos für einen Monat.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Einen Wechsel in ein anderes Fitnessstudio.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Fitnesscenter erlaubt ihr, den Vertrag für einen Monat zu pausieren."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein schwerer Unfall kann ein wichtiger Grund für eine ausserordentliche Kündigung eines Fitnessvertrags sein.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Ein Unfall, der nach Vertragsabschluss eintritt und das Trainieren verunmöglicht, gilt als wichtiger Grund.",
+      "feedback_incorrect": "❌ Falsch. Ein Unfall, der nach Vertragsabschluss eintritt und das Trainieren verunmöglicht, gilt als wichtiger Grund."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Frau kann den Fitnessvertrag sofort und ohne Kündigungsfrist auflösen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Auch bei wichtigen Gründen gilt eine Kündigungsfrist von drei Monaten.",
+      "feedback_incorrect": "❌ Richtig. Auch bei wichtigen Gründen gilt eine Kündigungsfrist von drei Monaten."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Dokument ist wichtig, um einen \"wichtigen Grund\" für die Kündigung zu belegen?</p>",
+      "options": [
+        {
+          "text": "Eine Bestätigung des Arbeitgebers.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Arztzeugnis dient als Beweis für gesundheitliche Probleme, die ein Trainieren verunmöglichen."
+        },
+        {
+          "text": "Ein Arztzeugnis.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Meldebestätigung der Gemeinde.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Arztzeugnis dient als Beweis für gesundheitliche Probleme, die ein Trainieren verunmöglichen."
+        },
+        {
+          "text": "Ein Empfehlungsschreiben eines Trainers.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Arztzeugnis dient als Beweis für gesundheitliche Probleme, die ein Trainieren verunmöglichen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Beispiel für einen wichtigen Grund, der NICHT im Beitrag erwähnt wird?</p>",
+      "options": [
+        {
+          "text": "Ein Umzug ins Ausland.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die anderen Optionen wurden im Beitrag als Beispiele für wichtige Gründe genannt oder sind offensichtlich."
+        },
+        {
+          "text": "Eine unerwartete Arbeitslosigkeit.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die anderen Optionen wurden im Beitrag als Beispiele für wichtige Gründe genannt oder sind offensichtlich."
+        },
+        {
+          "text": "Eine plötzliche Allergie gegen Chlor im Schwimmbad.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Schliessung des Fitnessstudios.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die anderen Optionen wurden im Beitrag als Beispiele für wichtige Gründe genannt oder sind offensichtlich."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Rechtsexpertin rät der Frau, den Vertrag sofort zu kündigen und das Geld zurückzufordern.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Sie rät zu einem erneuten Gespräch mit dem Fitnesscenter und weist auf die dreimonatige Kündigungsfrist hin.",
+      "feedback_incorrect": "❌ Richtig. Sie rät zu einem erneuten Gespräch mit dem Fitnesscenter und weist auf die dreimonatige Kündigungsfrist hin."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Fitnessstudio ist rechtlich verpflichtet, die Kündigung der Frau zu akzeptieren.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Da ein wichtiger Grund vorliegt und die Kündigungsfrist eingehalten wird, muss das Fitnessstudio die Kündigung akzeptieren.",
+      "feedback_incorrect": "❌ Falsch. Da ein wichtiger Grund vorliegt und die Kündigungsfrist eingehalten wird, muss das Fitnessstudio die Kündigung akzeptieren."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Frau kann das Abo an eine andere Person abtreten, wenn das Fitnessstudio zustimmt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Das Fitnessstudio muss einer Vertragsübernahme zustimmen, wenn die neue Person die gleichen Bedingungen erfüllt.",
+      "feedback_incorrect": "❌ Falsch. Das Fitnessstudio muss einer Vertragsübernahme zustimmen, wenn die neue Person die gleichen Bedingungen erfüllt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Dauerschuldverhältnisse, wie ein Fitnessabo, können in der Regel aus wichtigen Gründen gekündigt werden.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Dauerschuldverhältnisse sind langfristige Verträge, die aus wichtigen Gründen gekündigt werden können.",
+      "feedback_incorrect": "❌ Falsch. Dauerschuldverhältnisse sind langfristige Verträge, die aus wichtigen Gründen gekündigt werden können."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Fitnessstudio kann in seinen AGBs ausschliessen, dass man aus wichtigen Gründen kündigen kann.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Ein solcher Ausschluss in den AGBs wäre rechtlich unwirksam.",
+      "feedback_incorrect": "❌ Richtig. Ein solcher Ausschluss in den AGBs wäre rechtlich unwirksam."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein \"Timestop\" erlaubt es, das Abo für eine gewisse Zeit zu unterbrechen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Ein \"Timestop\" ist eine Möglichkeit, das Abo vorübergehend zu pausieren.",
+      "feedback_incorrect": "❌ Falsch. Ein \"Timestop\" ist eine Möglichkeit, das Abo vorübergehend zu pausieren."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Rechtsexpertin rät der Frau, sich an eine Konsumentenschutzorganisation zu wenden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Dieser Rat wird im Beitrag nicht explizit erwähnt.",
+      "feedback_incorrect": "❌ Richtig. Dieser Rat wird im Beitrag nicht explizit erwähnt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Beitrag handelt von den Rechten und Pflichten bei Fitnessverträgen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Beitrag thematisiert die rechtliche Situation bei Kündigungen von Fitnessverträgen.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag thematisiert die rechtliche Situation bei Kündigungen von Fitnessverträgen."
+    }
+  ]
+}

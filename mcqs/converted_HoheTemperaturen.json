@@ -1,0 +1,274 @@
+{
+  "title": "HoheTemperaturen",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum klagt die Hörerin über die Hitze in ihrer Wohnung?</p>",
+      "options": [
+        {
+          "text": "Die Heizung ist zu stark eingestellt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin wohnt in einer Dachwohnung mit Dachfenstern, wodurch sich die Wohnung stark aufheizt."
+        },
+        {
+          "text": "Die Fenster lassen sich nicht öffnen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin wohnt in einer Dachwohnung mit Dachfenstern, wodurch sich die Wohnung stark aufheizt."
+        },
+        {
+          "text": "Die Wohnung liegt direkt unter dem Dach und hat Dachfenster.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Es gibt keine Klimaanlage.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin wohnt in einer Dachwohnung mit Dachfenstern, wodurch sich die Wohnung stark aufheizt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was kann die Hörerin vom Vermieter verlangen?</p>",
+      "options": [
+        {
+          "text": "Den Einbau einer Klimaanlage.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin kann Massnahmen verlangen, die die Überhitzung der Wohnung reduzieren, wie z.B. Rollläden oder Sonnenschutzfolien."
+        },
+        {
+          "text": "Die Montage von Rollläden oder Sonnenschutzfolien.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Mietzinsreduktion.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin kann Massnahmen verlangen, die die Überhitzung der Wohnung reduzieren, wie z.B. Rollläden oder Sonnenschutzfolien."
+        },
+        {
+          "text": "Die Kündigung des Mietvertrags ohne Frist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin kann Massnahmen verlangen, die die Überhitzung der Wohnung reduzieren, wie z.B. Rollläden oder Sonnenschutzfolien."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine übermässig heisse Wohnung kann unter Umständen als Mietmangel gelten.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Wenn die Hitze durch Massnahmen des Vermieters reduziert werden könnte, kann eine überhitzte Wohnung als Mangel gelten.",
+      "feedback_incorrect": "❌ Falsch. Wenn die Hitze durch Massnahmen des Vermieters reduziert werden könnte, kann eine überhitzte Wohnung als Mangel gelten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Vermieter ist immer verpflichtet, eine Klimaanlage einzubauen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Es besteht keine generelle Pflicht zur Installation einer Klimaanlage, ausser bei einem Mangel, der die Wohnung übermässig aufheizt.",
+      "feedback_incorrect": "❌ Richtig. Es besteht keine generelle Pflicht zur Installation einer Klimaanlage, ausser bei einem Mangel, der die Wohnung übermässig aufheizt."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Beispiel wurde im Beitrag für einen Mietmangel im Zusammenhang mit Hitze genannt?</p>",
+      "options": [
+        {
+          "text": "Eine Wohnung ohne Balkon.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wurde der Fall einer überhitzten Wohnung aufgrund fehlender Storen als Beispiel für einen Mietmangel genannt."
+        },
+        {
+          "text": "Eine Wohnung mit grossen Fenstern nach Süden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wurde der Fall einer überhitzten Wohnung aufgrund fehlender Storen als Beispiel für einen Mietmangel genannt."
+        },
+        {
+          "text": "Eine Wohnung mit fehlenden Storen an den Fenstern.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Wohnung im obersten Stockwerk.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wurde der Fall einer überhitzten Wohnung aufgrund fehlender Storen als Beispiel für einen Mietmangel genannt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Temperatur wurde im erwähnten Bundesgerichtsentscheid als zu hoch bewertet?</p>",
+      "options": [
+        {
+          "text": "20°C",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Entscheid wurden 25°C bei einer Aussentemperatur von 3°C als zu hoch bewertet."
+        },
+        {
+          "text": "25°C",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "30°C",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Entscheid wurden 25°C bei einer Aussentemperatur von 3°C als zu hoch bewertet."
+        },
+        {
+          "text": "35°C",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Entscheid wurden 25°C bei einer Aussentemperatur von 3°C als zu hoch bewertet."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin kann den Mietvertrag fristlos kündigen, weil es in ihrer Wohnung zu heiss ist.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Eine fristlose Kündigung ist nur in schwerwiegenden Fällen gerechtfertigt. Die Hörerin sollte zuerst den Vermieter kontaktieren und Massnahmen verlangen.",
+      "feedback_incorrect": "❌ Richtig. Eine fristlose Kündigung ist nur in schwerwiegenden Fällen gerechtfertigt. Die Hörerin sollte zuerst den Vermieter kontaktieren und Massnahmen verlangen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Lüften und Ventilatoren sind gemäss Beitrag sinnvolle Massnahmen gegen Hitze.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Im Beitrag werden Lüften und Ventilatoren als sinnvolle Massnahmen gegen Hitze in der Wohnung erwähnt.",
+      "feedback_incorrect": "❌ Falsch. Im Beitrag werden Lüften und Ventilatoren als sinnvolle Massnahmen gegen Hitze in der Wohnung erwähnt."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Kanton wohnt die Hörerin?</p>",
+      "options": [
+        {
+          "text": "Zürich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin wohnt im Kanton Aargau."
+        },
+        {
+          "text": "Bern",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin wohnt im Kanton Aargau."
+        },
+        {
+          "text": "Aargau",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Basel",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin wohnt im Kanton Aargau."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Sendung hat den Beitrag ausgestrahlt?</p>",
+      "options": [
+        {
+          "text": "Kassensturz",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag wurde von der Sendung Espresso ausgestrahlt."
+        },
+        {
+          "text": "Espresso",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "10vor10",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag wurde von der Sendung Espresso ausgestrahlt."
+        },
+        {
+          "text": "Tagesschau",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag wurde von der Sendung Espresso ausgestrahlt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Im Beitrag wurde erwähnt, dass es eine klare Richtlinie gibt, wie heiss es in einer Wohnung sein darf.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Es gibt keine klare Richtlinie, wie heiss es in einer Wohnung sein darf.",
+      "feedback_incorrect": "❌ Richtig. Es gibt keine klare Richtlinie, wie heiss es in einer Wohnung sein darf."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin hat keine Storen an ihren Dachfenstern.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Hörerin erwähnt, dass die Sonne direkt auf die Dachfenster scheint, was impliziert, dass keine Storen vorhanden sind.",
+      "feedback_incorrect": "❌ Falsch. Die Hörerin erwähnt, dass die Sonne direkt auf die Dachfenster scheint, was impliziert, dass keine Storen vorhanden sind."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer wurde im Beitrag als Rechtsexpertin befragt?</p>",
+      "options": [
+        {
+          "text": "Gabriela Muster",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gabriela Baumgartner wurde als Rechtsexpertin befragt."
+        },
+        {
+          "text": "Gabriela Baumgartner",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Gabriele Meier",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gabriela Baumgartner wurde als Rechtsexpertin befragt."
+        },
+        {
+          "text": "Gabriele Müller",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gabriela Baumgartner wurde als Rechtsexpertin befragt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Gericht wurde im Zusammenhang mit einem ähnlichen Fall erwähnt?</p>",
+      "options": [
+        {
+          "text": "Kantonsgericht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Bundesgericht wurde im Zusammenhang mit einem ähnlichen Fall erwähnt."
+        },
+        {
+          "text": "Bundesgericht",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Bezirksgericht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Bundesgericht wurde im Zusammenhang mit einem ähnlichen Fall erwähnt."
+        },
+        {
+          "text": "Europäischer Gerichtshof",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Bundesgericht wurde im Zusammenhang mit einem ähnlichen Fall erwähnt."
+        }
+      ]
+    }
+  ]
+}

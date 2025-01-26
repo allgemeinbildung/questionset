@@ -1,0 +1,236 @@
+{
+  "title": "Ungeziefer",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer muss die Kosten für einen Kammerjäger bei Ungezieferbefall in einer Mietwohnung übernehmen?</p>",
+      "options": [
+        {
+          "text": "Der Mieter",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ungezieferbefall gilt als Mangel an der Mietsache, für dessen Behebung der Vermieter verantwortlich ist."
+        },
+        {
+          "text": "Der Vermieter",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Gemeinde",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ungezieferbefall gilt als Mangel an der Mietsache, für dessen Behebung der Vermieter verantwortlich ist."
+        },
+        {
+          "text": "Der Kanton",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ungezieferbefall gilt als Mangel an der Mietsache, für dessen Behebung der Vermieter verantwortlich ist."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was gilt als \"einfaches Mittel\" zur Ungezieferbekämpfung?</p>",
+      "options": [
+        {
+          "text": "Der Einsatz von chemischen Insektiziden",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mieter sind verpflichtet, zunächst zu versuchen, den Ungezieferbefall mit einfachen Mitteln selbst zu bekämpfen."
+        },
+        {
+          "text": "Die Beauftragung eines professionellen Schädlingsbekämpfers",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mieter sind verpflichtet, zunächst zu versuchen, den Ungezieferbefall mit einfachen Mitteln selbst zu bekämpfen."
+        },
+        {
+          "text": "Die Verwendung von Hausmitteln wie Gewürzen oder Kräutern",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Das Ignorieren des Problems",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mieter sind verpflichtet, zunächst zu versuchen, den Ungezieferbefall mit einfachen Mitteln selbst zu bekämpfen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin aus Olten muss die Kosten für den Kammerjäger selbst tragen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Kosten muss der Vermieter übernehmen.",
+      "feedback_incorrect": "❌ Richtig. Die Kosten muss der Vermieter übernehmen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Vermieter ist verpflichtet, sofort einen Kammerjäger zu beauftragen, sobald der Mieter Ungeziefer meldet.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Mieter muss zuerst versuchen, das Problem mit einfachen Mitteln selbst zu lösen.",
+      "feedback_incorrect": "❌ Richtig. Der Mieter muss zuerst versuchen, das Problem mit einfachen Mitteln selbst zu lösen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>An wen kann sich die Hörerin wenden, wenn der Vermieter die Kostenübernahme verweigert?</p>",
+      "options": [
+        {
+          "text": "An die Polizei",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schlichtungsstelle ist die richtige Anlaufstelle für Mietstreitigkeiten."
+        },
+        {
+          "text": "An das Gericht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schlichtungsstelle ist die richtige Anlaufstelle für Mietstreitigkeiten."
+        },
+        {
+          "text": "An die Schlichtungsstelle",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "An den Mieterverband",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schlichtungsstelle ist die richtige Anlaufstelle für Mietstreitigkeiten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was kann die Hörerin tun, während das Verfahren bei der Schlichtungsstelle läuft?</p>",
+      "options": [
+        {
+          "text": "Die Miete kürzen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hinterlegung des Mietzinses schützt die Mieterin vor weiteren Forderungen des Vermieters."
+        },
+        {
+          "text": "Den Mietzins hinterlegen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Aus der Wohnung ausziehen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hinterlegung des Mietzinses schützt die Mieterin vor weiteren Forderungen des Vermieters."
+        },
+        {
+          "text": "Nichts tun und abwarten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hinterlegung des Mietzinses schützt die Mieterin vor weiteren Forderungen des Vermieters."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin darf selbst einen Kammerjäger beauftragen, wenn der Vermieter untätig bleibt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Hörerin kann die Kosten dann vom Vermieter zurückfordern.",
+      "feedback_incorrect": "❌ Falsch. Die Hörerin kann die Kosten dann vom Vermieter zurückfordern."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ungezieferbefall ist immer ein Grund für eine Mietzinsreduktion.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Eine Mietzinsreduktion ist nur gerechtfertigt, wenn der Mangel erheblich ist und der Vermieter ihn nicht behebt.",
+      "feedback_incorrect": "❌ Richtig. Eine Mietzinsreduktion ist nur gerechtfertigt, wenn der Mangel erheblich ist und der Vermieter ihn nicht behebt."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Insekt war der Grund für den Konflikt zwischen Mieterin und Vermieter?</p>",
+      "options": [
+        {
+          "text": "Ameisen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Kakerlaken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird explizit von einer \"Ameisenplage\" gesprochen."
+        },
+        {
+          "text": "Flöhe",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird explizit von einer \"Ameisenplage\" gesprochen."
+        },
+        {
+          "text": "Wanzen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird explizit von einer \"Ameisenplage\" gesprochen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welcher Stadt wohnt die betroffene Hörerin?</p>",
+      "options": [
+        {
+          "text": "Zürich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin stammt aus Olten."
+        },
+        {
+          "text": "Bern",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin stammt aus Olten."
+        },
+        {
+          "text": "Basel",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin stammt aus Olten."
+        },
+        {
+          "text": "Olten",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Vermieter hat angeboten, einen Kammerjäger zu schicken, wollte die Kosten aber der Mieterin überlassen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Vermieter wollte die Kosten nicht übernehmen.",
+      "feedback_incorrect": "❌ Falsch. Der Vermieter wollte die Kosten nicht übernehmen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Rechtsexpertin rät der Hörerin, sofort den Mietzins zu kürzen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Sie rät zur Hinterlegung des Mietzinses nach vorheriger schriftlicher Aufforderung an den Vermieter.",
+      "feedback_incorrect": "❌ Richtig. Sie rät zur Hinterlegung des Mietzinses nach vorheriger schriftlicher Aufforderung an den Vermieter."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Hausmittel wie Gewürze und Kräuter können zur Ungezieferbekämpfung eingesetzt werden.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Solche Hausmittel gelten als \"einfache Mittel\".",
+      "feedback_incorrect": "❌ Falsch. Solche Hausmittel gelten als \"einfache Mittel\"."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Mieterverband bietet ein Merkblatt mit Tipps zur Ungezieferbekämpfung an.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Das Merkblatt wird im Beitrag erwähnt und ist online verfügbar.",
+      "feedback_incorrect": "❌ Falsch. Das Merkblatt wird im Beitrag erwähnt und ist online verfügbar."
+    }
+  ]
+}

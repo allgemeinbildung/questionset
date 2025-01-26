@@ -1,0 +1,236 @@
+{
+  "title": "Preisbeschriftung2",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist das zentrale Thema des Radiobeitrags?</p>",
+      "options": [
+        {
+          "text": "Die Bedeutung von Online-Bewertungen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag handelt von einem Fall, bei dem der Preis in einem Prospekt nicht mit dem Online-Preis übereinstimmte."
+        },
+        {
+          "text": "Die Verbindlichkeit von Preisen in der Werbung",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Vorteile des Online-Shoppings",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag handelt von einem Fall, bei dem der Preis in einem Prospekt nicht mit dem Online-Preis übereinstimmte."
+        },
+        {
+          "text": "Die Gefahren von Fake-Shops",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag handelt von einem Fall, bei dem der Preis in einem Prospekt nicht mit dem Online-Preis übereinstimmte."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Produkt wollte Margrit Müller kaufen?</p>",
+      "options": [
+        {
+          "text": "Einen Blazer",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird explizit von einem Kittel gesprochen."
+        },
+        {
+          "text": "Ein Kleid",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird explizit von einem Kittel gesprochen."
+        },
+        {
+          "text": "Einen Kittel",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Hose",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird explizit von einem Kittel gesprochen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Margrit Müller konnte den Kittel zum günstigeren Preis kaufen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Händler verlangte den höheren Preis, da der Preis im Prospekt nicht verbindlich war.",
+      "feedback_incorrect": "❌ Richtig. Der Händler verlangte den höheren Preis, da der Preis im Prospekt nicht verbindlich war."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Preise in Werbeprospekten sind in der Schweiz rechtlich verbindlich.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Preise in der Werbung sind nicht verbindlich, wie im Beitrag erklärt wird.",
+      "feedback_incorrect": "❌ Richtig. Preise in der Werbung sind nicht verbindlich, wie im Beitrag erklärt wird."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchen Fällen haben Konsumenten in der Schweiz ein Widerrufsrecht?</p>",
+      "options": [
+        {
+          "text": "Bei Käufen im Laden",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Widerrufsrecht besteht bei Verträgen, die ausserhalb von Geschäftsräumen abgeschlossen werden, z.B. auf der Strasse, am Telefon oder an Werbeveranstaltungen."
+        },
+        {
+          "text": "Bei Online-Bestellungen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Widerrufsrecht besteht bei Verträgen, die ausserhalb von Geschäftsräumen abgeschlossen werden, z.B. auf der Strasse, am Telefon oder an Werbeveranstaltungen."
+        },
+        {
+          "text": "Bei Verträgen an Werbeveranstaltungen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Immer",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Widerrufsrecht besteht bei Verträgen, die ausserhalb von Geschäftsräumen abgeschlossen werden, z.B. auf der Strasse, am Telefon oder an Werbeveranstaltungen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte man tun, wenn man einen Artikel online bestellt und der Preis auf der Rechnung höher ist als in der Werbung?</p>",
+      "options": [
+        {
+          "text": "Den Artikel sofort zurückschicken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist wichtig zu prüfen, ob ein Widerrufsrecht besteht und wie die Rückgabebedingungen des Händlers sind."
+        },
+        {
+          "text": "Die Allgemeinen Geschäftsbedingungen des Händlers prüfen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Den Händler kontaktieren und den günstigeren Preis verlangen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist wichtig zu prüfen, ob ein Widerrufsrecht besteht und wie die Rückgabebedingungen des Händlers sind."
+        },
+        {
+          "text": "Nichts tun, da man den höheren Preis zahlen muss",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist wichtig zu prüfen, ob ein Widerrufsrecht besteht und wie die Rückgabebedingungen des Händlers sind."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Margrit Müller hat den Kittel online bestellt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Sie wollte den Kittel online bestellen, hat es aber aufgrund des höheren Preises nicht getan.",
+      "feedback_incorrect": "❌ Richtig. Sie wollte den Kittel online bestellen, hat es aber aufgrund des höheren Preises nicht getan."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Beitrag rät dazu, Preise in Prospekten immer zu überprüfen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Beitrag betont, dass Preise in der Werbung nicht immer korrekt sind und man sie vor dem Kauf überprüfen sollte.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag betont, dass Preise in der Werbung nicht immer korrekt sind und man sie vor dem Kauf überprüfen sollte."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo hat Margrit Müller den Flyer mit dem Angebot gefunden?</p>",
+      "options": [
+        {
+          "text": "Im Laden",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag erwähnt, dass sie den Flyer in ihrem Briefkasten gefunden hat."
+        },
+        {
+          "text": "Im Internet",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag erwähnt, dass sie den Flyer in ihrem Briefkasten gefunden hat."
+        },
+        {
+          "text": "In ihrem Briefkasten",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Von einer Freundin",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag erwähnt, dass sie den Flyer in ihrem Briefkasten gefunden hat."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie hoch war die Preisdifferenz zwischen Prospekt und Online-Shop?</p>",
+      "options": [
+        {
+          "text": "50 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Kittel kostete im Prospekt 139 Franken und online 239 Franken."
+        },
+        {
+          "text": "100 Franken",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "150 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Kittel kostete im Prospekt 139 Franken und online 239 Franken."
+        },
+        {
+          "text": "200 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Kittel kostete im Prospekt 139 Franken und online 239 Franken."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Margrit Müller hat beim Händler angerufen, um sich über den Preis zu erkundigen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Sie hat beim Händler angerufen und erfahren, dass der Preis im Prospekt ein Fehler war.",
+      "feedback_incorrect": "❌ Falsch. Sie hat beim Händler angerufen und erfahren, dass der Preis im Prospekt ein Fehler war."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Zalando wird im Beitrag als Beispiel für ein Unternehmen genannt, das kein Rückgaberecht gewährt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Zalando wird als Beispiel für ein Unternehmen genannt, das ein Rückgaberecht gewährt.",
+      "feedback_incorrect": "❌ Richtig. Zalando wird als Beispiel für ein Unternehmen genannt, das ein Rückgaberecht gewährt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Beitrag wurde in der Sendung \"Kassensturz\" ausgestrahlt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Beitrag wurde in der Sendung \"Espresso\" ausgestrahlt.",
+      "feedback_incorrect": "❌ Richtig. Der Beitrag wurde in der Sendung \"Espresso\" ausgestrahlt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Gemäss Beitrag haben Konsumenten in der Schweiz nur in bestimmten Fällen ein Widerrufsrecht.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Beitrag erklärt, dass ein Widerrufsrecht nur in bestimmten Fällen besteht, z.B. bei Verträgen, die ausserhalb von Geschäftsräumen abgeschlossen wurden.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag erklärt, dass ein Widerrufsrecht nur in bestimmten Fällen besteht, z.B. bei Verträgen, die ausserhalb von Geschäftsräumen abgeschlossen wurden."
+    }
+  ]
+}

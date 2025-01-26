@@ -1,0 +1,226 @@
+{
+  "title": "Mündlicher_Vertrag",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was macht mündliche Verträge rechtlich bindend?</p>",
+      "options": [
+        {
+          "text": "Die Zustimmung beider Parteien und eine Leistungserbringung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Nur schriftliche Unterlagen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mündliche Verträge sind verbindlich, wenn beide Parteien eine Übereinkunft und eine Leistung erbracht haben."
+        },
+        {
+          "text": "Ein Zeuge, der die Vereinbarung belegt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mündliche Verträge sind verbindlich, wenn beide Parteien eine Übereinkunft und eine Leistung erbracht haben."
+        },
+        {
+          "text": "Das Gesetz für Haustürgeschäfte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mündliche Verträge sind verbindlich, wenn beide Parteien eine Übereinkunft und eine Leistung erbracht haben."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wann gilt das Widerrufsrecht?</p>",
+      "options": [
+        {
+          "text": "Bei Haustürgeschäften oder ähnlichen Situationen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Bei allen mündlichen Verträgen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Widerrufsrecht gilt nur bei spezifischen Vertragssituationen wie Haustürgeschäften."
+        },
+        {
+          "text": "Nur bei Verkäufen von teuren Waren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Widerrufsrecht gilt nur bei spezifischen Vertragssituationen wie Haustürgeschäften."
+        },
+        {
+          "text": "Wenn der Käufer unzufrieden ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Widerrufsrecht gilt nur bei spezifischen Vertragssituationen wie Haustürgeschäften."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum lohnt sich ein schriftlicher Vertrag beim Autoverkauf?</p>",
+      "options": [
+        {
+          "text": "Er verhindert Missverständnisse und Konflikte.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Er ist rechtlich vorgeschrieben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein schriftlicher Vertrag klärt Bedingungen eindeutig und beugt Missverständnissen vor."
+        },
+        {
+          "text": "Ohne Vertrag gibt es keine Garantie.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein schriftlicher Vertrag klärt Bedingungen eindeutig und beugt Missverständnissen vor."
+        },
+        {
+          "text": "Er erhöht den Verkaufspreis.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein schriftlicher Vertrag klärt Bedingungen eindeutig und beugt Missverständnissen vor."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Regelung gilt, wenn keine Garantie ausgeschlossen wurde?</p>",
+      "options": [
+        {
+          "text": "Der Käufer hat ein Jahr Garantie auf die Ware.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Garantie entfällt automatisch.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Wenn keine Garantie ausgeschlossen wird, gilt gesetzlich eine einjährige Garantie."
+        },
+        {
+          "text": "Der Verkäufer muss eine lebenslange Garantie geben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Wenn keine Garantie ausgeschlossen wird, gilt gesetzlich eine einjährige Garantie."
+        },
+        {
+          "text": "Es gibt keine gesetzliche Regelung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Wenn keine Garantie ausgeschlossen wird, gilt gesetzlich eine einjährige Garantie."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum ist das Widerrufsrecht für die Hörerin des Beitrags nicht anwendbar?</p>",
+      "options": [
+        {
+          "text": "Weil sie als Verkäuferin agiert.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Weil das Auto ein teures Gut ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Widerrufsrecht gilt nur für Konsumenten, nicht für Verkäufer."
+        },
+        {
+          "text": "Weil der Vertrag schriftlich war.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Widerrufsrecht gilt nur für Konsumenten, nicht für Verkäufer."
+        },
+        {
+          "text": "Weil die Tochter das Auto beansprucht hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Widerrufsrecht gilt nur für Konsumenten, nicht für Verkäufer."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Option hat die Verkäuferin, um das Problem zu lösen?</p>",
+      "options": [
+        {
+          "text": "Sie kann mit dem Käufer verhandeln.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie kann den Vertrag einseitig widerrufen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Verkäuferin kann versuchen, eine Einigung durch Verhandlungen zu erzielen."
+        },
+        {
+          "text": "Sie kann die Polizei einschalten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Verkäuferin kann versuchen, eine Einigung durch Verhandlungen zu erzielen."
+        },
+        {
+          "text": "Sie hat keine Optionen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Verkäuferin kann versuchen, eine Einigung durch Verhandlungen zu erzielen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was passiert, wenn ein schriftlicher Vertrag fehlt?</p>",
+      "options": [
+        {
+          "text": "Das Gesetz tritt automatisch in Kraft.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Der Vertrag ist ungültig.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ohne schriftlichen Vertrag gelten die gesetzlichen Regelungen."
+        },
+        {
+          "text": "Die Garantie entfällt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ohne schriftlichen Vertrag gelten die gesetzlichen Regelungen."
+        },
+        {
+          "text": "Der Käufer kann den Vertrag widerrufen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ohne schriftlichen Vertrag gelten die gesetzlichen Regelungen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum empfiehlt Gabriela Baumgartner schriftliche Verträge?</p>",
+      "options": [
+        {
+          "text": "Weil sie rechtlich vorgeschrieben sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Schriftliche Verträge schaffen Klarheit und helfen, Konflikte zu vermeiden."
+        },
+        {
+          "text": "Weil sie das Vertrauen stärken.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Schriftliche Verträge schaffen Klarheit und helfen, Konflikte zu vermeiden."
+        },
+        {
+          "text": "Weil sie Garantien und Bedingungen klar regeln.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Weil sie günstiger sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Schriftliche Verträge schaffen Klarheit und helfen, Konflikte zu vermeiden."
+        }
+      ]
+    }
+  ]
+}

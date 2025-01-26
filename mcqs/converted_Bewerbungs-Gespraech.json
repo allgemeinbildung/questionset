@@ -1,0 +1,255 @@
+{
+  "title": "Bewerbungs-Gespraech",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Fragen sind in einem Vorstellungsgespräch erlaubt?</p>",
+      "options": [
+        {
+          "text": "Fragen zur Familienplanung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Fragen zu Qualifikationen sind relevant für die Beurteilung der Eignung eines Bewerbers."
+        },
+        {
+          "text": "Fragen zu Vorstrafen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Fragen zu Qualifikationen sind relevant für die Beurteilung der Eignung eines Bewerbers."
+        },
+        {
+          "text": "Fragen zu Qualifikationen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Fragen zum Gesundheitszustand",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Fragen zu Qualifikationen sind relevant für die Beurteilung der Eignung eines Bewerbers."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist das «Notwehrrecht der Lüge»?</p>",
+      "options": [
+        {
+          "text": "Das Recht, im Vorstellungsgespräch zu lügen, um sich besser darzustellen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das «Notwehrrecht der Lüge» schützt Bewerber vor Diskriminierung durch unzulässige Fragen."
+        },
+        {
+          "text": "Das Recht, bei unzulässigen Fragen zu lügen, um sich zu schützen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Das Recht, im Lebenslauf zu lügen, um die Chancen auf eine Stelle zu erhöhen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das «Notwehrrecht der Lüge» schützt Bewerber vor Diskriminierung durch unzulässige Fragen."
+        },
+        {
+          "text": "Das Recht, im Arbeitsvertrag zu lügen, um bessere Konditionen zu erhalten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das «Notwehrrecht der Lüge» schützt Bewerber vor Diskriminierung durch unzulässige Fragen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Frage nach dem Grund für den Stellenwechsel ist zulässig.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Diese Frage ist unzulässig, da sie nicht relevant für die zukünftige Tätigkeit ist.",
+      "feedback_incorrect": "❌ Richtig. Diese Frage ist unzulässig, da sie nicht relevant für die zukünftige Tätigkeit ist."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Bewerber für Kaderstellen müssen sich im Vergleich zu Praktikanten mehr gefallen lassen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Von Bewerbern für Kaderstellen werden höhere Anforderungen erwartet, daher müssen sie sich mehr gefallen lassen.",
+      "feedback_incorrect": "❌ Falsch. Von Bewerbern für Kaderstellen werden höhere Anforderungen erwartet, daher müssen sie sich mehr gefallen lassen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Tipp wird für die Vorbereitung auf ein Vorstellungsgespräch NICHT genannt?</p>",
+      "options": [
+        {
+          "text": "Überlegung möglicher Fragen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wird empfohlen, sich auf mögliche Fragen vorzubereiten, aber nicht, den Lebenslauf auswendig zu lernen."
+        },
+        {
+          "text": "Vorbereitung von Antworten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wird empfohlen, sich auf mögliche Fragen vorzubereiten, aber nicht, den Lebenslauf auswendig zu lernen."
+        },
+        {
+          "text": "Auswendiglernen des Lebenslaufs",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Konzentration",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wird empfohlen, sich auf mögliche Fragen vorzubereiten, aber nicht, den Lebenslauf auswendig zu lernen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Frage ist im Vorstellungsgespräch zulässig?</p>",
+      "options": [
+        {
+          "text": "Sind Sie schwanger?",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese Frage ist relevant für die Beurteilung der Eignung eines Bewerbers."
+        },
+        {
+          "text": "Haben Sie Kinder?",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese Frage ist relevant für die Beurteilung der Eignung eines Bewerbers."
+        },
+        {
+          "text": "Welche Krankheiten haben Sie?",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese Frage ist relevant für die Beurteilung der Eignung eines Bewerbers."
+        },
+        {
+          "text": "Wie gehen Sie mit Stress um?",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte man bei der Beantwortung von Fragen im Vorstellungsgespräch beachten?</p>",
+      "options": [
+        {
+          "text": "Ausschweifend und detailliert antworten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Vorstellungsgespräch ist es wichtig, die Fragen konzentriert und auf den Punkt zu beantworten."
+        },
+        {
+          "text": "Sich kurz und prägnant fassen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Fragen möglichst schnell abarbeiten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Vorstellungsgespräch ist es wichtig, die Fragen konzentriert und auf den Punkt zu beantworten."
+        },
+        {
+          "text": "Dem Arbeitgeber die gewünschten Antworten geben, unabhängig von der Wahrheit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Vorstellungsgespräch ist es wichtig, die Fragen konzentriert und auf den Punkt zu beantworten."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Es ist ratsam, sich vor dem Vorstellungsgespräch über die Firma zu informieren.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Durch die Auseinandersetzung mit der Firma zeigt man Interesse an der Stelle.",
+      "feedback_incorrect": "❌ Falsch. Durch die Auseinandersetzung mit der Firma zeigt man Interesse an der Stelle."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Man sollte im Vorstellungsgespräch bei allen Fragen die Wahrheit sagen, auch wenn sie unangemessen sind.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Bei unzulässigen Fragen darf man lügen, um sich zu schützen («Notwehrrecht der Lüge»).",
+      "feedback_incorrect": "❌ Richtig. Bei unzulässigen Fragen darf man lügen, um sich zu schützen («Notwehrrecht der Lüge»)."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Beispiel für eine unzulässige Frage wird im Beitrag genannt?</p>",
+      "options": [
+        {
+          "text": "Welche Qualifikationen haben Sie?",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Fragen nach Vorstrafen sind im Vorstellungsgespräch unzulässig."
+        },
+        {
+          "text": "Welche Aufgaben haben Sie früher ausgeführt?",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Fragen nach Vorstrafen sind im Vorstellungsgespräch unzulässig."
+        },
+        {
+          "text": "Wie gehen Sie mit Stress um?",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Fragen nach Vorstrafen sind im Vorstellungsgespräch unzulässig."
+        },
+        {
+          "text": "Sind Sie schon mal verurteilt worden?",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was wird im Beitrag als wichtiger Punkt für die Vorbereitung auf ein Vorstellungsgespräch genannt?</p>",
+      "options": [
+        {
+          "text": "Sich über mögliche Fragen Gedanken machen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sich den Lebenslauf auswendig lernen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist wichtig, sich im Voraus Gedanken über mögliche Fragen und die entsprechenden Antworten zu machen."
+        },
+        {
+          "text": "Dem Arbeitgeber möglichst viele private Details erzählen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist wichtig, sich im Voraus Gedanken über mögliche Fragen und die entsprechenden Antworten zu machen."
+        },
+        {
+          "text": "Sich über die Konkurrenz informieren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist wichtig, sich im Voraus Gedanken über mögliche Fragen und die entsprechenden Antworten zu machen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Im Vorstellungsgespräch darf man bei Fragen zu den Qualifikationen lügen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Bei Fragen zu den Qualifikationen muss man die Wahrheit sagen.",
+      "feedback_incorrect": "❌ Richtig. Bei Fragen zu den Qualifikationen muss man die Wahrheit sagen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Es ist empfehlenswert, im Vorstellungsgespräch eigene Fragen an den Arbeitgeber zu stellen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Eigene Fragen zeigen Interesse an der Stelle und der Firma.",
+      "feedback_incorrect": "❌ Falsch. Eigene Fragen zeigen Interesse an der Stelle und der Firma."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Thema des Radiobeitrags ist die rechtliche Situation von Bewerbern in Vorstellungsgesprächen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Beitrag befasst sich mit den Rechten und Pflichten von Bewerbern in Vorstellungsgesprächen.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag befasst sich mit den Rechten und Pflichten von Bewerbern in Vorstellungsgesprächen."
+    }
+  ]
+}

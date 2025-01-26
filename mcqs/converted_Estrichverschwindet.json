@@ -1,0 +1,274 @@
+{
+  "title": "Estrichverschwindet",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum muss der Hörer seinen Estrich räumen?</p>",
+      "options": [
+        {
+          "text": "Der Vermieter braucht den Platz für sich selbst.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter plant, den Estrich in eine Wohnung umzuwandeln, weshalb der Hörer ihn räumen muss."
+        },
+        {
+          "text": "Der Estrich ist einsturzgefährdet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter plant, den Estrich in eine Wohnung umzuwandeln, weshalb der Hörer ihn räumen muss."
+        },
+        {
+          "text": "Der Vermieter möchte den Estrich zu einer Wohnung ausbauen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Der Hörer hat den Mietvertrag gekündigt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter plant, den Estrich in eine Wohnung umzuwandeln, weshalb der Hörer ihn räumen muss."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Kann ein Vermieter den Mietvertrag bezüglich Nebenräumen einseitig ändern?</p>",
+      "options": [
+        {
+          "text": "Ja, das ist immer möglich.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter hat das Recht, den Mietvertrag einseitig zu ändern, wenn es um Nebenräume wie Estrich oder Keller geht."
+        },
+        {
+          "text": "Nein, das ist nie möglich.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter hat das Recht, den Mietvertrag einseitig zu ändern, wenn es um Nebenräume wie Estrich oder Keller geht."
+        },
+        {
+          "text": "Ja, aber nur bei Nebenräumen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Nur mit Zustimmung des Mieters.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter hat das Recht, den Mietvertrag einseitig zu ändern, wenn es um Nebenräume wie Estrich oder Keller geht."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Mieter hat kein Recht auf eine Mietzinsreduktion, wenn ihm der Estrich entzogen wird.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Mieter hat das Recht, eine Mietzinsreduktion zu verlangen, wenn ihm der Estrich entzogen wird.",
+      "feedback_incorrect": "❌ Richtig. Der Mieter hat das Recht, eine Mietzinsreduktion zu verlangen, wenn ihm der Estrich entzogen wird."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Höhe der Mietzinsreduktion ist immer gleich hoch.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Höhe der Mietzinsreduktion hängt von verschiedenen Faktoren ab, wie der Grösse und Wichtigkeit des Estrichs für den Mieter.",
+      "feedback_incorrect": "❌ Richtig. Die Höhe der Mietzinsreduktion hängt von verschiedenen Faktoren ab, wie der Grösse und Wichtigkeit des Estrichs für den Mieter."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Recht hat der Vermieter in Bezug auf Nebenräume wie Estrich oder Keller?</p>",
+      "options": [
+        {
+          "text": "Er kann sie jederzeit ohne Begründung wegnehmen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter hat das Recht, Nebenräume wie Estrich oder Keller wegzunehmen, selbst wenn sie im Mietvertrag aufgeführt sind."
+        },
+        {
+          "text": "Er kann sie nur wegnehmen, wenn er einen triftigen Grund hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter hat das Recht, Nebenräume wie Estrich oder Keller wegzunehmen, selbst wenn sie im Mietvertrag aufgeführt sind."
+        },
+        {
+          "text": "Er kann sie wegnehmen, auch wenn sie im Mietvertrag erwähnt sind.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Er darf sie nicht wegnehmen, wenn sie im Mietvertrag erwähnt sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vermieter hat das Recht, Nebenräume wie Estrich oder Keller wegzunehmen, selbst wenn sie im Mietvertrag aufgeführt sind."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was kann ein Mieter tun, wenn ihm der Vermieter den Estrich wegnehmen will?</p>",
+      "options": [
+        {
+          "text": "Er muss die Entscheidung akzeptieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Mieter kann eine Mietzinsreduktion verlangen oder dem Vermieter einen alternativen Raum anbieten."
+        },
+        {
+          "text": "Er kann eine Mietzinsreduktion verlangen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Mieter kann eine Mietzinsreduktion verlangen oder dem Vermieter einen alternativen Raum anbieten."
+        },
+        {
+          "text": "Er kann dem Vermieter einen anderen Raum anbieten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Mieter kann eine Mietzinsreduktion verlangen oder dem Vermieter einen alternativen Raum anbieten."
+        },
+        {
+          "text": "B und C sind richtig.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wovon hängt die Höhe einer möglichen Mietzinsreduktion ab?</p>",
+      "options": [
+        {
+          "text": "Von der Grösse des Estrichs.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Höhe der Mietzinsreduktion hängt von der Grösse und der Wichtigkeit des Estrichs für den Mieter ab."
+        },
+        {
+          "text": "Von der Wichtigkeit des Estrichs für den Mieter.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Höhe der Mietzinsreduktion hängt von der Grösse und der Wichtigkeit des Estrichs für den Mieter ab."
+        },
+        {
+          "text": "Von der finanziellen Situation des Mieters.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Höhe der Mietzinsreduktion hängt von der Grösse und der Wichtigkeit des Estrichs für den Mieter ab."
+        },
+        {
+          "text": "A und B sind richtig.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Fall ist eine Mietzinsreduktion eher gerechtfertigt?</p>",
+      "options": [
+        {
+          "text": "Wenn der Mieter den Estrich als Rumpelkammer benutzt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Wenn der Mieter den Estrich mit Zustimmung des Vermieters als Büro nutzt, ist eine Mietzinsreduktion eher gerechtfertigt."
+        },
+        {
+          "text": "Wenn der Mieter den Estrich mit Zustimmung des Vermieters als Büro nutzt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Wenn der Mieter den Estrich gar nicht benutzt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Wenn der Mieter den Estrich mit Zustimmung des Vermieters als Büro nutzt, ist eine Mietzinsreduktion eher gerechtfertigt."
+        },
+        {
+          "text": "Wenn der Vermieter dem Mieter einen anderen Raum anbieten kann.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Wenn der Mieter den Estrich mit Zustimmung des Vermieters als Büro nutzt, ist eine Mietzinsreduktion eher gerechtfertigt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie hoch ist die geschätzte Mietzinsreduktion in ähnlichen Fällen laut Mieterverbänden?</p>",
+      "options": [
+        {
+          "text": "5 Prozent.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Laut Mieterverbänden liegt die Mietzinsreduktion in ähnlichen Fällen bei etwa 10 Prozent."
+        },
+        {
+          "text": "10 Prozent.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "15 Prozent.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Laut Mieterverbänden liegt die Mietzinsreduktion in ähnlichen Fällen bei etwa 10 Prozent."
+        },
+        {
+          "text": "20 Prozent.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Laut Mieterverbänden liegt die Mietzinsreduktion in ähnlichen Fällen bei etwa 10 Prozent."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wann gibt es keine Mietzinsreduktion, selbst wenn der Estrich entzogen wird?</p>",
+      "options": [
+        {
+          "text": "Wenn der Vermieter dem Mieter einen alternativen Raum als Estrich anbieten kann.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Wenn der Mieter den Estrich gar nicht benutzt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Wenn der Vermieter dem Mieter einen alternativen Raum als Estrich anbieten kann, gibt es keine Mietzinsreduktion."
+        },
+        {
+          "text": "Wenn der Mieter mit dem Umbau einverstanden ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Wenn der Vermieter dem Mieter einen alternativen Raum als Estrich anbieten kann, gibt es keine Mietzinsreduktion."
+        },
+        {
+          "text": "Wenn der Estrich einsturzgefährdet ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Wenn der Vermieter dem Mieter einen alternativen Raum als Estrich anbieten kann, gibt es keine Mietzinsreduktion."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Estrich ist ein rechtsfreier Raum.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Auch für den Estrich gelten rechtliche Bestimmungen.",
+      "feedback_incorrect": "❌ Richtig. Auch für den Estrich gelten rechtliche Bestimmungen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Mieter kann den Estrich immer behalten, auch wenn er im Mietvertrag nicht explizit erwähnt ist.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Vermieter kann den Estrich auch dann wegnehmen, wenn er nicht explizit im Mietvertrag erwähnt ist.",
+      "feedback_incorrect": "❌ Richtig. Der Vermieter kann den Estrich auch dann wegnehmen, wenn er nicht explizit im Mietvertrag erwähnt ist."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine Mietzinsreduktion ist nur möglich, wenn der Estrich als Wohnraum genutzt wird.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Auch wenn der Estrich als Rumpelkammer oder Abstellraum genutzt wird, kann eine Mietzinsreduktion möglich sein.",
+      "feedback_incorrect": "❌ Richtig. Auch wenn der Estrich als Rumpelkammer oder Abstellraum genutzt wird, kann eine Mietzinsreduktion möglich sein."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Schlichtungsbehörde entscheidet, ob eine Mietzinsreduktion gerechtfertigt ist.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Schlichtungsbehörde wägt die Interessen von Mieter und Vermieter ab und entscheidet über eine mögliche Mietzinsreduktion.",
+      "feedback_incorrect": "❌ Falsch. Die Schlichtungsbehörde wägt die Interessen von Mieter und Vermieter ab und entscheidet über eine mögliche Mietzinsreduktion."
+    }
+  ]
+}

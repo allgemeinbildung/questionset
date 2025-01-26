@@ -1,0 +1,274 @@
+{
+  "title": "Kassenzettel",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist neu am Self-Checkout bei Coop?</p>",
+      "options": [
+        {
+          "text": "Man kann bargeldlos bezahlen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Coop bietet die Option, den Ausdruck des Kassenzettels zu unterdrücken."
+        },
+        {
+          "text": "Man kann selbst scannen und bezahlen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Coop bietet die Option, den Ausdruck des Kassenzettels zu unterdrücken."
+        },
+        {
+          "text": "Man kann wählen, ob man einen Kassenzettel möchte.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Man kann Rabatte direkt am Automaten einlösen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Coop bietet die Option, den Ausdruck des Kassenzettels zu unterdrücken."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo ist der Hörer Simon Gauci aufgefallen, dass man den Kassenzettel mitnehmen muss?</p>",
+      "options": [
+        {
+          "text": "In Deutschland",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird Italien als Beispiel für ein Land genannt, in dem die Mitnahmepflicht besteht."
+        },
+        {
+          "text": "In Frankreich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird Italien als Beispiel für ein Land genannt, in dem die Mitnahmepflicht besteht."
+        },
+        {
+          "text": "In Italien",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "In Österreich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird Italien als Beispiel für ein Land genannt, in dem die Mitnahmepflicht besteht."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>In der Schweiz ist man verpflichtet, den Kassenzettel mitzunehmen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Man ist nicht verpflichtet, den Kassenzettel mitzunehmen, aber die Geschäfte müssen ihn anbieten.",
+      "feedback_incorrect": "❌ Richtig. Man ist nicht verpflichtet, den Kassenzettel mitzunehmen, aber die Geschäfte müssen ihn anbieten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Mitnahmepflicht im Ausland dient der Steuerkontrolle.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Dadurch soll sichergestellt werden, dass alle Verkäufe korrekt verbucht werden.",
+      "feedback_incorrect": "❌ Falsch. Dadurch soll sichergestellt werden, dass alle Verkäufe korrekt verbucht werden."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer wird in der Schweiz von den Steuerbehörden kontrolliert?</p>",
+      "options": [
+        {
+          "text": "Nur die Kunden",
+          "is_correct": false,
+          "feedback": "❌ Falsch. In der Schweiz werden nur die Unternehmen auf korrekte Abrechnung geprüft."
+        },
+        {
+          "text": "Nur die Unternehmen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sowohl Kunden als auch Unternehmen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. In der Schweiz werden nur die Unternehmen auf korrekte Abrechnung geprüft."
+        },
+        {
+          "text": "Weder Kunden noch Unternehmen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. In der Schweiz werden nur die Unternehmen auf korrekte Abrechnung geprüft."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist der Nachteil, wenn man bei einer Taschenkontrolle keinen Kassenzettel hat?</p>",
+      "options": [
+        {
+          "text": "Man muss eine Busse bezahlen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ohne Kassenzettel ist es schwieriger zu beweisen, dass man die Ware ehrlich erworben hat."
+        },
+        {
+          "text": "Man wird wegen Diebstahls angezeigt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ohne Kassenzettel ist es schwieriger zu beweisen, dass man die Ware ehrlich erworben hat."
+        },
+        {
+          "text": "Es kann der Verdacht entstehen, dass man die Ware nicht bezahlt hat.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Man muss die Ware zurückgeben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ohne Kassenzettel ist es schwieriger zu beweisen, dass man die Ware ehrlich erworben hat."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Es ist empfehlenswert, den Kassenzettel für langlebige Güter aufzuheben.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Kassenzettel dient als Beweis für Garantieansprüche.",
+      "feedback_incorrect": "❌ Falsch. Der Kassenzettel dient als Beweis für Garantieansprüche."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange gilt die Garantie auf Produkte in der Schweiz?</p>",
+      "options": [
+        {
+          "text": "1 Jahr",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gesetzlich gilt eine Garantie von 2 Jahren."
+        },
+        {
+          "text": "2 Jahre",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "3 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gesetzlich gilt eine Garantie von 2 Jahren."
+        },
+        {
+          "text": "5 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gesetzlich gilt eine Garantie von 2 Jahren."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Kassenzettel?</p>",
+      "options": [
+        {
+          "text": "Ein Gutschein",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Kassenzettel ist der Beweis für einen Kauf und dient als Quittung."
+        },
+        {
+          "text": "Eine Rechnung / Quittung",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Garantie",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Kassenzettel ist der Beweis für einen Kauf und dient als Quittung."
+        },
+        {
+          "text": "Ein Zahlungsversprechen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Kassenzettel ist der Beweis für einen Kauf und dient als Quittung."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Coop hat die Kassenzettel-Option abgeschafft.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Coop bietet die Wahlmöglichkeit an, ob man einen Kassenzettel möchte oder nicht.",
+      "feedback_incorrect": "❌ Richtig. Coop bietet die Wahlmöglichkeit an, ob man einen Kassenzettel möchte oder nicht."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist der Vorteil, wenn man keinen Kassenzettel druckt?</p>",
+      "options": [
+        {
+          "text": "Man spart Geld",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Durch den Verzicht auf den Ausdruck wird Papier gespart."
+        },
+        {
+          "text": "Man spart Papier",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Man spart Zeit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Durch den Verzicht auf den Ausdruck wird Papier gespart."
+        },
+        {
+          "text": "Man spart Energie",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Durch den Verzicht auf den Ausdruck wird Papier gespart."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Hörer findet die neue Kassenzettel-Option schlecht.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Hörer findet die Option gut, da so Papier gespart werden kann.",
+      "feedback_incorrect": "❌ Richtig. Der Hörer findet die Option gut, da so Papier gespart werden kann."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist die Aufgabe von Gabriela Baumgartner im Beitrag?</p>",
+      "options": [
+        {
+          "text": "Sie ist die Moderatorin.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gabriela Baumgartner klärt die Rechtslage in Bezug auf Kassenzettel."
+        },
+        {
+          "text": "Sie ist die Hörerin.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gabriela Baumgartner klärt die Rechtslage in Bezug auf Kassenzettel."
+        },
+        {
+          "text": "Sie ist die Rechtsexpertin.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie ist die Verkäuferin bei Coop.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gabriela Baumgartner klärt die Rechtslage in Bezug auf Kassenzettel."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Man kann in der Schweiz für das Nichtmitnehmen des Kassenzettels bestraft werden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Es gibt keine rechtlichen Konsequenzen, wenn man den Kassenzettel nicht mitnimmt.",
+      "feedback_incorrect": "❌ Richtig. Es gibt keine rechtlichen Konsequenzen, wenn man den Kassenzettel nicht mitnimmt."
+    }
+  ]
+}

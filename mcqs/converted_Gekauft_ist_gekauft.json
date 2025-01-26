@@ -1,0 +1,274 @@
+{
+  "title": "Gekauft_ist_gekauft",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viel hat das Coldplay-Ticket gekostet?</p>",
+      "options": [
+        {
+          "text": "200 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass das Ticket 300 Franken gekostet hat."
+        },
+        {
+          "text": "300 Franken",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "400 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass das Ticket 300 Franken gekostet hat."
+        },
+        {
+          "text": "500 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass das Ticket 300 Franken gekostet hat."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo hat die 16-Jährige das Ticket gekauft?</p>",
+      "options": [
+        {
+          "text": "Im offiziellen Vorverkauf",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag erwähnt, dass das Ticket auf einer Auktionsplattform gekauft wurde. "
+        },
+        {
+          "text": "An der Abendkasse",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag erwähnt, dass das Ticket auf einer Auktionsplattform gekauft wurde. "
+        },
+        {
+          "text": "Auf einer Auktionsplattform",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Von einem Freund",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag erwähnt, dass das Ticket auf einer Auktionsplattform gekauft wurde. "
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die 16-Jährige hat die Einwilligung ihrer Eltern für den Kauf benötigt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Da die 16-Jährige das Ticket von ihrem eigenen Lehrlingslohn bezahlt hat, benötigte sie keine Einwilligung der Eltern.",
+      "feedback_incorrect": "❌ Richtig. Da die 16-Jährige das Ticket von ihrem eigenen Lehrlingslohn bezahlt hat, benötigte sie keine Einwilligung der Eltern."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Verkäufer kann die 16-Jährige betreiben, wenn sie nicht zahlt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Da der Kaufvertrag gültig ist, kann der Verkäufer die Käuferin betreiben, wenn sie die Zahlung verweigert.",
+      "feedback_incorrect": "❌ Falsch. Da der Kaufvertrag gültig ist, kann der Verkäufer die Käuferin betreiben, wenn sie die Zahlung verweigert."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist eine mögliche Konsequenz einer Betreibung?</p>",
+      "options": [
+        {
+          "text": "Ein Eintrag im Strafregister",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Betreibung führt zu einem Eintrag im Betreibungsregister, was zukünftige Miet- oder Kreditanträge erschweren kann."
+        },
+        {
+          "text": "Ein Eintrag im Betreibungsregister",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Gefängnisstrafe",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Betreibung führt zu einem Eintrag im Betreibungsregister, was zukünftige Miet- oder Kreditanträge erschweren kann."
+        },
+        {
+          "text": "Gemeinnützige Arbeit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Betreibung führt zu einem Eintrag im Betreibungsregister, was zukünftige Miet- oder Kreditanträge erschweren kann."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie hoch ist der Monatslohn der 16-Jährigen?</p>",
+      "options": [
+        {
+          "text": "400 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass die 16-Jährige ca. 600 Franken im Monat verdient."
+        },
+        {
+          "text": "500 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass die 16-Jährige ca. 600 Franken im Monat verdient."
+        },
+        {
+          "text": "600 Franken",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "700 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass die 16-Jährige ca. 600 Franken im Monat verdient."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Bei Kaufverträgen hat man grundsätzlich ein Rücktrittsrecht.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Bei Kaufverträgen gibt es grundsätzlich kein Rücktrittsrecht. Ausnahmen bestehen z.B. beim Online-Kauf mit Widerrufsrecht.",
+      "feedback_incorrect": "❌ Richtig. Bei Kaufverträgen gibt es grundsätzlich kein Rücktrittsrecht. Ausnahmen bestehen z.B. beim Online-Kauf mit Widerrufsrecht."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Eltern der 16-Jährigen müssen die Betreibung bezahlen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die 16-Jährige ist für die Bezahlung des Tickets selbst verantwortlich, da sie den Kaufvertrag selbst abgeschlossen hat.",
+      "feedback_incorrect": "❌ Richtig. Die 16-Jährige ist für die Bezahlung des Tickets selbst verantwortlich, da sie den Kaufvertrag selbst abgeschlossen hat."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Rechtsvorschlag?</p>",
+      "options": [
+        {
+          "text": "Ein Vorschlag für ein neues Gesetz",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mit einem Rechtsvorschlag kann man sich gegen eine ungerechtfertigte Betreibung wehren."
+        },
+        {
+          "text": "Eine Einigung zwischen Käufer und Verkäufer",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mit einem Rechtsvorschlag kann man sich gegen eine ungerechtfertigte Betreibung wehren."
+        },
+        {
+          "text": "Ein Widerspruch gegen eine Betreibung",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Anzeige bei der Polizei",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mit einem Rechtsvorschlag kann man sich gegen eine ungerechtfertigte Betreibung wehren."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Sender hat über den Fall berichtet?</p>",
+      "options": [
+        {
+          "text": "SRF 3",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag stammt von der Sendung SRF Espresso."
+        },
+        {
+          "text": "SRF 4 News",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag stammt von der Sendung SRF Espresso."
+        },
+        {
+          "text": "SRF 1",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag stammt von der Sendung SRF Espresso."
+        },
+        {
+          "text": "SRF Espresso",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Vater der 16-Jährigen hat sich an die Redaktion gewandt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Vater der 16-Jährigen hat die Frage an die Rechtsexpertin gestellt.",
+      "feedback_incorrect": "❌ Falsch. Der Vater der 16-Jährigen hat die Frage an die Rechtsexpertin gestellt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Rechtsexpertin rät der 16-Jährigen, das Ticket zu bezahlen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Rechtsexpertin rät zur Zahlung, um eine Betreibung zu vermeiden.",
+      "feedback_incorrect": "❌ Falsch. Die Rechtsexpertin rät zur Zahlung, um eine Betreibung zu vermeiden."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Für welches Konzert wurde das Ticket gekauft?</p>",
+      "options": [
+        {
+          "text": "Ed Sheeran",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es handelt sich um ein Ticket für ein Coldplay-Konzert."
+        },
+        {
+          "text": "Coldplay",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Taylor Swift",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es handelt sich um ein Ticket für ein Coldplay-Konzert."
+        },
+        {
+          "text": "Harry Styles",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es handelt sich um ein Ticket für ein Coldplay-Konzert."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was macht die 16-Jährige beruflich?</p>",
+      "options": [
+        {
+          "text": "Schülerin",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die 16-Jährige macht eine Lehre und verdient dadurch ihr eigenes Geld."
+        },
+        {
+          "text": "Studentin",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die 16-Jährige macht eine Lehre und verdient dadurch ihr eigenes Geld."
+        },
+        {
+          "text": "Lehrtochter",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Angestellte",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die 16-Jährige macht eine Lehre und verdient dadurch ihr eigenes Geld."
+        }
+      ]
+    }
+  ]
+}

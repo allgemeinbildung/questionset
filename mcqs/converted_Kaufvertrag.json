@@ -1,0 +1,236 @@
+{
+  "title": "Kaufvertrag",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was war der ursprüngliche Preis der Musikanlage?</p>",
+      "options": [
+        {
+          "text": "1'500 Fr.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Heinz Krapf und der Verkäufer einigten sich zunächst auf einen Preis von 2'000 Fr."
+        },
+        {
+          "text": "2'000 Fr.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "2'500 Fr.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Heinz Krapf und der Verkäufer einigten sich zunächst auf einen Preis von 2'000 Fr."
+        },
+        {
+          "text": "3'000 Fr.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Heinz Krapf und der Verkäufer einigten sich zunächst auf einen Preis von 2'000 Fr."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum hat der Verkäufer den Preis erhöht?</p>",
+      "options": [
+        {
+          "text": "Weil er die Anlage teurer eingekauft hatte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Verkäufer begründete die Preiserhöhung mit weiteren Kaufinteressenten."
+        },
+        {
+          "text": "Weil er mehr Angebote erhalten hatte.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Weil die Anlage beschädigt war.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Verkäufer begründete die Preiserhöhung mit weiteren Kaufinteressenten."
+        },
+        {
+          "text": "Weil Heinz Krapf zu spät gezahlt hatte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Verkäufer begründete die Preiserhöhung mit weiteren Kaufinteressenten."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Mündliche Kaufverträge sind in der Schweiz rechtlich nicht bindend.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Mündliche Kaufverträge sind grundsätzlich gültig, aber schwierig zu beweisen.",
+      "feedback_incorrect": "❌ Richtig. Mündliche Kaufverträge sind grundsätzlich gültig, aber schwierig zu beweisen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Heinz Krapf kann den Verkäufer auf Schadensersatz verklagen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Er hat Anspruch auf Ersatz der Mehrkosten für eine gleichwertige Anlage.",
+      "feedback_incorrect": "❌ Falsch. Er hat Anspruch auf Ersatz der Mehrkosten für eine gleichwertige Anlage."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welchen Rat gibt die Rechtsexpertin?</p>",
+      "options": [
+        {
+          "text": "Immer einen schriftlichen Vertrag abschliessen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine schriftliche Bestätigung dient als Beweismittel im Streitfall."
+        },
+        {
+          "text": "Nach einem Telefongespräch eine Bestätigungsmail schicken.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Keine Käufe über Online-Plattformen tätigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine schriftliche Bestätigung dient als Beweismittel im Streitfall."
+        },
+        {
+          "text": "Sich an den Konsumentenschutz wenden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine schriftliche Bestätigung dient als Beweismittel im Streitfall."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte man beim Kauf auf Online-Plattformen beachten?</p>",
+      "options": [
+        {
+          "text": "Auf Vorkasse bestehen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Persönliche Treffen minimieren das Risiko von Betrug."
+        },
+        {
+          "text": "Persönliche Treffen vereinbaren.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Nur von gewerblichen Händlern kaufen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Persönliche Treffen minimieren das Risiko von Betrug."
+        },
+        {
+          "text": "Auf Bewertungen anderer Käufer achten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Persönliche Treffen minimieren das Risiko von Betrug."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Verkäufer hat sich korrekt verhalten, da er den besten Preis erzielen wollte.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Nach der mündlichen Vereinbarung war er an den Preis gebunden.",
+      "feedback_incorrect": "❌ Richtig. Nach der mündlichen Vereinbarung war er an den Preis gebunden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Heinz Krapf hätte die Anlage auch ohne schriftlichen Vertrag abholen können.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Verkäufer hatte die Anlage bereits anderweitig verkauft.",
+      "feedback_incorrect": "❌ Richtig. Der Verkäufer hatte die Anlage bereits anderweitig verkauft."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo fand Heinz Krapf die Musikanlage?</p>",
+      "options": [
+        {
+          "text": "In einem Musikgeschäft.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Text erwähnt explizit eine Online-Plattform."
+        },
+        {
+          "text": "Auf einer Online-Plattform.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "In einem Auktionshaus.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Text erwähnt explizit eine Online-Plattform."
+        },
+        {
+          "text": "Über eine Kleinanzeige.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Text erwähnt explizit eine Online-Plattform."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein wichtiger Beweis für einen Kaufvertrag?</p>",
+      "options": [
+        {
+          "text": "Ein Foto des Produkts.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine schriftliche Bestätigung ist ein eindeutiger Beweis."
+        },
+        {
+          "text": "Eine schriftliche Bestätigung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ein Zeugenaussage.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine schriftliche Bestätigung ist ein eindeutiger Beweis."
+        },
+        {
+          "text": "Ein Screenshot der Webseite.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine schriftliche Bestätigung ist ein eindeutiger Beweis."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Verkäufer muss Heinz Krapf die Anlage zum ursprünglichen Preis verkaufen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Da die Anlage bereits verkauft ist, kann er nur Schadensersatz leisten.",
+      "feedback_incorrect": "❌ Richtig. Da die Anlage bereits verkauft ist, kann er nur Schadensersatz leisten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine SMS kann als Beweis für einen mündlichen Vertrag dienen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Eine SMS gilt als schriftlicher Beleg.",
+      "feedback_incorrect": "❌ Falsch. Eine SMS gilt als schriftlicher Beleg."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Heinz Krapf sollte unbedingt vor Gericht gehen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Das Kostenrisiko ist hoch, da er den Vertrag nicht beweisen kann.",
+      "feedback_incorrect": "❌ Richtig. Das Kostenrisiko ist hoch, da er den Vertrag nicht beweisen kann."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Es ist ratsam, bei Online-Käufen eine Anzahlung zu leisten.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Anzahlung birgt das Risiko des Verlustes, wenn der Verkäufer unseriös ist.",
+      "feedback_incorrect": "❌ Richtig. Anzahlung birgt das Risiko des Verlustes, wenn der Verkäufer unseriös ist."
+    }
+  ]
+}

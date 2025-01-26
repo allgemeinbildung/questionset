@@ -1,0 +1,274 @@
+{
+  "title": "Probezeit",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was geschah mit dem Hörer während seiner Probezeit?</p>",
+      "options": [
+        {
+          "text": "Er wurde befördert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer wurde während seiner Probezeit krank und anschliessend gekündigt."
+        },
+        {
+          "text": "Er wurde krank und erhielt die Kündigung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Er kündigte selbst.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer wurde während seiner Probezeit krank und anschliessend gekündigt."
+        },
+        {
+          "text": "Er wechselte die Abteilung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer wurde während seiner Probezeit krank und anschliessend gekündigt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Gilt der Kündigungsschutz während der Probezeit?</p>",
+      "options": [
+        {
+          "text": "Ja, uneingeschränkt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Während der Probezeit gilt der Kündigungsschutz nicht."
+        },
+        {
+          "text": "Nein, gar nicht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Nur bei Krankheit.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Während der Probezeit gilt der Kündigungsschutz nicht."
+        },
+        {
+          "text": "Nur bei Schwangerschaft.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Während der Probezeit gilt der Kündigungsschutz nicht."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine erneute Probezeit nach einem Temporäreinsatz ist unzulässig.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Eine erneute Probezeit nach einem Temporäreinsatz ist zulässig.",
+      "feedback_incorrect": "❌ Richtig. Eine erneute Probezeit nach einem Temporäreinsatz ist zulässig."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Bei Krankheit während der Probezeit hat man immer Anspruch auf Lohnfortzahlung.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Es besteht kein genereller Anspruch auf Lohnfortzahlung, ausser durch eine Krankentaggeldversicherung.",
+      "feedback_incorrect": "❌ Richtig. Es besteht kein genereller Anspruch auf Lohnfortzahlung, ausser durch eine Krankentaggeldversicherung."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Fall kann innerhalb des gleichen Betriebs eine neue Probezeit vereinbart werden?</p>",
+      "options": [
+        {
+          "text": "Bei gleichbleibender Tätigkeit und Abteilung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine neue Probezeit ist möglich, wenn der Arbeitnehmer eine neue Funktion oder Tätigkeit übernimmt."
+        },
+        {
+          "text": "Bei Krankheit des Arbeitnehmers.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine neue Probezeit ist möglich, wenn der Arbeitnehmer eine neue Funktion oder Tätigkeit übernimmt."
+        },
+        {
+          "text": "Bei Übernahme einer Führungsfunktion oder einer neuen Tätigkeit.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Nach Ablauf eines Jahres.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine neue Probezeit ist möglich, wenn der Arbeitnehmer eine neue Funktion oder Tätigkeit übernimmt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte ein Arbeitnehmer bei Krankheit während der Probezeit tun?</p>",
+      "options": [
+        {
+          "text": "Den Arbeitgeber nicht informieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Arbeitnehmer sollte prüfen, ob eine Krankentaggeldversicherung besteht und den Arbeitgeber informieren."
+        },
+        {
+          "text": "Im Arbeitsvertrag prüfen, ob eine Krankentaggeldversicherung besteht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sich selbstständig krankschreiben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Arbeitnehmer sollte prüfen, ob eine Krankentaggeldversicherung besteht und den Arbeitgeber informieren."
+        },
+        {
+          "text": "Einen Anwalt konsultieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Arbeitnehmer sollte prüfen, ob eine Krankentaggeldversicherung besteht und den Arbeitgeber informieren."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die maximale Dauer der Probezeit beträgt in der Regel drei Monate.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Probezeit darf in der Regel nicht länger als drei Monate dauern.",
+      "feedback_incorrect": "❌ Falsch. Die Probezeit darf in der Regel nicht länger als drei Monate dauern."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Hörer arbeitete im Bereich Maschinenbau.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Hörer arbeitete im Maschinenbau.",
+      "feedback_incorrect": "❌ Falsch. Der Hörer arbeitete im Maschinenbau."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer hat die Rechtsauskunft im Beitrag gegeben?</p>",
+      "options": [
+        {
+          "text": "Stefan Wüterich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gabriela Baumgartner gab die Rechtsauskunft im Beitrag."
+        },
+        {
+          "text": "Gabriela Baumgartner",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Der Hörer selbst",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gabriela Baumgartner gab die Rechtsauskunft im Beitrag."
+        },
+        {
+          "text": "Ein unbekannter Anwalt",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gabriela Baumgartner gab die Rechtsauskunft im Beitrag."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Aus welchem Kanton kam der Hörer?</p>",
+      "options": [
+        {
+          "text": "Zürich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer kam aus dem Kanton St. Gallen."
+        },
+        {
+          "text": "Bern",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer kam aus dem Kanton St. Gallen."
+        },
+        {
+          "text": "St. Gallen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Aargau",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer kam aus dem Kanton St. Gallen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Hörer war mit seiner Arbeit zufrieden.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Hörer und seine Vorgesetzten waren mit seiner Arbeit zufrieden.",
+      "feedback_incorrect": "❌ Falsch. Der Hörer und seine Vorgesetzten waren mit seiner Arbeit zufrieden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Arbeitgeber muss die Kündigung während der Probezeit begründen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Arbeitgeber muss die Kündigung während der Probezeit nicht begründen.",
+      "feedback_incorrect": "❌ Richtig. Der Arbeitgeber muss die Kündigung während der Probezeit nicht begründen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Aspekt ist bei einer Krankheit während der Probezeit besonders wichtig?</p>",
+      "options": [
+        {
+          "text": "Die Dauer der Krankheit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Bestehen einer Krankentaggeldversicherung ist wichtig, da sonst kein Lohnfortzahlungsanspruch besteht."
+        },
+        {
+          "text": "Das Vorliegen eines Arztzeugnisses",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Bestehen einer Krankentaggeldversicherung ist wichtig, da sonst kein Lohnfortzahlungsanspruch besteht."
+        },
+        {
+          "text": "Die Art der Krankheit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Bestehen einer Krankentaggeldversicherung ist wichtig, da sonst kein Lohnfortzahlungsanspruch besteht."
+        },
+        {
+          "text": "Das Bestehen einer Krankentaggeldversicherung",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange arbeitete der Hörer temporär, bevor er fest angestellt wurde?</p>",
+      "options": [
+        {
+          "text": "Einen Monat",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die genaue Dauer des Temporäreinsatzes wird im Beitrag nicht erwähnt."
+        },
+        {
+          "text": "Es wird nicht genau genannt",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Drei Monate",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die genaue Dauer des Temporäreinsatzes wird im Beitrag nicht erwähnt."
+        },
+        {
+          "text": "Sechs Monate",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die genaue Dauer des Temporäreinsatzes wird im Beitrag nicht erwähnt."
+        }
+      ]
+    }
+  ]
+}

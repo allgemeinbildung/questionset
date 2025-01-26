@@ -1,0 +1,274 @@
+{
+  "title": "Self-Scanning",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was darf ein Verkäufer bei einer Stichprobe am Self-Checkout NICHT tun?</p>",
+      "options": [
+        {
+          "text": "Nach dem Kassenbon fragen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Verkäufer darf nicht ohne Einwilligung in die Tasche des Kunden greifen. Er muss den Kunden bitten, die Artikel selbst herauszunehmen oder um Erlaubnis fragen, in die Tasche zu greifen."
+        },
+        {
+          "text": "In die Tasche des Kunden greifen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Den Kunden bitten, bestimmte Artikel vorzuzeigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Verkäufer darf nicht ohne Einwilligung in die Tasche des Kunden greifen. Er muss den Kunden bitten, die Artikel selbst herauszunehmen oder um Erlaubnis fragen, in die Tasche zu greifen."
+        },
+        {
+          "text": "Eine Taschenkontrolle ankündigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Verkäufer darf nicht ohne Einwilligung in die Tasche des Kunden greifen. Er muss den Kunden bitten, die Artikel selbst herauszunehmen oder um Erlaubnis fragen, in die Tasche zu greifen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Konsequenz kann eintreten, wenn man wiederholt Artikel beim Self-Scanning nicht scannt?</p>",
+      "options": [
+        {
+          "text": "Eine Verwarnung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bei wiederholtem Nicht-Scannen kann der Laden ein Hausverbot aussprechen."
+        },
+        {
+          "text": "Ein Hausverbot.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Geldstrafe.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bei wiederholtem Nicht-Scannen kann der Laden ein Hausverbot aussprechen."
+        },
+        {
+          "text": "Gefängnisstrafe.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bei wiederholtem Nicht-Scannen kann der Laden ein Hausverbot aussprechen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Auch wenn im Laden Schilder hängen, die Taschenkontrollen ankündigen, darf der Verkäufer nicht ohne Einwilligung in die Tasche des Kunden greifen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Einwilligung des Kunden ist immer erforderlich, unabhängig von der Beschilderung.",
+      "feedback_incorrect": "❌ Falsch. Die Einwilligung des Kunden ist immer erforderlich, unabhängig von der Beschilderung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wenn man sich mit einer Kundenkarte anmeldet und Self-Scanning nutzt, werden keine Daten über den Einkauf gespeichert.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Es werden Daten darüber gespeichert, welche Artikel gekauft wurden.",
+      "feedback_incorrect": "❌ Richtig. Es werden Daten darüber gespeichert, welche Artikel gekauft wurden."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo findet man einen Musterbrief für die Auskunft über gespeicherte Kundendaten?</p>",
+      "options": [
+        {
+          "text": "Auf der Webseite des Ladens.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der eidgenössische Datenschutzbeauftragte stellt einen Musterbrief auf seiner Webseite zur Verfügung."
+        },
+        {
+          "text": "Auf der Webseite des eidgenössischen Datenschutzbeauftragten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Im Kassenbereich des Ladens.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der eidgenössische Datenschutzbeauftragte stellt einen Musterbrief auf seiner Webseite zur Verfügung."
+        },
+        {
+          "text": "Bei der Polizei.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der eidgenössische Datenschutzbeauftragte stellt einen Musterbrief auf seiner Webseite zur Verfügung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte man tun, wenn man versehentlich einen Artikel beim Self-Scanning nicht gescannt hat?</p>",
+      "options": [
+        {
+          "text": "Den Laden schnell verlassen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Man sollte den Artikel an der Kasse nachmelden und bezahlen."
+        },
+        {
+          "text": "Den Artikel an der Kasse nachmelden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "So tun, als ob nichts passiert wäre.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Man sollte den Artikel an der Kasse nachmelden und bezahlen."
+        },
+        {
+          "text": "Den Artikel zurück ins Regal legen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Man sollte den Artikel an der Kasse nachmelden und bezahlen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Kunden haben kein Recht darauf zu erfahren, welche Daten über sie im Laden gespeichert werden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Kunden haben das Recht auf Auskunft über die gespeicherten Daten.",
+      "feedback_incorrect": "❌ Richtig. Kunden haben das Recht auf Auskunft über die gespeicherten Daten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Verkäufer darf bei einer Stichprobe am Self-Checkout den Kunden bitten, seine Tasche selbst zu leeren.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Verkäufer darf den Kunden bitten, die Tasche selbst zu leeren, anstatt selbst hineinzugreifen.",
+      "feedback_incorrect": "❌ Falsch. Der Verkäufer darf den Kunden bitten, die Tasche selbst zu leeren, anstatt selbst hineinzugreifen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Gesetz regelt die Auskunft über gespeicherte Kundendaten?</p>",
+      "options": [
+        {
+          "text": "Das Konsumkreditgesetz.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Datenschutzgesetz regelt die Auskunft über gespeicherte Kundendaten."
+        },
+        {
+          "text": "Das Datenschutzgesetz.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Das Obligationenrecht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Datenschutzgesetz regelt die Auskunft über gespeicherte Kundendaten."
+        },
+        {
+          "text": "Das Strafgesetzbuch.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Datenschutzgesetz regelt die Auskunft über gespeicherte Kundendaten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist die rechtliche Grundlage dafür, dass ein Verkäufer nicht ohne Einwilligung in die Tasche eines Kunden greifen darf?</p>",
+      "options": [
+        {
+          "text": "Schutz der Privatsphäre.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Diebstahlprävention.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Hineingreifen in die Tasche eines Kunden ohne dessen Einwilligung verletzt seine Privatsphäre."
+        },
+        {
+          "text": "Vertragsfreiheit.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Hineingreifen in die Tasche eines Kunden ohne dessen Einwilligung verletzt seine Privatsphäre."
+        },
+        {
+          "text": "Hausrecht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Hineingreifen in die Tasche eines Kunden ohne dessen Einwilligung verletzt seine Privatsphäre."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wenn ein Kunde versehentlich einen teuren Artikel nicht scannt, wird er immer direkt bei der Polizei angezeigt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Nicht jeder Fehler führt zu einer Anzeige. Es kommt auf die Umstände an, z.B. ob es sich um einen wiederholten Vorfall handelt oder ob der Kunde den Artikel absichtlich nicht gescannt hat.",
+      "feedback_incorrect": "❌ Richtig. Nicht jeder Fehler führt zu einer Anzeige. Es kommt auf die Umstände an, z.B. ob es sich um einen wiederholten Vorfall handelt oder ob der Kunde den Artikel absichtlich nicht gescannt hat."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die allgemeinen Geschäftsbedingungen von Geschäften können zusätzliche Regeln für Taschenkontrollen enthalten.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Geschäfte können in ihren AGB zusätzliche Regeln für Taschenkontrollen festlegen, solange diese den gesetzlichen Bestimmungen nicht widersprechen.",
+      "feedback_incorrect": "❌ Falsch. Geschäfte können in ihren AGB zusätzliche Regeln für Taschenkontrollen festlegen, solange diese den gesetzlichen Bestimmungen nicht widersprechen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Aspekt des Self-Scannings wird im Beitrag thematisiert?</p>",
+      "options": [
+        {
+          "text": "Die Geschwindigkeit des Einkaufs.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag geht es um die Datenschutzbestimmungen im Zusammenhang mit Self-Scanning und Kundenkarten."
+        },
+        {
+          "text": "Die Benutzerfreundlichkeit des Systems.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag geht es um die Datenschutzbestimmungen im Zusammenhang mit Self-Scanning und Kundenkarten."
+        },
+        {
+          "text": "Die Datenschutzbestimmungen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Kostenersparnis für den Kunden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag geht es um die Datenschutzbestimmungen im Zusammenhang mit Self-Scanning und Kundenkarten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was wird im Beitrag als \"dehnbarer Begriff\" bezeichnet?</p>",
+      "options": [
+        {
+          "text": "Self-Scanning.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Begriff \"Verdacht auf Diebstahl\" wird als dehnbar bezeichnet, da die Kriterien dafür nicht eindeutig definiert sind."
+        },
+        {
+          "text": "Kundenkarte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Begriff \"Verdacht auf Diebstahl\" wird als dehnbar bezeichnet, da die Kriterien dafür nicht eindeutig definiert sind."
+        },
+        {
+          "text": "Stichprobe.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Begriff \"Verdacht auf Diebstahl\" wird als dehnbar bezeichnet, da die Kriterien dafür nicht eindeutig definiert sind."
+        },
+        {
+          "text": "Verdacht auf Diebstahl.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    }
+  ]
+}

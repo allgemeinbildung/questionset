@@ -1,0 +1,236 @@
+{
+  "title": "Lohnzahlungspflicht",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wann muss der Lohn gemäss Gesetz ausbezahlt werden?</p>",
+      "options": [
+        {
+          "text": "Bis zum 15. des Folgemonats",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Lohn muss bis zum letzten Tag des Monats auf dem Konto des Arbeitnehmers sein."
+        },
+        {
+          "text": "Bis zum Ende des Monats",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Bis zum Ende der Woche",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Lohn muss bis zum letzten Tag des Monats auf dem Konto des Arbeitnehmers sein."
+        },
+        {
+          "text": "Innerhalb von 10 Tagen nach Monatsende",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Lohn muss bis zum letzten Tag des Monats auf dem Konto des Arbeitnehmers sein."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was kann ein Arbeitnehmer tun, wenn der Lohn nicht pünktlich eintrifft?</p>",
+      "options": [
+        {
+          "text": "Den Arbeitgeber mündlich ermahnen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist wichtig, den Arbeitgeber schriftlich zu mahnen, um einen Beweis für die Reklamation zu haben."
+        },
+        {
+          "text": "Die Arbeit sofort niederlegen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist wichtig, den Arbeitgeber schriftlich zu mahnen, um einen Beweis für die Reklamation zu haben."
+        },
+        {
+          "text": "Den Arbeitgeber schriftlich mahnen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Einen Kollegen um Hilfe bitten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist wichtig, den Arbeitgeber schriftlich zu mahnen, um einen Beweis für die Reklamation zu haben."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Es ist erlaubt, den Lohn erst im Folgemonat auszuzahlen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Lohn muss bis zum Ende des Monats ausbezahlt werden, ausser es wurde etwas anderes vereinbart.",
+      "feedback_incorrect": "❌ Richtig. Der Lohn muss bis zum Ende des Monats ausbezahlt werden, ausser es wurde etwas anderes vereinbart."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wenn ein Arbeitnehmer dreimal einen zu tiefen Lohn akzeptiert, ohne zu protestieren, gilt der tiefere Lohn als neuer Lohn.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Durch die dreimalige Annahme ohne Protest akzeptiert der Arbeitnehmer den tieferen Lohn rechtlich.",
+      "feedback_incorrect": "❌ Falsch. Durch die dreimalige Annahme ohne Protest akzeptiert der Arbeitnehmer den tieferen Lohn rechtlich."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange kann ein Arbeitnehmer zu Hause bleiben, wenn der Lohn nicht bezahlt wird?</p>",
+      "options": [
+        {
+          "text": "Einen Tag",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Arbeitnehmer hat das Recht, die Arbeit einzustellen, bis der Lohn bezahlt ist."
+        },
+        {
+          "text": "Eine Woche",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Arbeitnehmer hat das Recht, die Arbeit einzustellen, bis der Lohn bezahlt ist."
+        },
+        {
+          "text": "Bis der Lohn bezahlt wird",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Einen Monat",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Arbeitnehmer hat das Recht, die Arbeit einzustellen, bis der Lohn bezahlt ist."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Kommunikationsform ist am besten geeignet, um den Arbeitgeber wegen ausbleibender Lohnzahlung zu mahnen?</p>",
+      "options": [
+        {
+          "text": "Mündlich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein eingeschriebener Brief bietet den besten Beweis für die erfolgte Mahnung."
+        },
+        {
+          "text": "Per SMS",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein eingeschriebener Brief bietet den besten Beweis für die erfolgte Mahnung."
+        },
+        {
+          "text": "Per E-Mail",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein eingeschriebener Brief bietet den besten Beweis für die erfolgte Mahnung."
+        },
+        {
+          "text": "Per eingeschriebenen Brief",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Im Beitrag von SRF Espresso geht es um einen Arbeitgeber, der den Lohn um 20% gekürzt hat.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Es ging um einen Arbeitgeber, der die zusätzlichen 20% Lohn für die erhöhte Arbeitsleistung nicht rechtzeitig ausbezahlt hat.",
+      "feedback_incorrect": "❌ Richtig. Es ging um einen Arbeitgeber, der die zusätzlichen 20% Lohn für die erhöhte Arbeitsleistung nicht rechtzeitig ausbezahlt hat."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin im Beitrag hat sich mit ihrem Arbeitgeber geeinigt, dass sie die zusätzlichen 20% als Überstunden ausbezahlt bekommt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Hörerin und der Arbeitgeber einigten sich auf die Auszahlung als Überstunden mit einem Zuschlag.",
+      "feedback_incorrect": "❌ Falsch. Die Hörerin und der Arbeitgeber einigten sich auf die Auszahlung als Überstunden mit einem Zuschlag."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was droht einem Arbeitgeber, der den Lohn nicht bezahlt und betrieben wird?</p>",
+      "options": [
+        {
+          "text": "Eine Busse",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Betreibung kann zu einem Konkursverfahren führen, wenn der Arbeitgeber nicht zahlt."
+        },
+        {
+          "text": "Ein Konkursverfahren",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Gefängnisstrafe",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Betreibung kann zu einem Konkursverfahren führen, wenn der Arbeitgeber nicht zahlt."
+        },
+        {
+          "text": "Eine Verwarnung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Betreibung kann zu einem Konkursverfahren führen, wenn der Arbeitgeber nicht zahlt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viel Prozent mehr Lohn hätte die Hörerin im Beitrag erhalten sollen?</p>",
+      "options": [
+        {
+          "text": "10%",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin hatte ihr Pensum um 20% erhöht und hätte dementsprechend 20% mehr Lohn erhalten sollen."
+        },
+        {
+          "text": "15%",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin hatte ihr Pensum um 20% erhöht und hätte dementsprechend 20% mehr Lohn erhalten sollen."
+        },
+        {
+          "text": "20%",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "25%",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin hatte ihr Pensum um 20% erhöht und hätte dementsprechend 20% mehr Lohn erhalten sollen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin im Beitrag hat ihren Arbeitgeber betrieben.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Hörerin hat ihren Arbeitgeber nicht betrieben. Sie hat das Gespräch gesucht und eine Einigung erzielt.",
+      "feedback_incorrect": "❌ Richtig. Die Hörerin hat ihren Arbeitgeber nicht betrieben. Sie hat das Gespräch gesucht und eine Einigung erzielt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Arbeitgeber im Beitrag hat sich geweigert, den ausstehenden Lohn zu bezahlen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Arbeitgeber hat sich nach dem Gespräch mit der Hörerin entschuldigt und den Lohn als Überstunden ausbezahlt.",
+      "feedback_incorrect": "❌ Richtig. Der Arbeitgeber hat sich nach dem Gespräch mit der Hörerin entschuldigt und den Lohn als Überstunden ausbezahlt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Gemäss Beitrag ist es ratsam, bei Lohnproblemen zuerst das Gespräch mit dem Arbeitgeber zu suchen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Im Beitrag wird empfohlen, zuerst mit dem Arbeitgeber zu sprechen und zu reklamieren.",
+      "feedback_incorrect": "❌ Falsch. Im Beitrag wird empfohlen, zuerst mit dem Arbeitgeber zu sprechen und zu reklamieren."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Im Beitrag wird empfohlen, bei Lohnstreitigkeiten immer sofort einen Anwalt einzuschalten.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Es wird empfohlen, zuerst das Gespräch zu suchen und schriftlich zu mahnen, bevor man einen Anwalt einschaltet.",
+      "feedback_incorrect": "❌ Richtig. Es wird empfohlen, zuerst das Gespräch zu suchen und schriftlich zu mahnen, bevor man einen Anwalt einschaltet."
+    }
+  ]
+}

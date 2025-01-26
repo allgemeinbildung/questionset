@@ -1,0 +1,274 @@
+{
+  "title": "Garantie3",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was war das Problem mit Willi Bollingers Radio?</p>",
+      "options": [
+        {
+          "text": "Es funktionierte von Anfang an nicht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass das Radio nach einigen Monaten 'anfing zu spinnen' und schliesslich ganz ausfiel."
+        },
+        {
+          "text": "Es stellte nach einigen Monaten immer wieder ab.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Es wurde gestohlen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass das Radio nach einigen Monaten 'anfing zu spinnen' und schliesslich ganz ausfiel."
+        },
+        {
+          "text": "Es fing Feuer.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass das Radio nach einigen Monaten 'anfing zu spinnen' und schliesslich ganz ausfiel."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum verweigerte der Laden die Reparatur des Radios?</p>",
+      "options": [
+        {
+          "text": "Weil der Schaden selbstverschuldet war.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Laden argumentierte, dass die Garantie abgelaufen sei und deshalb keine Reparaturpflicht mehr bestehe."
+        },
+        {
+          "text": "Weil keine Ersatzteile mehr verfügbar waren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Laden argumentierte, dass die Garantie abgelaufen sei und deshalb keine Reparaturpflicht mehr bestehe."
+        },
+        {
+          "text": "Weil die Garantie abgelaufen war.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Weil Willi Bollinger unfreundlich war.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Laden argumentierte, dass die Garantie abgelaufen sei und deshalb keine Reparaturpflicht mehr bestehe."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Nach Ablauf der Garantie hat man keinen Anspruch mehr auf Reparatur oder Ersatz.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Rechtsexpertin bestätigt, dass nach Ablauf der Garantie kein Anspruch mehr besteht, ausser auf Kulanz.",
+      "feedback_incorrect": "❌ Falsch. Die Rechtsexpertin bestätigt, dass nach Ablauf der Garantie kein Anspruch mehr besteht, ausser auf Kulanz."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine Betreibung verlängert die Garantiefrist.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Eine Betreibung unterbricht die Garantiefrist und lässt sie anschliessend neu beginnen.",
+      "feedback_incorrect": "❌ Falsch. Eine Betreibung unterbricht die Garantiefrist und lässt sie anschliessend neu beginnen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte man gemäss Beitrag sofort tun, wenn man einen Mangel an einem gekauften Produkt feststellt?</p>",
+      "options": [
+        {
+          "text": "Den Hersteller kontaktieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wird betont, dass man sofort reklamieren soll, um die Garantierechte nicht zu verlieren."
+        },
+        {
+          "text": "Das Produkt weiter benutzen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wird betont, dass man sofort reklamieren soll, um die Garantierechte nicht zu verlieren."
+        },
+        {
+          "text": "Reklamieren.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ein Gutachten erstellen lassen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wird betont, dass man sofort reklamieren soll, um die Garantierechte nicht zu verlieren."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche zwei Möglichkeiten gibt es, die Garantiefrist bei längeren Reparaturen zu verlängern?</p>",
+      "options": [
+        {
+          "text": "Eine schriftliche Bestätigung des Händlers einholen oder den Händler betreiben.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Den Hersteller direkt kontaktieren oder eine Online-Petition starten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese beiden Optionen werden im Beitrag explizit genannt."
+        },
+        {
+          "text": "Das Produkt im Laden zurückgeben oder einen Anwalt einschalten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese beiden Optionen werden im Beitrag explizit genannt."
+        },
+        {
+          "text": "Abwarten und Tee trinken oder den Händler auf Facebook anschwärzen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese beiden Optionen werden im Beitrag explizit genannt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Man sollte immer sofort reklamieren, wenn man mit einem Produkt unzufrieden ist.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Rechtsexpertin rät, sofort zu reklamieren, um die Garantierechte zu wahren.",
+      "feedback_incorrect": "❌ Falsch. Die Rechtsexpertin rät, sofort zu reklamieren, um die Garantierechte zu wahren."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine Betreibung ist in jedem Fall die beste Lösung bei Garantieproblemen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Eine Betreibung ist nur bei teuren Produkten oder komplexen Streitfällen sinnvoll.",
+      "feedback_incorrect": "❌ Richtig. Eine Betreibung ist nur bei teuren Produkten oder komplexen Streitfällen sinnvoll."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Art von Gerät hatte Willi Bollinger gekauft?</p>",
+      "options": [
+        {
+          "text": "Einen Fernseher",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird explizit von einem Radio gesprochen."
+        },
+        {
+          "text": "Ein Radio",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Waschmaschine",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird explizit von einem Radio gesprochen."
+        },
+        {
+          "text": "Einen Kühlschrank",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird explizit von einem Radio gesprochen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was bedeutet 'Kulanz' in diesem Zusammenhang?</p>",
+      "options": [
+        {
+          "text": "Eine freiwillige Leistung des Händlers.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine gesetzliche Verpflichtung des Händlers.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kulanz bedeutet, dass der Händler aus freien Stücken eine Leistung erbringt, zu der er nicht verpflichtet ist."
+        },
+        {
+          "text": "Ein Rechtsanspruch des Kunden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kulanz bedeutet, dass der Händler aus freien Stücken eine Leistung erbringt, zu der er nicht verpflichtet ist."
+        },
+        {
+          "text": "Eine Verhandlungsstrategie.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kulanz bedeutet, dass der Händler aus freien Stücken eine Leistung erbringt, zu der er nicht verpflichtet ist."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Garantiefrist läuft während der Reparatur weiter.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Rechtsexpertin erklärt, dass die Garantiefrist während der Reparatur weiterläuft, was zu Problemen führen kann.",
+      "feedback_incorrect": "❌ Falsch. Die Rechtsexpertin erklärt, dass die Garantiefrist während der Reparatur weiterläuft, was zu Problemen führen kann."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Willi Bollinger hat sofort reklamiert, als das Radio anfing zu spinnen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Aus dem Beitrag geht hervor, dass Willi Bollinger erst reklamierte, als das Radio ganz kaputt war.",
+      "feedback_incorrect": "❌ Richtig. Aus dem Beitrag geht hervor, dass Willi Bollinger erst reklamierte, als das Radio ganz kaputt war."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Bei wem kann man sich über Garantiefragen informieren?</p>",
+      "options": [
+        {
+          "text": "Beim Bundesamt für Gesundheit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Am Ende des Beitrags wird auf weitere Informationen bei SRF Espresso verwiesen."
+        },
+        {
+          "text": "Beim Staatssekretariat für Wirtschaft",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Am Ende des Beitrags wird auf weitere Informationen bei SRF Espresso verwiesen."
+        },
+        {
+          "text": "Bei der SRF-Sendung Espresso",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Beim Schweizerischen Gewerbeverband",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Am Ende des Beitrags wird auf weitere Informationen bei SRF Espresso verwiesen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist der wichtigste Tipp im Zusammenhang mit Garantiefällen?</p>",
+      "options": [
+        {
+          "text": "Immer einen Anwalt konsultieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag betont mehrmals die Wichtigkeit einer sofortigen Reklamation."
+        },
+        {
+          "text": "Sofort reklamieren.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Das Produkt im Internet bewerten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag betont mehrmals die Wichtigkeit einer sofortigen Reklamation."
+        },
+        {
+          "text": "Den Händler öffentlich anprangern.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag betont mehrmals die Wichtigkeit einer sofortigen Reklamation."
+        }
+      ]
+    }
+  ]
+}

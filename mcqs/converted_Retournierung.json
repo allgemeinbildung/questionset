@@ -1,0 +1,274 @@
+{
+  "title": "Retournierung",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer muss gemäss dem Beitrag die Versandkosten bei einer Retoure in der Regel tragen?</p>",
+      "options": [
+        {
+          "text": "Der Online-Shop",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Grundsätzlich trägt der Kunde die Versandkosten, ausser der Shop übernimmt sie freiwillig."
+        },
+        {
+          "text": "Der Kurierdienst",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Grundsätzlich trägt der Kunde die Versandkosten, ausser der Shop übernimmt sie freiwillig."
+        },
+        {
+          "text": "Der Kunde/Die Kundin",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Der Hersteller der Ware",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Grundsätzlich trägt der Kunde die Versandkosten, ausser der Shop übernimmt sie freiwillig."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sind AGB?</p>",
+      "options": [
+        {
+          "text": "Allgemeine Geschäftsbedingungen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ausführliche Gebührenbestimmungen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. AGB steht für Allgemeine Geschäftsbedingungen."
+        },
+        {
+          "text": "Allgemeine Gebührenbedingungen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. AGB steht für Allgemeine Geschäftsbedingungen."
+        },
+        {
+          "text": "Ausführliche Geschäftsbedingungen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. AGB steht für Allgemeine Geschäftsbedingungen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Online-Shop ist gesetzlich verpflichtet, retournierte Ware zurückzunehmen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Ein Online-Shop ist nicht gesetzlich verpflichtet, Ware zurückzunehmen. Es gibt aber Ausnahmen, z.B. wenn die Ware mangelhaft ist.",
+      "feedback_incorrect": "❌ Richtig. Ein Online-Shop ist nicht gesetzlich verpflichtet, Ware zurückzunehmen. Es gibt aber Ausnahmen, z.B. wenn die Ware mangelhaft ist."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wenn in den AGB nichts zu den Versandkosten steht, muss der Kunde sie nicht übernehmen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Auch wenn in den AGB nichts steht, muss der Kunde gemäss Gesetz die Versandkosten tragen.",
+      "feedback_incorrect": "❌ Richtig. Auch wenn in den AGB nichts steht, muss der Kunde gemäss Gesetz die Versandkosten tragen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wann gelten AGB bei einer telefonischen Bestellung?</p>",
+      "options": [
+        {
+          "text": "Immer",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bei telefonischen Bestellungen gelten AGB nur, wenn der Kunde sie in einer schriftlichen Bestätigung (z.B. per Mail) akzeptiert hat."
+        },
+        {
+          "text": "Nur wenn sie vorgelesen wurden",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bei telefonischen Bestellungen gelten AGB nur, wenn der Kunde sie in einer schriftlichen Bestätigung (z.B. per Mail) akzeptiert hat."
+        },
+        {
+          "text": "Nur wenn der Kunde sie schriftlich bestätigt hat",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Nie",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bei telefonischen Bestellungen gelten AGB nur, wenn der Kunde sie in einer schriftlichen Bestätigung (z.B. per Mail) akzeptiert hat."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Tipp wird im Beitrag genannt, um die Seriosität eines Online-Shops zu prüfen?</p>",
+      "options": [
+        {
+          "text": "Den Kundendienst anrufen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kommentare und Bewertungen anderer Kunden können Hinweise auf die Seriosität eines Online-Shops geben."
+        },
+        {
+          "text": "Die AGB genau studieren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kommentare und Bewertungen anderer Kunden können Hinweise auf die Seriosität eines Online-Shops geben."
+        },
+        {
+          "text": "Den Shop in einer Suchmaschine suchen und Kommentare lesen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Preise mit anderen Shops vergleichen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kommentare und Bewertungen anderer Kunden können Hinweise auf die Seriosität eines Online-Shops geben."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin musste die Versandkosten für die Retoure zahlen, weil es so in den AGB des Kostüm-Shops stand.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die AGB des Shops bestimmten, dass die Kundin die Versandkosten trägt.",
+      "feedback_incorrect": "❌ Falsch. Die AGB des Shops bestimmten, dass die Kundin die Versandkosten trägt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Espresso-Rechtsexpertinnen finden, dass der Kostüm-Shop die Versandkosten hätte übernehmen müssen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Expertinnen bestätigen, dass der Shop rechtlich korrekt gehandelt hat.",
+      "feedback_incorrect": "❌ Richtig. Die Expertinnen bestätigen, dass der Shop rechtlich korrekt gehandelt hat."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Man kann als Kunde immer darauf bestehen, dass der Online-Shop die Versandkosten bei einer Retoure übernimmt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Übernahme der Versandkosten ist freiwillig, ausser es wurde vertraglich etwas anderes vereinbart.",
+      "feedback_incorrect": "❌ Richtig. Die Übernahme der Versandkosten ist freiwillig, ausser es wurde vertraglich etwas anderes vereinbart."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wenn ein Online-Shop keine AGB hat, muss der Kunde die Versandkosten bei einer Retoure nicht tragen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Auch ohne explizite AGB im Shop gelten die gesetzlichen Bestimmungen, wonach der Kunde die Versandkosten trägt.",
+      "feedback_incorrect": "❌ Richtig. Auch ohne explizite AGB im Shop gelten die gesetzlichen Bestimmungen, wonach der Kunde die Versandkosten trägt."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein guter Tipp für sicheres Online-Shopping?</p>",
+      "options": [
+        {
+          "text": "Nur bei bekannten Shops bestellen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Alle genannten Punkte tragen zur Sicherheit beim Online-Shopping bei."
+        },
+        {
+          "text": "AGB immer genau lesen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Alle genannten Punkte tragen zur Sicherheit beim Online-Shopping bei."
+        },
+        {
+          "text": "Auf Rechnung bestellen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Alle genannten Punkte tragen zur Sicherheit beim Online-Shopping bei."
+        },
+        {
+          "text": "Alle oben genannten",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was bedeutet «kolant» im Zusammenhang mit Retouren?</p>",
+      "options": [
+        {
+          "text": "Kulant",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Unfreundlich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. «Kolant» bedeutet entgegenkommend und freundlich."
+        },
+        {
+          "text": "Streng",
+          "is_correct": false,
+          "feedback": "❌ Falsch. «Kolant» bedeutet entgegenkommend und freundlich."
+        },
+        {
+          "text": "Gesetzlich verpflichtet",
+          "is_correct": false,
+          "feedback": "❌ Falsch. «Kolant» bedeutet entgegenkommend und freundlich."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Fall muss ein Online-Shop die Ware immer zurücknehmen?</p>",
+      "options": [
+        {
+          "text": "Wenn sie dem Kunden nicht gefällt",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bei mangelhafter Ware hat der Kunde ein Recht auf Rückgabe oder Umtausch."
+        },
+        {
+          "text": "Wenn sie zu teuer ist",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bei mangelhafter Ware hat der Kunde ein Recht auf Rückgabe oder Umtausch."
+        },
+        {
+          "text": "Wenn sie mangelhaft ist",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Wenn der Kunde sie nicht mehr braucht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bei mangelhafter Ware hat der Kunde ein Recht auf Rückgabe oder Umtausch."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer hat im Beitrag die Rechtslage erklärt?</p>",
+      "options": [
+        {
+          "text": "Die Moderatorin",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertinnen Gabriela Baumgartner und Raffaella Reichlin gaben Auskunft zur Rechtslage."
+        },
+        {
+          "text": "Die Hörerin",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertinnen Gabriela Baumgartner und Raffaella Reichlin gaben Auskunft zur Rechtslage."
+        },
+        {
+          "text": "Eine Rechtsexpertin",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ein Mitarbeiter des Kostüm-Shops",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertinnen Gabriela Baumgartner und Raffaella Reichlin gaben Auskunft zur Rechtslage."
+        }
+      ]
+    }
+  ]
+}

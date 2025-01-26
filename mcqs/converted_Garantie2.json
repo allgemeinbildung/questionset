@@ -1,0 +1,255 @@
+{
+  "title": "Garantie2",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist der Unterschied zwischen Garantie und Gewährleistung?</p>",
+      "options": [
+        {
+          "text": "Garantie ist gesetzlich vorgeschrieben, Gewährleistung ist freiwillig.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Gewährleistung ist ein gesetzlicher Anspruch, während die Garantie eine freiwillige Leistung des Verkäufers ist."
+        },
+        {
+          "text": "Gewährleistung ist gesetzlich vorgeschrieben, Garantie ist freiwillig.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Garantie und Gewährleistung sind dasselbe.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Gewährleistung ist ein gesetzlicher Anspruch, während die Garantie eine freiwillige Leistung des Verkäufers ist."
+        },
+        {
+          "text": "Garantie gilt für Dienstleistungen, Gewährleistung für Produkte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Gewährleistung ist ein gesetzlicher Anspruch, während die Garantie eine freiwillige Leistung des Verkäufers ist."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange gilt die gesetzliche Gewährleistung in der Schweiz?</p>",
+      "options": [
+        {
+          "text": "1 Jahr",
+          "is_correct": false,
+          "feedback": "❌ Falsch. In der Schweiz gilt eine gesetzliche Gewährleistungspflicht von zwei Jahren."
+        },
+        {
+          "text": "2 Jahre",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "3 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. In der Schweiz gilt eine gesetzliche Gewährleistungspflicht von zwei Jahren."
+        },
+        {
+          "text": "5 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. In der Schweiz gilt eine gesetzliche Gewährleistungspflicht von zwei Jahren."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Verkäufer darf die gesetzliche Gewährleistung verkürzen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Ein Verkäufer darf die gesetzliche Gewährleistung nicht verkürzen, sondern nur ausschliessen und durch eine eigene Garantie ersetzen.",
+      "feedback_incorrect": "❌ Richtig. Ein Verkäufer darf die gesetzliche Gewährleistung nicht verkürzen, sondern nur ausschliessen und durch eine eigene Garantie ersetzen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine vertragliche Garantie kann über die gesetzliche Gewährleistung hinausgehen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Eine vertragliche Garantie ist eine freiwillige Leistung und kann zusätzliche Vorteile bieten.",
+      "feedback_incorrect": "❌ Falsch. Eine vertragliche Garantie ist eine freiwillige Leistung und kann zusätzliche Vorteile bieten."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte man tun, wenn man mit einer unfairen Garantieklausel konfrontiert wird?</p>",
+      "options": [
+        {
+          "text": "Das Produkt trotzdem kaufen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im ersten Schritt sollte man versuchen, die Angelegenheit direkt mit dem Verkäufer zu klären. Gelingt dies nicht, kann man sich an eine Konsumentenschutzorganisation wenden."
+        },
+        {
+          "text": "Sich an den Verkäufer wenden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Nichts unternehmen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im ersten Schritt sollte man versuchen, die Angelegenheit direkt mit dem Verkäufer zu klären. Gelingt dies nicht, kann man sich an eine Konsumentenschutzorganisation wenden."
+        },
+        {
+          "text": "Sich an eine Konsumentenschutzorganisation wenden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im ersten Schritt sollte man versuchen, die Angelegenheit direkt mit dem Verkäufer zu klären. Gelingt dies nicht, kann man sich an eine Konsumentenschutzorganisation wenden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Im Beitrag wird das Beispiel einer Kundin erwähnt, die ein bestimmtes Produkt kaufen wollte. Um welches Produkt handelte es sich?</p>",
+      "options": [
+        {
+          "text": "Ein Mikrofon",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Einen Koffer",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Kundin wollte ein Mikrofon kaufen und stiess dabei auf eine Klausel zum Ausschluss der Gewährleistung."
+        },
+        {
+          "text": "Eine Jacke",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Kundin wollte ein Mikrofon kaufen und stiess dabei auf eine Klausel zum Ausschluss der Gewährleistung."
+        },
+        {
+          "text": "Ein Handy",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Kundin wollte ein Mikrofon kaufen und stiess dabei auf eine Klausel zum Ausschluss der Gewährleistung."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Radiobeitrag empfiehlt, die AGB vor einem Kauf genau zu prüfen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die AGB enthalten wichtige Informationen zu Garantie und Gewährleistung, die man vor dem Kauf kennen sollte.",
+      "feedback_incorrect": "❌ Falsch. Die AGB enthalten wichtige Informationen zu Garantie und Gewährleistung, die man vor dem Kauf kennen sollte."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Begriff wird im Gesetz verwendet?</p>",
+      "options": [
+        {
+          "text": "Garantie",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Gesetz wird der Begriff \"Gewährleistung\" verwendet."
+        },
+        {
+          "text": "Gewährleistung",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Beides",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Gesetz wird der Begriff \"Gewährleistung\" verwendet."
+        },
+        {
+          "text": "Keiner der beiden",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Gesetz wird der Begriff \"Gewährleistung\" verwendet."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Beispiel für eine zusätzliche Garantie?</p>",
+      "options": [
+        {
+          "text": "Verkürzung der Gewährleistungsfrist",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein kostenloser Ersatz des Produkts ist ein Beispiel für eine zusätzliche Garantie, die über die gesetzliche Gewährleistung hinausgeht."
+        },
+        {
+          "text": "Ausschluss der Gewährleistung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein kostenloser Ersatz des Produkts ist ein Beispiel für eine zusätzliche Garantie, die über die gesetzliche Gewährleistung hinausgeht."
+        },
+        {
+          "text": "Kostenloser Ersatz des Produkts",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Reduzierter Preis",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein kostenloser Ersatz des Produkts ist ein Beispiel für eine zusätzliche Garantie, die über die gesetzliche Gewährleistung hinausgeht."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Garantie und Gewährleistung bedeuten im rechtlichen Sinn dasselbe.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Garantie und Gewährleistung sind rechtlich unterschiedliche Begriffe.",
+      "feedback_incorrect": "❌ Richtig. Garantie und Gewährleistung sind rechtlich unterschiedliche Begriffe."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo findet man Informationen zum Thema Garantie beim SRF?</p>",
+      "options": [
+        {
+          "text": "srf.ch-kassensturz",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Sendung Espresso bietet ein Merkblatt zum Thema Garantie auf ihrer Website srf.ch-espresso an."
+        },
+        {
+          "text": "srf.ch-espresso",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "srf.ch-meteo",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Sendung Espresso bietet ein Merkblatt zum Thema Garantie auf ihrer Website srf.ch-espresso an."
+        },
+        {
+          "text": "srf.ch-sport",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Sendung Espresso bietet ein Merkblatt zum Thema Garantie auf ihrer Website srf.ch-espresso an."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin im Beitrag hat einen Koffer gekauft.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Hörerin wollte ein Mikrofon kaufen.",
+      "feedback_incorrect": "❌ Richtig. Die Hörerin wollte ein Mikrofon kaufen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Verkäufer muss den Kunden auf Klauseln zum Ausschluss der Gewährleistung hinweisen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Verkäufer muss den Kunden klar und deutlich auf solche Klauseln hinweisen.",
+      "feedback_incorrect": "❌ Falsch. Der Verkäufer muss den Kunden klar und deutlich auf solche Klauseln hinweisen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Es ist ratsam, die AGB vor einem Kauf zu lesen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die AGB enthalten wichtige Informationen zu Garantie und Gewährleistung.",
+      "feedback_incorrect": "❌ Falsch. Die AGB enthalten wichtige Informationen zu Garantie und Gewährleistung."
+    }
+  ]
+}

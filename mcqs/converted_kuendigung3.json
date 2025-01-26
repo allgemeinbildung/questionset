@@ -1,0 +1,274 @@
+{
+  "title": "kuendigung3",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum möchte die Vermieterin der Espresso-Hörerin kündigen?</p>",
+      "options": [
+        {
+          "text": "Wegen Eigenbedarf.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird explizit erwähnt, dass die Vermieterin das Mehrfamilienhaus verkaufen möchte."
+        },
+        {
+          "text": "Weil sie das Haus verkaufen will.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Weil die Mieterin die Miete nicht bezahlt hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird explizit erwähnt, dass die Vermieterin das Mehrfamilienhaus verkaufen möchte."
+        },
+        {
+          "text": "Weil die Mieterin die Hausordnung verletzt hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird explizit erwähnt, dass die Vermieterin das Mehrfamilienhaus verkaufen möchte."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange ist die Kündigungsfrist im Kanton Luzern?</p>",
+      "options": [
+        {
+          "text": "Einen Monat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin nennt im Beitrag eine Kündigungsfrist von drei Monaten für den Kanton Luzern."
+        },
+        {
+          "text": "Zwei Monate.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin nennt im Beitrag eine Kündigungsfrist von drei Monaten für den Kanton Luzern."
+        },
+        {
+          "text": "Drei Monate.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sechs Monate.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin nennt im Beitrag eine Kündigungsfrist von drei Monaten für den Kanton Luzern."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Espresso-Hörerin kann ohne Konsequenzen sofort ausziehen, sobald sie eine neue Wohnung gefunden hat.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Rechtlich gesehen ist sie an die Kündigungsfrist und die Termine gebunden. Ein vorzeitiger Auszug muss mit der Vermieterin abgesprochen werden.",
+      "feedback_incorrect": "❌ Richtig. Rechtlich gesehen ist sie an die Kündigungsfrist und die Termine gebunden. Ein vorzeitiger Auszug muss mit der Vermieterin abgesprochen werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Es ist ratsam, dass die Mieterin alle ihre Bemühungen für die Wohnungssuche dokumentiert.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Dokumentation der Wohnungssuche dient als Beweis für die Schlichtungsbehörde, falls die Mieterin eine Fristverlängerung benötigt.",
+      "feedback_incorrect": "❌ Falsch. Die Dokumentation der Wohnungssuche dient als Beweis für die Schlichtungsbehörde, falls die Mieterin eine Fristverlängerung benötigt."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welchen Vorteil hat die Vermieterin, wenn sie die Mieterin vorzeitig aus dem Vertrag lässt?</p>",
+      "options": [
+        {
+          "text": "Sie kann die Wohnung teurer vermieten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Nachmieter könnte die Kündigung anfechten und eine Fristverlängerung verlangen, was für die Vermieterin mit Aufwand und Unsicherheit verbunden wäre."
+        },
+        {
+          "text": "Sie spart sich den Aufwand der Suche nach einem Nachmieter.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Nachmieter könnte die Kündigung anfechten und eine Fristverlängerung verlangen, was für die Vermieterin mit Aufwand und Unsicherheit verbunden wäre."
+        },
+        {
+          "text": "Sie kann das Haus schneller verkaufen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Nachmieter könnte die Kündigung anfechten und eine Fristverlängerung verlangen, was für die Vermieterin mit Aufwand und Unsicherheit verbunden wäre."
+        },
+        {
+          "text": "Sie vermeidet ein mögliches Verfahren vor der Schlichtungsbehörde.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte die Mieterin der Vermieterin konkret vorschlagen?</p>",
+      "options": [
+        {
+          "text": "Eine Mietzinsreduktion.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dies wäre eine faire Lösung für beide Parteien und würde der Mieterin mehr Flexibilität bei der Wohnungssuche geben."
+        },
+        {
+          "text": "Die Übernahme der Maklerkosten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dies wäre eine faire Lösung für beide Parteien und würde der Mieterin mehr Flexibilität bei der Wohnungssuche geben."
+        },
+        {
+          "text": "Eine verkürzte Kündigungsfrist von einem Monat.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Kostenübernahme für den Umzug.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dies wäre eine faire Lösung für beide Parteien und würde der Mieterin mehr Flexibilität bei der Wohnungssuche geben."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Chancen der Mieterin auf eine Fristverlängerung sind unabhängig von ihrem Alter.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Das Alter der Mieterin kann ein Argument für eine Fristverlängerung sein, da es für ältere Menschen oft schwieriger ist, eine neue Wohnung zu finden.",
+      "feedback_incorrect": "❌ Richtig. Das Alter der Mieterin kann ein Argument für eine Fristverlängerung sein, da es für ältere Menschen oft schwieriger ist, eine neue Wohnung zu finden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Im Kanton Luzern gibt es fixe Kündigungstermine.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Im Beitrag wird erwähnt, dass es im Kanton Luzern keine fixen Kündigungstermine gibt, im Gegensatz zu Kantonen wie Solothurn.",
+      "feedback_incorrect": "❌ Richtig. Im Beitrag wird erwähnt, dass es im Kanton Luzern keine fixen Kündigungstermine gibt, im Gegensatz zu Kantonen wie Solothurn."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Dokument ist wichtig für die Dokumentation der Wohnungssuche?</p>",
+      "options": [
+        {
+          "text": "Der Mietvertrag der alten Wohnung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese Liste zeigt, dass sich die Mieterin aktiv um eine neue Wohnung bemüht."
+        },
+        {
+          "text": "Eine Liste der besichtigten Wohnungen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Kündigungsbestätigung der alten Wohnung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese Liste zeigt, dass sich die Mieterin aktiv um eine neue Wohnung bemüht."
+        },
+        {
+          "text": "Ein Auszug aus dem Betreibungsregister.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese Liste zeigt, dass sich die Mieterin aktiv um eine neue Wohnung bemüht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer ist Gabriela Baumgartner?</p>",
+      "options": [
+        {
+          "text": "Die Vermieterin der Espresso-Hörerin.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gabriela Baumgartner wird im Beitrag als Rechtsexpertin vorgestellt."
+        },
+        {
+          "text": "Eine Mitarbeiterin der Schlichtungsbehörde.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gabriela Baumgartner wird im Beitrag als Rechtsexpertin vorgestellt."
+        },
+        {
+          "text": "Eine Rechtsexpertin.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Moderatorin der Sendung Espresso.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gabriela Baumgartner wird im Beitrag als Rechtsexpertin vorgestellt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Mieterin muss sich an keine Kündigungsfrist halten, wenn die Vermieterin das Haus verkauft.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Auch beim Verkauf eines Hauses muss die Mieterin die gesetzliche Kündigungsfrist einhalten.",
+      "feedback_incorrect": "❌ Richtig. Auch beim Verkauf eines Hauses muss die Mieterin die gesetzliche Kündigungsfrist einhalten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Vermieterin ist verpflichtet, der Mieterin bei der Suche nach einer neuen Wohnung zu helfen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Vermieterin hat keine Verpflichtung, der Mieterin bei der Wohnungssuche zu helfen.",
+      "feedback_incorrect": "❌ Richtig. Die Vermieterin hat keine Verpflichtung, der Mieterin bei der Wohnungssuche zu helfen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Kanton gibt es fixe Kündigungstermine?</p>",
+      "options": [
+        {
+          "text": "Luzern",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird Solothurn als Beispiel für einen Kanton mit fixen Kündigungsterminen genannt."
+        },
+        {
+          "text": "Zürich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird Solothurn als Beispiel für einen Kanton mit fixen Kündigungsterminen genannt."
+        },
+        {
+          "text": "Bern",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird Solothurn als Beispiel für einen Kanton mit fixen Kündigungsterminen genannt."
+        },
+        {
+          "text": "Solothurn",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein wichtiges Argument für eine Fristverlängerung bei der Schlichtungsbehörde?</p>",
+      "options": [
+        {
+          "text": "Das hohe Mietzinsniveau.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Für ältere Menschen ist es oft schwieriger, eine neue Wohnung zu finden."
+        },
+        {
+          "text": "Die lange Wohndauer in der Wohnung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Für ältere Menschen ist es oft schwieriger, eine neue Wohnung zu finden."
+        },
+        {
+          "text": "Das Alter der Mieterin.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Grösse der Wohnung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Für ältere Menschen ist es oft schwieriger, eine neue Wohnung zu finden."
+        }
+      ]
+    }
+  ]
+}

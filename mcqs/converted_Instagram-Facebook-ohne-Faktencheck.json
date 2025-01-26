@@ -1,0 +1,217 @@
+{
+  "title": "Instagram-Facebook-ohne-Faktencheck",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was plant Meta mit dem Faktencheck auf Facebook und Instagram?</p>",
+      "options": [
+        {
+          "text": "Ihn zu verstärken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Meta plant, den Faktencheck durch Community Notes zu ersetzen, bei denen die Nutzer selbst die Richtigkeit von Informationen bewerten."
+        },
+        {
+          "text": "Ihn abzuschaffen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Meta plant, den Faktencheck durch Community Notes zu ersetzen, bei denen die Nutzer selbst die Richtigkeit von Informationen bewerten."
+        },
+        {
+          "text": "Ihn durch Community Notes zu ersetzen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ihn auf externe Anbieter auszulagern",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Meta plant, den Faktencheck durch Community Notes zu ersetzen, bei denen die Nutzer selbst die Richtigkeit von Informationen bewerten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer ist David Schraven?</p>",
+      "options": [
+        {
+          "text": "Der CEO von Meta",
+          "is_correct": false,
+          "feedback": "❌ Falsch. David Schraven ist der Chef von Correctiv, einer deutschen Rechercheorganisation, die Faktenchecks durchführt."
+        },
+        {
+          "text": "Ein Politiker der US-Regierung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. David Schraven ist der Chef von Correctiv, einer deutschen Rechercheorganisation, die Faktenchecks durchführt."
+        },
+        {
+          "text": "Der Chef von Correctiv, einer Organisation für Faktenchecks",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Ein bekannter Influencer auf Instagram",
+          "is_correct": false,
+          "feedback": "❌ Falsch. David Schraven ist der Chef von Correctiv, einer deutschen Rechercheorganisation, die Faktenchecks durchführt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Community Notes sind ein neues System, das von Meta erfunden wurde.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Community Notes wurden bereits von Elon Musk auf Twitter/X eingeführt.",
+      "feedback_incorrect": "❌ Richtig. Community Notes wurden bereits von Elon Musk auf Twitter/X eingeführt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die EU hat keine Handhabe gegen Metas Entscheidung zum Faktencheck.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die EU kann Meta mit hohen Geldstrafen belegen, wenn die Plattform gegen das Gesetz über digitale Dienste verstösst.",
+      "feedback_incorrect": "❌ Richtig. Die EU kann Meta mit hohen Geldstrafen belegen, wenn die Plattform gegen das Gesetz über digitale Dienste verstösst."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche negativen Auswirkungen hatten Community Notes auf Twitter/X?</p>",
+      "options": [
+        {
+          "text": "Zunahme von Hassrede und Falschinformationen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Auf Twitter/X führten Community Notes zu einer Zunahme von Hassrede und Falschinformationen, Abwanderung von Werbekunden und einem Wertverlust der Plattform."
+        },
+        {
+          "text": "Abwanderung von Werbekunden",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Auf Twitter/X führten Community Notes zu einer Zunahme von Hassrede und Falschinformationen, Abwanderung von Werbekunden und einem Wertverlust der Plattform."
+        },
+        {
+          "text": "Wertverlust der Plattform",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Auf Twitter/X führten Community Notes zu einer Zunahme von Hassrede und Falschinformationen, Abwanderung von Werbekunden und einem Wertverlust der Plattform."
+        },
+        {
+          "text": "Alle oben genannten Punkte",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche zwei zusätzlichen Gründe, neben der Meinungsfreiheit, werden für Metas Entscheidung genannt?</p>",
+      "options": [
+        {
+          "text": "Technische Schwierigkeiten und politischer Druck",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Wirtschaftliche Interessen und höhere Nutzerzahlen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Neben der Meinungsfreiheit werden technische Schwierigkeiten bei der Inhaltsmoderation und der politische Druck der kommenden US-Regierung als Gründe für Metas Entscheidung genannt."
+        },
+        {
+          "text": "Konkurrenzdruck und neue Technologien",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Neben der Meinungsfreiheit werden technische Schwierigkeiten bei der Inhaltsmoderation und der politische Druck der kommenden US-Regierung als Gründe für Metas Entscheidung genannt."
+        },
+        {
+          "text": "Verbesserte Algorithmen und steigende Kosten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Neben der Meinungsfreiheit werden technische Schwierigkeiten bei der Inhaltsmoderation und der politische Druck der kommenden US-Regierung als Gründe für Metas Entscheidung genannt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Mark Zuckerberg hat angekündigt, mit Unterstützung der US-Regierung gegen die EU-Regulierung vorzugehen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Mark Zuckerberg plant, mit Unterstützung der US-Regierung unter Trump gegen die EU-Regulierung vorzugehen.",
+      "feedback_incorrect": "❌ Falsch. Mark Zuckerberg plant, mit Unterstützung der US-Regierung unter Trump gegen die EU-Regulierung vorzugehen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie hoch ist die mögliche Geldstrafe der EU gegen Meta?</p>",
+      "options": [
+        {
+          "text": "Bis zu 6% des weltweiten Umsatzes",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Bis zu 10% des Jahresgewinns",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die EU kann Meta mit einer Geldstrafe von bis zu 6% des weltweiten Umsatzes belegen."
+        },
+        {
+          "text": "Eine fixe Summe von 1 Milliarde Dollar",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die EU kann Meta mit einer Geldstrafe von bis zu 6% des weltweiten Umsatzes belegen."
+        },
+        {
+          "text": "Es gibt keine festgelegte Strafe",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die EU kann Meta mit einer Geldstrafe von bis zu 6% des weltweiten Umsatzes belegen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>David Schraven glaubt, dass die Abschaffung des Faktenchecks auch in Europa kommen wird.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! David Schraven befürchtet, dass die Abschaffung des Faktenchecks auch auf europäische Plattformen übergreifen wird.",
+      "feedback_incorrect": "❌ Falsch. David Schraven befürchtet, dass die Abschaffung des Faktenchecks auch auf europäische Plattformen übergreifen wird."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Meta hat den Faktencheck 2021 eingeführt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Meta hat den Faktencheck 2016 eingeführt.",
+      "feedback_incorrect": "❌ Richtig. Meta hat den Faktencheck 2016 eingeführt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Correctiv arbeitet seit 2017 mit Meta zusammen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Correctiv arbeitet seit 2017 mit Meta im Bereich Faktencheck zusammen.",
+      "feedback_incorrect": "❌ Falsch. Correctiv arbeitet seit 2017 mit Meta im Bereich Faktencheck zusammen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Meta hat den Faktencheck abgeschafft, weil es zu teuer war.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Meta hat den Faktencheck nicht aufgrund der Kosten abgeschafft, sondern wegen angeblicher politischer Voreingenommenheit und Vertrauensverlust.",
+      "feedback_incorrect": "❌ Richtig. Meta hat den Faktencheck nicht aufgrund der Kosten abgeschafft, sondern wegen angeblicher politischer Voreingenommenheit und Vertrauensverlust."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Donald Trump wurde 2021 von Facebook gesperrt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Donald Trump wurde 2021 nach dem Sturm aufs Kapitol temporär von Facebook gesperrt.",
+      "feedback_incorrect": "❌ Falsch. Donald Trump wurde 2021 nach dem Sturm aufs Kapitol temporär von Facebook gesperrt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Meta hat mehrere Milliarden Nutzer.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Meta-Plattformen haben mehrere Milliarden Nutzer weltweit.",
+      "feedback_incorrect": "❌ Falsch. Meta-Plattformen haben mehrere Milliarden Nutzer weltweit."
+    }
+  ]
+}

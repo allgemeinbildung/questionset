@@ -1,0 +1,236 @@
+{
+  "title": "Reisen",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum hat der Espressohörer seine Reise annulliert?</p>",
+      "options": [
+        {
+          "text": "Er hat seinen Job verloren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer hat die Reise aufgrund seiner Trennung annulliert."
+        },
+        {
+          "text": "Er ist krank geworden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer hat die Reise aufgrund seiner Trennung annulliert."
+        },
+        {
+          "text": "Er hat sich von seiner Partnerin getrennt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Er hat ein besseres Angebot gefunden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer hat die Reise aufgrund seiner Trennung annulliert."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was hat der Reiseveranstalter nach der Annullierung verlangt?</p>",
+      "options": [
+        {
+          "text": "Die Hälfte der Reisekosten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Reiseveranstalter hat zunächst die vollen Kosten der Reise verlangt."
+        },
+        {
+          "text": "Eine kleine Bearbeitungsgebühr.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Reiseveranstalter hat zunächst die vollen Kosten der Reise verlangt."
+        },
+        {
+          "text": "Die vollen Reisekosten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Gar nichts.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Reiseveranstalter hat zunächst die vollen Kosten der Reise verlangt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Gemäss Pauschalreisegesetz ist es möglich, eine Reise auf eine andere Person zu übertragen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Das Pauschalreisegesetz erlaubt die Übertragung einer Reise.",
+      "feedback_incorrect": "❌ Falsch. Das Pauschalreisegesetz erlaubt die Übertragung einer Reise."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Reiseveranstalter darf eine hohe Gebühr für die Umschreibung einer Reise verlangen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Reiseveranstalter darf nur eine kleine Gebühr unter 100 Franken verlangen.",
+      "feedback_incorrect": "❌ Richtig. Der Reiseveranstalter darf nur eine kleine Gebühr unter 100 Franken verlangen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Kosten musste der Hörer nach der Intervention von Espresso schlussendlich tragen?</p>",
+      "options": [
+        {
+          "text": "Die vollen Reisekosten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nach der Intervention von Espresso musste der Hörer nur noch die Flugkosten tragen."
+        },
+        {
+          "text": "Nur die Flugkosten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Nur die Hotelkosten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nach der Intervention von Espresso musste der Hörer nur noch die Flugkosten tragen."
+        },
+        {
+          "text": "Gar keine Kosten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nach der Intervention von Espresso musste der Hörer nur noch die Flugkosten tragen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was wäre dem Hörer im Vorfeld geraten worden?</p>",
+      "options": [
+        {
+          "text": "Sich über die AGB zu informieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dem Hörer wäre geraten worden, sich über die Möglichkeit der Reiseübertragung zu informieren, bevor er die Reise annulliert."
+        },
+        {
+          "text": "Die Reise sofort zu annullieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dem Hörer wäre geraten worden, sich über die Möglichkeit der Reiseübertragung zu informieren, bevor er die Reise annulliert."
+        },
+        {
+          "text": "Sich über die Möglichkeit der Reiseübertragung zu informieren.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Den Reiseveranstalter nicht zu kontaktieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dem Hörer wäre geraten worden, sich über die Möglichkeit der Reiseübertragung zu informieren, bevor er die Reise annulliert."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Reiseveranstalter hat sich korrekt verhalten, indem er die AGB angewendet hat.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Reiseveranstalter hat sich nicht korrekt verhalten, da er den Kunden nicht auf seine Rechte hingewiesen hat.",
+      "feedback_incorrect": "❌ Richtig. Der Reiseveranstalter hat sich nicht korrekt verhalten, da er den Kunden nicht auf seine Rechte hingewiesen hat."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Sendung Espresso hat im Fall des Hörers keine Rolle gespielt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Sendung Espresso hat im Fall des Hörers eine entscheidende Rolle gespielt, indem sie interveniert und den Reiseveranstalter zum Einlenken bewegt hat.",
+      "feedback_incorrect": "❌ Richtig. Die Sendung Espresso hat im Fall des Hörers eine entscheidende Rolle gespielt, indem sie interveniert und den Reiseveranstalter zum Einlenken bewegt hat."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Gesetz regelt die Rechte und Pflichten bei Pauschalreisen?</p>",
+      "options": [
+        {
+          "text": "Das Konsumkreditgesetz.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Pauschalreisegesetz regelt die Rechte und Pflichten bei Pauschalreisen."
+        },
+        {
+          "text": "Das Obligationenrecht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Pauschalreisegesetz regelt die Rechte und Pflichten bei Pauschalreisen."
+        },
+        {
+          "text": "Das Pauschalreisegesetz.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Das Mietrecht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Pauschalreisegesetz regelt die Rechte und Pflichten bei Pauschalreisen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist eine Pauschalreise?</p>",
+      "options": [
+        {
+          "text": "Eine Reise, die nur den Flug beinhaltet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Pauschalreise kombiniert in der Regel mindestens zwei Reiseleistungen, wie z.B. Flug und Unterkunft."
+        },
+        {
+          "text": "Eine Reise, die nur die Unterkunft beinhaltet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Pauschalreise kombiniert in der Regel mindestens zwei Reiseleistungen, wie z.B. Flug und Unterkunft."
+        },
+        {
+          "text": "Eine Reise, die Flug und Unterkunft kombiniert.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Reise, die individuell zusammengestellt wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Pauschalreise kombiniert in der Regel mindestens zwei Reiseleistungen, wie z.B. Flug und Unterkunft."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>AGB können zwingende gesetzliche Bestimmungen ausser Kraft setzen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! AGB können zwingende gesetzliche Bestimmungen nicht ausser Kraft setzen.",
+      "feedback_incorrect": "❌ Richtig. AGB können zwingende gesetzliche Bestimmungen nicht ausser Kraft setzen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Hörer hat die Reise direkt beim Reiseveranstalter gebucht.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Hörer hat die Reise direkt beim Reiseveranstalter gebucht.",
+      "feedback_incorrect": "❌ Falsch. Der Hörer hat die Reise direkt beim Reiseveranstalter gebucht."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Hörer hat versucht, die Reise auf eine andere Person umzuschreiben.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Hörer hat die Reise annulliert, anstatt zu versuchen, sie umzuschreiben.",
+      "feedback_incorrect": "❌ Richtig. Der Hörer hat die Reise annulliert, anstatt zu versuchen, sie umzuschreiben."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Fall des Hörers zeigt, wie wichtig die richtige Kommunikation mit dem Reiseveranstalter ist.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Fall zeigt, dass die richtige Wortwahl und die Kommunikation mit dem Reiseveranstalter entscheidend sein können.",
+      "feedback_incorrect": "❌ Falsch. Der Fall zeigt, dass die richtige Wortwahl und die Kommunikation mit dem Reiseveranstalter entscheidend sein können."
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "title": "kuendigung2",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum wurde Sujata Richard gekündigt?</p>",
+      "options": [
+        {
+          "text": "Sie hat im Bewerbungsgespräch einen schlechten Eindruck hinterlassen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass der Arbeitgeber wirtschaftliche Gründe und zu viele Angestellte als Begründung für die Kündigung angab."
+        },
+        {
+          "text": "Der Arbeitgeber behauptete, zu viele Leute eingestellt zu haben.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie hat die Probezeit nicht bestanden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass der Arbeitgeber wirtschaftliche Gründe und zu viele Angestellte als Begründung für die Kündigung angab."
+        },
+        {
+          "text": "Sie hat sich zu oft krankgemeldet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass der Arbeitgeber wirtschaftliche Gründe und zu viele Angestellte als Begründung für die Kündigung angab."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie hat Sujata Richard von ihrer Kündigung erfahren?</p>",
+      "options": [
+        {
+          "text": "Per Telefonanruf",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sujata Richard erhielt die Kündigung zuerst per E-Mail und anschliessend per eingeschriebenen Brief."
+        },
+        {
+          "text": "Persönlich vom Chef",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sujata Richard erhielt die Kündigung zuerst per E-Mail und anschliessend per eingeschriebenen Brief."
+        },
+        {
+          "text": "Per E-Mail und eingeschriebenen Brief",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Über ein soziales Netzwerk",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sujata Richard erhielt die Kündigung zuerst per E-Mail und anschliessend per eingeschriebenen Brief."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Sujata Richard hatte bereits bei der \"Sonne\" angefangen zu arbeiten, als sie die Kündigung erhielt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Sujata Richard erhielt die Kündigung vor ihrem ersten Arbeitstag.",
+      "feedback_incorrect": "❌ Richtig. Sujata Richard erhielt die Kündigung vor ihrem ersten Arbeitstag."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Hotel-Restaurant \"Sonne\" hat Sujata Richard den gesamten geforderten Lohn bezahlt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die \"Sonne\" zahlte nur einen Teil des geforderten Lohns, nachdem sich Espresso eingeschaltet hatte.",
+      "feedback_incorrect": "❌ Richtig. Die \"Sonne\" zahlte nur einen Teil des geforderten Lohns, nachdem sich Espresso eingeschaltet hatte."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>An wen wandte sich Sujata Richard, um Hilfe zu erhalten?</p>",
+      "options": [
+        {
+          "text": "An die Polizei",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sujata Richard suchte Hilfe beim RAV und liess sich in der Frauenzentrale beraten."
+        },
+        {
+          "text": "An das RAV und die Frauenzentrale",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "An ihre Familie",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sujata Richard suchte Hilfe beim RAV und liess sich in der Frauenzentrale beraten."
+        },
+        {
+          "text": "An die Gewerkschaft",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sujata Richard suchte Hilfe beim RAV und liess sich in der Frauenzentrale beraten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was war die Reaktion des Hotel-Restaurant \"Sonne\" auf die Anfrage von Espresso?</p>",
+      "options": [
+        {
+          "text": "Sie antworteten sofort und entschuldigten sich.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Chef der \"Sonne\" verweigerte die Aussage und verwies an die Anwältin des Betriebs."
+        },
+        {
+          "text": "Sie verweigerten die Aussage und verwiesen an ihre Anwältin.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie boten Sujata Richard eine andere Stelle an.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Chef der \"Sonne\" verweigerte die Aussage und verwies an die Anwältin des Betriebs."
+        },
+        {
+          "text": "Sie ignorierten die Anfrage.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Chef der \"Sonne\" verweigerte die Aussage und verwies an die Anwältin des Betriebs."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Sujata Richard hatte einen schriftlichen Arbeitsvertrag mit dem Hotel-Restaurant \"Sonne\".</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Sujata Richard hatte einen schriftlichen Arbeitsvertrag, der die Grundlage für ihre Lohnforderung bildete.",
+      "feedback_incorrect": "❌ Falsch. Sujata Richard hatte einen schriftlichen Arbeitsvertrag, der die Grundlage für ihre Lohnforderung bildete."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Gemäss Roger Rudolph, Professor für Arbeitsrecht, ist eine Kündigung vor Stellenantritt grundsätzlich nicht möglich.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Eine Kündigung vor Stellenantritt ist möglich, aber es besteht in der Regel Anspruch auf Lohn für die ersten Tage gemäss Kündigungsfrist.",
+      "feedback_incorrect": "❌ Richtig. Eine Kündigung vor Stellenantritt ist möglich, aber es besteht in der Regel Anspruch auf Lohn für die ersten Tage gemäss Kündigungsfrist."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange hat man rechtlich Zeit, eine Klage wegen Lohnforderungen einzureichen?</p>",
+      "options": [
+        {
+          "text": "1 Jahr",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Verjährungsfrist für Lohnforderungen beträgt 5 Jahre."
+        },
+        {
+          "text": "3 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Verjährungsfrist für Lohnforderungen beträgt 5 Jahre."
+        },
+        {
+          "text": "5 Jahre",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "10 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Verjährungsfrist für Lohnforderungen beträgt 5 Jahre."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was war der Hauptgrund für Sujata Richards Kündigung?</p>",
+      "options": [
+        {
+          "text": "Fehlverhalten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Arbeitgeber begründete die Kündigung mit wirtschaftlichen Gründen und zu vielen Angestellten."
+        },
+        {
+          "text": "Unzureichende Qualifikationen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Arbeitgeber begründete die Kündigung mit wirtschaftlichen Gründen und zu vielen Angestellten."
+        },
+        {
+          "text": "Wirtschaftliche Gründe des Arbeitgebers",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Persönliche Differenzen mit dem Chef",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Arbeitgeber begründete die Kündigung mit wirtschaftlichen Gründen und zu vielen Angestellten."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Sujata Richard war alleinerziehend und auf das Einkommen aus der neuen Stelle angewiesen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Im Beitrag wird erwähnt, dass Sujata Richard Mutter von zwei Kindern ist und auf das Geld angewiesen war.",
+      "feedback_incorrect": "❌ Falsch. Im Beitrag wird erwähnt, dass Sujata Richard Mutter von zwei Kindern ist und auf das Geld angewiesen war."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Chef des Restaurants hat sich persönlich bei Espresso zum Fall geäussert.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Chef verweigerte die Aussage und verwies an die Anwältin des Betriebs.",
+      "feedback_incorrect": "❌ Richtig. Der Chef verweigerte die Aussage und verwies an die Anwältin des Betriebs."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welchen Betrag forderte Sujata Richard von ihrem Arbeitgeber?</p>",
+      "options": [
+        {
+          "text": "ca. 500 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sujata Richard forderte Lohn für die erste Arbeitswoche, was einem Betrag von rund 900 Franken entsprach."
+        },
+        {
+          "text": "ca. 900 Franken",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "ca. 1200 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sujata Richard forderte Lohn für die erste Arbeitswoche, was einem Betrag von rund 900 Franken entsprach."
+        },
+        {
+          "text": "ca. 1500 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sujata Richard forderte Lohn für die erste Arbeitswoche, was einem Betrag von rund 900 Franken entsprach."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welchen Betrag bezahlte der Arbeitgeber schliesslich an Sujata Richard?</p>",
+      "options": [
+        {
+          "text": "ca. 500 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nach der Intervention von Espresso bezahlte der Arbeitgeber 800 Franken."
+        },
+        {
+          "text": "ca. 800 Franken",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "ca. 900 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nach der Intervention von Espresso bezahlte der Arbeitgeber 800 Franken."
+        },
+        {
+          "text": "ca. 1000 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nach der Intervention von Espresso bezahlte der Arbeitgeber 800 Franken."
+        }
+      ]
+    }
+  ]
+}

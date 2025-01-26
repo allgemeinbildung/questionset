@@ -1,0 +1,274 @@
+{
+  "title": "lohnzahlung",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was war das Problem des Hörers, der sich bei Espresso gemeldet hat?</p>",
+      "options": [
+        {
+          "text": "Er hat seinen Lohn zu spät erhalten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer hatte sein Pensum erhöht, erhielt aber nicht den entsprechenden Lohn."
+        },
+        {
+          "text": "Sein Lohn wurde nicht korrekt berechnet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer hatte sein Pensum erhöht, erhielt aber nicht den entsprechenden Lohn."
+        },
+        {
+          "text": "Er hat trotz erhöhtem Pensum den alten Lohn erhalten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sein Arbeitgeber hat ihm gekündigt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer hatte sein Pensum erhöht, erhielt aber nicht den entsprechenden Lohn."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Bis wann muss der Lohn in der Schweiz gemäss Gesetz auf dem Konto des Arbeitnehmers sein?</p>",
+      "options": [
+        {
+          "text": "Bis Mitte des Monats",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Lohn muss bis zum letzten Tag des Monats überwiesen sein, ausser es wurde etwas anderes vereinbart."
+        },
+        {
+          "text": "Bis Ende des Monats",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Bis zur Mitte des Folgemonats",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Lohn muss bis zum letzten Tag des Monats überwiesen sein, ausser es wurde etwas anderes vereinbart."
+        },
+        {
+          "text": "Es gibt keine gesetzliche Frist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Lohn muss bis zum letzten Tag des Monats überwiesen sein, ausser es wurde etwas anderes vereinbart."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wenn ein Arbeitnehmer dreimal hintereinander einen zu tiefen Lohn akzeptiert, ohne zu protestieren, hat er rechtlich gesehen den tieferen Lohn akzeptiert.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Durch die dreimalige Annahme ohne Protest gilt der tiefere Lohn als akzeptiert.",
+      "feedback_incorrect": "❌ Falsch. Durch die dreimalige Annahme ohne Protest gilt der tiefere Lohn als akzeptiert."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Arbeitnehmer darf die Arbeit einstellen, wenn der Arbeitgeber den Lohn nicht zahlt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Arbeitnehmer hat das Recht, die Arbeit einzustellen, bis er seinen Lohn erhält.",
+      "feedback_incorrect": "❌ Falsch. Der Arbeitnehmer hat das Recht, die Arbeit einzustellen, bis er seinen Lohn erhält."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist der erste Schritt, den ein Arbeitnehmer unternehmen sollte, wenn der Lohn nicht stimmt?</p>",
+      "options": [
+        {
+          "text": "Den Arbeitgeber betreiben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Gespräch mit dem Arbeitgeber ist der erste Schritt, um die Situation zu klären."
+        },
+        {
+          "text": "Die Arbeit einstellen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Gespräch mit dem Arbeitgeber ist der erste Schritt, um die Situation zu klären."
+        },
+        {
+          "text": "Mit dem Chef sprechen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Beschwerde bei der Gewerkschaft einreichen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Gespräch mit dem Arbeitgeber ist der erste Schritt, um die Situation zu klären."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Art von Beweis ist im Falle eines Lohnstreits besonders wichtig?</p>",
+      "options": [
+        {
+          "text": "Mündliche Vereinbarungen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Schriftliche Mahnungen dienen als Beweismittel im Falle eines Lohnstreits."
+        },
+        {
+          "text": "E-Mails",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Schriftliche Mahnungen dienen als Beweismittel im Falle eines Lohnstreits."
+        },
+        {
+          "text": "Schriftliche Mahnungen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Zeugnisse von Kollegen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Schriftliche Mahnungen dienen als Beweismittel im Falle eines Lohnstreits."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Arbeitgeber darf den Lohn auch im Folgemonat auszahlen, wenn er dies dem Arbeitnehmer vorher ankündigt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Lohn muss bis Ende des Monats gezahlt werden, ausser es wurde etwas anderes vereinbart.",
+      "feedback_incorrect": "❌ Richtig. Der Lohn muss bis Ende des Monats gezahlt werden, ausser es wurde etwas anderes vereinbart."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Im Beitrag von Espresso wurde der Fall des Hörers positiv gelöst.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Arbeitgeber hat sich entschuldigt und die Lohnzahlung korrigiert.",
+      "feedback_incorrect": "❌ Falsch. Der Arbeitgeber hat sich entschuldigt und die Lohnzahlung korrigiert."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie hat der Arbeitgeber im Beitrag von Espresso auf die Beschwerde des Hörers reagiert?</p>",
+      "options": [
+        {
+          "text": "Er hat die Beschwerde ignoriert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nach dem Gespräch mit dem Hörer hat der Arbeitgeber seinen Fehler eingesehen."
+        },
+        {
+          "text": "Er hat den Hörer entlassen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nach dem Gespräch mit dem Hörer hat der Arbeitgeber seinen Fehler eingesehen."
+        },
+        {
+          "text": "Er hat sich entschuldigt und den Lohn korrigiert.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Er hat den Hörer verklagt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nach dem Gespräch mit dem Hörer hat der Arbeitgeber seinen Fehler eingesehen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welchen Tipp gibt die Rechtsexpertin im Beitrag von Espresso?</p>",
+      "options": [
+        {
+          "text": "Man sollte immer sofort einen Anwalt einschalten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Gespräch ist der erste Schritt, um die Situation zu klären."
+        },
+        {
+          "text": "Man sollte den Arbeitgeber sofort betreiben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Gespräch ist der erste Schritt, um die Situation zu klären."
+        },
+        {
+          "text": "Man sollte zuerst das Gespräch mit dem Arbeitgeber suchen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Man sollte die Arbeit sofort einstellen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Gespräch ist der erste Schritt, um die Situation zu klären."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine Lohnforderung sollte man immer schriftlich stellen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Eine schriftliche Forderung dient als Beweismittel.",
+      "feedback_incorrect": "❌ Falsch. Eine schriftliche Forderung dient als Beweismittel."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Beitrag von Espresso befasste sich mit dem Thema Arbeitsrecht.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Beitrag behandelte die Rechte und Pflichten bei der Lohnzahlung.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag behandelte die Rechte und Pflichten bei der Lohnzahlung."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo findet man weitere Informationen zum Thema Lohnzahlung auf SRF?</p>",
+      "options": [
+        {
+          "text": "Im Kassensturz-Archiv",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Espresso bietet online weitere Tipps zum Thema Lohnzahlung."
+        },
+        {
+          "text": "Auf der Espresso-Webseite",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "In der Tagesschau-App",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Espresso bietet online weitere Tipps zum Thema Lohnzahlung."
+        },
+        {
+          "text": "Im Meteo-Newsletter",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Espresso bietet online weitere Tipps zum Thema Lohnzahlung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Fall ist es besonders wichtig, den Lohn schriftlich einzufordern?</p>",
+      "options": [
+        {
+          "text": "Wenn der Lohn zu früh kommt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine schriftliche Forderung dient als Beweismittel, besonders bei längerfristigen Problemen."
+        },
+        {
+          "text": "Wenn der Lohn korrekt ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine schriftliche Forderung dient als Beweismittel, besonders bei längerfristigen Problemen."
+        },
+        {
+          "text": "Wenn der Lohn über einen längeren Zeitraum zu tief ist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Wenn der Lohn bar ausbezahlt wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine schriftliche Forderung dient als Beweismittel, besonders bei längerfristigen Problemen."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "title": "Erstreckung",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum müssen die Mieter der Zughaushäuser in Zürich ausziehen?</p>",
+      "options": [
+        {
+          "text": "Wegen Eigenbedarf des Vermieters",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass die Zughaushäuser einer Totalsanierung unterzogen werden."
+        },
+        {
+          "text": "Wegen Mietrückständen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass die Zughaushäuser einer Totalsanierung unterzogen werden."
+        },
+        {
+          "text": "Wegen einer Totalsanierung",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Wegen Lärmbelästigung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass die Zughaushäuser einer Totalsanierung unterzogen werden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist eine \"Erstreckung\" im Mietrecht?</p>",
+      "options": [
+        {
+          "text": "Eine Mieterhöhung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Erstreckung ermöglicht es Mietern, länger in der Wohnung zu bleiben, als in der Kündigung angegeben."
+        },
+        {
+          "text": "Eine Mietminderung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Erstreckung ermöglicht es Mietern, länger in der Wohnung zu bleiben, als in der Kündigung angegeben."
+        },
+        {
+          "text": "Eine verlängerte Kündigungsfrist",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Kautionsrückzahlung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Erstreckung ermöglicht es Mietern, länger in der Wohnung zu bleiben, als in der Kündigung angegeben."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Mieter der Zughaushäuser haben ein Jahr Zeit, um auszuziehen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Mieter haben bis Ende März Zeit, also weniger als ein Jahr.",
+      "feedback_incorrect": "❌ Richtig. Die Mieter haben bis Ende März Zeit, also weniger als ein Jahr."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Es ist wichtig, dass Mieter nach Erhalt einer Kündigung sofort mit der Wohnungssuche beginnen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die aktive Wohnungssuche ist ein wichtiges Kriterium für die Gewährung einer Erstreckung.",
+      "feedback_incorrect": "❌ Falsch. Die aktive Wohnungssuche ist ein wichtiges Kriterium für die Gewährung einer Erstreckung."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer entscheidet über die Gewährung einer Erstreckung?</p>",
+      "options": [
+        {
+          "text": "Der Vermieter",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schlichtungsbehörde prüft die Härtefallgründe des Mieters und entscheidet über die Erstreckung."
+        },
+        {
+          "text": "Der Mieterverband",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schlichtungsbehörde prüft die Härtefallgründe des Mieters und entscheidet über die Erstreckung."
+        },
+        {
+          "text": "Die Schlichtungsbehörde",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Das Bundesgericht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schlichtungsbehörde prüft die Härtefallgründe des Mieters und entscheidet über die Erstreckung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Faktor spielt KEINE Rolle bei der Entscheidung über eine Erstreckung?</p>",
+      "options": [
+        {
+          "text": "Alter des Mieters",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Grösse der Wohnung ist nicht relevant für die Härtefallprüfung."
+        },
+        {
+          "text": "Einkommen des Mieters",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Grösse der Wohnung ist nicht relevant für die Härtefallprüfung."
+        },
+        {
+          "text": "Anzahl der Kinder",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Grösse der Wohnung ist nicht relevant für die Härtefallprüfung."
+        },
+        {
+          "text": "Grösse der Wohnung",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange kann eine Erstreckung maximal dauern?</p>",
+      "options": [
+        {
+          "text": "1 Jahr",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Laut Gesetz kann eine Erstreckung maximal vier Jahre dauern."
+        },
+        {
+          "text": "2 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Laut Gesetz kann eine Erstreckung maximal vier Jahre dauern."
+        },
+        {
+          "text": "3 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Laut Gesetz kann eine Erstreckung maximal vier Jahre dauern."
+        },
+        {
+          "text": "4 Jahre",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine lange Kündigungsfrist wirkt sich negativ auf die Chancen einer Erstreckung aus.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Schlichtungsbehörde rechnet die lange Kündigungsfrist an die Erstreckung an.",
+      "feedback_incorrect": "❌ Falsch. Die Schlichtungsbehörde rechnet die lange Kündigungsfrist an die Erstreckung an."
+    }
+  ]
+}

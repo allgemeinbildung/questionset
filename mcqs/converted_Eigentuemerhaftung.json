@@ -1,0 +1,236 @@
+{
+  "title": "Eigentuemerhaftung",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer haftet, wenn jemand auf einem Privatgrundstück wegen Schneeglätte stürzt?</p>",
+      "options": [
+        {
+          "text": "Der Passant",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hauseigentümer ist für die Sicherheit auf seinem Grundstück verantwortlich."
+        },
+        {
+          "text": "Die Gemeinde",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hauseigentümer ist für die Sicherheit auf seinem Grundstück verantwortlich."
+        },
+        {
+          "text": "Der Hauseigentümer",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Niemand",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hauseigentümer ist für die Sicherheit auf seinem Grundstück verantwortlich."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was müssen Hauseigentümer im Winter tun?</p>",
+      "options": [
+        {
+          "text": "Rund um die Uhr Schnee räumen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Zugang muss tagsüber gefahrlos sein, nicht rund um die Uhr."
+        },
+        {
+          "text": "Den Zugang zum Haus zwischen 7:00 und 21:00 Uhr gefahrlos ermöglichen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Nur bei schönem Wetter Schnee räumen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Zugang muss tagsüber gefahrlos sein, nicht rund um die Uhr."
+        },
+        {
+          "text": "Gar nichts tun",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Zugang muss tagsüber gefahrlos sein, nicht rund um die Uhr."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warnschilder reichen aus, um die Gefahr von Dachlawinen abzuwenden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der gefährdete Bereich muss abgesperrt werden.",
+      "feedback_incorrect": "❌ Richtig. Der gefährdete Bereich muss abgesperrt werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Hauseigentümer müssen auch im Winter für die Sicherheit auf ihrem Grundstück sorgen, wenn sie in den Ferien sind.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Sie müssen jemanden beauftragen, der die Schneeräumung und Sicherung übernimmt.",
+      "feedback_incorrect": "❌ Falsch. Sie müssen jemanden beauftragen, der die Schneeräumung und Sicherung übernimmt."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist bei starkem Schneefall ausreichend?</p>",
+      "options": [
+        {
+          "text": "Der ganze Weg muss geräumt sein.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es muss ein sicherer Durchgang gewährleistet sein."
+        },
+        {
+          "text": "Es reicht, wenn ein schmaler Pfad geräumt ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es muss ein sicherer Durchgang gewährleistet sein."
+        },
+        {
+          "text": "Ein Fussweg, auf dem zwei Personen aneinander vorbeigehen können, ist ausreichend.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Man muss gar nichts räumen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es muss ein sicherer Durchgang gewährleistet sein."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer zahlt in der Regel, wenn eine Dachlawine das Auto des Nachbarn beschädigt?</p>",
+      "options": [
+        {
+          "text": "Der Nachbar",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Privathaftpflichtversicherung deckt solche Schäden in der Regel ab."
+        },
+        {
+          "text": "Die Gemeinde",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Privathaftpflichtversicherung deckt solche Schäden in der Regel ab."
+        },
+        {
+          "text": "Die Privathaftpflichtversicherung des Hauseigentümers",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Niemand",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Privathaftpflichtversicherung deckt solche Schäden in der Regel ab."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Bei Swimmingpools und Teichen müssen keine Sicherheitsvorkehrungen getroffen werden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Es müssen Sicherheitsvorkehrungen getroffen werden, um Unfälle zu verhindern.",
+      "feedback_incorrect": "❌ Richtig. Es müssen Sicherheitsvorkehrungen getroffen werden, um Unfälle zu verhindern."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo findet man die genauen Vorschriften zur Sicherung von Swimmingpools und Teichen?</p>",
+      "options": [
+        {
+          "text": "Im Bundesgesetz",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die kantonalen Gesetze regeln die Sicherheitsvorschriften."
+        },
+        {
+          "text": "Im kantonalen Gesetz",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Im Gemeindegesetz",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die kantonalen Gesetze regeln die Sicherheitsvorschriften."
+        },
+        {
+          "text": "Im Internet",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die kantonalen Gesetze regeln die Sicherheitsvorschriften."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wenn ich im Winter in den Ferien bin, muss ich mich nicht um die Schneeräumung kümmern.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Auch bei Abwesenheit muss die Schneeräumung gewährleistet sein.",
+      "feedback_incorrect": "❌ Richtig. Auch bei Abwesenheit muss die Schneeräumung gewährleistet sein."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist die Wercheigentümerhaftung?</p>",
+      "options": [
+        {
+          "text": "Die Haftung für Schäden, die durch ein Gebäude oder Grundstück verursacht werden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Haftung für Schäden, die durch die Arbeit verursacht werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Wercheigentümerhaftung bezieht sich auf Gebäude und Grundstücke."
+        },
+        {
+          "text": "Die Haftung für Schäden, die durch Tiere verursacht werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Wercheigentümerhaftung bezieht sich auf Gebäude und Grundstücke."
+        },
+        {
+          "text": "Die Haftung für Schäden, die durch Fahrzeuge verursacht werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Wercheigentümerhaftung bezieht sich auf Gebäude und Grundstücke."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Beratungsstelle für Unfallverhütung gibt Tipps für Eigentümer.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Beratungsstelle bietet Informationen und Tipps zur Unfallverhütung.",
+      "feedback_incorrect": "❌ Falsch. Die Beratungsstelle bietet Informationen und Tipps zur Unfallverhütung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Raphaela Reichlin ist die Rechtsexpertin bei Espresso.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Sie beantwortet die Rechtsfragen der Hörerinnen und Hörer.",
+      "feedback_incorrect": "❌ Falsch. Sie beantwortet die Rechtsfragen der Hörerinnen und Hörer."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Yvonne Hafner hat mit der Rechtsexpertin gesprochen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Sie hat das Interview für den Beitrag geführt.",
+      "feedback_incorrect": "❌ Falsch. Sie hat das Interview für den Beitrag geführt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Im Beitrag geht es nur um die Eigentümerhaftung im Winter.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Es wird auch die Haftung bei Swimmingpools und Teichen erwähnt.",
+      "feedback_incorrect": "❌ Richtig. Es wird auch die Haftung bei Swimmingpools und Teichen erwähnt."
+    }
+  ]
+}

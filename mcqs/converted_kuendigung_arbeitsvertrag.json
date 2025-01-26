@@ -1,0 +1,150 @@
+{
+  "title": "kuendigung_arbeitsvertrag",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wann wird eine Kündigung im Arbeitsrecht wirksam?</p>",
+      "options": [
+        {
+          "text": "Mit dem Datum des Poststempels.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Massgebend ist der Zeitpunkt des Empfangs und der Kenntnisnahme durch den Arbeitnehmer."
+        },
+        {
+          "text": "Mit dem Datum des Vertragsabschlusses.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Massgebend ist der Zeitpunkt des Empfangs und der Kenntnisnahme durch den Arbeitnehmer."
+        },
+        {
+          "text": "Sobald der Arbeitgeber sie abschickt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Massgebend ist der Zeitpunkt des Empfangs und der Kenntnisnahme durch den Arbeitnehmer."
+        },
+        {
+          "text": "Sobald der Arbeitnehmer sie liest.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Formvorschriften gelten für eine Kündigung im Arbeitsrecht?</p>",
+      "options": [
+        {
+          "text": "Sie muss immer schriftlich erfolgen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mündliche, schriftliche oder elektronische Kündigungen sind möglich, sofern keine anderslautenden Vereinbarungen bestehen."
+        },
+        {
+          "text": "Sie muss immer eingeschrieben versendet werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mündliche, schriftliche oder elektronische Kündigungen sind möglich, sofern keine anderslautenden Vereinbarungen bestehen."
+        },
+        {
+          "text": "Es gibt keine gesetzlich vorgeschriebene Form.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie muss vom Arbeitgeber und Arbeitnehmer unterschrieben sein.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mündliche, schriftliche oder elektronische Kündigungen sind möglich, sofern keine anderslautenden Vereinbarungen bestehen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Im Mietrecht muss eine Kündigung immer schriftlich erfolgen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Im Mietrecht ist die Schriftform zwingend vorgeschrieben.",
+      "feedback_incorrect": "❌ Falsch. Im Mietrecht ist die Schriftform zwingend vorgeschrieben."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Poststempel ist massgebend für den Beginn der Kündigungsfrist.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Empfang der Kündigung durch den Arbeitnehmer ist entscheidend.",
+      "feedback_incorrect": "❌ Richtig. Der Empfang der Kündigung durch den Arbeitnehmer ist entscheidend."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte man tun, wenn man eine Kündigung erhält, die man für unrechtmässig hält?</p>",
+      "options": [
+        {
+          "text": "Den Arbeitgeber sofort kontaktieren und die Kündigung anfechten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Professionelle Beratung hilft, die Rechtslage zu klären und die richtigen Schritte einzuleiten."
+        },
+        {
+          "text": "Sich rechtlich beraten lassen, z.B. bei einer Gewerkschaft oder einem Anwalt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Kündigung ignorieren und abwarten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Professionelle Beratung hilft, die Rechtslage zu klären und die richtigen Schritte einzuleiten."
+        },
+        {
+          "text": "Sich an die Medien wenden und den Fall öffentlich machen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Professionelle Beratung hilft, die Rechtslage zu klären und die richtigen Schritte einzuleiten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie kann man den Empfang einer Kündigung beweisen?</p>",
+      "options": [
+        {
+          "text": "Durch Zeugen, schriftliche Kommunikation oder andere Indizien.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Durch den Poststempel auf dem Briefumschlag.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Verschiedene Beweismittel können den Empfang einer Kündigung glaubhaft machen."
+        },
+        {
+          "text": "Durch die Aussage des Arbeitgebers.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Verschiedene Beweismittel können den Empfang einer Kündigung glaubhaft machen."
+        },
+        {
+          "text": "Es ist nicht möglich, den Empfang einer Kündigung zu beweisen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Verschiedene Beweismittel können den Empfang einer Kündigung glaubhaft machen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine Kündigung per E-Mail ist im Arbeitsrecht grundsätzlich gültig.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Sofern keine anderslautenden Vereinbarungen bestehen, ist eine Kündigung per E-Mail zulässig.",
+      "feedback_incorrect": "❌ Falsch. Sofern keine anderslautenden Vereinbarungen bestehen, ist eine Kündigung per E-Mail zulässig."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine Kündigung muss immer vom Arbeitgeber und Arbeitnehmer unterschrieben sein.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Es gibt keine gesetzliche Vorschrift, dass beide Parteien eine Kündigung unterschreiben müssen.",
+      "feedback_incorrect": "❌ Richtig. Es gibt keine gesetzliche Vorschrift, dass beide Parteien eine Kündigung unterschreiben müssen."
+    }
+  ]
+}

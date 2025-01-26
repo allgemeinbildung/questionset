@@ -1,0 +1,274 @@
+{
+  "title": "lohnzahlung3",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte man als erstes tun, wenn der Lohn ausbleibt?</p>",
+      "options": [
+        {
+          "text": "Den Arbeitgeber mündlich zur Zahlung auffordern.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine schriftliche Mahnung mit Fristsetzung ist der erste wichtige Schritt, um die Lohnforderung rechtlich abzusichern."
+        },
+        {
+          "text": "Einen Anwalt kontaktieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine schriftliche Mahnung mit Fristsetzung ist der erste wichtige Schritt, um die Lohnforderung rechtlich abzusichern."
+        },
+        {
+          "text": "Den Arbeitgeber schriftlich mahnen und eine Frist setzen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Arbeit sofort niederlegen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine schriftliche Mahnung mit Fristsetzung ist der erste wichtige Schritt, um die Lohnforderung rechtlich abzusichern."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange muss man maximal auf den Lohn warten, bevor man die Arbeit niederlegen darf?</p>",
+      "options": [
+        {
+          "text": "Einen Monat",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nach Ablauf der in der Mahnung gesetzten Frist (maximal eine Woche) darf die Arbeit niedergelegt werden."
+        },
+        {
+          "text": "Zwei Wochen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nach Ablauf der in der Mahnung gesetzten Frist (maximal eine Woche) darf die Arbeit niedergelegt werden."
+        },
+        {
+          "text": "Es gibt keine festgelegte Frist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Solange, bis der Arbeitgeber den Lohn bezahlt oder eine plausible Erklärung liefert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nach Ablauf der in der Mahnung gesetzten Frist (maximal eine Woche) darf die Arbeit niedergelegt werden."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wenn der Arbeitgeber Konkurs geht, erhält man in jedem Fall den gesamten ausstehenden Lohn.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Im Konkursfall kann man eine Insolvenzentschädigung beantragen, die jedoch auf maximal vier Monatslöhne begrenzt ist.",
+      "feedback_incorrect": "❌ Richtig. Im Konkursfall kann man eine Insolvenzentschädigung beantragen, die jedoch auf maximal vier Monatslöhne begrenzt ist."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Unfallversicherung zahlt keine Leistungen, wenn der Arbeitgeber die Prämien nicht bezahlt hat.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die Unfallversicherung zahlt die Leistungen an die Angestellten, auch wenn der Arbeitgeber die Prämien nicht bezahlt hat. Die Versicherung wird den Arbeitgeber aber separat mahnen und betreiben.",
+      "feedback_incorrect": "❌ Richtig. Die Unfallversicherung zahlt die Leistungen an die Angestellten, auch wenn der Arbeitgeber die Prämien nicht bezahlt hat. Die Versicherung wird den Arbeitgeber aber separat mahnen und betreiben."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Leistungen deckt die Insolvenzentschädigung ab?</p>",
+      "options": [
+        {
+          "text": "Sämtliche Lohnausfälle seit Beginn des Arbeitsverhältnisses.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Insolvenzentschädigung ist auf maximal vier Monatslöhne begrenzt."
+        },
+        {
+          "text": "Maximal vier Monatslöhne.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Nur die Sozialversicherungsbeiträge.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Insolvenzentschädigung ist auf maximal vier Monatslöhne begrenzt."
+        },
+        {
+          "text": "Die Kosten für einen Anwalt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Insolvenzentschädigung ist auf maximal vier Monatslöhne begrenzt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>An wen muss man sich wenden, um die Insolvenzentschädigung zu beantragen?</p>",
+      "options": [
+        {
+          "text": "An den Arbeitgeber",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Insolvenzentschädigung wird von der Arbeitslosenkasse ausbezahlt."
+        },
+        {
+          "text": "An die Ausgleichskasse",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Insolvenzentschädigung wird von der Arbeitslosenkasse ausbezahlt."
+        },
+        {
+          "text": "An die Arbeitslosenkasse",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "An das Betreibungsamt",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Insolvenzentschädigung wird von der Arbeitslosenkasse ausbezahlt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Man muss die ausgefallene Arbeitszeit nacharbeiten, wenn man die Arbeit wegen Lohnrückständen niedergelegt hat.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Die ausgefallene Arbeitszeit muss nicht nachgearbeitet werden.",
+      "feedback_incorrect": "❌ Richtig. Die ausgefallene Arbeitszeit muss nicht nachgearbeitet werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Arbeitgeber muss die AHV-Beiträge jährlich abrechnen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Arbeitgeber ist verpflichtet, die AHV-Beiträge jährlich abzurechnen.",
+      "feedback_incorrect": "❌ Falsch. Der Arbeitgeber ist verpflichtet, die AHV-Beiträge jährlich abzurechnen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Monat muss der Arbeitgeber die AHV-Beiträge des Vorjahres abrechnen?</p>",
+      "options": [
+        {
+          "text": "Januar",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "März",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Abrechnung der AHV-Beiträge des Vorjahres muss bis Ende Januar erfolgen."
+        },
+        {
+          "text": "Juni",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Abrechnung der AHV-Beiträge des Vorjahres muss bis Ende Januar erfolgen."
+        },
+        {
+          "text": "Dezember",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Abrechnung der AHV-Beiträge des Vorjahres muss bis Ende Januar erfolgen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie kann man überprüfen, ob der Arbeitgeber die AHV-Beiträge einbezahlt hat?</p>",
+      "options": [
+        {
+          "text": "Man fragt beim Arbeitgeber nach.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Ausgleichskasse kann einen Auszug über die einbezahlten AHV-Beiträge erstellen."
+        },
+        {
+          "text": "Man kontaktiert das Betreibungsamt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Ausgleichskasse kann einen Auszug über die einbezahlten AHV-Beiträge erstellen."
+        },
+        {
+          "text": "Man verlangt einen Auszug von der Ausgleichskasse.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Man schaut im Arbeitsvertrag nach.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Ausgleichskasse kann einen Auszug über die einbezahlten AHV-Beiträge erstellen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wenn der Arbeitgeber den Lohn nicht zahlt, darf man fristlos kündigen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Bei anhaltendem Lohnausfall hat der Arbeitnehmer das Recht, fristlos zu kündigen.",
+      "feedback_incorrect": "❌ Falsch. Bei anhaltendem Lohnausfall hat der Arbeitnehmer das Recht, fristlos zu kündigen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Es ist ratsam, fristlos zu kündigen, sobald der erste Lohn ausbleibt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Eine fristlose Kündigung ist ein schwerwiegender Schritt und sollte gut überlegt sein. Es ist ratsam, erst andere Massnahmen zu ergreifen und sich rechtlich beraten zu lassen.",
+      "feedback_incorrect": "❌ Richtig. Eine fristlose Kündigung ist ein schwerwiegender Schritt und sollte gut überlegt sein. Es ist ratsam, erst andere Massnahmen zu ergreifen und sich rechtlich beraten zu lassen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welchen Rat gibt die Rechtsexpertin im Beitrag?</p>",
+      "options": [
+        {
+          "text": "Abwarten und dem Arbeitgeber vertrauen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine schriftliche Mahnung mit Fristsetzung ist der erste wichtige Schritt, um die Lohnforderung rechtlich abzusichern."
+        },
+        {
+          "text": "Sofort einen Anwalt einschalten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine schriftliche Mahnung mit Fristsetzung ist der erste wichtige Schritt, um die Lohnforderung rechtlich abzusichern."
+        },
+        {
+          "text": "Den Arbeitgeber schriftlich mahnen und eine Frist setzen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sich direkt an die Medien wenden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine schriftliche Mahnung mit Fristsetzung ist der erste wichtige Schritt, um die Lohnforderung rechtlich abzusichern."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo findet man weitere Informationen zum Thema Lohnausfall?</p>",
+      "options": [
+        {
+          "text": "Auf der Website des Bundesamts für Justiz.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag verweist auf einen Artikel auf srf.ch/espresso, der weitere Informationen zum Thema Lohnausfall bietet."
+        },
+        {
+          "text": "Im Arbeitsvertrag.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag verweist auf einen Artikel auf srf.ch/espresso, der weitere Informationen zum Thema Lohnausfall bietet."
+        },
+        {
+          "text": "Auf srf.ch/espresso.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Im Telefonbuch.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag verweist auf einen Artikel auf srf.ch/espresso, der weitere Informationen zum Thema Lohnausfall bietet."
+        }
+      ]
+    }
+  ]
+}

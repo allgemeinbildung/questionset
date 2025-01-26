@@ -1,0 +1,263 @@
+{
+  "title": "Parkplatz",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum kündigte der Vermieter Herrn Grüter den Parkplatz?</p>",
+      "options": [
+        {
+          "text": "Weil Herr Grüter die Miete nicht bezahlt hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass der Vermieter den Parkplatz wegen des Wohnwagens kündigte."
+        },
+        {
+          "text": "Weil Herr Grüter seinen Wohnwagen auf dem Parkplatz abstellt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Weil der Vermieter den Parkplatz selbst benötigt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass der Vermieter den Parkplatz wegen des Wohnwagens kündigte."
+        },
+        {
+          "text": "Weil Herr Grüter die Parkplatzordnung nicht eingehalten hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass der Vermieter den Parkplatz wegen des Wohnwagens kündigte."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist das Problem mit Herrn Grüters Wohnwagen?</p>",
+      "options": [
+        {
+          "text": "Er ist zu gross für den Parkplatz.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Herr Grüter kann den Wohnwagen nicht auf einen öffentlichen Platz stellen, weil er nicht eingelöst ist."
+        },
+        {
+          "text": "Er ist nicht eingelöst.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Er ist beschädigt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Herr Grüter kann den Wohnwagen nicht auf einen öffentlichen Platz stellen, weil er nicht eingelöst ist."
+        },
+        {
+          "text": "Er blockiert die Zufahrt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Herr Grüter kann den Wohnwagen nicht auf einen öffentlichen Platz stellen, weil er nicht eingelöst ist."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Vermieter darf den Parkplatz kündigen, obwohl Herr Grüter auch die Wohnung gemietet hat.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Gemäss der Rechtsexpertin gehören Wohnung und Parkplatz rechtlich zusammen, auch bei separaten Verträgen. Daher ist die Kündigung unzulässig.",
+      "feedback_incorrect": "❌ Richtig. Gemäss der Rechtsexpertin gehören Wohnung und Parkplatz rechtlich zusammen, auch bei separaten Verträgen. Daher ist die Kündigung unzulässig."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Herr Grüter sollte die Kündigung des Parkplatzes bei der Mietschlichtungsstelle anfechten.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Rechtsexpertin empfiehlt, die Kündigung anzufechten.",
+      "feedback_incorrect": "❌ Falsch. Die Rechtsexpertin empfiehlt, die Kündigung anzufechten."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte Herr Grüter idealerweise als Erstes tun?</p>",
+      "options": [
+        {
+          "text": "Den Wohnwagen verkaufen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin rät, zuerst ein Gespräch mit dem Vermieter zu suchen."
+        },
+        {
+          "text": "Einen Anwalt kontaktieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin rät, zuerst ein Gespräch mit dem Vermieter zu suchen."
+        },
+        {
+          "text": "Mit dem Vermieter sprechen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Den Wohnwagen auf der Strasse parkieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin rät, zuerst ein Gespräch mit dem Vermieter zu suchen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welchen Vergleich verwendet die Rechtsexpertin, um die rechtliche Situation zu erklären?</p>",
+      "options": [
+        {
+          "text": "Balkon",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin erwähnt den Garten als Beispiel für Zubehör, das rechtlich zur Wohnung gehört."
+        },
+        {
+          "text": "Keller",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin erwähnt den Garten als Beispiel für Zubehör, das rechtlich zur Wohnung gehört."
+        },
+        {
+          "text": "Garten",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Dachstock",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin erwähnt den Garten als Beispiel für Zubehör, das rechtlich zur Wohnung gehört."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist die Folge, wenn Herr Grüter den Wohnwagen nicht vom Parkplatz entfernt?</p>",
+      "options": [
+        {
+          "text": "Der Vermieter darf den Wohnwagen abschleppen lassen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Der Vermieter darf die Wohnung kündigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl der Parkplatz nicht gekündigt werden darf, darf der Vermieter Massnahmen ergreifen."
+        },
+        {
+          "text": "Der Vermieter darf die Miete erhöhen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl der Parkplatz nicht gekündigt werden darf, darf der Vermieter Massnahmen ergreifen."
+        },
+        {
+          "text": "Es gibt keine direkten Konsequenzen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl der Parkplatz nicht gekündigt werden darf, darf der Vermieter Massnahmen ergreifen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine Kündigung der Wohnung wegen des Parkplatzproblems wäre rechtmässig.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Eine solche Kündigung wäre unverhältnismässig und rechtsmissbräuchlich.",
+      "feedback_incorrect": "❌ Richtig. Eine solche Kündigung wäre unverhältnismässig und rechtsmissbräuchlich."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Herr Grüter muss sich keine Sorgen machen, da die Kündigung des Parkplatzes unzulässig ist.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Er sollte die Situation aktiv klären und die Kündigung anfechten.",
+      "feedback_incorrect": "❌ Richtig. Er sollte die Situation aktiv klären und die Kündigung anfechten."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo findet man weitere Informationen zum Thema Mietrecht?</p>",
+      "options": [
+        {
+          "text": "Auf der Website des Hauseigentümerverbands.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird auf ein Merkblatt auf srf.ch/espresso verwiesen."
+        },
+        {
+          "text": "Auf der Website von SRF Espresso.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Im Schweizerischen Zivilgesetzbuch.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird auf ein Merkblatt auf srf.ch/espresso verwiesen."
+        },
+        {
+          "text": "Beim zuständigen Gemeindeamt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird auf ein Merkblatt auf srf.ch/espresso verwiesen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Begriff beschreibt die rechtliche Bewertung der Kündigung?</p>",
+      "options": [
+        {
+          "text": "Unverhältnismässig",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Rechtswidrig",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin verwendet den Begriff 'unverhältnismässig'."
+        },
+        {
+          "text": "Ungültig",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin verwendet den Begriff 'unverhältnismässig'."
+        },
+        {
+          "text": "Nichtig",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin verwendet den Begriff 'unverhältnismässig'."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Name 'Egon Grüter' ist der richtige Name des Hörers.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Hörer möchte anonym bleiben und verwendet ein Pseudonym.",
+      "feedback_incorrect": "❌ Richtig. Der Hörer möchte anonym bleiben und verwendet ein Pseudonym."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Rechtsexpertin im Beitrag heisst Gabriela Baumgartner.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Sie wird im Beitrag namentlich genannt.",
+      "feedback_incorrect": "❌ Falsch. Sie wird im Beitrag namentlich genannt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Sendung \"Espresso\" behandelt regelmässig Rechtsfragen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Beitrag erwähnt die Rubrik \"Rechtsfrage\".",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag erwähnt die Rubrik \"Rechtsfrage\"."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Herr Grüter hat den Parkplatz gekündigt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Vermieter hat den Parkplatz gekündigt.",
+      "feedback_incorrect": "❌ Richtig. Der Vermieter hat den Parkplatz gekündigt."
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "title": "UnfallbeimEinkaufen",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum ist Irene Kieser im Laden gestürzt?</p>",
+      "options": [
+        {
+          "text": "Sie ist über eine herumliegende Einkaufstasche gestolpert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass Waschmittel aus einem Gestell ausgelaufen ist."
+        },
+        {
+          "text": "Sie ist auf ausgelaufenem Waschmittel ausgerutscht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie wurde von einem anderen Kunden angerempelt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass Waschmittel aus einem Gestell ausgelaufen ist."
+        },
+        {
+          "text": "Sie hatte einen Schwächeanfall.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass Waschmittel aus einem Gestell ausgelaufen ist."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer ist laut Beitrag für die Sicherheit im Laden verantwortlich?</p>",
+      "options": [
+        {
+          "text": "Die Kunden",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin erklärt, dass der Hausbesitzer/Mieter für die Sicherheit verantwortlich ist."
+        },
+        {
+          "text": "Der Hausbesitzer oder Mieter des Ladens",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Die Reinigungskraft",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin erklärt, dass der Hausbesitzer/Mieter für die Sicherheit verantwortlich ist."
+        },
+        {
+          "text": "Die Lieferanten der Produkte",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin erklärt, dass der Hausbesitzer/Mieter für die Sicherheit verantwortlich ist."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Irene Kieser ist über die Krankenkasse unfallversichert.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Sie ist Rentnerin und daher über die Krankenkasse unfallversichert.",
+      "feedback_incorrect": "❌ Falsch. Sie ist Rentnerin und daher über die Krankenkasse unfallversichert."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Rechtsexpertin rät Irene Kieser, sich direkt an die Haftpflichtversicherung des Ladens zu wenden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Sie rät ihr, zuerst den Filialleiter und dann die Geschäftsleitung zu kontaktieren.",
+      "feedback_incorrect": "❌ Richtig. Sie rät ihr, zuerst den Filialleiter und dann die Geschäftsleitung zu kontaktieren."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein \"Klassiker\" für Rutschunfälle laut Beitrag?</p>",
+      "options": [
+        {
+          "text": "Herumliegende Einkaufswagen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nasses Laub und Eis im Winter werden als \"Klassiker\" genannt."
+        },
+        {
+          "text": "Nasses Laub im Herbst",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Schlecht beleuchtete Gänge",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nasses Laub und Eis im Winter werden als \"Klassiker\" genannt."
+        },
+        {
+          "text": "Zu enge Regale",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nasses Laub und Eis im Winter werden als \"Klassiker\" genannt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welchen Rat gibt die Rechtsexpertin im Beitrag?</p>",
+      "options": [
+        {
+          "text": "Den Vorfall der Polizei melden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Filialleiter und gegebenenfalls die Geschäftsleitung sollen kontaktiert werden."
+        },
+        {
+          "text": "Einen Anwalt einschalten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Filialleiter und gegebenenfalls die Geschäftsleitung sollen kontaktiert werden."
+        },
+        {
+          "text": "Den Filialleiter schriftlich kontaktieren.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Eine Anzeige in der Zeitung schalten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Filialleiter und gegebenenfalls die Geschäftsleitung sollen kontaktiert werden."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Sturz auf nassem Laub im Wald wird im Beitrag als allgemeines Risiko bewertet.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Im Beitrag wird erklärt, dass man bei Regen mit nassem Laub rechnen muss.",
+      "feedback_incorrect": "❌ Falsch. Im Beitrag wird erklärt, dass man bei Regen mit nassem Laub rechnen muss."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Irene Kieser muss keine Franchise und keinen Selbstbehalt bezahlen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Da sie über die Krankenkasse versichert ist, muss sie diese Kosten tragen.",
+      "feedback_incorrect": "❌ Richtig. Da sie über die Krankenkasse versichert ist, muss sie diese Kosten tragen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist die zentrale Frage im Beitrag?</p>",
+      "options": [
+        {
+          "text": "Wie kann man Unfälle im Laden vermeiden?",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag dreht sich um die Frage der Haftung bei einem Unfall im Laden."
+        },
+        {
+          "text": "Wer haftet bei einem Unfall im Laden?",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Welche Versicherung zahlt bei einem Unfall im Laden?",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag dreht sich um die Frage der Haftung bei einem Unfall im Laden."
+        },
+        {
+          "text": "Wie verhält man sich nach einem Unfall im Laden?",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag dreht sich um die Frage der Haftung bei einem Unfall im Laden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo findet Irene Kieser weitere Informationen zu ähnlichen Fällen?</p>",
+      "options": [
+        {
+          "text": "Im Kassensturz-Magazin",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Am Ende des Beitrags wird auf srf.ch/espresso verwiesen."
+        },
+        {
+          "text": "Auf srf.ch/espresso",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "In der Zeitung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Am Ende des Beitrags wird auf srf.ch/espresso verwiesen."
+        },
+        {
+          "text": "Beim Konsumentenschutz",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Am Ende des Beitrags wird auf srf.ch/espresso verwiesen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Filialleiter des Ladens hat sofort die Verantwortung für den Unfall übernommen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Filialleiter argumentierte, er habe keine Sorgfaltspflichten verletzt.",
+      "feedback_incorrect": "❌ Richtig. Der Filialleiter argumentierte, er habe keine Sorgfaltspflichten verletzt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Espresso-Rechtsexpertin hatte selbst kürzlich einen Unfall.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Sie erwähnt, dass sie sich vor einem Jahr den Arm gebrochen hat.",
+      "feedback_incorrect": "❌ Falsch. Sie erwähnt, dass sie sich vor einem Jahr den Arm gebrochen hat."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was war der Grund für die Verletzung von Irene Kieser?</p>",
+      "options": [
+        {
+          "text": "Sie hat sich den Fuss verstaucht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass sie sich die Knäuse gebrochen hat."
+        },
+        {
+          "text": "Sie hat sich die Kniescheibe gebrochen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Sie hat sich eine Gehirnerschütterung zugezogen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass sie sich die Knäuse gebrochen hat."
+        },
+        {
+          "text": "Sie hat sich den Arm gebrochen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass sie sich die Knäuse gebrochen hat."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Kanton lebt Irene Kieser?</p>",
+      "options": [
+        {
+          "text": "St. Gallen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Zürich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sie lebt in Ebnat-Kappel im Kanton St. Gallen."
+        },
+        {
+          "text": "Bern",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sie lebt in Ebnat-Kappel im Kanton St. Gallen."
+        },
+        {
+          "text": "Thurgau",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sie lebt in Ebnat-Kappel im Kanton St. Gallen."
+        }
+      ]
+    }
+  ]
+}

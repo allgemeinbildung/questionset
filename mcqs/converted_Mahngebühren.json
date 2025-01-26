@@ -1,0 +1,236 @@
+{
+  "title": "Mahngebühren",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was hat Herr Mauchli bestellt?</p>",
+      "options": [
+        {
+          "text": "Kleider",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass Herr Mauchli wiederaufladbare Batterien bestellt hat."
+        },
+        {
+          "text": "Batterien",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Einen Laptop",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass Herr Mauchli wiederaufladbare Batterien bestellt hat."
+        },
+        {
+          "text": "Bücher",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass Herr Mauchli wiederaufladbare Batterien bestellt hat."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie hat der Online-Shop die Rechnung verschickt?</p>",
+      "options": [
+        {
+          "text": "Per Post",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wird explizit erwähnt, dass der Online-Shop Rechnungen per E-Mail verschickt."
+        },
+        {
+          "text": "Per E-Mail",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Per SMS",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wird explizit erwähnt, dass der Online-Shop Rechnungen per E-Mail verschickt."
+        },
+        {
+          "text": "Per Fax",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wird explizit erwähnt, dass der Online-Shop Rechnungen per E-Mail verschickt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Herr Mauchli hat die Mahngebühren bezahlt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Herr Mauchli hat die Mahngebühren reklamiert und die Rechtsexpertin bestätigt, dass er sie nicht bezahlen muss.",
+      "feedback_incorrect": "❌ Richtig. Herr Mauchli hat die Mahngebühren reklamiert und die Rechtsexpertin bestätigt, dass er sie nicht bezahlen muss."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine Lesebestätigung reicht als Beweis für den Empfang einer E-Mail vor Gericht.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Das Bundesgericht hat entschieden, dass eine Lesebestätigung nicht als Beweis ausreicht.",
+      "feedback_incorrect": "❌ Richtig. Das Bundesgericht hat entschieden, dass eine Lesebestätigung nicht als Beweis ausreicht."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer trägt das Risiko, wenn eine E-Mail nicht ankommt?</p>",
+      "options": [
+        {
+          "text": "Der Empfänger",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Absender trägt das Risiko, dass die E-Mail nicht ankommt, wie im Beitrag erklärt wird."
+        },
+        {
+          "text": "Der Absender",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Der E-Mail-Provider",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Absender trägt das Risiko, dass die E-Mail nicht ankommt, wie im Beitrag erklärt wird."
+        },
+        {
+          "text": "Niemand",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Absender trägt das Risiko, dass die E-Mail nicht ankommt, wie im Beitrag erklärt wird."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte man tun, wenn man wichtige Dokumente per E-Mail verschickt?</p>",
+      "options": [
+        {
+          "text": "Abwarten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dies ist die Empfehlung der Rechtsexpertin, um sicherzustellen, dass wichtige E-Mails angekommen sind."
+        },
+        {
+          "text": "Eine Lesebestätigung anfordern",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dies ist die Empfehlung der Rechtsexpertin, um sicherzustellen, dass wichtige E-Mails angekommen sind."
+        },
+        {
+          "text": "Nachfragen oder sich den Empfang bestätigen lassen",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Den E-Mail-Provider kontaktieren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dies ist die Empfehlung der Rechtsexpertin, um sicherzustellen, dass wichtige E-Mails angekommen sind."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Online-Shop hat einen guten Kundenservice bewiesen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Online-Shop hat direkt Mahngebühren verschickt, ohne die Reklamation des Kunden zu prüfen, was kein guter Kundenservice ist.",
+      "feedback_incorrect": "❌ Richtig. Der Online-Shop hat direkt Mahngebühren verschickt, ohne die Reklamation des Kunden zu prüfen, was kein guter Kundenservice ist."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Mahngebühren sind immer gerechtfertigt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Mahngebühren sind nur gerechtfertigt, wenn der Kunde die Rechnung auch erhalten hat.",
+      "feedback_incorrect": "❌ Richtig. Mahngebühren sind nur gerechtfertigt, wenn der Kunde die Rechnung auch erhalten hat."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Monat hat Herr Mauchli die Batterien bestellt?</p>",
+      "options": [
+        {
+          "text": "Januar",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass die Bestellung im Dezember stattfand."
+        },
+        {
+          "text": "Februar",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass die Bestellung im Dezember stattfand."
+        },
+        {
+          "text": "März",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass die Bestellung im Dezember stattfand."
+        },
+        {
+          "text": "Dezember",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Sender hat über den Fall berichtet?</p>",
+      "options": [
+        {
+          "text": "Kassensturz",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag stammt von der Sendung \"Espresso\"."
+        },
+        {
+          "text": "Espresso",
+          "is_correct": true,
+          "feedback": "✅ Richtig!"
+        },
+        {
+          "text": "Tagesschau",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag stammt von der Sendung \"Espresso\"."
+        },
+        {
+          "text": "10vor10",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag stammt von der Sendung \"Espresso\"."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Lieferun der Batterien hat geklappt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Es wird erwähnt, dass die Lieferung der Batterien tipptopp geklappt hat.",
+      "feedback_incorrect": "❌ Falsch. Es wird erwähnt, dass die Lieferung der Batterien tipptopp geklappt hat."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Herr Mauchli hat zuerst eine Rechnung und dann eine Mahnung erhalten.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Herr Mauchli hat keine Rechnung, sondern direkt eine Mahnung erhalten.",
+      "feedback_incorrect": "❌ Richtig. Herr Mauchli hat keine Rechnung, sondern direkt eine Mahnung erhalten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Online-Shop muss beweisen können, dass Herr Mauchli die Rechnung erhalten hat.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Online-Shop muss den Empfang der Rechnung beweisen können, um Mahngebühren rechtfertigen zu können.",
+      "feedback_incorrect": "❌ Falsch. Der Online-Shop muss den Empfang der Rechnung beweisen können, um Mahngebühren rechtfertigen zu können."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Herr Mauchli wohnt in Zürich.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Herr Mauchli wohnt in St. Gallen.",
+      "feedback_incorrect": "❌ Richtig. Herr Mauchli wohnt in St. Gallen."
+    }
+  ]
+}
