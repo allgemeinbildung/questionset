@@ -280,7 +280,7 @@ async function initializeQuiz() {
         
         // Handle quiz media
         const quizMedia = document.getElementById('quizMedia');
-        if (data.media) {
+        if (data.media && data.media.type && data.media.url) { // Erweiterte Bedingung
             console.log('Medientyp gefunden:', data.media.type);
             if (data.media.type === 'youtube') {
                 quizMedia.innerHTML = `
@@ -297,10 +297,13 @@ async function initializeQuiz() {
                         Your browser does not support the audio element.
                     </audio>`;
                 console.log('Audio eingebettet');
+            } else {
+                quizMedia.innerHTML = ''; // Falls ein unbekannter Medientyp angegeben ist
+                console.warn('Unbekannter Medientyp angegeben.');
             }
         } else {
-            quizMedia.innerHTML = '';
-            console.log('Keine Medien gefunden');
+            quizMedia.innerHTML = ''; // Entfernt Medien, wenn keine vorhanden sind
+            console.log('Keine gültigen Medieninformationen gefunden');
         }
 
         questions = shuffleArray(data.questions).slice(0, 7);
