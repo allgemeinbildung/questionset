@@ -18,6 +18,23 @@
             padding: 50px 20px;
         }
 
+        /* Add to the existing CSS */
+        .title-image {
+            max-width: 400px;
+            margin: 0 auto 20px;
+            display: block;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+
+        #startScreen h1 {
+            margin-top: 15px;
+        }
+
+        #startBtn {
+            margin-top: 20px;
+        }
+
         #quizContainer {
             display: none;
             position: relative;
@@ -188,6 +205,7 @@
 </head>
 <body>
     <div id="startScreen">
+        <img src="/images/img1.jpg" alt="Quiz Header Image" class="title-image">
         <h1 id="quizTitle"></h1>
         <button id="startBtn" onclick="startQuiz()">Quiz starten</button>
     </div>
@@ -289,6 +307,9 @@ function handleMCAnswer(selectedOption, question) {
         feedback: selectedOption.feedback
     };
 
+    // Add this line to update score
+    if (selectedOption.is_correct) score++;
+
     // Highlight correct answer
     const correctIndex = question.options.findIndex(opt => opt.is_correct);
     options[correctIndex].classList.add('correct');
@@ -312,6 +333,9 @@ function handleTFAnswer(selectedValue, question) {
         correct: isCorrect,
         feedback: isCorrect ? question.feedback_correct : question.feedback_incorrect
     };
+
+    // Add this line to update score
+    if (isCorrect) score++;
 
     // Highlight correct answer
     const correctAnswerIndex = question.correct_answer ? 0 : 1;
