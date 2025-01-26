@@ -271,7 +271,7 @@ async function initializeQuiz() {
     console.log(`Lade Quiz für Assignment ID: ${assignmentId}`);
     
     try {
-        const response = await fetch(`https://aburossi.github.io/html/MC/mcqs/${encodeURIComponent(assignmentId)}.json`);
+        const response = await fetch(`mcqs/${encodeURIComponent(assignmentId)}.json`); // Relativer Pfad
         if (!response.ok) {
             throw new Error(`HTTP-Fehler! Status: ${response.status}`);
         }
@@ -312,6 +312,7 @@ async function initializeQuiz() {
         alert('Quiz konnte nicht geladen werden');
     }
 }
+
 
 
 function startQuiz() {
