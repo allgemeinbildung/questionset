@@ -331,6 +331,8 @@ function showFeedback(feedbackText) {
     feedback.innerHTML = feedbackText;
     feedback.style.display = 'block';
     
+    // Fix: Define options within this function scope
+    const options = Array.from(document.getElementsByClassName('option'));
     options.forEach(opt => opt.style.pointerEvents = 'none');
     document.getElementById('nextBtn').style.display = 'block';
 }
