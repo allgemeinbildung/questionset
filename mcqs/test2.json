@@ -1,0 +1,69 @@
+{
+  "title": "Umweltverantwortungsinitiative Quiz",
+  "media": {
+      "type": "youtube",
+      "url": "https://www.youtube.com/embed/ewyYa_flNcM"
+  },
+  "questions": [
+      {
+          "type": "MultipleChoice",
+          "bloom_level": "Erinnern",
+          "question": "<p>Was fordert die Umweltverantwortungsinitiative?</p>",
+          "options": [
+              {
+                  "text": "Dass die Schweiz keine Ressourcen mehr nutzt.",
+                  "is_correct": false,
+                  "feedback": "❌ Falsch. Die Initiative fordert, dass die Schweiz die Umwelt nur soweit belastet, wie die Natur sich erholen kann."
+              },
+              {
+                  "text": "Dass die Schweiz die Umweltbelastung auf ein erholbares Maß reduziert.",
+                  "is_correct": true,
+                  "feedback": "✅ Richtig! Die Initiative fordert, dass die Belastung der Umwelt die Erneuerungsfähigkeit der Natur nicht überschreitet."
+              },
+              {
+                  "text": "Dass die Schweiz keine wirtschaftlichen Einschränkungen vornimmt.",
+                  "is_correct": false,
+                  "feedback": "❌ Falsch. Die Initiative würde wirtschaftliche Einschränkungen erfordern, um die Umweltbelastung zu reduzieren."
+              }
+          ]
+      },
+      {
+          "type": "MultipleChoice",
+          "bloom_level": "Verstehen",
+          "question": "<p>Wie will das Komitee sicherstellen, dass die Maßnahmen sozialverträglich sind?</p>",
+          "options": [
+              {
+                  "text": "Durch Vorschriften, Verbote und Anreize, die sozialverträglich gestaltet werden.",
+                  "is_correct": true,
+                  "feedback": "✅ Richtig! Die Initiative verlangt sozialverträgliche Vorschriften, Verbote und Anreize, auch im Ausland."
+              },
+              {
+                  "text": "Durch vollständige Vermeidung von Vorschriften und Verboten.",
+                  "is_correct": false,
+                  "feedback": "❌ Falsch. Die Initiative sieht Vorschriften und Verbote vor, jedoch sozialverträglich."
+              },
+              {
+                  "text": "Durch finanzielle Subventionen für Großunternehmen.",
+                  "is_correct": false,
+                  "feedback": "❌ Falsch. Subventionen für Großunternehmen werden nicht als Maßnahme vorgeschlagen."
+              }
+          ]
+      },
+      {
+          "type": "TrueFalse",
+          "bloom_level": "Erinnern",
+          "question": "<p>Die Umweltverantwortungsinitiative fordert, dass die Schweiz die Belastbarkeitsgrenzen einhält.</p>",
+          "correct_answer": true,
+          "feedback_correct": "Richtig! Die Initiative fordert, dass die Schweiz die Umweltbelastung auf ein erträgliches Maß begrenzt.",
+          "feedback_incorrect": "Falsch. Das Ziel der Initiative ist es, die planetaren Belastbarkeitsgrenzen einzuhalten."
+      },
+      {
+          "type": "TrueFalse",
+          "bloom_level": "Erinnern",
+          "question": "<p>Die Frist zur Umsetzung der Umweltverantwortungsinitiative beträgt 20 Jahre.</p>",
+          "correct_answer": false,
+          "feedback_correct": "Richtig! Die Frist beträgt 10 Jahre, nicht 20 Jahre.",
+          "feedback_incorrect": "Falsch. Die Initiative gibt eine Frist von 10 Jahren vor."
+      }
+  ]
+}

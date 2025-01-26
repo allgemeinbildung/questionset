@@ -18,7 +18,6 @@
             padding: 50px 20px;
         }
 
-        /* Add to the existing CSS */
         .title-image {
             max-width: 400px;
             margin: 0 auto 20px;
@@ -33,12 +32,36 @@
 
         #startBtn {
             margin-top: 20px;
+            background: #4CAF50;
+            color: white;
+            padding: 12px 25px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: all 0.3s ease;
         }
 
         #quizContainer {
             display: none;
             position: relative;
             overflow: hidden;
+        }
+
+        #quizMedia {
+            margin: 0 auto 20px;
+            max-width: 600px;
+        }
+
+        #quizMedia iframe {
+            width: 100%;
+            height: 340px;
+            border: none;
+            border-radius: 8px;
+        }
+
+        #quizMedia audio {
+            width: 100%;
         }
 
         .progress {
@@ -91,7 +114,10 @@
             border: 2px solid #90caf9;
         }
 
-        button {
+        #nextBtn {
+            background: #2196F3;
+            color: white;
+            display: none;
             padding: 12px 25px;
             margin: 20px 0;
             border: none;
@@ -99,17 +125,6 @@
             cursor: pointer;
             font-size: 16px;
             transition: all 0.3s ease;
-        }
-
-        #startBtn {
-            background: #4CAF50;
-            color: white;
-        }
-
-        #nextBtn {
-            background: #2196F3;
-            color: white;
-            display: none;
         }
 
         .results {
@@ -211,6 +226,7 @@
     </div>
 
     <div id="quizContainer">
+        <div id="quizMedia"></div>
         <div class="progress">Frage <span id="current">1</span> von <span id="total">7</span></div>
         
         <div class="question-container">
@@ -256,8 +272,30 @@ async function initializeQuiz() {
     try {
         const response = await fetch(`https://aburossi.github.io/html/MC/mcqs/${encodeURIComponent(assignmentId)}.json`);
         const data = await response.json();
+
+        // Handle quiz media
+        const quizMedia = document.getElementById('quizMedia');
+        if (data.media) {
+            if (data.media.type === 'youtube') {
+                quizMedia.innerHTML = `
+                    <iframe src="${data.media.url}" 
+                            frameborder="0" 
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+                            allowfullscreen>
+                    </iframe>`;
+            } else if (data.media.type === 'mp3') {
+                quizMedia.innerHTML = `
+                    <audio controls>
+                        <source src="${data.media.url}" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>`;
+            }
+        } else {
+            quizMedia.innerHTML = '';
+        }
+
         questions = shuffleArray(data.questions).slice(0, 7);
-        quizTitle = assignmentId.replace(/-/g, ' ');
+        quizTitle = data.title || assignmentId.replace(/-/g, ' ');
         document.getElementById('quizTitle').textContent = quizTitle;
     } catch (error) {
         console.error('Fehler beim Laden der Fragen:', error);
@@ -307,14 +345,11 @@ function handleMCAnswer(selectedOption, question) {
         feedback: selectedOption.feedback
     };
 
-    // Add this line to update score
     if (selectedOption.is_correct) score++;
 
-    // Highlight correct answer
     const correctIndex = question.options.findIndex(opt => opt.is_correct);
     options[correctIndex].classList.add('correct');
 
-    // Highlight incorrect if needed
     if (!selectedOption.is_correct) {
         const selectedIndex = question.options.indexOf(selectedOption);
         options[selectedIndex].classList.add('incorrect');
@@ -334,14 +369,11 @@ function handleTFAnswer(selectedValue, question) {
         feedback: isCorrect ? question.feedback_correct : question.feedback_incorrect
     };
 
-    // Add this line to update score
     if (isCorrect) score++;
 
-    // Highlight correct answer
     const correctAnswerIndex = question.correct_answer ? 0 : 1;
     options[correctAnswerIndex].classList.add('correct');
 
-    // Highlight incorrect if needed
     if (!isCorrect) {
         const selectedIndex = selectedValue ? 0 : 1;
         options[selectedIndex].classList.add('incorrect');
@@ -355,7 +387,6 @@ function showFeedback(feedbackText) {
     feedback.innerHTML = feedbackText;
     feedback.style.display = 'block';
     
-    // Fix: Define options within this function scope
     const options = Array.from(document.getElementsByClassName('option'));
     options.forEach(opt => opt.style.pointerEvents = 'none');
     document.getElementById('nextBtn').style.display = 'block';
