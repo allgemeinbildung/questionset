@@ -260,6 +260,27 @@
             gap: 10px; /* Abstand zwischen den Buttons */
             margin-top: 20px; /* Abstand oben */
         }
+        @media print {
+            /* Verstecke alle Elemente außer dem Ergebniscontainer */
+            body * {
+                visibility: hidden;
+            }
+            #resultContainer, #resultContainer * {
+                visibility: visible;
+            }
+            /* Positioniere den Ergebniscontainer oben links */
+            #resultContainer {
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: 100%;
+            }
+            /* Verstecke den Print-Button im Druck */
+            button[onclick="printResults()"] {
+                display: none;
+            }
+        }
+
     </style>
 </head>
 <body>
@@ -300,6 +321,8 @@
             <p id="scoreText"></p>
             <p id="resultMessage"></p>
             <button onclick="location.reload()">Neues Quiz</button>
+            <button onclick="printResults()" style="margin-left: 10px;">Drucken</button>
+
             <div id="reviewSection"></div>
         </div>
     </div>
@@ -694,10 +717,16 @@ function shuffleArray(array) {
     return array;
 }
 
+// Funktion zum Drucken der Ergebnisse
+function printResults() {
+    window.print();
+}
+
 // Initialisieren des Quiz beim Laden der Seite
 document.addEventListener('DOMContentLoaded', function() {
     initializeQuiz();
 });
+</script>
 </script>
 </body>
 </html>
