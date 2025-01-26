@@ -133,12 +133,13 @@
             background: #2196F3;
             color: white;
             padding: 12px 25px;
-            margin: 20px 5px 0 0;
             border: none;
             border-radius: 5px;
             cursor: pointer;
             font-size: 16px;
             transition: all 0.3s ease;
+            /* Entferne die margin-Eigenschaft */
+            margin: 0;
         }
 
         #prevBtn {
@@ -248,9 +249,12 @@
             display: none;
         }
 
-        /* Anpassung für Button-Container */
+        /* Anpassung für Button-Container mit Flexbox */
         .button-container {
-            text-align: center;
+            display: flex;
+            justify-content: center;
+            gap: 10px; /* Abstand zwischen den Buttons */
+            margin-top: 20px; /* Abstand oben */
         }
     </style>
 </head>
@@ -376,7 +380,6 @@ async function initializeQuiz() {
     }
 }
 
-
 function startQuiz() {
     document.getElementById('startScreen').style.display = 'none';
     document.getElementById('quizContainer').style.display = 'block';
@@ -411,8 +414,9 @@ function showQuestion(index) {
             optionDiv.textContent = answer;
             optionDiv.onclick = () => handleTFAnswer(answer === 'Wahr', question);
             // Überprüfen, ob der Benutzer diese Option bereits ausgewählt hat
-            if (userResponses[index] && (userResponses[index].selected === 'Wahr' && answer === 'Wahr') ||
-                (userResponses[index].selected === 'Falsch' && answer === 'Falsch')) {
+            if (userResponses[index] && 
+                ((userResponses[index].selected === 'Wahr' && answer === 'Wahr') ||
+                 (userResponses[index].selected === 'Falsch' && answer === 'Falsch'))) {
                 optionDiv.classList.add(userResponses[index].correct ? 'correct' : 'incorrect');
                 optionDiv.style.pointerEvents = 'none';
             }
