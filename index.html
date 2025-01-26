@@ -108,6 +108,11 @@
             background: #f0f0f0;
         }
 
+        .selected {
+            border-color: #2196F3;
+            background: #e3f2fd;
+        }
+
         .correct {
             background: #e8f5e9 !important;
             border-color: #4CAF50 !important;
@@ -276,7 +281,7 @@
         </div>
 
         <div class="button-container">
-            <button id="prevBtn" onclick="prevQuestion()" disabled>Zurück</button>
+            <button id="prevBtn" onclick="prevQuestion()">Zurück</button>
             <button id="nextBtn" onclick="nextQuestion()">Weiter</button>
         </div>
     </div>
@@ -306,9 +311,7 @@ let questions = [];
 let quizTitle = "";
 let userResponses = [];
 
-// Neue Variable zur Nachverfolgung des vorherigen Scores
-let previousScore = 0;
-
+// Funktion zur Initialisierung des Quiz
 async function initializeQuiz() {
     const params = new URLSearchParams(window.location.search);
     const assignmentId = params.get('assignmentId') || 'default';
@@ -339,7 +342,7 @@ async function initializeQuiz() {
                 quizMedia.innerHTML = `
                     <audio controls>
                         <source src="${data.media.url}" type="audio/mpeg">
-                        Your browser does not support the audio element.
+                        Ihr Browser unterstützt das Audioelement nicht.
                     </audio>`;
                 console.log('Audio eingebettet');
             } else {
@@ -368,7 +371,7 @@ async function initializeQuiz() {
             throw new Error('Keine Fragen im Quiz gefunden.');
         }
 
-        questions = shuffleArray(data.questions).slice(0, 7);
+        questions = shuffleArray(data.questions).slice(0, 7); // Begrenzung auf 7 Fragen
         quizTitle = data.title || assignmentId.replace(/-/g, ' ');
         document.getElementById('quizTitle').textContent = quizTitle;
         console.log('Quiz-Titel gesetzt:', quizTitle);
@@ -379,14 +382,17 @@ async function initializeQuiz() {
     }
 }
 
+// Start des Quiz
 function startQuiz() {
     document.getElementById('startScreen').style.display = 'none';
     document.getElementById('quizContainer').style.display = 'block';
     showQuestion(currentQuestion);
     updateProgress();
     updatePrevButton();
+    updateNextButton(); // Button-Text initialisieren
 }
 
+// Anzeigen einer Frage
 function showQuestion(index) {
     const question = questions[index];
     document.getElementById('questionText').innerHTML = question.question;
@@ -394,169 +400,182 @@ function showQuestion(index) {
     optionsContainer.innerHTML = '';
 
     if (question.type === "MultipleChoice") {
-        question.options.forEach(option => {
+        question.options.forEach((option, optIndex) => {
             const optionDiv = document.createElement('div');
             optionDiv.className = 'option';
             optionDiv.innerHTML = option.text;
             optionDiv.onclick = () => handleMCAnswer(option, question);
+            
             // Überprüfen, ob der Benutzer diese Option bereits ausgewählt hat
             if (userResponses[index] && userResponses[index].selected === option.text) {
                 optionDiv.classList.add(userResponses[index].correct ? 'correct' : 'incorrect');
-                optionDiv.style.pointerEvents = 'none';
+                optionDiv.classList.add('selected');
             }
             optionsContainer.appendChild(optionDiv);
         });
     } else if (question.type === "TrueFalse") {
-        ['Wahr', 'Falsch'].forEach(answer => {
+        ['Wahr', 'Falsch'].forEach((answer, optIndex) => {
             const optionDiv = document.createElement('div');
             optionDiv.className = 'option';
             optionDiv.textContent = answer;
             optionDiv.onclick = () => handleTFAnswer(answer === 'Wahr', question);
+            
             // Überprüfen, ob der Benutzer diese Option bereits ausgewählt hat
             if (userResponses[index] && 
                 ((userResponses[index].selected === 'Wahr' && answer === 'Wahr') ||
                  (userResponses[index].selected === 'Falsch' && answer === 'Falsch'))) {
                 optionDiv.classList.add(userResponses[index].correct ? 'correct' : 'incorrect');
-                optionDiv.style.pointerEvents = 'none';
+                optionDiv.classList.add('selected');
             }
             optionsContainer.appendChild(optionDiv);
         });
     }
 
-    // Wenn die Frage bereits beantwortet wurde, zeige das Feedback und den 'Weiter' Button
+    // Zeige Feedback, wenn die Frage bereits beantwortet wurde
     if (userResponses[index]) {
         showFeedback(userResponses[index].feedback);
-        document.getElementById('nextBtn').style.display = 'block';
     } else {
         hideFeedback();
     }
 }
 
+// Behandeln der Multiple-Choice-Antwort
 function handleMCAnswer(selectedOption, question) {
-    const options = Array.from(document.getElementsByClassName('option'));
+    const index = currentQuestion;
+    const previousResponse = userResponses[index];
     
-    // Überprüfen, ob die Frage bereits beantwortet wurde
-    if (userResponses[currentQuestion]) {
-        // Bereits beantwortet, keine Änderungen zulassen
-        return;
+    // Wenn die Frage bereits beantwortet wurde, aktualisiere den Score
+    if (previousResponse) {
+        if (previousResponse.correct) {
+            score--;
+        }
     }
 
-    userResponses[currentQuestion] = {
+    // Speichern der neuen Antwort
+    userResponses[index] = {
         question: question.question,
         selected: selectedOption.text,
         correct: selectedOption.is_correct,
         feedback: selectedOption.feedback
     };
 
+    // Aktualisieren des Scores
     if (selectedOption.is_correct) {
         score++;
     }
 
-    const correctIndex = question.options.findIndex(opt => opt.is_correct);
-    options[correctIndex].classList.add('correct');
-
-    if (!selectedOption.is_correct) {
-        const selectedIndex = question.options.indexOf(selectedOption);
-        options[selectedIndex].classList.add('incorrect');
-    }
-
+    // Aktualisieren der UI
+    updateOptionsUI(question);
     showFeedback(selectedOption.feedback);
     updateNextButton();
-    updatePrevButton();
 }
 
+// Behandeln der True/False-Antwort
 function handleTFAnswer(selectedValue, question) {
-    const options = Array.from(document.getElementsByClassName('option'));
-    const isCorrect = selectedValue === question.correct_answer;
+    const index = currentQuestion;
+    const previousResponse = userResponses[index];
     
-    // Überprüfen, ob die Frage bereits beantwortet wurde
-    if (userResponses[currentQuestion]) {
-        // Bereits beantwortet, keine Änderungen zulassen
-        return;
+    // Wenn die Frage bereits beantwortet wurde, aktualisiere den Score
+    if (previousResponse) {
+        if (previousResponse.correct) {
+            score--;
+        }
     }
 
-    userResponses[currentQuestion] = {
+    // Speichern der neuen Antwort
+    userResponses[index] = {
         question: question.question,
         selected: selectedValue ? 'Wahr' : 'Falsch',
-        correct: isCorrect,
-        feedback: isCorrect ? question.feedback_correct : question.feedback_incorrect
+        correct: selectedValue === question.correct_answer,
+        feedback: selectedValue === question.correct_answer ? question.feedback_correct : question.feedback_incorrect
     };
 
-    if (isCorrect) {
+    // Aktualisieren des Scores
+    if (userResponses[index].correct) {
         score++;
     }
 
-    const correctAnswerIndex = question.correct_answer ? 0 : 1;
-    options[correctAnswerIndex].classList.add('correct');
-
-    if (!isCorrect) {
-        const selectedIndex = selectedValue ? 0 : 1;
-        options[selectedIndex].classList.add('incorrect');
-    }
-
-    showFeedback(isCorrect ? question.feedback_correct : question.feedback_incorrect);
+    // Aktualisieren der UI
+    updateOptionsUI(question);
+    showFeedback(userResponses[index].feedback);
     updateNextButton();
-    updatePrevButton();
 }
 
+// Aktualisieren der Optionen-UI
+function updateOptionsUI(question) {
+    const optionsContainer = document.getElementById('optionsContainer');
+    const optionDivs = Array.from(optionsContainer.getElementsByClassName('option'));
+
+    if (question.type === "MultipleChoice") {
+        question.options.forEach((option, optIndex) => {
+            const optionDiv = optionDivs[optIndex];
+            optionDiv.classList.remove('correct', 'incorrect', 'selected');
+            if (userResponses[currentQuestion].selected === option.text) {
+                optionDiv.classList.add(userResponses[currentQuestion].correct ? 'correct' : 'incorrect');
+                optionDiv.classList.add('selected');
+            }
+        });
+    } else if (question.type === "TrueFalse") {
+        ['Wahr', 'Falsch'].forEach((answer, optIndex) => {
+            const optionDiv = optionDivs[optIndex];
+            optionDiv.classList.remove('correct', 'incorrect', 'selected');
+            if (
+                (userResponses[currentQuestion].selected === 'Wahr' && answer === 'Wahr') ||
+                (userResponses[currentQuestion].selected === 'Falsch' && answer === 'Falsch')
+            ) {
+                optionDiv.classList.add(userResponses[currentQuestion].correct ? 'correct' : 'incorrect');
+                optionDiv.classList.add('selected');
+            }
+        });
+    }
+}
+
+// Zeigen des Feedbacks
 function showFeedback(feedbackText) {
     const feedback = document.getElementById('feedback');
     feedback.innerHTML = feedbackText;
     feedback.style.display = 'block';
-    
-    const options = Array.from(document.getElementsByClassName('option'));
-    options.forEach(opt => opt.style.pointerEvents = 'none');
-    document.getElementById('nextBtn').style.display = 'block';
 }
 
+// Verstecken des Feedbacks
 function hideFeedback() {
     const feedback = document.getElementById('feedback');
     feedback.innerHTML = '';
     feedback.style.display = 'none';
-    
-    const options = Array.from(document.getElementsByClassName('option'));
-    options.forEach(opt => opt.style.pointerEvents = 'auto');
-    document.getElementById('nextBtn').style.display = 'none';
 }
 
+// Navigieren zur nächsten Frage oder Auswerten
 function nextQuestion() {
     if (currentQuestion < questions.length - 1) {
         currentQuestion++;
         showQuestion(currentQuestion);
         updateProgress();
         updatePrevButton();
+        updateNextButton();
     } else {
-        const quizContainer = document.getElementById('quizContainer');
-        quizContainer.classList.add('slide-out');
-        
-        quizContainer.addEventListener('animationend', () => {
-            quizContainer.classList.add('hidden');
-            showResults();
-            document.getElementById('resultContainer').classList.remove('hidden');
-            document.getElementById('resultContainer').classList.add('slide-in');
-        }, {once: true});
+        // Letzte Frage: Ergebnisse anzeigen
+        showResults();
     }
 }
 
+// Navigieren zur vorherigen Frage
 function prevQuestion() {
     if (currentQuestion > 0) {
         currentQuestion--;
         showQuestion(currentQuestion);
         updateProgress();
         updatePrevButton();
+        updateNextButton();
     }
 }
 
-function resetQuestionState() {
-    hideFeedback();
-    document.getElementById('optionsContainer').innerHTML = '';
-}
-
+// Aktualisieren des Fortschrittsbalkens
 function updateProgress() {
     document.getElementById('current').textContent = currentQuestion + 1;
     document.getElementById('total').textContent = questions.length;
 }
 
+// Aktualisieren des "Zurück" Buttons
 function updatePrevButton() {
     const prevBtn = document.getElementById('prevBtn');
     if (currentQuestion > 0) {
@@ -566,11 +585,34 @@ function updatePrevButton() {
     }
 }
 
+// Aktualisieren des "Weiter" Buttons Text
 function updateNextButton() {
-    // Optional: Hier kannst du Logik hinzufügen, um den 'Weiter' Button zu aktualisieren
+    const nextBtn = document.getElementById('nextBtn');
+    if (currentQuestion === questions.length - 1) {
+        nextBtn.textContent = 'Auswerten';
+    } else {
+        nextBtn.textContent = 'Weiter';
+    }
 }
 
+// Anzeigen der Ergebnisse
 function showResults() {
+    // Blenden Sie den Medieniframe aus
+    document.getElementById('quizMedia').classList.add('hidden');
+    document.getElementById('mediaSource').classList.add('hidden');
+
+    // Blenden Sie den Quiz-Container aus
+    const quizContainer = document.getElementById('quizContainer');
+    quizContainer.classList.add('slide-out');
+
+    quizContainer.addEventListener('animationend', () => {
+        quizContainer.classList.add('hidden');
+        displayResults();
+    }, {once: true});
+}
+
+// Anzeigen der Ergebnisse im DOM
+function displayResults() {
     const percentage = (score / questions.length) * 100;
     const circumference = 2 * Math.PI * 15;
     const dashArray = `${(circumference * percentage) / 100} ${circumference}`;
@@ -596,8 +638,14 @@ function showResults() {
     
     document.getElementById('resultMessage').textContent = resultMessage;
     showReviewSection();
+
+    // Anzeigen des Ergebniscontainers mit Animation
+    const resultContainer = document.getElementById('resultContainer');
+    resultContainer.classList.remove('hidden');
+    resultContainer.classList.add('slide-in');
 }
 
+// Anzeigen des Überprüfungsabschnitts
 function showReviewSection() {
     const reviewSection = document.getElementById('reviewSection');
     reviewSection.innerHTML = '<h3>Antwort-Übersicht:</h3>';
@@ -615,6 +663,7 @@ function showReviewSection() {
     });
 }
 
+// Array shuffle Funktion
 function shuffleArray(array) {
     for (let i = array.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
@@ -623,6 +672,7 @@ function shuffleArray(array) {
     return array;
 }
 
+// Initialisieren des Quiz beim Laden der Seite
 document.addEventListener('DOMContentLoaded', function() {
     initializeQuiz();
 });
