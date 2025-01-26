@@ -311,6 +311,24 @@ let questions = [];
 let quizTitle = "";
 let userResponses = [];
 
+// Funktion zum Ersetzen von 'ß' durch 'ss' in allen Strings eines Objekts
+function replaceSharpS(obj) {
+    if (typeof obj === 'string') {
+        return obj.replace(/ß/g, 'ss');
+    } else if (Array.isArray(obj)) {
+        return obj.map(replaceSharpS);
+    } else if (typeof obj === 'object' && obj !== null) {
+        const newObj = {};
+        for (let key in obj) {
+            if (obj.hasOwnProperty(key)) {
+                newObj[key] = replaceSharpS(obj[key]);
+            }
+        }
+        return newObj;
+    }
+    return obj;
+}
+
 // Funktion zur Initialisierung des Quiz
 async function initializeQuiz() {
     const params = new URLSearchParams(window.location.search);
@@ -322,8 +340,12 @@ async function initializeQuiz() {
         if (!response.ok) {
             throw new Error(`HTTP-Fehler! Status: ${response.status}`);
         }
-        const data = await response.json();
+        let data = await response.json();
         console.log('Quiz-Daten geladen:', data);
+
+        // Ersetzen von 'ß' durch 'ss' in den JSON-Daten
+        data = replaceSharpS(data);
+        console.log('Bereinigte Quiz-Daten:', data);
         
         // Handle quiz media
         const quizMedia = document.getElementById('quizMedia');
@@ -597,7 +619,7 @@ function updateNextButton() {
 
 // Anzeigen der Ergebnisse
 function showResults() {
-    // Blenden Sie den Medieniframe aus
+    // Blenden Sie den Medieniframe und den 'Quelle' Link aus
     document.getElementById('quizMedia').classList.add('hidden');
     document.getElementById('mediaSource').classList.add('hidden');
 
