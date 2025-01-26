@@ -1,0 +1,278 @@
+{
+    "title": "Meta",
+    "media": {
+      "type": "mp3",
+      "url": "https://download-media.srf.ch/world/audio/Corona_kompakt_radio/2025/01/Corona_kompakt_radio_AUDI20250108_NR_0028_65babae55f174ce5ad56cc35b80fcb48.mp3"
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wer ist der Chef von Meta?</p>",
+        "options": [
+          {
+            "text": "Mark Zuckerberg",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Mark Zuckerberg ist der Chef von Meta, der Muttergesellschaft von Facebook, Instagram und WhatsApp."
+          },
+          {
+            "text": "Elon Musk",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Elon Musk ist der Chef von X (ehemals Twitter), nicht von Meta."
+          },
+          {
+            "text": "Jeff Bezos",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Jeff Bezos ist der Gründer von Amazon, nicht der Chef von Meta."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welches neue System will Meta anstelle von Fact-Checking einführen?</p>",
+        "options": [
+          {
+            "text": "Community Notes",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Meta plant, Community Notes einzuführen, um Fact-Checking zu ersetzen."
+          },
+          {
+            "text": "Content Verification",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Meta will auf Community Notes umsteigen, nicht auf ein System namens Content Verification."
+          },
+          {
+            "text": "Trust Index",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Meta hat keinen sogenannten Trust Index angekündigt, sondern Community Notes."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Kritik äußerte Mark Zuckerberg an den Fact-Checkern?</p>",
+        "options": [
+          {
+            "text": "Sie seien politisch voreingenommen.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Zuckerberg kritisierte, dass Fact-Checker politisch voreingenommen seien und das Vertrauen in die Plattformen geschädigt hätten."
+          },
+          {
+            "text": "Sie seien zu langsam.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Zuckerberg kritisierte nicht die Geschwindigkeit, sondern die angebliche politische Voreingenommenheit der Fact-Checker."
+          },
+          {
+            "text": "Sie seien technisch nicht kompetent.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Technische Kompetenz war nicht der Kritikpunkt von Zuckerberg."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Seit wann arbeitet Correctiv mit Meta zusammen?</p>",
+        "options": [
+          {
+            "text": "Seit 2017",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Correctiv arbeitet seit 2017 mit Meta zusammen, um Desinformationen zu bekämpfen."
+          },
+          {
+            "text": "Seit 2015",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Zusammenarbeit zwischen Correctiv und Meta begann 2017, nicht 2015."
+          },
+          {
+            "text": "Seit 2020",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Correctiv arbeitet bereits seit 2017 mit Meta zusammen, also länger als seit 2020."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welcher Politiker wird in der Diskussion um Meinungsfreiheit bei Meta erwähnt?</p>",
+        "options": [
+          {
+            "text": "Donald Trump",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Donald Trump wurde erwähnt, da er soziale Medien wie Meta für angebliche Zensur kritisiert hat."
+          },
+          {
+            "text": "Joe Biden",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Joe Biden wird in diesem Zusammenhang nicht erwähnt."
+          },
+          {
+            "text": "Barack Obama",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Barack Obama wurde nicht im Zusammenhang mit der Diskussion um Meinungsfreiheit bei Meta genannt."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was ist der Hauptunterschied zwischen Fact-Checking und Community Notes laut dem Beitrag?</p>",
+        "options": [
+          {
+            "text": "Community Notes lassen die Nutzer selbst Inhalte bewerten.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Community Notes geben den Nutzern die Möglichkeit, Inhalte zu bewerten und zu ergänzen, im Gegensatz zum zentralisierten Fact-Checking."
+          },
+          {
+            "text": "Fact-Checking ist schneller als Community Notes.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Geschwindigkeit wurde im Beitrag nicht als Hauptunterschied betont."
+          },
+          {
+            "text": "Community Notes sind technisch komplexer als Fact-Checking.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Technische Komplexität war nicht der Fokus des Vergleichs im Beitrag."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum könnten Community Notes laut Kritikern ineffektiv sein?</p>",
+        "options": [
+          {
+            "text": "Sie kommen oft zu spät.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Kritikern zufolge kommen Community Notes oft zu spät, nachdem Inhalte bereits viral gegangen sind."
+          },
+          {
+            "text": "Sie sind nicht repräsentativ.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Obwohl Repräsentativität ein Problem sein könnte, ist die Verzögerung das Hauptproblem."
+          },
+          {
+            "text": "Sie sind zu kompliziert zu verwenden.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Komplexität der Nutzung wurde nicht als Hauptproblem genannt."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Welche Risiken könnten mit weniger Moderation auf Plattformen wie X oder Meta einhergehen?</p>",
+        "options": [
+          {
+            "text": "Zunahme von Hassrede und Desinformationen.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Weniger Moderation könnte dazu führen, dass Hassrede und Desinformationen auf den Plattformen zunehmen."
+          },
+          {
+            "text": "Abwanderung der Nutzer aufgrund von Übermoderation.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das Problem ist eher eine Untermoderation, nicht eine Übermoderation."
+          },
+          {
+            "text": "Zunahme der Werbeeinnahmen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Weniger Moderation führt in der Regel nicht zu höheren Werbeeinnahmen, sondern könnte sie senken."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Wie hat sich X (ehemals Twitter) seit der Einführung der Community Notes verändert?</p>",
+        "options": [
+          {
+            "text": "Antisemitismus und rassistische Inhalte haben zugenommen.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Nach der Einführung der Community Notes hat die Verbreitung von Hassrede und rassistischen Inhalten zugenommen."
+          },
+          {
+            "text": "Die Plattform hat an Wert gewonnen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Wert von X ist laut Schätzungen nach der Einführung der Community Notes stark gesunken."
+          },
+          {
+            "text": "Die Plattform wurde stärker reguliert.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. X hat die Moderation zurückgefahren, was zu weniger Regulierung führte."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum setzt Meta möglicherweise auf Community Notes anstelle von Fact-Checking?</p>",
+        "options": [
+          {
+            "text": "Weil die Moderation von Inhalten zu teuer ist.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die Moderation von Milliarden von Inhalten ist teuer und schwer skalierbar, daher könnte Meta auf Community Notes setzen."
+          },
+          {
+            "text": "Weil Community Notes besser funktionieren.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Community Notes wurden nicht als effektiver, sondern als kostengünstiger beschrieben."
+          },
+          {
+            "text": "Weil künstliche Intelligenz alle Inhalte moderieren kann.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Beitrag betonte, dass KI noch nicht ausgereift genug ist, um Inhalte vollständig zu moderieren."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Community Notes wurden ursprünglich von Twitter (X) eingeführt.</p>",
+        "correct_answer": true,
+        "feedback_correct": "Richtig! Das System der Community Notes wurde ursprünglich von Twitter (X) unter Elon Musk eingeführt.",
+        "feedback_incorrect": "Falsch. Community Notes stammen ursprünglich von Twitter (X) und wurden später von Meta übernommen."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Meta plant, Fact-Checking weltweit abzuschaffen.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Fact-Checking soll in Europa weiterhin bestehen bleiben, auch wenn es in den USA reduziert wird.",
+        "feedback_incorrect": "Falsch. Meta plant nicht, Fact-Checking weltweit abzuschaffen, sondern reduziert es vorerst in den USA."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Mark Zuckerberg beschuldigt die Fact-Checker, politisch voreingenommen zu sein.</p>",
+        "correct_answer": true,
+        "feedback_correct": "Richtig! Zuckerberg hat kritisiert, dass Fact-Checker politisch voreingenommen seien.",
+        "feedback_incorrect": "Falsch. Zuckerberg hat tatsächlich gesagt, dass Fact-Checker politisch voreingenommen seien."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Community Notes könnten laut Kritikern zu einer stärkeren Verbreitung von Hassrede führen.</p>",
+        "correct_answer": true,
+        "feedback_correct": "Richtig! Weniger Moderation und Community Notes könnten die Verbreitung von Hassrede begünstigen.",
+        "feedback_incorrect": "Falsch. Community Notes könnten tatsächlich die Verbreitung von Hassrede verstärken, wenn Moderation fehlt."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Der EU droht Meta bei Nichteinhaltung der Digitalgesetze mit hohen Geldstrafen.</p>",
+        "correct_answer": true,
+        "feedback_correct": "Richtig! Die EU könnte Meta mit Geldstrafen belegen, falls die Plattform gegen die Digitalgesetze verstößt.",
+        "feedback_incorrect": "Falsch. Die EU hat Meta tatsächlich mit hohen Geldstrafen gedroht, falls gegen die Digitalgesetze verstoßen wird."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Community Notes sind laut Experten eine schnelle Lösung zur Bekämpfung von Desinformation.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Experten kritisieren, dass Community Notes oft zu spät kommen und daher keine schnelle Lösung darstellen.",
+        "feedback_incorrect": "Falsch. Community Notes gelten nicht als schnelle Lösung, da sie oft zu spät kommen, um effektiv zu sein."
+      }
+    ]
+  }
+  
