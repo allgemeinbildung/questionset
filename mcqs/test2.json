@@ -5,65 +5,273 @@
       "url": "https://www.youtube.com/embed/ewyYa_flNcM"
   },
   "questions": [
-      {
-          "type": "MultipleChoice",
-          "bloom_level": "Erinnern",
-          "question": "<p>Was fordert die Umweltverantwortungsinitiative?</p>",
-          "options": [
-              {
-                  "text": "Dass die Schweiz keine Ressourcen mehr nutzt.",
-                  "is_correct": false,
-                  "feedback": "❌ Falsch. Die Initiative fordert, dass die Schweiz die Umwelt nur soweit belastet, wie die Natur sich erholen kann."
-              },
-              {
-                  "text": "Dass die Schweiz die Umweltbelastung auf ein erholbares Maß reduziert.",
-                  "is_correct": true,
-                  "feedback": "✅ Richtig! Die Initiative fordert, dass die Belastung der Umwelt die Erneuerungsfähigkeit der Natur nicht überschreitet."
-              },
-              {
-                  "text": "Dass die Schweiz keine wirtschaftlichen Einschränkungen vornimmt.",
-                  "is_correct": false,
-                  "feedback": "❌ Falsch. Die Initiative würde wirtschaftliche Einschränkungen erfordern, um die Umweltbelastung zu reduzieren."
-              }
-          ]
-      },
-      {
-          "type": "MultipleChoice",
-          "bloom_level": "Verstehen",
-          "question": "<p>Wie will das Komitee sicherstellen, dass die Maßnahmen sozialverträglich sind?</p>",
-          "options": [
-              {
-                  "text": "Durch Vorschriften, Verbote und Anreize, die sozialverträglich gestaltet werden.",
-                  "is_correct": true,
-                  "feedback": "✅ Richtig! Die Initiative verlangt sozialverträgliche Vorschriften, Verbote und Anreize, auch im Ausland."
-              },
-              {
-                  "text": "Durch vollständige Vermeidung von Vorschriften und Verboten.",
-                  "is_correct": false,
-                  "feedback": "❌ Falsch. Die Initiative sieht Vorschriften und Verbote vor, jedoch sozialverträglich."
-              },
-              {
-                  "text": "Durch finanzielle Subventionen für Großunternehmen.",
-                  "is_correct": false,
-                  "feedback": "❌ Falsch. Subventionen für Großunternehmen werden nicht als Maßnahme vorgeschlagen."
-              }
-          ]
-      },
-      {
-          "type": "TrueFalse",
-          "bloom_level": "Erinnern",
-          "question": "<p>Die Umweltverantwortungsinitiative fordert, dass die Schweiz die Belastbarkeitsgrenzen einhält.</p>",
-          "correct_answer": true,
-          "feedback_correct": "Richtig! Die Initiative fordert, dass die Schweiz die Umweltbelastung auf ein erträgliches Maß begrenzt.",
-          "feedback_incorrect": "Falsch. Das Ziel der Initiative ist es, die planetaren Belastbarkeitsgrenzen einzuhalten."
-      },
-      {
-          "type": "TrueFalse",
-          "bloom_level": "Erinnern",
-          "question": "<p>Die Frist zur Umsetzung der Umweltverantwortungsinitiative beträgt 20 Jahre.</p>",
-          "correct_answer": false,
-          "feedback_correct": "Richtig! Die Frist beträgt 10 Jahre, nicht 20 Jahre.",
-          "feedback_incorrect": "Falsch. Die Initiative gibt eine Frist von 10 Jahren vor."
-      }
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was fordert die Umweltverantwortungsinitiative in der Schweiz?</p>",
+      "options": [
+        {
+          "text": "Die Schweiz soll die Umwelt nur so weit belasten, wie sich die Natur erholen kann.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Initiative fordert, dass die Schweiz die Umwelt nur soweit belastet, wie sich die Natur erholen kann."
+        },
+        {
+          "text": "Die Schweiz soll ihre Umweltbelastung auf das Doppelte erhöhen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Initiative fordert eine Reduzierung der Umweltbelastung, nicht eine Erhöhung."
+        },
+        {
+          "text": "Die Schweiz soll keine Maßnahmen zum Umweltschutz ergreifen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Initiative zielt darauf ab, Maßnahmen zum Schutz der Umwelt zu ergreifen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche natürlichen Lebensgrundlagen sollen laut Verfassung geschützt werden?</p>",
+      "options": [
+        {
+          "text": "Wasser, Boden und Luft",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Verfassung verpflichtet den Bund, sich für die Erhaltung von Wasser, Boden und Luft einzusetzen."
+        },
+        {
+          "text": "Gold, Silber und Diamanten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht um natürliche Lebensgrundlagen wie Wasser, Boden und Luft, nicht um Edelmetalle oder Edelsteine."
+        },
+        {
+          "text": "Gebäude, Straßen und Brücken",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Verfassung spricht von natürlichen Lebensgrundlagen, nicht von Infrastruktur."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche planetaren Belastbarkeitsgrenzen überschreitet die Schweiz?</p>",
+      "options": [
+        {
+          "text": "Klima, Biodiversität und Stickstoff",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Schweiz überschreitet die Belastbarkeitsgrenzen beim Klima, der Biodiversität und beim Stickstoff."
+        },
+        {
+          "text": "Wasser, Boden und Luft",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese sind die natürlichen Lebensgrundlagen, die geschützt werden sollen, nicht die überschrittenen Belastbarkeitsgrenzen."
+        },
+        {
+          "text": "Kohle, Öl und Gas",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese sind keine planetaren Belastbarkeitsgrenzen, sondern Ressourcen, die zur Umweltbelastung beitragen können."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Frist setzt die Initiative für die Umsetzung ihrer Ziele?</p>",
+      "options": [
+        {
+          "text": "Zehn Jahre",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Initiative setzt eine Frist von zehn Jahren für die Umsetzung ihrer Ziele."
+        },
+        {
+          "text": "Fünf Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Frist beträgt zehn Jahre, nicht fünf."
+        },
+        {
+          "text": "Zwanzig Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Initiative setzt eine kürzere Frist von zehn Jahren."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was befürchten Bundesrat und Parlament bei Annahme der Initiative?</p>",
+      "options": [
+        {
+          "text": "Einschränkungen für die Wirtschaft und den Konsum",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Bundesrat und Parlament befürchten Einschränkungen für die Wirtschaft und den Konsum."
+        },
+        {
+          "text": "Eine Zunahme der Umweltverschmutzung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Zunahme der Umweltverschmutzung ist nicht die Befürchtung, sondern eher eine Reduzierung."
+        },
+        {
+          "text": "Mehr Unterstützung für fossile Brennstoffe",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Initiative zielt auf eine Reduzierung der Umweltbelastung, nicht auf mehr Unterstützung für fossile Brennstoffe."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum argumentiert das Initiativkomitee, dass die Zeit drängt?</p>",
+      "options": [
+        {
+          "text": "Die Schweiz verbraucht mehr Ressourcen, als die Natur wiederherstellen kann.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Initiativkomitee argumentiert, dass die Schweiz mehr Ressourcen verbraucht, als die Natur wiederherstellen kann, was die Lebensgrundlagen zerstört."
+        },
+        {
+          "text": "Die Schweiz hat bereits alle Umweltprobleme gelöst.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Gegenteil ist der Fall, es gibt noch erhebliche Umweltprobleme."
+        },
+        {
+          "text": "Die Schweiz benötigt mehr fossile Brennstoffe.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Initiative zielt darauf ab, die Umweltbelastung zu reduzieren, nicht fossile Brennstoffe zu fördern."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Auswirkungen könnte die Initiative auf den Arbeitsmarkt haben?</p>",
+      "options": [
+        {
+          "text": "Schaffung zukunftsfähiger Arbeitsplätze",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Initiative sieht eine Chance in der Schaffung zukunftsfähiger Arbeitsplätze."
+        },
+        {
+          "text": "Erhöhung der Arbeitslosigkeit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Initiative strebt positive Veränderungen im Arbeitsmarkt an, nicht eine Erhöhung der Arbeitslosigkeit."
+        },
+        {
+          "text": "Förderung von Arbeitsplätzen im fossilen Sektor",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Initiative zielt auf nachhaltige Arbeitsplätze ab, nicht auf die Förderung des fossilen Sektors."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wie könnten die Maßnahmen der Initiative sozialverträglich gestaltet werden?</p>",
+      "options": [
+        {
+          "text": "Durch Vorschriften, Verbote und Anreize im In- und Ausland",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Initiative fordert, dass Maßnahmen sozialverträglich durch Vorschriften, Verbote und Anreize gestaltet werden."
+        },
+        {
+          "text": "Durch Erhöhung der Steuern für alle Bürger",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Initiative spricht von sozialverträglichen Maßnahmen, nicht von Steuererhöhungen."
+        },
+        {
+          "text": "Durch vollständige Deregulierung des Umweltschutzes",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Initiative fordert gezielte Maßnahmen, nicht Deregulierung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Risiken sehen Bundesrat und Parlament bei der Annahme der Initiative?</p>",
+      "options": [
+        {
+          "text": "Abwanderung von Schweizer Firmen ins Ausland",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Bundesrat und Parlament befürchten, dass Schweizer Firmen ins Ausland abwandern könnten."
+        },
+        {
+          "text": "Steigerung der Attraktivität des Schweizer Absatzmarktes",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bundesrat und Parlament befürchten das Gegenteil, nämlich eine Schwächung des Absatzmarktes."
+        },
+        {
+          "text": "Erhöhung des Konsums von fossilen Brennstoffen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Initiative zielt auf eine Reduzierung der Umweltbelastung ab, nicht auf eine Erhöhung des Konsums von fossilen Brennstoffen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Maßnahmen könnten zur Erreichung der Ziele der Initiative notwendig sein?</p>",
+      "options": [
+        {
+          "text": "Vorschriften, Verbote und Anreize",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Umsetzung der Initiative würde Vorschriften, Verbote und Anreize erfordern."
+        },
+        {
+          "text": "Erhöhung der Umweltverschmutzung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Initiative strebt eine Reduzierung der Umweltbelastung an, nicht eine Erhöhung."
+        },
+        {
+          "text": "Förderung von fossilen Brennstoffen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Initiative zielt auf eine Reduzierung der Umweltbelastung, nicht auf die Förderung fossiler Brennstoffe."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Umweltverantwortungsinitiative fordert, dass die Schweiz mehr Ressourcen verbraucht als die Natur erholen kann.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Die Initiative fordert das Gegenteil, nämlich eine Begrenzung der Ressourcennutzung auf das, was die Natur erholen kann.",
+      "feedback_incorrect": "Falsch. Die Initiative fordert eine Reduzierung der Ressourcennutzung auf ein nachhaltiges Niveau."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Bundesrat und Parlament unterstützen die Umweltverantwortungsinitiative.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Bundesrat und Parlament lehnen die Initiative ab, da sie Einschränkungen für die Wirtschaft befürchten.",
+      "feedback_incorrect": "Falsch. Bundesrat und Parlament lehnen die Initiative ab."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Schweiz überschreitet die planetaren Belastbarkeitsgrenzen beim Klima, der Biodiversität und beim Stickstoff.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Die Schweiz überschreitet diese Belastbarkeitsgrenzen.",
+      "feedback_incorrect": "Falsch. Die Schweiz überschreitet tatsächlich diese planetaren Belastbarkeitsgrenzen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Initiative sieht eine Chance in der Schaffung von zukunftsfähigen Arbeitsplätzen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Die Initiative sieht dies als eine große Chance.",
+      "feedback_incorrect": "Falsch. Die Initiative sieht tatsächlich eine Chance in der Schaffung von zukunftsfähigen Arbeitsplätzen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Umsetzung der Initiative würde keine Vorschriften oder Verbote erfordern.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Die Umsetzung würde Vorschriften, Verbote und Anreize erfordern.",
+      "feedback_incorrect": "Falsch. Die Initiative würde tatsächlich Vorschriften und Verbote erfordern."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Bundesrat und Parlament befürchten, dass die Initiative den Wirtschaftsstandort Schweiz schwächen könnte.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Sie befürchten eine Schwächung des Wirtschaftsstandorts.",
+      "feedback_incorrect": "Falsch. Bundesrat und Parlament befürchten tatsächlich eine Schwächung des Wirtschaftsstandorts."
+    }
   ]
 }

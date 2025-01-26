@@ -268,14 +268,20 @@ let userResponses = [];
 async function initializeQuiz() {
     const params = new URLSearchParams(window.location.search);
     const assignmentId = params.get('assignmentId') || 'default';
+    console.log(`Lade Quiz für Assignment ID: ${assignmentId}`);
     
     try {
         const response = await fetch(`https://aburossi.github.io/html/MC/mcqs/${encodeURIComponent(assignmentId)}.json`);
+        if (!response.ok) {
+            throw new Error(`HTTP-Fehler! Status: ${response.status}`);
+        }
         const data = await response.json();
-
+        console.log('Quiz-Daten geladen:', data);
+        
         // Handle quiz media
         const quizMedia = document.getElementById('quizMedia');
         if (data.media) {
+            console.log('Medientyp gefunden:', data.media.type);
             if (data.media.type === 'youtube') {
                 quizMedia.innerHTML = `
                     <iframe src="${data.media.url}" 
@@ -283,25 +289,30 @@ async function initializeQuiz() {
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
                             allowfullscreen>
                     </iframe>`;
+                console.log('YouTube-Video eingebettet');
             } else if (data.media.type === 'mp3') {
                 quizMedia.innerHTML = `
                     <audio controls>
                         <source src="${data.media.url}" type="audio/mpeg">
                         Your browser does not support the audio element.
                     </audio>`;
+                console.log('Audio eingebettet');
             }
         } else {
             quizMedia.innerHTML = '';
+            console.log('Keine Medien gefunden');
         }
 
         questions = shuffleArray(data.questions).slice(0, 7);
         quizTitle = data.title || assignmentId.replace(/-/g, ' ');
         document.getElementById('quizTitle').textContent = quizTitle;
+        console.log('Quiz-Titel gesetzt:', quizTitle);
     } catch (error) {
         console.error('Fehler beim Laden der Fragen:', error);
         alert('Quiz konnte nicht geladen werden');
     }
 }
+
 
 function startQuiz() {
     document.getElementById('startScreen').style.display = 'none';
