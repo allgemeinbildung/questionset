@@ -280,7 +280,46 @@
                 display: none;
             }
         }
+        /* Neue CSS-Regel zum Ausblenden der Medienkomponente */
+        #quizMedia.hidden {
+            display: none;
+        }
 
+        /* Anpassung für Button-Container mit Flexbox */
+        .button-container {
+            display: flex;
+            justify-content: center;
+            gap: 10px; /* Abstand zwischen den Buttons */
+            margin-top: 20px; /* Abstand oben */
+        }
+
+        /* CSS für den Druckmodus */
+        @media print {
+            /* Verstecke alle Elemente außer dem Ergebniscontainer */
+            body * {
+                visibility: hidden;
+            }
+            #resultContainer, #resultContainer * {
+                visibility: visible;
+            }
+            /* Positioniere den Ergebniscontainer oben links */
+            #resultContainer {
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: 100%;
+            }
+            /* Verstecke den Print-Button im Druck */
+            button[onclick="printResults()"] {
+                display: none;
+            }
+        }
+
+        /* Optional: Cursor-Änderung für deaktivierte Optionen */
+        .option.disabled {
+            cursor: default;
+            pointer-events: none;
+        }
     </style>
 </head>
 <body>
@@ -444,15 +483,23 @@ function showQuestion(index) {
     const optionsContainer = document.getElementById('optionsContainer');
     optionsContainer.innerHTML = '';
 
+    const isAnswered = userResponses[index] !== undefined;
+
     if (question.type === "MultipleChoice") {
         question.options.forEach((option, optIndex) => {
             const optionDiv = document.createElement('div');
             optionDiv.className = 'option';
             optionDiv.innerHTML = option.text;
-            optionDiv.onclick = () => handleMCAnswer(option, question);
+
+            if (!isAnswered) {
+                optionDiv.onclick = () => handleMCAnswer(option, question);
+            } else {
+                // Optional: Hinzufügen einer CSS-Klasse, um anzuzeigen, dass die Option deaktiviert ist
+                optionDiv.classList.add('disabled');
+            }
             
             // Überprüfen, ob der Benutzer diese Option bereits ausgewählt hat
-            if (userResponses[index] && userResponses[index].selected === option.text) {
+            if (isAnswered && userResponses[index].selected === option.text) {
                 optionDiv.classList.add(userResponses[index].correct ? 'correct' : 'incorrect');
                 optionDiv.classList.add('selected');
             }
@@ -463,10 +510,16 @@ function showQuestion(index) {
             const optionDiv = document.createElement('div');
             optionDiv.className = 'option';
             optionDiv.textContent = answer;
-            optionDiv.onclick = () => handleTFAnswer(answer === 'Wahr', question);
+
+            if (!isAnswered) {
+                optionDiv.onclick = () => handleTFAnswer(answer === 'Wahr', question);
+            } else {
+                // Optional: Hinzufügen einer CSS-Klasse, um anzuzeigen, dass die Option deaktiviert ist
+                optionDiv.classList.add('disabled');
+            }
             
             // Überprüfen, ob der Benutzer diese Option bereits ausgewählt hat
-            if (userResponses[index] && 
+            if (isAnswered && 
                 ((userResponses[index].selected === 'Wahr' && answer === 'Wahr') ||
                  (userResponses[index].selected === 'Falsch' && answer === 'Falsch'))) {
                 optionDiv.classList.add(userResponses[index].correct ? 'correct' : 'incorrect');
@@ -477,7 +530,7 @@ function showQuestion(index) {
     }
 
     // Zeige Feedback, wenn die Frage bereits beantwortet wurde
-    if (userResponses[index]) {
+    if (isAnswered) {
         showFeedback(userResponses[index].feedback);
     } else {
         hideFeedback();
@@ -489,11 +542,9 @@ function handleMCAnswer(selectedOption, question) {
     const index = currentQuestion;
     const previousResponse = userResponses[index];
     
-    // Wenn die Frage bereits beantwortet wurde, aktualisiere den Score
+    // Wenn die Frage bereits beantwortet wurde, ignoriere weitere Klicks
     if (previousResponse) {
-        if (previousResponse.correct) {
-            score--;
-        }
+        return;
     }
 
     // Speichern der neuen Antwort
@@ -520,11 +571,9 @@ function handleTFAnswer(selectedValue, question) {
     const index = currentQuestion;
     const previousResponse = userResponses[index];
     
-    // Wenn die Frage bereits beantwortet wurde, aktualisiere den Score
+    // Wenn die Frage bereits beantwortet wurde, ignoriere weitere Klicks
     if (previousResponse) {
-        if (previousResponse.correct) {
-            score--;
-        }
+        return;
     }
 
     // Speichern der neuen Antwort
@@ -554,7 +603,7 @@ function updateOptionsUI(question) {
     if (question.type === "MultipleChoice") {
         question.options.forEach((option, optIndex) => {
             const optionDiv = optionDivs[optIndex];
-            optionDiv.classList.remove('correct', 'incorrect', 'selected');
+            optionDiv.classList.remove('correct', 'incorrect', 'selected', 'disabled');
             if (userResponses[currentQuestion].selected === option.text) {
                 optionDiv.classList.add(userResponses[currentQuestion].correct ? 'correct' : 'incorrect');
                 optionDiv.classList.add('selected');
@@ -563,7 +612,7 @@ function updateOptionsUI(question) {
     } else if (question.type === "TrueFalse") {
         ['Wahr', 'Falsch'].forEach((answer, optIndex) => {
             const optionDiv = optionDivs[optIndex];
-            optionDiv.classList.remove('correct', 'incorrect', 'selected');
+            optionDiv.classList.remove('correct', 'incorrect', 'selected', 'disabled');
             if (
                 (userResponses[currentQuestion].selected === 'Wahr' && answer === 'Wahr') ||
                 (userResponses[currentQuestion].selected === 'Falsch' && answer === 'Falsch')
@@ -726,7 +775,6 @@ function printResults() {
 document.addEventListener('DOMContentLoaded', function() {
     initializeQuiz();
 });
-</script>
 </script>
 </body>
 </html>
