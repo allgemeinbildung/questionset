@@ -64,6 +64,21 @@
             width: 100%;
         }
 
+        #mediaSource {
+            text-align: center;
+            margin-top: 10px;
+        }
+
+        #mediaSource a {
+            color: #2196F3;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        #mediaSource a:hover {
+            text-decoration: underline;
+        }
+
         .progress {
             text-align: center;
             margin: 20px 0;
@@ -114,17 +129,28 @@
             border: 2px solid #90caf9;
         }
 
-        #nextBtn {
+        #nextBtn, #prevBtn {
             background: #2196F3;
             color: white;
-            display: none;
             padding: 12px 25px;
-            margin: 20px 0;
+            margin: 20px 5px 0 0;
             border: none;
             border-radius: 5px;
             cursor: pointer;
             font-size: 16px;
             transition: all 0.3s ease;
+        }
+
+        #prevBtn {
+            background: #9E9E9E;
+        }
+
+        #prevBtn:hover {
+            background: #7e7e7e;
+        }
+
+        #nextBtn:hover {
+            background: #1976D2;
         }
 
         .results {
@@ -216,6 +242,16 @@
             from { transform: translateX(100%); opacity: 0; }
             to { transform: translateX(0); opacity: 1; }
         }
+
+        /* Neue CSS-Regel zum Ausblenden der Medienkomponente */
+        #quizMedia.hidden {
+            display: none;
+        }
+
+        /* Anpassung für Button-Container */
+        .button-container {
+            text-align: center;
+        }
     </style>
 </head>
 <body>
@@ -226,7 +262,8 @@
     </div>
 
     <div id="quizContainer">
-        <div id="quizMedia"></div>
+        <div id="quizMedia" class="hidden"></div> <!-- Initial als verborgen gesetzt -->
+        <div id="mediaSource" class="hidden"></div> <!-- Bereich für den 'Quelle' Link -->
         <div class="progress">Frage <span id="current">1</span> von <span id="total">7</span></div>
         
         <div class="question-container">
@@ -236,6 +273,7 @@
         </div>
 
         <div class="button-container">
+            <button id="prevBtn" onclick="prevQuestion()" disabled>Zurück</button>
             <button id="nextBtn" onclick="nextQuestion()">Weiter</button>
         </div>
     </div>
@@ -265,6 +303,9 @@ let questions = [];
 let quizTitle = "";
 let userResponses = [];
 
+// Neue Variable zur Nachverfolgung des vorherigen Scores
+let previousScore = 0;
+
 async function initializeQuiz() {
     const params = new URLSearchParams(window.location.search);
     const assignmentId = params.get('assignmentId') || 'default';
@@ -280,6 +321,7 @@ async function initializeQuiz() {
         
         // Handle quiz media
         const quizMedia = document.getElementById('quizMedia');
+        const mediaSource = document.getElementById('mediaSource');
         if (data.media && data.media.type && data.media.url) { // Erweiterte Bedingung
             console.log('Medientyp gefunden:', data.media.type);
             if (data.media.type === 'youtube') {
@@ -301,21 +343,38 @@ async function initializeQuiz() {
                 quizMedia.innerHTML = ''; // Falls ein unbekannter Medientyp angegeben ist
                 console.warn('Unbekannter Medientyp angegeben.');
             }
+            // 'Quelle' Link hinzufügen, falls vorhanden
+            if (data.media.source) {
+                mediaSource.innerHTML = `<a href="${data.media.source}" target="_blank">Quelle</a>`;
+                mediaSource.classList.remove('hidden');
+            } else {
+                mediaSource.innerHTML = '';
+                mediaSource.classList.add('hidden');
+            }
+            quizMedia.classList.remove('hidden'); // Medienbereich sichtbar machen
         } else {
-            quizMedia.innerHTML = ''; // Entfernt Medien, wenn keine vorhanden sind
+            quizMedia.innerHTML = '';
+            mediaSource.innerHTML = '';
+            quizMedia.classList.add('hidden'); // Medienbereich ausblenden
+            mediaSource.classList.add('hidden');
             console.log('Keine gültigen Medieninformationen gefunden');
+        }
+
+        // Überprüfung auf vorhandene Fragen
+        if (!data.questions || !Array.isArray(data.questions) || data.questions.length === 0) {
+            throw new Error('Keine Fragen im Quiz gefunden.');
         }
 
         questions = shuffleArray(data.questions).slice(0, 7);
         quizTitle = data.title || assignmentId.replace(/-/g, ' ');
         document.getElementById('quizTitle').textContent = quizTitle;
         console.log('Quiz-Titel gesetzt:', quizTitle);
+        document.getElementById('total').textContent = questions.length; // Dynamische Gesamtanzahl setzen
     } catch (error) {
         console.error('Fehler beim Laden der Fragen:', error);
-        alert('Quiz konnte nicht geladen werden');
+        alert('Quiz konnte nicht geladen werden: ' + error.message);
     }
 }
-
 
 
 function startQuiz() {
@@ -323,6 +382,7 @@ function startQuiz() {
     document.getElementById('quizContainer').style.display = 'block';
     showQuestion(currentQuestion);
     updateProgress();
+    updatePrevButton();
 }
 
 function showQuestion(index) {
@@ -337,6 +397,11 @@ function showQuestion(index) {
             optionDiv.className = 'option';
             optionDiv.innerHTML = option.text;
             optionDiv.onclick = () => handleMCAnswer(option, question);
+            // Überprüfen, ob der Benutzer diese Option bereits ausgewählt hat
+            if (userResponses[index] && userResponses[index].selected === option.text) {
+                optionDiv.classList.add(userResponses[index].correct ? 'correct' : 'incorrect');
+                optionDiv.style.pointerEvents = 'none';
+            }
             optionsContainer.appendChild(optionDiv);
         });
     } else if (question.type === "TrueFalse") {
@@ -345,14 +410,34 @@ function showQuestion(index) {
             optionDiv.className = 'option';
             optionDiv.textContent = answer;
             optionDiv.onclick = () => handleTFAnswer(answer === 'Wahr', question);
+            // Überprüfen, ob der Benutzer diese Option bereits ausgewählt hat
+            if (userResponses[index] && (userResponses[index].selected === 'Wahr' && answer === 'Wahr') ||
+                (userResponses[index].selected === 'Falsch' && answer === 'Falsch')) {
+                optionDiv.classList.add(userResponses[index].correct ? 'correct' : 'incorrect');
+                optionDiv.style.pointerEvents = 'none';
+            }
             optionsContainer.appendChild(optionDiv);
         });
+    }
+
+    // Wenn die Frage bereits beantwortet wurde, zeige das Feedback und den 'Weiter' Button
+    if (userResponses[index]) {
+        showFeedback(userResponses[index].feedback);
+        document.getElementById('nextBtn').style.display = 'block';
+    } else {
+        hideFeedback();
     }
 }
 
 function handleMCAnswer(selectedOption, question) {
     const options = Array.from(document.getElementsByClassName('option'));
     
+    // Überprüfen, ob die Frage bereits beantwortet wurde
+    if (userResponses[currentQuestion]) {
+        // Bereits beantwortet, keine Änderungen zulassen
+        return;
+    }
+
     userResponses[currentQuestion] = {
         question: question.question,
         selected: selectedOption.text,
@@ -360,7 +445,9 @@ function handleMCAnswer(selectedOption, question) {
         feedback: selectedOption.feedback
     };
 
-    if (selectedOption.is_correct) score++;
+    if (selectedOption.is_correct) {
+        score++;
+    }
 
     const correctIndex = question.options.findIndex(opt => opt.is_correct);
     options[correctIndex].classList.add('correct');
@@ -371,12 +458,20 @@ function handleMCAnswer(selectedOption, question) {
     }
 
     showFeedback(selectedOption.feedback);
+    updateNextButton();
+    updatePrevButton();
 }
 
 function handleTFAnswer(selectedValue, question) {
     const options = Array.from(document.getElementsByClassName('option'));
     const isCorrect = selectedValue === question.correct_answer;
     
+    // Überprüfen, ob die Frage bereits beantwortet wurde
+    if (userResponses[currentQuestion]) {
+        // Bereits beantwortet, keine Änderungen zulassen
+        return;
+    }
+
     userResponses[currentQuestion] = {
         question: question.question,
         selected: selectedValue ? 'Wahr' : 'Falsch',
@@ -384,7 +479,9 @@ function handleTFAnswer(selectedValue, question) {
         feedback: isCorrect ? question.feedback_correct : question.feedback_incorrect
     };
 
-    if (isCorrect) score++;
+    if (isCorrect) {
+        score++;
+    }
 
     const correctAnswerIndex = question.correct_answer ? 0 : 1;
     options[correctAnswerIndex].classList.add('correct');
@@ -395,6 +492,8 @@ function handleTFAnswer(selectedValue, question) {
     }
 
     showFeedback(isCorrect ? question.feedback_correct : question.feedback_incorrect);
+    updateNextButton();
+    updatePrevButton();
 }
 
 function showFeedback(feedbackText) {
@@ -407,12 +506,22 @@ function showFeedback(feedbackText) {
     document.getElementById('nextBtn').style.display = 'block';
 }
 
+function hideFeedback() {
+    const feedback = document.getElementById('feedback');
+    feedback.innerHTML = '';
+    feedback.style.display = 'none';
+    
+    const options = Array.from(document.getElementsByClassName('option'));
+    options.forEach(opt => opt.style.pointerEvents = 'auto');
+    document.getElementById('nextBtn').style.display = 'none';
+}
+
 function nextQuestion() {
     if (currentQuestion < questions.length - 1) {
         currentQuestion++;
-        resetQuestionState();
         showQuestion(currentQuestion);
         updateProgress();
+        updatePrevButton();
     } else {
         const quizContainer = document.getElementById('quizContainer');
         quizContainer.classList.add('slide-out');
@@ -426,15 +535,36 @@ function nextQuestion() {
     }
 }
 
+function prevQuestion() {
+    if (currentQuestion > 0) {
+        currentQuestion--;
+        showQuestion(currentQuestion);
+        updateProgress();
+        updatePrevButton();
+    }
+}
+
 function resetQuestionState() {
-    document.getElementById('feedback').style.display = 'none';
-    document.getElementById('nextBtn').style.display = 'none';
+    hideFeedback();
     document.getElementById('optionsContainer').innerHTML = '';
 }
 
 function updateProgress() {
     document.getElementById('current').textContent = currentQuestion + 1;
     document.getElementById('total').textContent = questions.length;
+}
+
+function updatePrevButton() {
+    const prevBtn = document.getElementById('prevBtn');
+    if (currentQuestion > 0) {
+        prevBtn.disabled = false;
+    } else {
+        prevBtn.disabled = true;
+    }
+}
+
+function updateNextButton() {
+    // Optional: Hier kannst du Logik hinzufügen, um den 'Weiter' Button zu aktualisieren
 }
 
 function showResults() {
