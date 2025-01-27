@@ -9,7 +9,7 @@
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Was darf ein Verkaeufer bei einer Stichprobe am Self-Checkout NICHT tun?</p>",
+      "question": "<p>Was darf ein Verkäufer bei einer Stichprobe am Self-Checkout NICHT tun?</p>",
       "options": [
         {
           "text": "Nach dem Kassenbon fragen.",
