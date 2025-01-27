@@ -70,11 +70,17 @@ def convert_json(input_data):
 
 def get_json_files(input_folder):
     """
-    Retrieves a list of JSON files in the specified input folder.
+    Recursively retrieves a list of JSON files in the specified input folder and its subfolders.
+    Returns a list of tuples containing (relative_path, filename).
     """
     try:
-        files = os.listdir(input_folder)
-        json_files = [file for file in files if file.lower().endswith('.json')]
+        json_files = []
+        for root, _, files in os.walk(input_folder):
+            for file in files:
+                if file.lower().endswith('.json'):
+                    # Get the relative path from input_folder to the file
+                    rel_path = os.path.relpath(root, input_folder)
+                    json_files.append((rel_path, file))
         return json_files
     except Exception as e:
         print(f"Error accessing input folder: {e}")
