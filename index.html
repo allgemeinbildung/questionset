@@ -348,7 +348,7 @@
 
     <div id="resultContainer" class="hidden">
         <div class="results">
-            <h2>Ergebnis</h2>
+            <h2>Ergebnis: <span id="assignmentIdDisplay"></span></h2>
             <svg class="donut-chart" viewBox="0 0 40 40">
                 <circle class="donut-segment" cx="20" cy="20" r="15" 
                         stroke="#eeeeee" stroke-width="8" fill="none"/>
@@ -372,6 +372,7 @@ let score = 0;
 let questions = [];
 let quizTitle = "";
 let userResponses = [];
+let assignmentId = 'default';
 
 // Funktion zum Ersetzen von 'ß' durch 'ss' in allen Strings eines Objekts
 function replaceSharpS(obj) {
@@ -394,7 +395,7 @@ function replaceSharpS(obj) {
 // Funktion zur Initialisierung des Quiz
 async function initializeQuiz() {
     const params = new URLSearchParams(window.location.search);
-    const assignmentId = params.get('assignmentId') || 'default';
+    assignmentId = params.get('assignmentId') || 'default';
     console.log(`Lade Quiz für Assignment ID: ${assignmentId}`);
     
     try {
@@ -732,6 +733,8 @@ function displayResults() {
     
     document.getElementById('resultMessage').textContent = resultMessage;
     showReviewSection();
+    document.getElementById('assignmentIdDisplay').textContent = assignmentId;
+
 
     // Anzeigen des Ergebniscontainers mit Animation
     const resultContainer = document.getElementById('resultContainer');
