@@ -264,8 +264,14 @@
               mediaContainer.textContent = "Medieninhalt konnte nicht geladen werden.";
             }
           } else if (data.media.type === 'youtube') {
+          // Convert a standard YouTube URL to an embed URL
+            let videoUrl = data.media.url;
+            // Check if the URL is in watch format and convert it.
+            if (videoUrl.indexOf('watch?v=') !== -1) {
+              videoUrl = videoUrl.replace('watch?v=', 'embed/');
+            }
             mediaContainer.innerHTML = `
-              <iframe src="${data.media.url}" 
+              <iframe src="${videoUrl}" 
                       frameborder="0" 
                       allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
                       allowfullscreen>
