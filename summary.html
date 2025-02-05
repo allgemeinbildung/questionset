@@ -270,8 +270,7 @@
         data = replaceSharpS(data);
         console.log('Bereinigte Quiz-Daten:', data);
 
-        // Handle media: support "text", "youtube", and "mp3" types.
-        // For youtube/mp3 and page embedding, we use the leftPanel.
+        // Handle media: support "text", "youtube", "mp3", and now "pdf".
         const mediaType = data.media && data.media.type;
         if (data.media && data.media.type && data.media.url) {
           if (mediaType === 'text') {
@@ -315,6 +314,16 @@
             const leftPanel = document.getElementById('leftPanel');
             leftPanel.innerHTML = embedHTML;
             leftPanel.classList.remove('hidden');
+          } else if (mediaType === 'pdf') {
+            // If the media type is "pdf", assume a relative URL in folder "pdf" unless an absolute URL is provided.
+            let pdfUrl = data.media.url;
+            if (!pdfUrl.startsWith("http://") && !pdfUrl.startsWith("https://")) {
+              pdfUrl = 'pdf/' + pdfUrl;
+            }
+            const leftPanel = document.getElementById('leftPanel');
+            leftPanel.innerHTML = `<iframe src="${pdfUrl}" style="width:100%; height:600px; border:none;"></iframe>
+                                   <br><a href="${pdfUrl}" target="_blank">Öffne PDF in neuem Fenster</a>`;
+            leftPanel.classList.remove('hidden');
           } else {
             // Unknown media type.
             document.getElementById('mediaContainer').innerHTML = "";
@@ -333,6 +342,7 @@
           document.getElementById('mediaContainer').innerHTML = "";
           document.getElementById('mediaSource').innerHTML = "";
         }
+
 
         // Validate questions.
         if (!data.questions || !Array.isArray(data.questions) || data.questions.length === 0) {
