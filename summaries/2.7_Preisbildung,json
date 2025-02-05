@@ -1,0 +1,210 @@
+{
+  "title": "Preisbildung und Wirtschaftskreislauf",
+  "media": {
+    "type": "text",
+    "url": "2_Konsum und Geld_2.7 Preisbildung.txt",
+    "source": "Lehrmittel für Wirtschaft und Gesellschaft"
+  },
+  "questions": [
+    {
+      "correct_sentence": "Die Bedürfnispyramide nach Maslow ordnet menschliche Bedürfnisse hierarchisch in fünf Stufen an.",
+      "wrong_alternatives": [
+        "Nach Maslow sind alle Bedürfnisse gleichwertig und existieren nicht in einer hierarchischen Struktur, sondern nebeneinander.",
+        "Die Bedürfnispyramide nach Maslow besteht aus sechs Stufen und beginnt mit dem Bedürfnis nach Selbstverwirklichung als Basis."
+      ],
+      "explanation": "Maslows Pyramide beginnt mit grundlegenden Bedürfnissen und endet mit Selbstverwirklichung.",
+      "difficulty": "medium",
+      "category": "Bedürfnisse"
+    },
+    {
+      "correct_sentence": "Existenzbedürfnisse umfassen lebensnotwendige Dinge wie Nahrung, Wohnung und medizinische Versorgung.",
+      "wrong_alternatives": [
+        "Existenzbedürfnisse sind Bedürfnisse, die zwar wünschenswert, aber nicht unbedingt lebensnotwendig sind, wie zum Beispiel ein Auto oder Ferien.",
+        "Existenzbedürfnisse beziehen sich ausschliesslich auf immaterielle Güter wie Liebe, Anerkennung und Geborgenheit, die für das Überleben wichtig sind."
+      ],
+      "explanation": "Existenzbedürfnisse sind grundlegend für das physische Überleben.",
+      "difficulty": "easy",
+      "category": "Bedürfnisarten"
+    },
+    {
+      "correct_sentence": "Wahlbedürfnisse treten auf, wenn die Existenz gesichert ist und umfassen nicht lebensnotwendige Wünsche wie Bücher oder Schmuck.",
+      "wrong_alternatives": [
+        "Wahlbedürfnisse sind genauso lebensnotwendig wie Existenzbedürfnisse und müssen gleichzeitig befriedigt werden, um ein ausgeglichenes Leben zu führen.",
+        "Wahlbedürfnisse sind vorrangig gegenüber Existenzbedürfnissen, da sie das persönliche Wachstum und die Selbstverwirklichung fördern."
+      ],
+      "explanation": "Wahlbedürfnisse sind Bedürfnisse, die über die reine Existenzsicherung hinausgehen.",
+      "difficulty": "medium",
+      "category": "Bedürfnisarten"
+    },
+    {
+      "correct_sentence": "Individualbedürfnisse sind persönliche Bedürfnisse, die von Mensch zu Mensch variieren, wie zum Beispiel das Bedürfnis nach einem bestimmten Auto.",
+      "wrong_alternatives": [
+        "Individualbedürfnisse sind Bedürfnisse, die von der Gesellschaft als Ganzes geteilt werden und nicht von einzelnen Personen abhängen.",
+        "Individualbedürfnisse sind Bedürfnisse, die für alle Menschen gleich sind und sich nicht nach persönlichen Vorlieben oder Umständen unterscheiden."
+      ],
+      "explanation": "Individualbedürfnisse sind subjektiv und auf die einzelne Person zugeschnitten.",
+      "difficulty": "easy",
+      "category": "Bedürfnisarten"
+    },
+    {
+      "correct_sentence": "Kollektivbedürfnisse entstehen durch gemeinsame Bedürfnisse vieler Menschen und werden gemeinschaftlich befriedigt, wie Strassen oder Schulen.",
+      "wrong_alternatives": [
+        "Kollektivbedürfnisse sind individuelle Bedürfnisse, die jeder Mensch für sich alleine befriedigen muss, ohne die Hilfe der Gemeinschaft.",
+        "Kollektivbedürfnisse sind Bedürfnisse, die zwar viele Menschen haben, aber jeder Einzelne muss sie individuell und unabhängig von anderen befriedigen."
+      ],
+      "explanation": "Kollektivbedürfnisse erfordern gemeinschaftliche Anstrengungen zur Befriedigung.",
+      "difficulty": "medium",
+      "category": "Bedürfnisarten"
+    },
+    {
+      "correct_sentence": "Materielle Bedürfnisse können durch den Kauf von Gütern mit Geld befriedigt werden, wie etwa der Kauf von Brot oder einem Fernseher.",
+      "wrong_alternatives": [
+        "Materielle Bedürfnisse sind Bedürfnisse, die nicht mit Geld befriedigt werden können, sondern immaterielle Werte wie Liebe und Anerkennung erfordern.",
+        "Materielle Bedürfnisse beziehen sich ausschliesslich auf Dienstleistungen und nicht auf physische Güter, die man kaufen kann."
+      ],
+      "explanation": "Materielle Bedürfnisse sind auf käufliche, physische Güter ausgerichtet.",
+      "difficulty": "easy",
+      "category": "Bedürfnisarten"
+    },
+    {
+      "correct_sentence": "Immaterielle Bedürfnisse sind nicht käuflich und umfassen Wünsche nach Liebe, Anerkennung oder Gesundheit.",
+      "wrong_alternatives": [
+        "Immaterielle Bedürfnisse können problemlos mit Geld befriedigt werden, indem man zum Beispiel teure Geschenke kauft, um Liebe zu zeigen.",
+        "Immaterielle Bedürfnisse sind weniger wichtig als materielle Bedürfnisse, da sie nicht direkt zum physischen Überleben beitragen."
+      ],
+      "explanation": "Immaterielle Bedürfnisse beziehen sich auf nicht-physische und nicht-käufliche Aspekte des Lebens.",
+      "difficulty": "medium",
+      "category": "Bedürfnisarten"
+    },
+    {
+      "correct_sentence": "Das Gesetz der Nachfrage besagt, dass bei sinkendem Preis die nachgefragte Menge steigt und umgekehrt.",
+      "wrong_alternatives": [
+        "Das Gesetz der Nachfrage beschreibt, dass die nachgefragte Menge unabhängig vom Preis immer konstant bleibt.",
+        "Das Gesetz der Nachfrage besagt, dass bei sinkendem Preis die nachgefragte Menge sinkt, da die Konsumenten ein Qualitätsproblem vermuten."
+      ],
+      "explanation": "Der Preis und die nachgefragte Menge verhalten sich invers zueinander.",
+      "difficulty": "medium",
+      "category": "Nachfrage"
+    },
+    {
+      "correct_sentence": "Wirtschaftliche Güter sind begrenzt vorhanden und haben daher einen Preis, im Gegensatz zu freien Gütern wie Luft.",
+      "wrong_alternatives": [
+        "Wirtschaftliche Güter sind unbegrenzt verfügbar, aber ihr Preis ist hoch, weil ihre Verteilung aufwendig ist.",
+        "Freie Güter sind zwar unbegrenzt vorhanden, werden aber trotzdem teuer gehandelt, um ihren Wert zu demonstrieren."
+      ],
+      "explanation": "Knappheit ist das definierende Merkmal wirtschaftlicher Güter.",
+      "difficulty": "easy",
+      "category": "Güterarten"
+    },
+    {
+      "correct_sentence": "Konsumgüter dienen der direkten Bedürfnisbefriedigung, wie Nahrungsmittel oder Fernsehsendungen.",
+      "wrong_alternatives": [
+        "Konsumgüter dienen der indirekten Bedürfnisbefriedigung, indem sie zur Produktion anderer Güter verwendet werden.",
+        "Konsumgüter sind langlebig und werden über einen langen Zeitraum genutzt, im Gegensatz zu Verbrauchsgütern."
+      ],
+      "explanation": "Konsumgüter sind für den unmittelbaren Gebrauch durch Endverbraucher bestimmt.",
+      "difficulty": "medium",
+      "category": "Güterarten"
+    },
+    {
+      "correct_sentence": "Investitionsgüter werden eingesetzt, um produktiv zu sein und weitere Güter herzustellen, wie Werkzeugmaschinen.",
+      "wrong_alternatives": [
+        "Investitionsgüter dienen dem direkten Konsum und befriedigen unmittelbar die Bedürfnisse der Konsumenten.",
+        "Investitionsgüter sind Güter, die nur einmalig genutzt werden können und danach verbraucht sind, wie Lebensmittel."
+      ],
+      "explanation": "Investitionsgüter sind Produktionsmittel und tragen zur Wertschöpfung bei.",
+      "difficulty": "medium",
+      "category": "Güterarten"
+    },
+    {
+      "correct_sentence": "Der Markt ist der Ort, wo Angebot und Nachfrage zusammentreffen und Preise gebildet werden.",
+      "wrong_alternatives": [
+        "Der Markt ist ein virtueller Ort, an dem nur die Nachfrage existiert, während das Angebot keine Rolle spielt.",
+        "Der Marktpreis wird ausschliesslich von den Anbietern festgelegt, ohne Berücksichtigung der Nachfrage der Konsumenten."
+      ],
+      "explanation": "Das Zusammenspiel von Angebot und Nachfrage bestimmt den Markt.",
+      "difficulty": "easy",
+      "category": "Markt"
+    },
+    {
+      "correct_sentence": "Im Marktgleichgewicht entsprechen sich angebotene und nachgefragte Menge zum herrschenden Gleichgewichtspreis.",
+      "wrong_alternatives": [
+        "Im Marktgleichgewicht ist die angebotene Menge immer grösser als die nachgefragte Menge, um Überschüsse zu vermeiden.",
+        "Im Marktgleichgewicht ist die nachgefragte Menge immer grösser als die angebotene Menge, um Knappheit zu erzeugen und Preise zu erhöhen."
+      ],
+      "explanation": "Marktgleichgewicht bedeutet ein Ausgleich zwischen Angebot und Nachfrage.",
+      "difficulty": "medium",
+      "category": "Marktgleichgewicht"
+    },
+    {
+      "correct_sentence": "Vollständiger Wettbewerb und informierte Konsumenten sind Voraussetzungen für das Funktionieren des freien Marktes.",
+      "wrong_alternatives": [
+        "Ein freier Markt funktioniert am besten, wenn es Monopole gibt, da diese für Stabilität und Effizienz sorgen.",
+        "Für einen freien Markt ist es irrelevant, ob Konsumenten informiert sind oder nicht, solange Angebot und Nachfrage vorhanden sind."
+      ],
+      "explanation": "Wettbewerb und Transparenz sind essenziell für einen freien Markt.",
+      "difficulty": "medium",
+      "category": "Markt"
+    },
+    {
+      "correct_sentence": "Der einfache Wirtschaftskreislauf zeigt den Austausch von Gütern und Geld zwischen Haushalten und Unternehmen.",
+      "wrong_alternatives": [
+        "Der einfache Wirtschaftskreislauf beinhaltet den Staat und Banken als zentrale Akteure, neben Haushalten und Unternehmen.",
+        "Im einfachen Wirtschaftskreislauf tauschen Haushalte und Unternehmen nur Produktionsfaktoren, aber keine fertigen Güter und Dienstleistungen aus."
+      ],
+      "explanation": "Der einfache Kreislauf beschränkt sich auf die grundlegende Interaktion zwischen Haushalten und Unternehmen.",
+      "difficulty": "easy",
+      "category": "Wirtschaftskreislauf"
+    },
+    {
+      "correct_sentence": "Im erweiterten Wirtschaftskreislauf kommen Staat, Banken und Ausland als zusätzliche Akteure hinzu.",
+      "wrong_alternatives": [
+        "Der erweiterte Wirtschaftskreislauf reduziert die Anzahl der Akteure im Vergleich zum einfachen Kreislauf, um die Darstellung zu vereinfachen.",
+        "Im erweiterten Wirtschaftskreislauf spielen Staat, Banken und Ausland keine Rolle, da er sich nur auf die Binnenwirtschaft konzentriert."
+      ],
+      "explanation": "Der erweiterte Kreislauf berücksichtigt zusätzliche, wichtige Wirtschaftsteilnehmer.",
+      "difficulty": "medium",
+      "category": "Wirtschaftskreislauf"
+    },
+    {
+      "correct_sentence": "Produktionsfaktoren sind Boden/Umwelt, Arbeit/Wissen (Humankapital) und Kapital, die zur Güterproduktion benötigt werden.",
+      "wrong_alternatives": [
+        "Produktionsfaktoren beschränken sich auf natürliche Ressourcen wie Boden und Rohstoffe, während Arbeit und Kapital keine Rolle spielen.",
+        "Produktionsfaktoren umfassen nur Geld und Maschinen (Kapital), während natürliche Ressourcen und menschliche Arbeit keine Produktionsfaktoren sind."
+      ],
+      "explanation": "Alle drei Faktoren sind notwendig für die Produktion von Gütern und Dienstleistungen.",
+      "difficulty": "medium",
+      "category": "Produktionsfaktoren"
+    },
+    {
+      "correct_sentence": "Der primäre Wirtschaftssektor umfasst die Gewinnung von Rohstoffen und Naturgütern, wie Landwirtschaft und Bergbau.",
+      "wrong_alternatives": [
+        "Der primäre Sektor beinhaltet die Verarbeitung und Veredelung von Rohstoffen zu Industrieprodukten.",
+        "Der primäre Sektor umfasst Dienstleistungen und den Handel mit Gütern, die in anderen Sektoren produziert wurden."
+      ],
+      "explanation": "Der primäre Sektor ist der Rohstoffgewinnungssektor.",
+      "difficulty": "easy",
+      "category": "Wirtschaftssektoren"
+    },
+    {
+      "correct_sentence": "Der sekundäre Wirtschaftssektor befasst sich mit der Herstellung und Verarbeitung von Gütern, wie Industrie und Handwerk.",
+      "wrong_alternatives": [
+        "Der sekundäre Sektor konzentriert sich auf die Verteilung von Gütern und das Anbieten von Dienstleistungen für Konsumenten.",
+        "Der sekundäre Sektor ist für die Bereitstellung von natürlichen Ressourcen und Rohstoffen zuständig."
+      ],
+      "explanation": "Der sekundäre Sektor ist der verarbeitende Sektor.",
+      "difficulty": "medium",
+      "category": "Wirtschaftssektoren"
+    },
+    {
+      "correct_sentence": "Der tertiäre Wirtschaftssektor beinhaltet Dienstleistungen und die Verteilung von Gütern, wie Handel, Banken und Gesundheitswesen.",
+      "wrong_alternatives": [
+        "Der tertiäre Sektor ist der Sektor, der primär Rohstoffe aus der Natur gewinnt und diese für die Weiterverarbeitung bereitstellt.",
+        "Der tertiäre Sektor umfasst ausschliesslich die Produktion von materiellen Gütern und ist nicht im Dienstleistungsbereich tätig."
+      ],
+      "explanation": "Der tertiäre Sektor ist der Dienstleistungssektor.",
+      "difficulty": "medium",
+      "category": "Wirtschaftssektoren"
+    }
+  ]
+}
