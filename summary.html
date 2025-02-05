@@ -175,6 +175,7 @@
 
   <!-- Quiz Container -->
   <div id="quizContainer" style="display: none;">
+    <!-- Media area -->
     <div id="mediaContainer" class="hidden"></div>
     <div id="mediaSource" class="hidden"></div>
     <div class="progress">Frage <span id="current">1</span> von <span id="total">10</span></div>
@@ -215,7 +216,7 @@
     let totalPoints = 0;
     let attemptCount = 0;
 
-    // Replace "ß" with "ss" in all string values of the JSON object.
+    // Replace "ß" with "ss" in all string values.
     function replaceSharpS(obj) {
       if (typeof obj === 'string') {
         return obj.replace(/ß/g, 'ss');
@@ -249,7 +250,7 @@
         data = replaceSharpS(data);
         console.log('Bereinigte Quiz-Daten:', data);
 
-        // Handle media: if type is "text", fetch and display file content.
+        // Handle media: support "text", "youtube", and "mp3" types.
         const mediaContainer = document.getElementById('mediaContainer');
         const mediaSource = document.getElementById('mediaSource');
         if (data.media && data.media.type && data.media.url) {
@@ -262,15 +263,33 @@
             } catch (e) {
               mediaContainer.textContent = "Medieninhalt konnte nicht geladen werden.";
             }
+          } else if (data.media.type === 'youtube') {
+            mediaContainer.innerHTML = `
+              <iframe src="${data.media.url}" 
+                      frameborder="0" 
+                      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+                      allowfullscreen>
+              </iframe>`;
+          } else if (data.media.type === 'mp3') {
+            mediaContainer.innerHTML = `
+              <audio controls>
+                <source src="${data.media.url}" type="audio/mpeg">
+                Ihr Browser unterstützt das Audioelement nicht.
+              </audio>`;
+          } else {
+            mediaContainer.innerHTML = "";
           }
           mediaContainer.classList.remove('hidden');
           if (data.media.source) {
             mediaSource.innerHTML = `<a href="${data.media.source}" target="_blank">Quelle</a>`;
             mediaSource.classList.remove('hidden');
           } else {
+            mediaSource.innerHTML = "";
             mediaSource.classList.add('hidden');
           }
         } else {
+          mediaContainer.innerHTML = "";
+          mediaSource.innerHTML = "";
           mediaContainer.classList.add('hidden');
           mediaSource.classList.add('hidden');
         }
@@ -300,11 +319,10 @@
       updateProgress();
     }
 
-    // Display the current question and the three answer options.
+    // Display the current question and answer options.
     function showQuestion(index) {
-      attemptCount = 0; // Reset attempt count for new question.
+      attemptCount = 0; // Reset attempts for new question.
       const question = questions[index];
-      // Combine the correct sentence and the wrong alternatives, then shuffle.
       let options = [question.correct_sentence, ...question.wrong_alternatives];
       options = shuffleArray(options);
 
@@ -322,11 +340,10 @@
       });
     }
 
-    // Process the answer selection.
+    // Process an answer selection.
     function handleAnswer(selectedOption, optionDiv, question) {
       if (optionDiv.classList.contains('disabled')) return;
       if (selectedOption === question.correct_sentence) {
-        // Correct answer selected.
         let pointsAwarded = 0;
         if (attemptCount === 0) {
           pointsAwarded = 1;
@@ -340,31 +357,29 @@
         disableOtherOptions();
         showFeedback(question.explanation);
         addToSummaryList(question.correct_sentence);
-        // Automatically move to the next question after a short delay.
+        // Automatically advance after a short delay.
         setTimeout(() => {
           nextQuestion();
         }, 1000);
       } else {
-        // Wrong answer selected.
         optionDiv.classList.add('incorrect', 'disabled');
         attemptCount++;
         showFeedback("Falsch! Versuche es noch einmal.");
       }
     }
 
-    // Disable all answer options.
+    // Disable all options.
     function disableOtherOptions() {
       const options = document.querySelectorAll('#optionsContainer .option');
       options.forEach(option => option.classList.add('disabled'));
     }
 
-    // Append the correctly chosen sentence to the summary list.
+    // Append the correct sentence to the summary list.
     function addToSummaryList(correctSentence) {
       const summaryList = document.getElementById('summaryList');
       const item = document.createElement('div');
       item.className = 'summary-item';
       item.textContent = correctSentence;
-      // Append at the bottom so that the first correct answer stays at the top.
       summaryList.appendChild(item);
     }
 
@@ -380,7 +395,7 @@
       feedback.style.display = 'none';
     }
 
-    // Advance to the next question or show results if finished.
+    // Advance to the next question or show results.
     function nextQuestion() {
       if (currentQuestion < totalQuestions - 1) {
         currentQuestion++;
@@ -414,7 +429,7 @@
       window.print();
     }
 
-    // Simple Fisher–Yates shuffle.
+    // Fisher–Yates shuffle.
     function shuffleArray(array) {
       let arr = array.slice();
       for (let i = arr.length - 1; i > 0; i--) {
