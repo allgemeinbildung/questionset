@@ -24,13 +24,8 @@
       width: 100%;
     }
     h1 {
-      margin-bottom: 20px;
-      font-size: 24px;
-    }
-    p {
       margin-bottom: 30px;
-      font-size: 16px;
-      color: #555;
+      font-size: 24px;
     }
     .btn {
       display: inline-block;
@@ -45,20 +40,28 @@
     .btn:hover {
       background: #45a049;
     }
+    #buttonInfo {
+      margin-top: 20px;
+      font-size: 14px;
+      color: #555;
+    }
   </style>
 </head>
 <body>
   <div class="container">
-    <h1>Wählen Sie den Wiederholungstyp</h1>
-    <p>Bitte wählen Sie, ob Sie Verständnisfragen oder eine Zusammenfassung wiederholen möchten.</p>
-    <a id="btnVerstaendnis" class="btn" href="#">Verständnisfragen</a>
-    <a id="btnSummary" class="btn" href="#">Zusammenfassung</a>
+    <h1 id="heading"></h1>
+    <a id="btnVerstaendnis" class="btn" href="#">Verständnisfragen beantworten</a>
+    <a id="btnSummary" class="btn" href="#">Zusammenfassung zusammenstellen</a>
+    <p id="buttonInfo">Wiederholen Sie die Aufgaben, um neue Fragen zu beantworten oder Zusammenfassungen zusammenzustellen.</p>
   </div>
   <script>
     // Extract the assignmentId parameter from the URL, or use 'default'
     const params = new URLSearchParams(window.location.search);
     const assignmentId = params.get('assignmentId') || 'default';
-    
+
+    // Set the heading with the assignmentId inserted
+    document.getElementById('heading').textContent = `Wie möchten Sie das Thema ${assignmentId} repetieren?`;
+
     // Build the URLs for the two repetition pages using the assignmentId
     document.getElementById('btnVerstaendnis').href = `index.html?assignmentId=${encodeURIComponent(assignmentId)}`;
     document.getElementById('btnSummary').href = `summary.html?assignmentId=${encodeURIComponent(assignmentId)}`;
