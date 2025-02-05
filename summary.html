@@ -8,7 +8,7 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 20px;
-      max-width: 800px;
+      max-width: 1200px; /* increased max width for three-column layout */
       margin: auto;
       background-color: #f9f9f9;
     }
@@ -38,7 +38,7 @@
       font-size: 16px;
       transition: all 0.3s ease;
     }
-    /* Media container */
+    /* Media container for text type */
     #mediaContainer {
       margin: 0 auto 20px;
       max-width: 600px;
@@ -69,15 +69,29 @@
       font-weight: bold;
       color: #666;
     }
-    /* Main content split: left panel (options) and right panel (summary) */
+    /* Main content layout */
     #mainContent {
       display: flex;
       gap: 20px;
+      /* The layout will be three columns if #leftPanel is visible; otherwise only two columns will show */
     }
-    #leftPanel, #rightPanel {
+    /* Left Panel for media (for youtube/mp3) */
+    #leftPanel {
       flex: 1;
     }
-    /* Question container in left panel */
+    /* Hide left panel by default */
+    .hidden {
+      display: none;
+    }
+    /* Middle Panel for questions */
+    #middlePanel {
+      flex: 1;
+    }
+    /* Right Panel for summary */
+    #rightPanel {
+      flex: 1;
+    }
+    /* Question container inside middle panel */
     .question-container {
       background: white;
       padding: 25px;
@@ -86,7 +100,7 @@
       margin-bottom: 20px;
     }
     #questionText {
-      font-size: 12px;
+      font-size: 14px; /* updated to 14px */
       margin-bottom: 15px;
     }
     #optionsContainer .option {
@@ -97,6 +111,7 @@
       border-radius: 5px;
       cursor: pointer;
       transition: all 0.2s ease;
+      font-size: 14px; /* updated to 14px */
     }
     #optionsContainer .option:hover {
       background: #f0f0f0;
@@ -121,6 +136,7 @@
       background: #e3f2fd;
       border: 2px solid #90caf9;
       display: none;
+      font-size: 14px;
     }
     /* Summary list in right panel */
     .summary-list {
@@ -128,13 +144,14 @@
       padding: 20px;
       border-radius: 10px;
     }
-    .summary-list h5 {
+    .summary-list h3 {
       margin-top: 0;
     }
     .summary-item {
       margin: 10px 0;
       border-bottom: 1px solid #ccc;
       padding-bottom: 5px;
+      font-size: 14px;
     }
     /* Final result container */
     #resultContainer {
@@ -175,13 +192,17 @@
 
   <!-- Quiz Container -->
   <div id="quizContainer" style="display: none;">
-    <!-- Media area -->
+    <!-- For media of type "text", the mediaContainer is shown above the main content -->
     <div id="mediaContainer" class="hidden"></div>
     <div id="mediaSource" class="hidden"></div>
     <div class="progress">Satz <span id="current">1</span> von <span id="total">10</span></div>
+    
+    <!-- Main Content -->
     <div id="mainContent">
-      <!-- Left Panel: Options -->
-      <div id="leftPanel">
+      <!-- Left Panel: For media (only visible if type is youtube/mp3) -->
+      <div id="leftPanel" class="hidden"></div>
+      <!-- Middle Panel: Questions and options -->
+      <div id="middlePanel">
         <div class="question-container">
           <div id="questionText"></div>
           <div id="optionsContainer"></div>
@@ -192,7 +213,7 @@
       <div id="rightPanel">
         <div class="summary-list" id="summaryList">
           <h3>Zusammenfassung</h3>
-          <!-- Correct answers will be appended here in order -->
+          <!-- Correct answers will be appended here -->
         </div>
       </div>
     </div>
@@ -251,41 +272,51 @@
         console.log('Bereinigte Quiz-Daten:', data);
 
         // Handle media: support "text", "youtube", and "mp3" types.
-        const mediaContainer = document.getElementById('mediaContainer');
-        const mediaSource = document.getElementById('mediaSource');
+        // For youtube/mp3, we use the left panel of a three-column layout.
+        const mediaType = data.media && data.media.type;
         if (data.media && data.media.type && data.media.url) {
-          if (data.media.type === 'text') {
+          if (mediaType === 'text') {
+            // For text media, show the mediaContainer above the mainContent.
             try {
               const mediaResponse = await fetch(data.media.url);
               if (!mediaResponse.ok) throw new Error("Medieninhalt konnte nicht geladen werden");
               const textContent = await mediaResponse.text();
-              mediaContainer.textContent = textContent;
+              document.getElementById('mediaContainer').textContent = textContent;
             } catch (e) {
-              mediaContainer.textContent = "Medieninhalt konnte nicht geladen werden.";
+              document.getElementById('mediaContainer').textContent = "Medieninhalt konnte nicht geladen werden.";
             }
-          } else if (data.media.type === 'youtube') {
-          // Convert a standard YouTube URL to an embed URL
-            let videoUrl = data.media.url;
-            // Check if the URL is in watch format and convert it.
-            if (videoUrl.indexOf('watch?v=') !== -1) {
-              videoUrl = videoUrl.replace('watch?v=', 'embed/');
+            document.getElementById('mediaContainer').classList.remove('hidden');
+            // Ensure leftPanel remains hidden.
+          } else if (mediaType === 'youtube' || mediaType === 'mp3') {
+            // Prepare embed content in the leftPanel.
+            let embedHTML = "";
+            if (mediaType === 'youtube') {
+              let videoUrl = data.media.url;
+              // Convert a standard YouTube watch URL to an embed URL.
+              if (videoUrl.indexOf('watch?v=') !== -1) {
+                videoUrl = videoUrl.replace('watch?v=', 'embed/');
+              }
+              // Optionally adjust width/height (responsive via CSS flex)
+              embedHTML = `<iframe src="${videoUrl}" 
+                                frameborder="0" 
+                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+                                allowfullscreen>
+                           </iframe>`;
+            } else if (mediaType === 'mp3') {
+              embedHTML = `<audio controls>
+                             <source src="${data.media.url}" type="audio/mpeg">
+                             Ihr Browser unterstützt das Audioelement nicht.
+                           </audio>`;
             }
-            mediaContainer.innerHTML = `
-              <iframe width="560" height="315" src="${videoUrl}" 
-                      frameborder="0" 
-                      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                      allowfullscreen>
-              </iframe>`;
-          } else if (data.media.type === 'mp3') {
-            mediaContainer.innerHTML = `
-              <audio controls>
-                <source src="${data.media.url}" type="audio/mpeg">
-                Ihr Browser unterstützt das Audioelement nicht.
-              </audio>`;
+            const leftPanel = document.getElementById('leftPanel');
+            leftPanel.innerHTML = embedHTML;
+            leftPanel.classList.remove('hidden');
           } else {
-            mediaContainer.innerHTML = "";
+            // Unknown media type.
+            document.getElementById('mediaContainer').innerHTML = "";
           }
-          mediaContainer.classList.remove('hidden');
+          // Handle source link if provided.
+          const mediaSource = document.getElementById('mediaSource');
           if (data.media.source) {
             mediaSource.innerHTML = `<a href="${data.media.source}" target="_blank">Quelle</a>`;
             mediaSource.classList.remove('hidden');
@@ -294,10 +325,9 @@
             mediaSource.classList.add('hidden');
           }
         } else {
-          mediaContainer.innerHTML = "";
-          mediaSource.innerHTML = "";
-          mediaContainer.classList.add('hidden');
-          mediaSource.classList.add('hidden');
+          // No valid media.
+          document.getElementById('mediaContainer').innerHTML = "";
+          document.getElementById('mediaSource').innerHTML = "";
         }
 
         // Validate questions.
