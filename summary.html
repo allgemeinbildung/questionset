@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Zusammenfassungs-Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      background-color: #f9f9f9;
+    }
+
+    /* Start Screen */
+    #startScreen {
+      text-align: center;
+      padding: 50px 20px;
+    }
+    .title-image {
+      max-width: 400px;
+      margin: 0 auto 20px;
+      display: block;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    }
+    #startScreen h1 {
+      margin-top: 15px;
+    }
+    #startBtn {
+      margin-top: 20px;
+      background: #4CAF50;
+      color: white;
+      padding: 12px 25px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+      transition: all 0.3s ease;
+    }
+
+    /* Quiz Container */
+    #quizContainer {
+      display: none;
+    }
+    #mediaContainer {
+      margin: 0 auto 20px;
+      max-width: 600px;
+      text-align: center;
+    }
+    /* For embedded media – if used */
+    #mediaContainer iframe,
+    #mediaContainer audio {
+      width: 100%;
+      border: none;
+      border-radius: 8px;
+    }
+    #mediaSource {
+      text-align: center;
+      margin-top: 10px;
+    }
+    #mediaSource a {
+      color: #2196F3;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    #mediaSource a:hover {
+      text-decoration: underline;
+    }
+
+    /* Progress */
+    .progress {
+      text-align: center;
+      margin: 20px 0;
+      font-weight: bold;
+      color: #666;
+    }
+
+    /* Question Container */
+    .question-container {
+      background: white;
+      padding: 25px;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      margin: 20px 0;
+    }
+    #questionText {
+      font-size: 18px;
+      margin-bottom: 15px;
+    }
+    #optionsContainer .option {
+      padding: 15px;
+      margin: 10px 0;
+      background: #f8f8f8;
+      border: 2px solid #ddd;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+    #optionsContainer .option:hover {
+      background: #f0f0f0;
+    }
+    /* Green for correct, red for wrong */
+    .correct {
+      background: #e8f5e9 !important;
+      border-color: #4CAF50 !important;
+    }
+    .incorrect {
+      background: #ffebee !important;
+      border-color: #f44336 !important;
+    }
+    /* When an option is disabled (either after wrong or after a correct answer) */
+    .disabled {
+      pointer-events: none;
+      opacity: 0.6;
+    }
+    .feedback {
+      margin-top: 15px;
+      padding: 15px;
+      border-radius: 5px;
+      background: #e3f2fd;
+      border: 2px solid #90caf9;
+      display: none;
+    }
+    /* Button container */
+    .button-container {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      margin-top: 20px;
+    }
+    #nextBtn {
+      background: #2196F3;
+      color: white;
+      padding: 12px 25px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+      transition: all 0.3s ease;
+    }
+    #nextBtn:disabled {
+      background: #9E9E9E;
+      cursor: default;
+    }
+    /* Summary list (shows correct sentences as they are “solved”) */
+    .summary-list {
+      background: #e8f5e9;
+      padding: 20px;
+      border-radius: 10px;
+      margin: 20px 0;
+    }
+    .summary-list h3 {
+      margin-top: 0;
+    }
+    .summary-item {
+      margin: 10px 0;
+    }
+    /* Final results */
+    #resultContainer {
+      display: none;
+      text-align: center;
+      padding: 20px;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    @media print {
+      body * {
+        visibility: hidden;
+      }
+      #resultContainer, #resultContainer * {
+        visibility: visible;
+      }
+      #resultContainer {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+      }
+      button[onclick="printResults()"] {
+        display: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Start Screen -->
+  <div id="startScreen">
+    <img src="images/img1.jpg" alt="Quiz Header Image" class="title-image">
+    <h1 id="quizTitle"></h1>
+    <button id="startBtn" onclick="startQuiz()">Quiz starten</button>
+  </div>
+
+  <!-- Quiz Container -->
+  <div id="quizContainer">
+    <!-- Media area (for type "text", we fetch and display file content) -->
+    <div id="mediaContainer" class="hidden"></div>
+    <div id="mediaSource" class="hidden"></div>
+
+    <!-- Progress -->
+    <div class="progress">Frage <span id="current">1</span> von <span id="total">10</span></div>
+
+    <!-- Question & Options -->
+    <div class="question-container">
+      <div id="questionText"></div>
+      <div id="optionsContainer"></div>
+      <div id="feedback" class="feedback"></div>
+    </div>
+
+    <!-- Next Button -->
+    <div class="button-container">
+      <button id="nextBtn" onclick="nextQuestion()" disabled>Nächste Frage</button>
+    </div>
+
+    <!-- Summary List: correctly chosen sentences will be added here -->
+    <div class="summary-list" id="summaryList">
+      <h3>Richtige Sätze:</h3>
+      <!-- New items are prepended below the heading -->
+    </div>
+  </div>
+
+  <!-- Final Result Container -->
+  <div id="resultContainer">
+    <h2>Quiz abgeschlossen</h2>
+    <p>Alle korrekten Sätze:</p>
+    <div id="finalSummary"></div>
+    <button onclick="location.reload()">Neues Quiz</button>
+    <button onclick="printResults()" style="margin-left: 10px;">Drucken</button>
+  </div>
+
+  <script>
+    let currentQuestion = 0;
+    let totalQuestions = 10;
+    let questions = [];
+    let assignmentId = 'default';
+
+    // Replace "ß" with "ss" in any string values within the JSON
+    function replaceSharpS(obj) {
+      if (typeof obj === 'string') {
+        return obj.replace(/ß/g, 'ss');
+      } else if (Array.isArray(obj)) {
+        return obj.map(replaceSharpS);
+      } else if (typeof obj === 'object' && obj !== null) {
+        const newObj = {};
+        for (let key in obj) {
+          if (obj.hasOwnProperty(key)) {
+            newObj[key] = replaceSharpS(obj[key]);
+          }
+        }
+        return newObj;
+      }
+      return obj;
+    }
+
+    // Initialize the quiz: fetch JSON, set media, title and questions.
+    async function initializeQuiz() {
+      const params = new URLSearchParams(window.location.search);
+      assignmentId = params.get('assignmentId') || 'default';
+      console.log(`Lade Zusammenfassungsquiz für Assignment ID: ${assignmentId}`);
+
+      try {
+        // Assuming the JSON file is in a folder "summaries"
+        const response = await fetch(`summaries/${encodeURIComponent(assignmentId)}.json`);
+        if (!response.ok) {
+          throw new Error(`HTTP-Fehler! Status: ${response.status}`);
+        }
+        let data = await response.json();
+        console.log('Quiz-Daten geladen:', data);
+
+        data = replaceSharpS(data);
+        console.log('Bereinigte Quiz-Daten:', data);
+
+        // Handle media – if type "text" then fetch and display text content
+        const mediaContainer = document.getElementById('mediaContainer');
+        const mediaSource = document.getElementById('mediaSource');
+        if (data.media && data.media.type && data.media.url) {
+          if (data.media.type === 'text') {
+            try {
+              const mediaResponse = await fetch(data.media.url);
+              if (!mediaResponse.ok) throw new Error("Medieninhalt konnte nicht geladen werden");
+              const textContent = await mediaResponse.text();
+              mediaContainer.textContent = textContent;
+            } catch (e) {
+              mediaContainer.textContent = "Medieninhalt konnte nicht geladen werden.";
+            }
+          }
+          mediaContainer.classList.remove('hidden');
+          if (data.media.source) {
+            mediaSource.innerHTML = `<a href="${data.media.source}" target="_blank">Quelle</a>`;
+            mediaSource.classList.remove('hidden');
+          } else {
+            mediaSource.classList.add('hidden');
+          }
+        } else {
+          mediaContainer.classList.add('hidden');
+          mediaSource.classList.add('hidden');
+        }
+
+        // Verify questions exist
+        if (!data.questions || !Array.isArray(data.questions) || data.questions.length === 0) {
+          throw new Error('Keine Zusammenfassungsfragen im Quiz gefunden.');
+        }
+        // Choose 10 questions (or all if fewer available)
+        questions = shuffleArray(data.questions).slice(0, totalQuestions);
+        totalQuestions = questions.length;
+        document.getElementById('total').textContent = totalQuestions;
+
+        // Set quiz title
+        const quizTitle = data.title || assignmentId.replace(/-/g, ' ');
+        document.getElementById('quizTitle').textContent = quizTitle;
+      } catch (error) {
+        console.error('Fehler beim Laden der Zusammenfassungen:', error);
+        alert('Quiz konnte nicht geladen werden: ' + error.message);
+      }
+    }
+
+    // Start quiz: hide start screen, show quiz container, and display first question.
+    function startQuiz() {
+      document.getElementById('startScreen').style.display = 'none';
+      document.getElementById('quizContainer').style.display = 'block';
+      showQuestion(currentQuestion);
+      updateProgress();
+    }
+
+    // Display the current question with three options.
+    function showQuestion(index) {
+      const question = questions[index];
+      // Combine the correct sentence and the wrong alternatives.
+      let options = [question.correct_sentence, ...question.wrong_alternatives];
+      // Randomize the order so the correct answer is not always in the same position.
+      options = shuffleArray(options);
+
+      const questionText = document.getElementById('questionText');
+      questionText.textContent = "Wähle den richtigen Satz aus:";
+
+      const optionsContainer = document.getElementById('optionsContainer');
+      optionsContainer.innerHTML = "";
+
+      hideFeedback();
+      // Disable the next button until the correct option is chosen.
+      document.getElementById('nextBtn').disabled = true;
+
+      options.forEach(option => {
+        const optionDiv = document.createElement('div');
+        optionDiv.className = 'option';
+        optionDiv.textContent = option;
+        // Each option gets its own click handler.
+        optionDiv.onclick = () => handleAnswer(option, optionDiv, question);
+        optionsContainer.appendChild(optionDiv);
+      });
+    }
+
+    // Process the user’s answer.
+    function handleAnswer(selectedOption, optionDiv, question) {
+      // If this option is already disabled, do nothing.
+      if (optionDiv.classList.contains('disabled')) return;
+
+      if (selectedOption === question.correct_sentence) {
+        // Correct answer chosen:
+        optionDiv.classList.add('correct', 'disabled');
+        disableOtherOptions();
+        showFeedback(question.explanation);
+        addToSummaryList(question.correct_sentence);
+        document.getElementById('nextBtn').disabled = false;
+      } else {
+        // Wrong answer chosen: mark it red and disable further clicks on it.
+        optionDiv.classList.add('incorrect', 'disabled');
+        showFeedback("Falsch! Versuche es noch einmal.");
+      }
+    }
+
+    // Disable all options (once the correct one has been selected)
+    function disableOtherOptions() {
+      const options = document.querySelectorAll('#optionsContainer .option');
+      options.forEach(option => option.classList.add('disabled'));
+    }
+
+    // Add the correctly chosen sentence to the summary list (prepended so the newest is on top).
+    function addToSummaryList(correctSentence) {
+      const summaryList = document.getElementById('summaryList');
+      const item = document.createElement('div');
+      item.className = 'summary-item';
+      item.textContent = correctSentence;
+      // Insert after the heading (the h3 is the first child).
+      summaryList.insertBefore(item, summaryList.children[1]);
+    }
+
+    function showFeedback(message) {
+      const feedback = document.getElementById('feedback');
+      feedback.textContent = message;
+      feedback.style.display = 'block';
+    }
+
+    function hideFeedback() {
+      const feedback = document.getElementById('feedback');
+      feedback.textContent = "";
+      feedback.style.display = 'none';
+    }
+
+    // Move to the next question or show final results if it was the last one.
+    function nextQuestion() {
+      if (currentQuestion < totalQuestions - 1) {
+        currentQuestion++;
+        showQuestion(currentQuestion);
+        updateProgress();
+      } else {
+        showResults();
+      }
+    }
+
+    function updateProgress() {
+      document.getElementById('current').textContent = currentQuestion + 1;
+      document.getElementById('total').textContent = totalQuestions;
+    }
+
+    // When all questions have been answered, display the final results.
+    function showResults() {
+      document.getElementById('quizContainer').style.display = 'none';
+      const resultContainer = document.getElementById('resultContainer');
+      const finalSummary = document.getElementById('finalSummary');
+      finalSummary.innerHTML = "";
+
+      const summaryItems = document.querySelectorAll('.summary-item');
+      summaryItems.forEach((item, index) => {
+        finalSummary.innerHTML += `<p>${index + 1}. ${item.textContent}</p>`;
+      });
+      resultContainer.style.display = 'block';
+    }
+
+    function printResults() {
+      window.print();
+    }
+
+    // Simple Fisher–Yates shuffle
+    function shuffleArray(array) {
+      let arr = array.slice();
+      for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+      }
+      return arr;
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+      initializeQuiz();
+    });
+  </script>
+</body>
+</html>
