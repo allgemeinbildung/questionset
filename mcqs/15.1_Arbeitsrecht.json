@@ -1,0 +1,546 @@
+{
+  "title": "Verständnisfragen zum Arbeitsrecht",
+  "media": {
+      "type": "",
+      "url": "",
+      "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Gesetz regelt in der Schweiz die grundlegenden Bestimmungen zum Einzelarbeitsvertrag (EAV)?</p>",
+      "options": [
+        {
+          "text": "Das Arbeitsgesetz (ArG)",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das Arbeitsgesetz (ArG) enthält <strong>zwingende öffentlich-rechtliche Mindestvorschriften</strong>, aber nicht die grundlegenden Bestimmungen zum EAV."
+        },
+        {
+          "text": "Das Obligationenrecht (OR)",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das <strong>Obligationenrecht (OR)</strong> enthält die grundlegenden Bestimmungen zum Einzelarbeitsvertrag (EAV)."
+        },
+        {
+          "text": "Das Strafgesetzbuch (StGB)",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das Strafgesetzbuch (StGB) hat nichts mit den Bestimmungen zum <strong>Einzelarbeitsvertrag</strong> zu tun."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Gesetzesgrundlage enthält Vorschriften über den Gesundheitsschutz am Arbeitsplatz?</p>",
+      "options": [
+        {
+          "text": "Obligationenrecht (OR)",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das Obligationenrecht (OR) regelt vor allem den <strong>Einzelarbeitsvertrag</strong>, nicht primär den Gesundheitsschutz."
+        },
+        {
+          "text": "Arbeitsgesetz (ArG)",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das <strong>Arbeitsgesetz (ArG)</strong> enthält zwingende Vorschriften über den <strong>Gesundheitsschutz</strong> am Arbeitsplatz."
+        },
+        {
+          "text": "Zivilgesetzbuch (ZGB)",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das Zivilgesetzbuch (ZGB) befasst sich mit anderen Rechtsbereichen wie <strong>Personen- und Familienrecht</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Gesamtarbeitsvertrag (GAV)?</p>",
+      "options": [
+        {
+          "text": "Ein Vertrag zwischen Arbeitgeber und Arbeitnehmer.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, dies beschreibt einen <strong>Einzelarbeitsvertrag</strong>, nicht einen Gesamtarbeitsvertrag."
+        },
+        {
+          "text": "Ein Vertrag zwischen Arbeitgeberverband und Arbeitnehmerorganisation.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein <strong>Gesamtarbeitsvertrag (GAV)</strong> wird zwischen einem <strong>Arbeitgeberverband</strong> und einer <strong>Arbeitnehmerorganisation</strong> abgeschlossen."
+        },
+        {
+          "text": "Ein betriebsinternes Reglement.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, dies beschreibt ein <strong>Betriebsreglement</strong>, welches betriebsinterne Regelungen enthält."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange dauert die Probezeit im unbefristeten Arbeitsverhältnis normalerweise?</p>",
+      "options": [
+        {
+          "text": "Drei Monate",
+          "is_correct": false,
+          "feedback": "❌ Falsch, drei Monate ist die <strong>maximale verlängerbare</strong> Probezeit, aber nicht die normale Dauer."
+        },
+        {
+          "text": "Einen Monat",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Probezeit dauert normalerweise <strong>einen Monat</strong> und kann auf maximal drei Monate verlängert werden."
+        },
+        {
+          "text": "Sechs Monate",
+          "is_correct": false,
+          "feedback": "❌ Falsch, sechs Monate ist <strong>länger als die maximal verlängerbare</strong> Probezeit."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Formvorschrift gilt für den Einzelarbeitsvertrag?</p>",
+      "options": [
+        {
+          "text": "Schriftform",
+          "is_correct": false,
+          "feedback": "❌ Falsch, der Einzelarbeitsvertrag ist <strong>nicht zwingend</strong> an die Schriftform gebunden."
+        },
+        {
+          "text": "Formlos gültig",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Einzelarbeitsvertrag ist <strong>formlos gültig</strong>, bedarf also keiner besonderen Form."
+        },
+        {
+          "text": "Öffentliche Beurkundung",
+          "is_correct": false,
+          "feedback": "❌ Falsch, eine öffentliche Beurkundung ist für den Einzelarbeitsvertrag <strong>nicht erforderlich</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie hoch ist der gesetzliche Mindestlohn in der Schweiz?</p>",
+      "options": [
+        {
+          "text": "Es gibt keinen gesetzlichen Mindestlohn auf nationaler Ebene.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! In der Schweiz gibt es <strong>keinen gesetzlichen Mindestlohn</strong> auf nationaler Ebene. Mindestlöhne können aber in <strong>Gesamtarbeitsverträgen</strong> festgelegt sein."
+        },
+        {
+          "text": "CHF 20 pro Stunde",
+          "is_correct": false,
+          "feedback": "❌ Falsch, dies ist <strong>kein gesetzlich</strong> festgelegter Mindestlohn in der Schweiz."
+        },
+        {
+          "text": "CHF 25 pro Stunde",
+          "is_correct": false,
+          "feedback": "❌ Falsch, dies ist <strong>kein gesetzlich</strong> festgelegter Mindestlohn in der Schweiz."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Wochen Ferien stehen einer Arbeitnehmerin ab dem 20. Altersjahr gesetzlich mindestens zu?</p>",
+      "options": [
+        {
+          "text": "Drei Wochen",
+          "is_correct": false,
+          "feedback": "❌ Falsch, drei Wochen ist <strong>weniger als der gesetzliche Mindestanspruch</strong>."
+        },
+        {
+          "text": "Vier Wochen",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der gesetzliche Mindestferienanspruch beträgt <strong>vier Wochen</strong> ab dem vollendeten 20. Altersjahr."
+        },
+        {
+          "text": "Fünf Wochen",
+          "is_correct": false,
+          "feedback": "❌ Falsch, fünf Wochen ist <strong>mehr als der gesetzliche Mindestanspruch</strong>, aber in manchen Branchen üblich oder durch GAV geregelt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie hoch ist der Lohnzuschlag für Nachtarbeit gemäss Arbeitsgesetz?</p>",
+      "options": [
+        {
+          "text": "10 Prozent",
+          "is_correct": false,
+          "feedback": "❌ Falsch, 10 Prozent ist <strong>nicht der gesetzliche Zuschlag</strong> für Nachtarbeit."
+        },
+        {
+          "text": "25 Prozent",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Lohnzuschlag für Nachtarbeit beträgt gemäss Arbeitsgesetz <strong>25 Prozent</strong>."
+        },
+        {
+          "text": "50 Prozent",
+          "is_correct": false,
+          "feedback": "❌ Falsch, 50 Prozent ist der Zuschlag für <strong>Sonntagsarbeit</strong>, nicht für Nachtarbeit."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet die Treuepflicht der Arbeitnehmenden gegenüber dem Arbeitgeber?</p>",
+      "options": [
+        {
+          "text": "Arbeitnehmende müssen alle Weisungen des Arbeitgebers befolgen, auch wenn sie unzumutbar sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die Treuepflicht bedeutet <strong>nicht</strong>, dass <strong>alle</strong> Weisungen befolgt werden müssen, insbesondere unzumutbare nicht."
+        },
+        {
+          "text": "Arbeitnehmende dürfen keine Nebentätigkeiten ausüben, die den Arbeitgeber konkurrenzieren.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Treuepflicht</strong> beinhaltet unter anderem, dass <strong>Nebentätigkeiten</strong>, die den Arbeitgeber <strong>konkurrenzieren</strong>, verboten sind."
+        },
+        {
+          "text": "Arbeitnehmende müssen dem Arbeitgeber private Informationen offenbaren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die Treuepflicht beinhaltet <strong>nicht</strong> die Offenbarung von <strong>privaten Informationen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es wichtig, dass ein Arbeitszeugnis wahrheitsgetreu und klar formuliert ist?</p>",
+      "options": [
+        {
+          "text": "Damit der ehemalige Arbeitnehmer keine rechtlichen Schritte einleiten kann.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die Wahrheitspflicht dient primär der <strong>korrekten Information</strong> für zukünftige Arbeitgeber, nicht der Vermeidung von Rechtsstreitigkeiten."
+        },
+        {
+          "text": "Damit es dem ehemaligen Arbeitnehmer bei der Jobsuche hilft und zukünftige Arbeitgeber ein korrektes Bild erhalten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein <strong>wahrheitsgetreues und klares Arbeitszeugnis</strong> hilft dem Arbeitnehmer bei der <strong>Jobsuche</strong> und vermittelt zukünftigen Arbeitgebern ein <strong>korrektes Bild</strong>."
+        },
+        {
+          "text": "Damit der Arbeitgeber keine schlechte Bewertung im Internet erhält.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, dies ist <strong>kein primärer Grund</strong> für die Wahrheitspflicht im Arbeitszeugnis."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Inwiefern unterscheidet sich ein Gesamtarbeitsvertrag (GAV) von einem Einzelarbeitsvertrag (EAV) hinsichtlich der Arbeitsbedingungen?</p>",
+      "options": [
+        {
+          "text": "Ein GAV legt die individuellen Arbeitsbedingungen für jeden einzelnen Arbeitnehmer fest, während ein EAV allgemeine Richtlinien vorgibt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, es ist genau umgekehrt: der <strong>EAV</strong> ist <strong>individuell</strong>, der <strong>GAV</strong> legt <strong>allgemeine Bedingungen</strong> für eine Branche fest."
+        },
+        {
+          "text": "Ein GAV kann für Arbeitnehmende günstigere Bedingungen festlegen als das OR, während ein EAV dies nicht darf.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein <strong>GAV</strong> kann <strong>günstigere Bedingungen</strong> als das OR vorsehen, und der <strong>EAV</strong> darf dem <strong>GAV nicht widersprechen</strong>, ausser zum Vorteil des Arbeitnehmenden."
+        },
+        {
+          "text": "Ein EAV ist verbindlicher als ein GAV, da er individuell zwischen Arbeitgeber und Arbeitnehmer ausgehandelt wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, der <strong>GAV</strong> kann durch <strong>Allgemeinverbindlicherklärung</strong> für eine ganze Branche <strong>verbindlich</strong> sein."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet der Begriff 'Sperrfrist' im Zusammenhang mit Kündigungen?</p>",
+      "options": [
+        {
+          "text": "Eine Frist, innerhalb derer ein Arbeitnehmer keine neue Stelle antreten darf.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, dies beschreibt eher ein <strong>Konkurrenzverbot</strong>, keine Sperrfrist."
+        },
+        {
+          "text": "Eine Frist, während derer der Arbeitgeber einem Arbeitnehmer nicht kündigen darf.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Eine <strong>Sperrfrist</strong> ist eine Zeitspanne, in der der <strong>Arbeitgeber nicht kündigen darf</strong>, z.B. während Krankheit oder Schwangerschaft."
+        },
+        {
+          "text": "Eine Frist, innerhalb derer eine Kündigung schriftlich erfolgen muss.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, dies bezieht sich auf die <strong>Form der Kündigung</strong>, nicht auf eine Sperrfrist."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist eine gütliche Einigung bei arbeitsrechtlichen Streitigkeiten oft besser als ein Gerichtsverfahren?</p>",
+      "options": [
+        {
+          "text": "Weil Gerichtsverfahren im Arbeitsrecht immer zu Gunsten des Arbeitgebers entschieden werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, Gerichtsverfahren im Arbeitsrecht werden <strong>nicht immer</strong> zu Gunsten des Arbeitgebers entschieden."
+        },
+        {
+          "text": "Weil Gerichtsverfahren teuer und zeitaufwendig sein können, während eine gütliche Einigung schneller und kostengünstiger ist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Gütliche Einigungen</strong> sind oft besser, weil <strong>Gerichtsverfahren teuer und zeitaufwendig</strong> sein können, besonders bei geringem Streitwert."
+        },
+        {
+          "text": "Weil Arbeitnehmer vor Gericht grundsätzlich keine Chance haben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, Arbeitnehmer haben vor Gericht durchaus <strong>Chancen</strong>, ihre Rechte durchzusetzen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet 'Friedenspflicht' im Kontext eines Gesamtarbeitsvertrages (GAV)?</p>",
+      "options": [
+        {
+          "text": "Die Pflicht der Arbeitnehmer, bei Streitigkeiten ruhig und besonnen zu bleiben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, dies ist eine allgemeine Verhaltensregel, aber <strong>nicht die spezifische Friedenspflicht</strong> im GAV."
+        },
+        {
+          "text": "Die Pflicht der Vertragsparteien, während der Gültigkeit des GAV auf Kampfmassnahmen wie Streiks zu verzichten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Friedenspflicht</strong> im GAV bedeutet, dass die Sozialpartner während der Geltungsdauer auf <strong>Streiks und Aussperrungen verzichten</strong>."
+        },
+        {
+          "text": "Die Pflicht des Arbeitgebers, für ein friedliches Arbeitsumfeld zu sorgen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, dies beschreibt die allgemeine <strong>Fürsorgepflicht</strong> des Arbeitgebers, nicht die spezifische Friedenspflicht im GAV."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es für Arbeitnehmende wichtig, Überstunden korrekt zu erfassen und nachzuweisen?</p>",
+      "options": [
+        {
+          "text": "Weil Überstunden automatisch im nächsten Monatslohn berücksichtigt werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, Überstunden werden <strong>nicht automatisch</strong> berücksichtigt, sie müssen <strong>erfasst und geltend gemacht</strong> werden."
+        },
+        {
+          "text": "Weil Arbeitnehmende den Nachweis für geleistete Überstunden erbringen müssen, um eine Entschädigung zu erhalten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der <strong>Nachweis der Überstunden</strong> liegt bei den Arbeitnehmenden, um den <strong>Anspruch auf Entschädigung</strong> geltend zu machen."
+        },
+        {
+          "text": "Weil der Arbeitgeber sonst rechtliche Schritte gegen den Arbeitnehmer einleiten kann.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die korrekte Erfassung dient dem <strong>Anspruch des Arbeitnehmenden</strong>, nicht der Vermeidung rechtlicher Schritte des Arbeitgebers in diesem Kontext."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Hauptunterschied zwischen Überstunden und Überzeit?</p>",
+      "options": [
+        {
+          "text": "Überstunden sind freiwillig, Überzeit ist obligatorisch.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>beide</strong>, Überstunden und Überzeit, können <strong>obligatorisch</strong> sein, wenn betrieblich notwendig und zumutbar."
+        },
+        {
+          "text": "Überstunden überschreiten die vertragliche Arbeitszeit, Überzeit überschreitet die wöchentliche Höchstarbeitszeit.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Überstunden</strong> überschreiten die <strong>vertragliche Arbeitszeit</strong>, während <strong>Überzeit</strong> die <strong>wöchentliche Höchstarbeitszeit</strong> überschreitet."
+        },
+        {
+          "text": "Überstunden werden immer mit Freizeit kompensiert, Überzeit immer mit Lohnzuschlag.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>beide</strong> können entweder mit <strong>Freizeit oder Lohnzuschlag</strong> abgegolten werden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Bedeutung hat die Unterscheidung zwischen missbräuchlicher und fristloser Kündigung für Arbeitnehmende?</p>",
+      "options": [
+        {
+          "text": "Bei beiden Kündigungsarten haben Arbeitnehmende keinen Anspruch auf Entschädigung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, bei <strong>missbräuchlicher Kündigung</strong> haben Arbeitnehmende <strong>Anspruch auf Entschädigung</strong>."
+        },
+        {
+          "text": "Eine missbräuchliche Kündigung ist ungültig, während eine fristlose Kündigung immer gültig ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, weder die missbräuchliche noch die fristlose Kündigung ist <strong>automatisch ungültig</strong>. Missbräuchliche Kündigung kann zu Entschädigung führen, fristlose beendet Arbeitsverhältnis sofort."
+        },
+        {
+          "text": "Bei missbräuchlicher Kündigung können Arbeitnehmende eine Entschädigung verlangen, während eine fristlose Kündigung das Arbeitsverhältnis sofort beendet, möglicherweise ohne Anspruch auf volle Lohnfortzahlung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Bei <strong>missbräuchlicher Kündigung</strong> besteht Anspruch auf <strong>Entschädigung</strong>, während <strong>fristlose Kündigung</strong> das Arbeitsverhältnis <strong>sofort beendet</strong>, und bei ungerechtfertigter fristloser Entlassung Anspruch auf Lohn bis ordentliche Kündigungsfrist und evtl. Entschädigung besteht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es wichtig, dass Arbeitgeber die Persönlichkeit ihrer Arbeitnehmenden schützen müssen?</p>",
+      "options": [
+        {
+          "text": "Weil es gesetzlich vorgeschrieben ist und zum Wohlbefinden der Arbeitnehmenden beiträgt, was sich positiv auf die Arbeitsleistung auswirken kann.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der <strong>Persönlichkeitsschutz</strong> ist <strong>gesetzlich vorgeschrieben</strong> und trägt zum <strong>Wohlbefinden</strong> bei, was die <strong>Arbeitsleistung positiv beeinflussen</strong> kann."
+        },
+        {
+          "text": "Weil Arbeitnehmende sonst kündigen könnten und dem Unternehmen Fachkräfte fehlen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, dies ist ein <strong>möglicher sekundärer Effekt</strong>, aber nicht der Hauptgrund für den Persönlichkeitsschutz."
+        },
+        {
+          "text": "Weil der Arbeitgeber sonst Strafanzeige erstatten könnte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, es ist der <strong>Arbeitnehmer</strong>, der bei Verletzung des Persönlichkeitsschutzes <strong>rechtliche Schritte einleiten</strong> kann, nicht umgekehrt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Zweck von Ferien im Arbeitsverhältnis?</p>",
+      "options": [
+        {
+          "text": "Den Arbeitnehmenden zusätzliche Lohnzahlungen zu ermöglichen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, Ferien dienen <strong>nicht primär</strong> der Lohnzahlung, sondern der <strong>Erholung</strong>."
+        },
+        {
+          "text": "Den Arbeitnehmenden Erholung zu ermöglichen und ihre Arbeitskraft zu erhalten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der <strong>Zweck von Ferien</strong> ist die <strong>Erholung</strong> der Arbeitnehmenden und die <strong>Erhaltung ihrer Arbeitskraft</strong>."
+        },
+        {
+          "text": "Den Arbeitgebern zu ermöglichen, den Betrieb während der Ferienzeiten zu schliessen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, dies ist ein <strong>möglicher Nebeneffekt</strong>, aber nicht der Hauptzweck der Ferien aus Arbeitnehmersicht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Inwiefern beeinflusst die Dauer des Arbeitsverhältnisses die Kündigungsfristen?</p>",
+      "options": [
+        {
+          "text": "Je länger das Arbeitsverhältnis dauert, desto kürzer werden die Kündigungsfristen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, es ist genau umgekehrt: je länger das Arbeitsverhältnis dauert, desto <strong>länger</strong> werden die Kündigungsfristen."
+        },
+        {
+          "text": "Je länger das Arbeitsverhältnis dauert, desto länger werden die Kündigungsfristen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Mit zunehmender <strong>Dauer des Arbeitsverhältnisses</strong> verlängern sich in der Regel die <strong>Kündigungsfristen</strong>."
+        },
+        {
+          "text": "Die Dauer des Arbeitsverhältnisses hat keinen Einfluss auf die Kündigungsfristen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Dauer des Arbeitsverhältnisses</strong> ist ein <strong>wesentlicher Faktor</strong> für die Bestimmung der Kündigungsfristen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Einzelarbeitsvertrag muss immer schriftlich abgeschlossen werden, um gültig zu sein.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Der Einzelarbeitsvertrag ist formlos gültig und muss nicht schriftlich sein.",
+      "feedback_incorrect": "Falsch. Der Einzelarbeitsvertrag ist formlos gültig und muss nicht schriftlich sein."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Arbeitnehmende sind verpflichtet, Überstunden zu leisten, wenn der Arbeitgeber dies anordnet.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Arbeitnehmende sind verpflichtet, Überstunden zu leisten, wenn sie betrieblich notwendig und zumutbar sind.",
+      "feedback_incorrect": "Falsch. Arbeitnehmende sind verpflichtet, Überstunden zu leisten, wenn sie betrieblich notwendig und zumutbar sind."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Arbeitgeber bestimmt immer den Zeitpunkt der Ferien, ohne Rücksicht auf die Wünsche der Arbeitnehmenden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Der Arbeitgeber bestimmt den Zeitpunkt der Ferien, muss aber auf die Wünsche der Arbeitnehmenden Rücksicht nehmen.",
+      "feedback_incorrect": "Falsch. Der Arbeitgeber muss auf die Wünsche der Arbeitnehmenden Rücksicht nehmen, auch wenn er den Zeitpunkt bestimmt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Während der Probezeit beträgt die Kündigungsfrist immer 7 Tage.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Während der Probezeit beträgt die Kündigungsfrist in der Regel 7 Tage.",
+      "feedback_incorrect": "Falsch. Während der Probezeit beträgt die Kündigungsfrist in der Regel 7 Tage."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Gesamtarbeitsvertrag (GAV) wird zwischen Arbeitgeber und Arbeitnehmer abgeschlossen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Ein GAV wird zwischen Arbeitgeberverbänden und Arbeitnehmerorganisationen abgeschlossen.",
+      "feedback_incorrect": "Falsch. Ein GAV wird zwischen Arbeitgeberverbänden und Arbeitnehmerorganisationen abgeschlossen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Nachtarbeit ist in der Schweiz grundsätzlich verboten.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Nachtarbeit ist nicht grundsätzlich verboten, aber bewilligungspflichtig und zuschlagspflichtig.",
+      "feedback_incorrect": "Falsch. Nachtarbeit ist nicht grundsätzlich verboten, aber bewilligungspflichtig und zuschlagspflichtig."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Treuepflicht der Arbeitnehmenden bedeutet, dass sie dem Arbeitgeber immer zustimmen müssen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Die Treuepflicht bedeutet nicht, dass Arbeitnehmende immer zustimmen müssen, sondern loyal und verantwortungsbewusst handeln sollen.",
+      "feedback_incorrect": "Falsch. Die Treuepflicht bedeutet nicht, dass Arbeitnehmende immer zustimmen müssen, sondern loyal und verantwortungsbewusst handeln sollen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine missbräuchliche Kündigung ist automatisch ungültig.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Eine missbräuchliche Kündigung ist nicht automatisch ungültig, aber sie kann zu einer Entschädigung für den Arbeitnehmer führen.",
+      "feedback_incorrect": "Falsch. Eine missbräuchliche Kündigung ist nicht automatisch ungültig, aber sie kann zu einer Entschädigung für den Arbeitnehmer führen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Sperrfristen bei Kündigungen gelten auch während der Probezeit.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Sperrfristen gelten erst nach Ablauf der Probezeit.",
+      "feedback_incorrect": "Falsch. Sperrfristen gelten erst nach Ablauf der Probezeit."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Bei einer fristlosen Kündigung endet das Arbeitsverhältnis sofort und es besteht keine Lohnzahlungspflicht mehr.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Bei einer fristlosen Kündigung endet das Arbeitsverhältnis in der Regel sofort, und die Lohnzahlungspflicht entfällt.",
+      "feedback_incorrect": "Falsch. Bei einer fristlosen Kündigung endet das Arbeitsverhältnis in der Regel sofort, und die Lohnzahlungspflicht entfällt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein Arbeitnehmer, der ungerechtfertigt fristlos entlassen wird, hat keinen Anspruch auf Lohnfortzahlung.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Ein Arbeitnehmer, der ungerechtfertigt fristlos entlassen wird, hat Anspruch auf Lohnfortzahlung bis zum Ablauf der ordentlichen Kündigungsfrist und möglicherweise auf Entschädigung.",
+      "feedback_incorrect": "Falsch. Ein Arbeitnehmer, der ungerechtfertigt fristlos entlassen wird, hat Anspruch auf Lohnfortzahlung bis zum Ablauf der ordentlichen Kündigungsfrist und möglicherweise auf Entschädigung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Friedenspflicht im GAV bedeutet, dass Arbeitnehmer auch bei unzumutbaren Arbeitsbedingungen nicht streiken dürfen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Die Friedenspflicht im GAV bedeutet, dass während der Laufzeit des GAV auf Streiks verzichtet wird, um den Arbeitsfrieden zu wahren, auch bei unzumutbaren Bedingungen innerhalb des GAV-Rahmens.",
+      "feedback_incorrect": "Falsch. Die Friedenspflicht im GAV bedeutet, dass während der Laufzeit des GAV auf Streiks verzichtet wird, um den Arbeitsfrieden zu wahren, auch bei unzumutbaren Bedingungen innerhalb des GAV-Rahmens."
+    }
+  ]
+}
