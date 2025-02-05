@@ -1,0 +1,210 @@
+{
+  "title": "Umweltverantwortungsinitiative Quiz",
+  "media": {
+      "type": "text",
+      "url": "https://www.srf.ch/news/schweiz/schweizweiter-sirenentest-die-sirene-heult-so-reagiert-man-im-ernstfall-richtig",
+      "source": "https://chatgpt.com/c/67963d62-29d8-8006-9f76-ff5375056d3f"
+  },
+  "questions": [
+    {
+      "correct_sentence": "Die Bedürfnisse der Menschen sind grundsätzlich unbegrenzt, was die Grundlage für wirtschaftliche Aktivitäten bildet.",
+      "wrong_alternatives": [
+        "Obwohl die Grundbedürfnisse der Menschen begrenzt sind, werden sie durch Marketingstrategien und Produktinnovationen stetig erweitert, was zu einem Anschein unbegrenzter Bedürfnisse führt.",
+        "Im Gegensatz zur landläufigen Meinung sind die Bedürfnisse der Menschen tatsächlich begrenzt und fokussieren sich primär auf lebensnotwendige Güter und Dienstleistungen, während Luxusgüter eine untergeordnete Rolle spielen."
+      ],
+      "explanation": "Menschliche Bedürfnisse sind vielfältig und entwickeln sich ständig weiter.",
+      "difficulty": "medium",
+      "category": "Bedürfnisse"
+    },
+    {
+      "correct_sentence": "Abraham Maslow gliedert die menschlichen Bedürfnisse in einer fünfstufigen Pyramide, von grundlegenden bis zu höheren Bedürfnissen.",
+      "wrong_alternatives": [
+        "Nach Abraham Maslows Theorie werden die menschlichen Bedürfnisse in einem Kreislauf dargestellt, der sechs verschiedene Phasen umfasst und die ständige Wiederholung von Bedürfnissen betont.",
+        "Die Bedürfnispyramide nach Maslow besteht aus sieben Ebenen, wobei die oberste Ebene die spirituellen Bedürfnisse und die unterste Ebene die sozialen Bedürfnisse repräsentiert."
+      ],
+      "explanation": "Maslows Pyramide ist ein hierarchisches Modell menschlicher Bedürfnisse.",
+      "difficulty": "easy",
+      "category": "Bedürfnispyramide"
+    },
+    {
+      "correct_sentence": "Existenzbedürfnisse, wie Nahrung und Wohnung, sind lebensnotwendig und müssen zuerst befriedigt werden.",
+      "wrong_alternatives": [
+        "Obwohl Existenzbedürfnisse wichtig sind, stehen soziale Bedürfnisse wie Zugehörigkeit und Anerkennung in der Bedürfnispyramide direkt über den physischen Grundbedürfnissen.",
+        "Existenzbedürfnisse umfassen nicht nur physische Notwendigkeiten, sondern auch immaterielle Aspekte wie soziale Sicherheit und persönliche Freiheit, die für ein erfülltes Leben unerlässlich sind."
+      ],
+      "explanation": "Existenzbedürfnisse sichern das physische Überleben.",
+      "difficulty": "easy",
+      "category": "Existenzbedürfnisse"
+    },
+    {
+      "correct_sentence": "Wahlbedürfnisse treten in den Vordergrund, sobald die Existenz gesichert ist und umfassen Güter wie Bücher oder Autos.",
+      "wrong_alternatives": [
+        "Wahlbedürfnisse sind im Grunde genommen wichtiger als Existenzbedürfnisse, da sie die persönliche Entwicklung und das soziale Ansehen fördern, während Existenzbedürfnisse lediglich das Überleben sichern.",
+        "Wahlbedürfnisse sind auf luxuriöse Güter und Dienstleistungen beschränkt, die nur für einen kleinen Teil der Bevölkerung relevant sind, während der Grossteil der Menschen sich hauptsächlich mit Existenzbedürfnissen auseinandersetzt."
+      ],
+      "explanation": "Wahlbedürfnisse sind Bedürfnisse, die über die reine Existenzsicherung hinausgehen.",
+      "difficulty": "medium",
+      "category": "Wahlbedürfnisse"
+    },
+    {
+      "correct_sentence": "Individualbedürfnisse sind persönliche Bedürfnisse, die von Mensch zu Mensch variieren, wie zum Beispiel der Wunsch nach einem bestimmten Auto.",
+      "wrong_alternatives": [
+        "Individualbedürfnisse sind vor allem durch gesellschaftliche Normen und Trends geprägt und weniger durch persönliche Vorlieben, da der Mensch ein soziales Wesen ist und sich an seiner Umgebung orientiert.",
+        "Individualbedürfnisse beziehen sich hauptsächlich auf grundlegende menschliche Rechte und Freiheiten, die jedem Individuum zustehen, unabhängig von persönlichen Wünschen oder Vorlieben."
+      ],
+      "explanation": "Individualbedürfnisse sind sehr subjektiv und persönlich.",
+      "difficulty": "medium",
+      "category": "Individualbedürfnisse"
+    },
+    {
+      "correct_sentence": "Kollektivbedürfnisse entstehen durch gemeinsame Bedürfnisse vieler Menschen und werden gemeinschaftlich befriedigt, wie Strassen oder Schulen.",
+      "wrong_alternatives": [
+        "Kollektivbedürfnisse sind im Wesentlichen eine Summe von Individualbedürfnissen und können daher auch individuell befriedigt werden, solange genügend Ressourcen zur Verfügung stehen.",
+        "Kollektivbedürfnisse sind vor allem in sozialistischen Wirtschaftssystemen relevant, während in kapitalistischen Systemen der Fokus primär auf der Befriedigung von Individualbedürfnissen liegt."
+      ],
+      "explanation": "Kollektivbedürfnisse erfordern gemeinschaftliche Anstrengungen.",
+      "difficulty": "medium",
+      "category": "Kollektivbedürfnisse"
+    },
+    {
+      "correct_sentence": "Materielle Bedürfnisse können durch den Kauf von Gütern mit Geld befriedigt werden, wie etwa der Kauf von Brot oder einem Fernseher.",
+      "wrong_alternatives": [
+        "Materielle Bedürfnisse umfassen nicht nur käufliche Güter, sondern auch immaterielle Werte wie Bildung und Gesundheitsversorgung, da diese ebenfalls materielle Ressourcen für ihre Bereitstellung benötigen.",
+        "Materielle Bedürfnisse sind in modernen Gesellschaften weniger relevant geworden, da immaterielle Bedürfnisse wie soziale Anerkennung und Selbstverwirklichung eine immer grössere Rolle im Leben der Menschen spielen."
+      ],
+      "explanation": "Materielle Bedürfnisse sind direkt an käufliche Güter gebunden.",
+      "difficulty": "easy",
+      "category": "Materielle Bedürfnisse"
+    },
+    {
+      "correct_sentence": "Immaterielle Bedürfnisse, wie Liebe und Gesundheit, lassen sich nicht durch Geldkäufe befriedigen.",
+      "wrong_alternatives": [
+        "Immaterielle Bedürfnisse können indirekt durch Geld beeinflusst werden, beispielsweise durch den Kauf von Dienstleistungen, die das Wohlbefinden steigern oder soziale Beziehungen verbessern sollen.",
+        "Immaterielle Bedürfnisse sind eigentlich nur ein Konstrukt der modernen Psychologie und haben in der realen Wirtschaftswelt keine praktische Bedeutung, da sich wirtschaftliche Aktivitäten primär auf materielle Güter konzentrieren."
+      ],
+      "explanation": "Immaterielle Bedürfnisse sind nicht käuflich.",
+      "difficulty": "easy",
+      "category": "Immaterielle Bedürfnisse"
+    },
+    {
+      "correct_sentence": "Das Gesetz der Nachfrage besagt, dass bei sinkendem Preis die nachgefragte Menge steigt und umgekehrt.",
+      "wrong_alternatives": [
+        "Das Gesetz der Nachfrage beschreibt, dass die Nachfrage nach Gütern und Dienstleistungen unabhängig vom Preisniveau immer konstant bleibt, da menschliche Bedürfnisse unveränderlich sind.",
+        "Entgegen dem Gesetz der Nachfrage führt eine Preissenkung in der Regel zu einem Nachfragerückgang, da Konsumenten tiefere Preise oft mit geringerer Qualität oder minderer Wertigkeit des Produkts assoziieren."
+      ],
+      "explanation": "Preis und Nachfrage verhalten sich gegenläufig.",
+      "difficulty": "medium",
+      "category": "Nachfrage"
+    },
+    {
+      "correct_sentence": "Wirtschaftliche Güter sind begrenzt verfügbar und haben daher einen Preis, im Gegensatz zu freien Gütern.",
+      "wrong_alternatives": [
+        "Wirtschaftliche Güter sind zwar begrenzt, aber durch technologischen Fortschritt und effizientere Produktionsmethoden kann ihre Verfügbarkeit unbegrenzt gesteigert werden, wodurch sie langfristig zu freien Gütern werden.",
+        "Sowohl wirtschaftliche als auch freie Güter sind in der modernen Wirtschaft gleichermassen wichtig, da freie Güter wie saubere Luft und Wasser zunehmend knapper werden und daher wirtschaftlich bewirtschaftet werden müssen."
+      ],
+      "explanation": "Knappheit definiert wirtschaftliche Güter.",
+      "difficulty": "medium",
+      "category": "Güterarten"
+    },
+    {
+      "correct_sentence": "Freie Güter, wie Luft und Sonnenlicht, sind ausreichend vorhanden und kostenlos.",
+      "wrong_alternatives": [
+        "Freie Güter sind zwar natürlich vorhanden, aber ihre Nutzung ist oft mit Kosten verbunden, beispielsweise durch die Notwendigkeit, Sonnenkollektoren zu installieren oder Luftfilter zu verwenden.",
+        "In der modernen Wirtschaft gibt es keine wirklich freien Güter mehr, da selbst scheinbar unbegrenzte Ressourcen wie Luft und Wasser durch Umweltverschmutzung und Klimawandel zunehmend knapper und kostenpflichtig werden."
+      ],
+      "explanation": "Freie Güter sind in der Natur reichlich vorhanden und kostenlos.",
+      "difficulty": "easy",
+      "category": "Freie Güter"
+    },
+    {
+      "correct_sentence": "Konsumgüter dienen der direkten Bedürfnisbefriedigung, während Investitionsgüter zur Produktion anderer Güter eingesetzt werden.",
+      "wrong_alternatives": [
+        "Konsumgüter und Investitionsgüter unterscheiden sich hauptsächlich in ihrer Langlebigkeit; Konsumgüter sind kurzlebig, während Investitionsgüter langfristig genutzt werden und somit einen höheren Wert darstellen.",
+        "Konsumgüter und Investitionsgüter sind eigentlich dasselbe, da jedes Gut letztendlich der Bedürfnisbefriedigung dient, entweder direkt für Konsumenten oder indirekt durch die Unterstützung der Produktion."
+      ],
+      "explanation": "Konsum- vs. Investitionszweck unterscheidet die Güter.",
+      "difficulty": "medium",
+      "category": "Güterarten"
+    },
+    {
+      "correct_sentence": "Der Markt ist der Ort, wo Angebot und Nachfrage zusammentreffen und Preise gebildet werden.",
+      "wrong_alternatives": [
+        "Der Markt ist primär ein physischer Ort, wie ein Wochenmarkt oder ein Supermarkt, wo Waren direkt zwischen Käufern und Verkäufern ausgetauscht werden, während Online-Handelsplattformen keine echten Märkte darstellen.",
+        "Der Marktpreis wird hauptsächlich durch die Produktionskosten der Anbieter bestimmt und weniger durch die tatsächliche Nachfrage der Konsumenten, da Anbieter ihre Kosten decken und Gewinn erzielen müssen."
+      ],
+      "explanation": "Markt ist der Mechanismus der Preisbildung.",
+      "difficulty": "medium",
+      "category": "Markt"
+    },
+    {
+      "correct_sentence": "Im Marktgleichgewicht entsprechen sich angebotene und nachgefragte Menge zum herrschenden Preis.",
+      "wrong_alternatives": [
+        "Marktgleichgewicht bedeutet, dass alle Anbieter ihre Waren vollständig verkaufen können, unabhängig von der Nachfrage, da der Markt immer bestrebt ist, Überproduktion zu vermeiden.",
+        "Marktgleichgewicht ist ein theoretisches Konzept, das in der realen Wirtschaft kaum vorkommt, da Angebot und Nachfrage ständig schwanken und sich Märkte dynamisch verändern."
+      ],
+      "explanation": "Gleichgewichtspunkt von Angebot und Nachfrage.",
+      "difficulty": "medium",
+      "category": "Marktgleichgewicht"
+    },
+    {
+      "correct_sentence": "Der einfache Wirtschaftskreislauf zeigt den Austausch von Gütern und Geld zwischen Haushalten und Unternehmen.",
+      "wrong_alternatives": [
+        "Der einfache Wirtschaftskreislauf beschreibt lediglich den Geldfluss innerhalb einer Volkswirtschaft, während der Güterfluss in komplexeren Modellen des Wirtschaftskreislaufs berücksichtigt wird.",
+        "Der einfache Wirtschaftskreislauf ist ein veraltetes Modell, das die moderne Wirtschaft nicht mehr adäquat abbildet, da es wichtige Akteure wie den Staat und das Ausland vernachlässigt."
+      ],
+      "explanation": "Grundmodell der Wirtschaft mit zwei Akteuren.",
+      "difficulty": "easy",
+      "category": "Wirtschaftskreislauf"
+    },
+    {
+      "correct_sentence": "Im erweiterten Wirtschaftskreislauf kommen Staat, Banken und Ausland als weitere Akteure hinzu.",
+      "wrong_alternatives": [
+        "Im erweiterten Wirtschaftskreislauf werden zwar zusätzliche Akteure berücksichtigt, aber die grundlegende Dynamik zwischen Haushalten und Unternehmen bleibt das zentrale Element des Modells.",
+        "Der erweiterte Wirtschaftskreislauf ist eine detailliertere Darstellung des einfachen Kreislaufs, der jedoch die Komplexität realer Wirtschaftsbeziehungen immer noch nicht vollständig erfassen kann."
+      ],
+      "explanation": "Erweiterung des Modells um wichtige Wirtschaftsteilnehmer.",
+      "difficulty": "medium",
+      "category": "Wirtschaftskreislauf"
+    },
+    {
+      "correct_sentence": "Produktionsfaktoren sind Boden, Arbeit und Kapital, die für die Herstellung von Gütern und Dienstleistungen notwendig sind.",
+      "wrong_alternatives": [
+        "Produktionsfaktoren umfassen neben Boden, Arbeit und Kapital auch natürliche Ressourcen wie Wasser und Energie, die in modernen Wirtschaftssystemen eine immer wichtigere Rolle spielen.",
+        "Produktionsfaktoren sind in der modernen Dienstleistungsgesellschaft weniger relevant geworden, da Wissen und Information die wichtigsten Ressourcen für wirtschaftlichen Erfolg darstellen."
+      ],
+      "explanation": "Grundlegende Ressourcen für die Produktion.",
+      "difficulty": "easy",
+      "category": "Produktionsfaktoren"
+    },
+    {
+      "correct_sentence": "Der Produktionsfaktor Boden umfasst nicht nur Ackerboden, sondern auch Umwelt und natürliche Ressourcen.",
+      "wrong_alternatives": [
+        "Der Produktionsfaktor Boden ist in der modernen Wirtschaft weitgehend irrelevant geworden, da die meisten Industrien nicht mehr direkt von natürlichen Ressourcen abhängig sind und sich auf immaterielle Güter konzentrieren.",
+        "Der Produktionsfaktor Boden bezieht sich ausschliesslich auf landwirtschaftlich nutzbare Flächen und umfasst keine städtischen oder industriell genutzten Gebiete, da diese künstlich geschaffen wurden."
+      ],
+      "explanation": "Erweiterter Begriff des Bodens in der Wirtschaft.",
+      "difficulty": "medium",
+      "category": "Produktionsfaktoren"
+    },
+    {
+      "correct_sentence": "Arbeit als Produktionsfaktor umfasst körperliche und geistige Tätigkeiten, die zur Einkommenserzielung beitragen.",
+      "wrong_alternatives": [
+        "Arbeit als Produktionsfaktor beschränkt sich auf körperliche Tätigkeiten in der Produktion, während geistige Tätigkeiten im Dienstleistungssektor nicht als Produktionsfaktor gelten.",
+        "Arbeit im volkswirtschaftlichen Sinne umfasst nur bezahlte Tätigkeiten, während unbezahlte Arbeit wie Hausarbeit oder ehrenamtliche Tätigkeiten nicht als Teil des Produktionsfaktors Arbeit betrachtet werden."
+      ],
+      "explanation": "Umfassender Begriff der Arbeit in der Wirtschaft.",
+      "difficulty": "medium",
+      "category": "Produktionsfaktoren"
+    },
+    {
+      "correct_sentence": "Kapital als Produktionsfaktor beinhaltet Geld- und Sachkapital, das für Investitionen und Produktion genutzt wird.",
+      "wrong_alternatives": [
+        "Kapital als Produktionsfaktor bezieht sich ausschliesslich auf Geldkapital, während Sachkapital wie Maschinen und Gebäude nicht zum Produktionsfaktor Kapital gezählt werden, sondern separate Kategorien darstellen.",
+        "Kapital ist der wichtigste Produktionsfaktor in modernen Wirtschaftssystemen und übertrifft die Bedeutung von Boden und Arbeit, da Kapital die anderen Produktionsfaktoren erst effizient nutzbar macht."
+      ],
+      "explanation": "Kapital in seinen verschiedenen Formen als Produktionsmittel.",
+      "difficulty": "medium",
+      "category": "Produktionsfaktoren"
+    }
+  ]
+}
