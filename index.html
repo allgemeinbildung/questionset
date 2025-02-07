@@ -51,12 +51,12 @@
     
     /* Left column: media (video/audio) + progress */
     #mediaColumn {
-      flex: 0 0 60%;
+      flex: 0 0 55%;
     }
     
     /* Right column: questions and controls */
     #questionColumn {
-      flex: 0 0 40%;
+      flex: 0 0 45%;
     }
     
     /* Quiz container (hidden until start) */
@@ -117,14 +117,14 @@
     
     /* Answer option styling: reduced font size, padding, and margin */
     .option {
-      padding: 8px;         /* reduced padding */
-      margin: 5px 0;        /* reduced margin */
+      padding: 3px;         /* reduced padding */
+      margin: 2px 0;        /* reduced margin */
       background: #f8f8f8;
       border: 2px solid #ddd;
       border-radius: 5px;
       cursor: pointer;
       transition: all 0.2s ease;
-      font-size: 14px;      /* smaller text */
+      font-size: 12px;      /* smaller text */
     }
     
     .option:hover {
@@ -155,6 +155,7 @@
       display: none;
       background: #e3f2fd;
       border: 2px solid #90caf9;
+      font-size: 14px;      /* smaller text */
     }
     
     /* Button container: uses flexbox for consistent button spacing */
@@ -172,7 +173,7 @@
       border: none;
       border-radius: 5px;
       cursor: pointer;
-      font-size: 16px;
+      font-size: 14px;
       transition: all 0.3s ease;
       margin: 0;
     }
