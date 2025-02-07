@@ -1,0 +1,60 @@
+{
+  "title": "Die Aufgaben des Staates",
+  "media": {
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=zVloNfAZvk8"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Hauptaufgabe hat ein Staat laut Finn?</p>",
+      "options": [
+        {
+          "text": "Er sorgt für Regeln und Gesetze, um ein geregeltes Miteinander zu ermöglichen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Finn vergleicht den Staat mit einem Schiedsrichter, der für faire Regeln sorgt."
+        },
+        {
+          "text": "Er bestimmt, welche Parteien regieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Staat setzt zwar Gesetze um, aber die Regierung wird demokratisch gewählt."
+        },
+        {
+          "text": "Er fördert ausschließlich wirtschaftliche Interessen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Staat hat vielfältige Aufgaben, darunter Schutz der Freiheit, Wohlfahrt und Nachhaltigkeit."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo sind die Aufgaben des Staates in der Schweiz festgelegt?</p>",
+      "options": [
+        {
+          "text": "In der Bundesverfassung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Bundesverfassung definiert die Aufgaben des Staates."
+        },
+        {
+          "text": "In den Parteiprogrammen der politischen Parteien.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Parteiprogramme vertreten politische Meinungen, sind aber nicht bindendes Recht."
+        },
+        {
+          "text": "In den Gesetzen der EU.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schweiz ist nicht Teil der EU und ihre Gesetze basieren auf der eigenen Verfassung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden Aufgaben gehört NICHT zu den Aufgaben des Staates laut Finn?</p>",
+      "options": [
+        {
+          "text": "Die Förderung der Freiheit und Rechte des Volkes.",
+          "is_correct": false,
+          "feedback":
