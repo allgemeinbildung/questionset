@@ -49,7 +49,7 @@
       gap: 20px;
     }
     
-    /* Left column: media (video/audio) */
+    /* Left column: media (video/audio) + progress */
     #mediaColumn {
       flex: 0 0 40%;
     }
@@ -98,10 +98,10 @@
       text-decoration: underline;
     }
     
-    /* Progress */
+    /* Moved Progress (now below the media) */
     .progress {
       text-align: center;
-      margin: 20px 0;
+      margin-top: 10px;
       font-weight: bold;
       color: #666;
     }
@@ -115,14 +115,16 @@
       margin: 20px 0;
     }
     
+    /* Answer option styling: reduced font size, padding, and margin */
     .option {
-      padding: 15px;
-      margin: 10px 0;
+      padding: 8px;         /* reduced padding */
+      margin: 5px 0;        /* reduced margin */
       background: #f8f8f8;
       border: 2px solid #ddd;
       border-radius: 5px;
       cursor: pointer;
       transition: all 0.2s ease;
+      font-size: 14px;      /* smaller text */
     }
     
     .option:hover {
@@ -313,15 +315,15 @@
   <div id="quizContainer">
     <!-- Wrapper for the two-column layout -->
     <div id="quizContentWrapper">
-      <!-- Left Column: Media (iframe, audio, or placeholder image) -->
+      <!-- Left Column: Media (iframe, audio, or placeholder image) + Progress -->
       <div id="mediaColumn">
         <div id="quizMedia" class="hidden"></div>
         <div id="mediaSource" class="hidden"></div>
+        <div class="progress">Frage <span id="current">1</span> von <span id="total">7</span></div>
       </div>
       
-      <!-- Right Column: Progress, Questions, and Buttons -->
+      <!-- Right Column: Questions and Buttons -->
       <div id="questionColumn">
-        <div class="progress">Frage <span id="current">1</span> von <span id="total">7</span></div>
         <div class="question-container">
           <div class="question" id="questionText"></div>
           <div id="optionsContainer"></div>
