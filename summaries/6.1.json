@@ -1,0 +1,210 @@
+{
+  "title": "Aufgaben des Staates in der Schweiz",
+  "media": {
+    "type": "text",
+    "url": "keine",
+    "source": "Lehrbuchtext '6.1 Die wichtigsten Aufgabe eines Staates'"
+  },
+  "questions": [
+    {
+      "correct_sentence": "Die Hauptaufgabe des Staates ist es, ein friedliches Zusammenleben der Menschen zu gewährleisten.",
+      "wrong_alternatives": [
+        "Die primäre Aufgabe des Staates ist es, die wirtschaftliche Produktivität zu maximieren und den Handel zu fördern.",
+        "Die wichtigste Aufgabe des Staates besteht darin, die traditionellen Werte und Normen der Gesellschaft zu bewahren."
+      ],
+      "explanation": "Der Text betont, dass Regeln nötig sind, damit Stärkere Freiheit nicht auf Kosten Schwächerer ausleben, was friedliches Zusammenleben sichert.",
+      "difficulty": "medium",
+      "category": "Politik Schweiz"
+    },
+    {
+      "correct_sentence": "Der Staat hat die Aufgabe, sicherzustellen, dass alle Menschen in Würde und Freiheit leben können.",
+      "wrong_alternatives": [
+        "Der Staat konzentriert sich hauptsächlich darauf, die öffentliche Ordnung aufrechtzuerhalten und Kriminalität zu bekämpfen.",
+        "Die zentrale Aufgabe des Staates ist es, die nationale Identität zu stärken und kulturelle Einheit zu fördern."
+      ],
+      "explanation": "Gemäss Text ist es die Hauptaufgabe des Staates, ein Leben in Würde und Freiheit für alle zu ermöglichen.",
+      "difficulty": "medium",
+      "category": "Politik Schweiz"
+    },
+    {
+      "correct_sentence": "Die Bundesverfassung der Schweiz definiert die Aufgaben des modernen Staates.",
+      "wrong_alternatives": [
+        "Die Aufgaben des Staates in der Schweiz werden hauptsächlich durch internationale Verträge und Abkommen bestimmt.",
+        "Die Aufgaben des Staates leiten sich primär aus historischen Traditionen und gesellschaftlichen Konventionen ab."
+      ],
+      "explanation": "Der Text verweist direkt auf die Bundesverfassung (BV 2) als Grundlage für die Staatsaufgaben.",
+      "difficulty": "medium",
+      "category": "Politik Schweiz"
+    },
+    {
+      "correct_sentence": "Eine zentrale Aufgabe des Staates ist der Schutz der Freiheit und der Rechte des Volkes.",
+      "wrong_alternatives": [
+        "Der Staat konzentriert sich vorrangig auf die Durchsetzung staatlicher Interessen gegenüber den individuellen Rechten der Bürger.",
+        "Die Hauptaufgabe des Staates ist die Kontrolle und Steuerung der Bevölkerung, um Stabilität und Ordnung zu gewährleisten."
+      ],
+      "explanation": "Der Text nennt als erste Aufgabe des Staates gemäss BV 2 den Schutz von Freiheit und Rechten.",
+      "difficulty": "medium",
+      "category": "Politik Schweiz"
+    },
+    {
+      "correct_sentence": "Der Staat wahrt die Unabhängigkeit und Sicherheit des Landes.",
+      "wrong_alternatives": [
+        "Der Staat strebt primär nach internationaler Einflussnahme und Expansion seiner Macht über die Landesgrenzen hinaus.",
+        "Die Sicherheit des Landes wird hauptsächlich durch private Sicherheitsunternehmen und individuelle Vorsorge der Bürger gewährleistet."
+      ],
+      "explanation": "Ebenfalls in BV 2 genannt: Wahrung der Unabhängigkeit und Sicherheit des Landes als Staatsaufgabe.",
+      "difficulty": "medium",
+      "category": "Politik Schweiz"
+    },
+    {
+      "correct_sentence": "Die Förderung der Wohlfahrt gehört zu den Aufgaben des Schweizer Staates.",
+      "wrong_alternatives": [
+        "Der Staat beschränkt sich auf die Gewährleistung von Grundbedürfnissen, während Wohlfahrt primär private Initiative ist.",
+        "Die Förderung der Wohlfahrt wird in der Schweiz hauptsächlich durch karitative Organisationen und private Spendenaktionen übernommen."
+      ],
+      "explanation": "Der Text nennt die Förderung der Wohlfahrt als eine der definierten Aufgaben des Staates.",
+      "difficulty": "medium",
+      "category": "Politik Schweiz"
+    },
+    {
+      "correct_sentence": "Der Staat fördert die nachhaltige Entwicklung des Landes.",
+      "wrong_alternatives": [
+        "Der Staat konzentriert sich auf kurzfristiges Wirtschaftswachstum, auch wenn dies langfristige ökologische Schäden verursacht.",
+        "Nachhaltige Entwicklung wird vor allem durch internationale Abkommen und globale Organisationen vorangetrieben, nicht durch den Staat."
+      ],
+      "explanation": "Nachhaltige Entwicklung ist laut Text eine Aufgabe des Staates, um die Lebensgrundlagen zu erhalten.",
+      "difficulty": "medium",
+      "category": "Politik Schweiz"
+    },
+    {
+      "correct_sentence": "Der innere Zusammenhalt des Landes wird durch den Staat gefördert.",
+      "wrong_alternatives": [
+        "Der innere Zusammenhalt entwickelt sich organisch in der Gesellschaft und wird kaum durch staatliche Massnahmen beeinflusst.",
+        "Der Staat fördert primär die wirtschaftliche Konkurrenzfähigkeit, was den inneren Zusammenhalt eher schwächt als stärkt."
+      ],
+      "explanation": "Die Förderung des inneren Zusammenhalts ist eine der Aufgaben, die der Staat gemäss BV 2 wahrnimmt.",
+      "difficulty": "medium",
+      "category": "Politik Schweiz"
+    },
+    {
+      "correct_sentence": "Die kulturelle Vielfalt des Landes zu fördern ist eine staatliche Aufgabe.",
+      "wrong_alternatives": [
+        "Der Staat sollte eine einheitliche nationale Kultur fördern, um die Identität des Landes zu stärken und zu bewahren.",
+        "Kulturelle Vielfalt entsteht von selbst und benötigt keine aktive Förderung durch den Staat; staatliche Eingriffe sind hier unerwünscht."
+      ],
+      "explanation": "Der Text nennt die Förderung der kulturellen Vielfalt explizit als Aufgabe des Staates.",
+      "difficulty": "medium",
+      "category": "Politik Schweiz"
+    },
+    {
+      "correct_sentence": "Der Staat sorgt für eine möglichst grosse Chancengleichheit unter den Bürgern.",
+      "wrong_alternatives": [
+        "Der Staat akzeptiert soziale Ungleichheit als natürlich und greift nur minimal in die Verteilung von Chancen ein.",
+        "Chancengleichheit wird primär durch das individuelle Engagement und die Leistungsbereitschaft der Bürger erreicht, nicht durch staatliche Massnahmen."
+      ],
+      "explanation": "Chancengleichheit für Bürger ist eine wichtige Aufgabe des Staates, laut Bundesverfassung.",
+      "difficulty": "medium",
+      "category": "Politik Schweiz"
+    },
+    {
+      "correct_sentence": "Die dauerhafte Erhaltung der natürlichen Lebensgrundlagen ist ein Staatsziel.",
+      "wrong_alternatives": [
+        "Der Staat priorisiert wirtschaftliches Wachstum und nimmt dafür begrenzte Schäden an den natürlichen Lebensgrundlagen in Kauf.",
+        "Die Erhaltung der natürlichen Lebensgrundlagen ist primär Aufgabe internationaler Organisationen und globaler Umweltabkommen, nicht des einzelnen Staates."
+      ],
+      "explanation": "Der Text betont die Erhaltung der natürlichen Lebensgrundlagen als eine Aufgabe des Staates.",
+      "difficulty": "medium",
+      "category": "Politik Schweiz"
+    },
+    {
+      "correct_sentence": "Der Staat setzt sich für eine friedliche und gerechte internationale Ordnung ein.",
+      "wrong_alternatives": [
+        "Der Staat konzentriert sich primär auf nationale Interessen und verfolgt eine isolationistische Aussenpolitik.",
+        "Eine friedliche und gerechte internationale Ordnung ist ein ideales Ziel, aber in der Realität der internationalen Politik kaum erreichbar."
+      ],
+      "explanation": "Der Einsatz für eine friedliche und gerechte internationale Ordnung ist eine der Staatsaufgaben.",
+      "difficulty": "medium",
+      "category": "Politik Schweiz"
+    },
+    {
+      "correct_sentence": "Die Politik entscheidet darüber, wie die Aufgaben des Staates umgesetzt werden.",
+      "wrong_alternatives": [
+        "Die Umsetzung der Staatsaufgaben wird hauptsächlich durch die Verwaltung und die Gerichte bestimmt, nicht durch die Politik.",
+        "Die Umsetzung der Staatsaufgaben erfolgt primär aufgrund wirtschaftlicher Zwänge und globaler Marktentwicklungen, unabhängig von politischen Entscheidungen."
+      ],
+      "explanation": "Der Text stellt klar, dass die Politik die Richtung und Umsetzung der Staatsaufgaben bestimmt.",
+      "difficulty": "medium",
+      "category": "Politik Schweiz"
+    },
+    {
+      "correct_sentence": "Die Sicherheit des Landes und jedes Einzelnen ist eine wichtige politische Frage.",
+      "wrong_alternatives": [
+        "Die Sicherheit des Einzelnen ist primär eine private Angelegenheit und nicht Aufgabe der Politik oder des Staates.",
+        "Die Sicherheit des Landes wird hauptsächlich durch militärische Stärke und geopolitische Bündnisse gewährleistet, weniger durch politische Entscheidungen."
+      ],
+      "explanation": "Der Text nennt die Sicherheit als eine der wichtigen politischen Fragen im Zusammenhang mit Staatsaufgaben.",
+      "difficulty": "medium",
+      "category": "Politik Schweiz"
+    },
+    {
+      "correct_sentence": "Die Grösse der Armee und der Bedarf an Polizei sind politische Entscheidungen.",
+      "wrong_alternatives": [
+        "Die Grösse der Armee und der Polizeibedarf werden primär von militärischen Experten und Sicherheitsfachleuten bestimmt, nicht von politischen Erwägungen.",
+        "Die optimale Grösse der Armee und Polizei ergibt sich automatisch aus der Kriminalitätsrate und der internationalen Sicherheitslage, ohne politische Einflussnahme."
+      ],
+      "explanation": "Die Fragen nach Armee- und Polizeigrösse sind Beispiele für politische Fragen im Text.",
+      "difficulty": "medium",
+      "category": "Politik Schweiz"
+    },
+    {
+      "correct_sentence": "Die Frage nach dem Umfang des Sozialstaates ist eine politische Frage.",
+      "wrong_alternatives": [
+        "Die Ausgestaltung des Sozialstaates wird primär durch ökonomische Notwendigkeiten und finanzielle Machbarkeit bestimmt, nicht durch politische Ideologien.",
+        "Die Form des Sozialstaates ergibt sich aus gesellschaftlichen Traditionen und kulturellen Werten, unabhängig von aktuellen politischen Debatten."
+      ],
+      "explanation": "Der Text nennt die Frage 'Wie viel Sozialstaat wollen wir?' als wichtige politische Frage.",
+      "difficulty": "medium",
+      "category": "Politik Schweiz"
+    },
+    {
+      "correct_sentence": "Der Umgang mit Flüchtlingen und ausländischen Arbeitskräften ist eine politische Frage.",
+      "wrong_alternatives": [
+        "Der Umgang mit Flüchtlingen und Arbeitskräften wird hauptsächlich durch internationale Abkommen und humanitäre Organisationen geregelt, nicht durch nationale Politik.",
+        "Migrationspolitik wird primär von demografischen Entwicklungen und Arbeitsmarktbedürfnissen bestimmt, unabhängig von politischen Präferenzen."
+      ],
+      "explanation": "Der Text erwähnt den Umgang mit Flüchtlingen und Arbeitskräften als Beispiel für eine politische Frage.",
+      "difficulty": "medium",
+      "category": "Politik Schweiz"
+    },
+    {
+      "correct_sentence": "Die Gleichstellung von Mann und Frau ist ein politisches Ziel und eine Frage der Umsetzung.",
+      "wrong_alternatives": [
+        "Die Gleichstellung der Geschlechter ist primär ein gesellschaftlicher Wertewandel und weniger eine Frage staatlicher Politik oder Gesetze.",
+        "Gleichstellungspolitik wird hauptsächlich durch Frauenorganisationen und zivilgesellschaftliche Initiativen vorangetrieben, nicht durch staatliche Politik."
+      ],
+      "explanation": "Die Gleichstellung von Mann und Frau wird im Text als politische Frage im Kontext der Staatsaufgaben genannt.",
+      "difficulty": "medium",
+      "category": "Politik Schweiz"
+    },
+    {
+      "correct_sentence": "Der Schutz der Umwelt und die Wertschätzung der Umwelt sind politische Fragen.",
+      "wrong_alternatives": [
+        "Umweltschutz wird primär durch technologische Innovationen und wirtschaftliche Anreize erreicht, weniger durch politische Regulierungen.",
+        "Der Wert der Umwelt ist eine individuelle ethische Entscheidung und weniger eine Frage staatlicher Politik oder kollektiver Verantwortung."
+      ],
+      "explanation": "Die Frage 'Wie viel ist uns unsere Umwelt wert?' ist ein Beispiel für eine politische Frage im Text.",
+      "difficulty": "medium",
+      "category": "Politik Schweiz"
+    },
+    {
+      "correct_sentence": "Die aktive Teilnahme am politischen Leben ermöglicht Mitbestimmung im Staat.",
+      "wrong_alternatives": [
+        "Politische Partizipation ist primär eine individuelle Meinungsäusserung ohne direkten Einfluss auf staatliche Entscheidungen.",
+        "Die politische Richtung des Staates wird hauptsächlich von gewählten Repräsentanten und politischen Eliten bestimmt, weniger durch die aktive Teilnahme der Bürger."
+      ],
+      "explanation": "Der Text schliesst mit der Aussage, dass aktive Teilnahme uns zu 'dem Staat' macht und Mitbestimmung ermöglicht.",
+      "difficulty": "medium",
+      "category": "Politik Schweiz"
+    }
+  ]
+}
