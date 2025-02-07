@@ -341,7 +341,7 @@
 
   <div id="resultContainer" class="hidden">
     <div class="results">
-      <h2>Ergebnis: <span id="assignmentIdDisplay"></span></h2>
+      <h2>Ergebnis: <span id="quizTitleResult"></span></h2>
       <svg class="donut-chart" viewBox="0 0 40 40">
         <circle class="donut-segment" cx="20" cy="20" r="15" 
                 stroke="#eeeeee" stroke-width="8" fill="none"/>
@@ -692,7 +692,7 @@
       
       document.getElementById('resultMessage').textContent = resultMessage;
       showReviewSection();
-      document.getElementById('assignmentIdDisplay').textContent = assignmentId;
+      document.getElementById('quizTitleResult').textContent = assignmentId;
 
       const resultContainer = document.getElementById('resultContainer');
       resultContainer.classList.remove('hidden');
