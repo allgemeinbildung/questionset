@@ -2,60 +2,129 @@
   "title": "Die Aufgaben des Staates",
   "media": {
       "type": "youtube",
-      "url": "https://www.youtube.com/watch?v=zVloNfAZvk8"
-      "source": ""
+      "url": "https://www.youtube.com/embed/zVloNfAZvk8",
+      "source": "https://www.youtube.com/watch?v=zVloNfAZvk8"      
   },
   "questions": [
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Welche Hauptaufgabe hat ein Staat laut Finn?</p>",
+      "question": "<p>Welche Hauptaufgaben eines Staates werden in der Schweizer Bundesverfassung definiert?</p>",
       "options": [
         {
-          "text": "Er sorgt für Regeln und Gesetze, um ein geregeltes Miteinander zu ermöglichen.",
+          "text": "Schutz der Freiheit und Rechte des Volkes",
           "is_correct": true,
-          "feedback": "✅ Richtig! Finn vergleicht den Staat mit einem Schiedsrichter, der für faire Regeln sorgt."
+          "feedback": "✅ Richtig! Die Bundesverfassung schützt die Freiheit und Rechte des Volkes."
         },
         {
-          "text": "Er bestimmt, welche Parteien regieren.",
+          "text": "Festlegung der Religionszugehörigkeit aller Bürger",
           "is_correct": false,
-          "feedback": "❌ Falsch. Der Staat setzt zwar Gesetze um, aber die Regierung wird demokratisch gewählt."
+          "feedback": "❌ Falsch. Die Schweiz garantiert Religionsfreiheit, der Staat legt keine Religion fest."
         },
         {
-          "text": "Er fördert ausschließlich wirtschaftliche Interessen.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Staat hat vielfältige Aufgaben, darunter Schutz der Freiheit, Wohlfahrt und Nachhaltigkeit."
+          "text": "Erhaltung der Unabhängigkeit und Sicherheit des Landes",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Unabhängigkeit und Sicherheit des Landes sind zentrale Staatsaufgaben."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Wo sind die Aufgaben des Staates in der Schweiz festgelegt?</p>",
+      "question": "<p>Wie wird der Staat im Podcast mit einer Metapher beschrieben?</p>",
       "options": [
         {
-          "text": "In der Bundesverfassung.",
+          "text": "Als Schiedsrichter in einem Fußballspiel",
           "is_correct": true,
-          "feedback": "✅ Richtig! Die Bundesverfassung definiert die Aufgaben des Staates."
+          "feedback": "✅ Richtig! Der Staat sorgt dafür, dass alle nach den gleichen Regeln spielen."
         },
         {
-          "text": "In den Parteiprogrammen der politischen Parteien.",
+          "text": "Als Lehrer in einer Schulklasse",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die Parteiprogramme vertreten politische Meinungen, sind aber nicht bindendes Recht."
+          "feedback": "❌ Falsch. Der Podcast vergleicht den Staat mit einem Schiedsrichter, nicht mit einem Lehrer."
         },
         {
-          "text": "In den Gesetzen der EU.",
+          "text": "Als Kapitän eines Schiffes",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die Schweiz ist nicht Teil der EU und ihre Gesetze basieren auf der eigenen Verfassung."
+          "feedback": "❌ Falsch. Die verwendete Metapher war der Schiedsrichter, nicht ein Kapitän."
         }
       ]
     },
     {
       "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Welche der folgenden Aufgaben gehört NICHT zu den Aufgaben des Staates laut Finn?</p>",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet es, wenn der Staat eine Balance zwischen Schutz und Freiheit wahren muss?</p>",
       "options": [
         {
-          "text": "Die Förderung der Freiheit und Rechte des Volkes.",
+          "text": "Der Staat muss Sicherheit gewährleisten, ohne Grundrechte zu stark einzuschränken.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Eine zu starke Überwachung kann die Freiheit der Bürger gefährden."
+        },
+        {
+          "text": "Der Staat sollte auf Sicherheitsmaßnahmen verzichten, um die Freiheit zu maximieren.",
           "is_correct": false,
-          "feedback":
+          "feedback": "❌ Falsch. Sicherheit ist ebenso wichtig wie Freiheit, es braucht eine Balance."
+        },
+        {
+          "text": "Die Bürger sollten selbst entscheiden, welche Gesetze für sie gelten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gesetze gelten für alle und werden demokratisch festgelegt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist das Meerschweinchen-Gesetz ein gutes Beispiel für den Schutz von Lebewesen durch den Staat?</p>",
+      "options": [
+        {
+          "text": "Es zeigt, dass auch kleine Lebewesen im Gesetz berücksichtigt werden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Gesetz stellt sicher, dass Meerschweinchen nicht einsam sind."
+        },
+        {
+          "text": "Es beweist, dass der Staat Haustierbesitzern vorschreibt, wie sie Tiere halten müssen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Gesetz sorgt für das Wohlergehen der Tiere, aber nicht alle Haustiere unterliegen solchen Vorschriften."
+        },
+        {
+          "text": "Es zeigt, dass der Staat sich mehr um Tiere als um Menschen kümmert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Schutz von Tieren ergänzt den Schutz der Menschen, nicht umgekehrt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Bundesverfassung der Schweiz legt die grundlegenden Aufgaben des Staates fest.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Die Bundesverfassung definiert die Aufgaben des Staates genau.",
+      "feedback_incorrect": "Falsch. Die Bundesverfassung ist das zentrale Dokument, das die Staatsaufgaben regelt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>In der Schweiz entscheidet der Bundesrat allein über die Größe der Armee.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Die Größe der Armee ist oft Gegenstand politischer Diskussionen und Abstimmungen.",
+      "feedback_incorrect": "Falsch. Der Bundesrat entscheidet nicht allein darüber, sondern es gibt regelmäßige Diskussionen und Abstimmungen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein funktionierender Sozialstaat sorgt für gleiche Chancen für alle Bürger.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Der Sozialstaat soll soziale Ungleichheiten ausgleichen und gleiche Chancen bieten.",
+      "feedback_incorrect": "Falsch. Der Sozialstaat zielt darauf ab, gleiche Chancen für alle Bürger zu schaffen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Der Staat kann den Schutz der Bevölkerung nur durch mehr Überwachung sicherstellen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Es gibt verschiedene Wege, Sicherheit zu gewährleisten, ohne die Freiheit zu stark einzuschränken.",
+      "feedback_incorrect": "Falsch. Überwachung ist nur ein Aspekt der Sicherheitspolitik, aber nicht der einzige Weg."
+    }
+  ]
+}
