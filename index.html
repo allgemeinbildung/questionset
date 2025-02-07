@@ -66,7 +66,7 @@
       overflow: hidden;
     }
     
-    /* Media container; note that the iframe or audio will fill its container */
+    /* Media container; note that the iframe, audio, or image will fill its container */
     #quizMedia {
       margin: 0 auto 20px;
       max-width: 100%;
@@ -313,7 +313,7 @@
   <div id="quizContainer">
     <!-- Wrapper for the two-column layout -->
     <div id="quizContentWrapper">
-      <!-- Left Column: Media (iframe, audio, source link) -->
+      <!-- Left Column: Media (iframe, audio, or placeholder image) -->
       <div id="mediaColumn">
         <div id="quizMedia" class="hidden"></div>
         <div id="mediaSource" class="hidden"></div>
@@ -439,11 +439,12 @@
           }
           quizMedia.classList.remove('hidden');
         } else {
-          quizMedia.innerHTML = '';
+          // If no valid media is provided, display the default quiz.png image
+          quizMedia.innerHTML = `<img src="images/quiz.png" alt="Quiz Placeholder" style="width: 100%; border-radius: 8px;">`;
+          quizMedia.classList.remove('hidden');
           mediaSource.innerHTML = '';
-          quizMedia.classList.add('hidden');
           mediaSource.classList.add('hidden');
-          console.log('Keine gültigen Medieninformationen gefunden');
+          console.log('Keine gültigen Medieninformationen gefunden. Platzhalter wird angezeigt.');
         }
 
         if (!data.questions || !Array.isArray(data.questions) || data.questions.length === 0) {
