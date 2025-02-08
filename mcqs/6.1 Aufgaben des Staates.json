@@ -9,22 +9,22 @@
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Welche der folgenden Aussagen beschreibt<strong>keine</strong> Hauptaufgabe des Staates gemäss Bundesverfassung (BV 2)?</p>",
+      "question": "<p>Welche der folgenden Aussagen beschreibt <strong>keine</strong> Hauptaufgabe des Staates gemäss Bundesverfassung (BV 2)?</p>",
       "options": [
         {
           "text": "Die Unabhängigkeit und Sicherheit des Landes wahren.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die Wahrung der<strong>Unabhängigkeit</strong> und<strong>Sicherheit</strong> des Landes ist eine der Hauptaufgaben des Staates gemäss BV 2."
+          "feedback": "❌ Falsch. Die Wahrung der <strong>Unabhängigkeit</strong> und <strong>Sicherheit</strong> des Landes ist eine der Hauptaufgaben des Staates gemäss BV 2."
         },
         {
           "text": "Die grösstmögliche wirtschaftliche Ungleichheit fördern.",
           "is_correct": true,
-          "feedback": "✅ Richtig! Die Förderung der<strong>wirtschaftlichen Ungleichheit</strong> ist<strong>keine</strong> Aufgabe des Staates. Im Gegenteil, der Staat soll Chancengleichheit fördern."
+          "feedback": "✅ Richtig! Die Förderung der <strong>wirtschaftlichen Ungleichheit</strong> ist <strong>keine</strong> Aufgabe des Staates. Im Gegenteil, der Staat soll Chancengleichheit fördern."
         },
         {
           "text": "Die Freiheit und die Rechte des Volkes schützen.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Der<strong>Schutz der Freiheit</strong> und der<strong>Rechte des Volkes</strong> ist eine zentrale Aufgabe des Staates."
+          "feedback": "❌ Falsch. Der <strong>Schutz der Freiheit</strong> und der <strong>Rechte des Volkes</strong> ist eine zentrale Aufgabe des Staates."
         }
       ]
     },
@@ -36,39 +36,39 @@
         {
           "text": "Kurzfristige wirtschaftliche Vorteile maximieren.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Der Fokus liegt nicht auf kurzfristigen Vorteilen, sondern auf<strong>dauerhafter Erhaltung</strong>."
+          "feedback": "❌ Falsch. Der Fokus liegt nicht auf kurzfristigen Vorteilen, sondern auf <strong>dauerhafter Erhaltung</strong>."
         },
         {
           "text": "Dauerhafte Erhaltung der natürlichen Lebensgrundlagen.",
           "is_correct": true,
-          "feedback": "✅ Richtig! Die<strong>dauerhafte Erhaltung der natürlichen Lebensgrundlagen</strong> ist eine explizit genannte Aufgabe."
+          "feedback": "✅ Richtig! Die <strong>dauerhafte Erhaltung der natürlichen Lebensgrundlagen</strong> ist eine explizit genannte Aufgabe."
         },
         {
           "text": "Nutzung der natürlichen Ressourcen ohne Rücksicht auf Verluste.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die Verfassung betont die<strong>Erhaltung</strong>, nicht die rücksichtslose Nutzung."
+          "feedback": "❌ Falsch. Die Verfassung betont die <strong>Erhaltung</strong>, nicht die rücksichtslose Nutzung."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Welche der folgenden Aufgaben gehört<strong>nicht</strong> zu den in der Bundesverfassung genannten Aufgaben des Staates?</p>",
+      "question": "<p>Welche der folgenden Aufgaben gehört <strong>nicht</strong> zu den in der Bundesverfassung genannten Aufgaben des Staates?</p>",
       "options": [
         {
           "text": "Förderung der kulturellen Vielfalt des Landes.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die<strong>Förderung der kulturellen Vielfalt</strong> ist eine Aufgabe des Staates."
+          "feedback": "❌ Falsch. Die <strong>Förderung der kulturellen Vielfalt</strong> ist eine Aufgabe des Staates."
         },
         {
           "text": "Direkte Lenkung der Wirtschaft durch Fünfjahrespläne.",
           "is_correct": true,
-          "feedback": "✅ Richtig! Die<strong>direkte Lenkung der Wirtschaft</strong> durch Fünfjahrespläne ist<strong>keine</strong> Aufgabe des Staates in der Schweiz."
+          "feedback": "✅ Richtig! Die <strong>direkte Lenkung der Wirtschaft</strong> durch Fünfjahrespläne ist <strong>keine</strong> Aufgabe des Staates in der Schweiz."
         },
         {
           "text": "Sorge für eine möglichst grosse Chancengleichheit unter den Bürgern.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die<strong>Chancengleichheit</strong> zu fördern ist eine wichtige Aufgabe des Staates."
+          "feedback": "❌ Falsch. Die <strong>Chancengleichheit</strong> zu fördern ist eine wichtige Aufgabe des Staates."
         }
       ]
     },
@@ -80,17 +80,17 @@
         {
           "text": "Isolationistische Aussenpolitik.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die Verfassung spricht von<strong>friedlicher und gerechter internationaler Ordnung</strong>, nicht von Isolation."
+          "feedback": "❌ Falsch. Die Verfassung spricht von <strong>friedlicher und gerechter internationaler Ordnung</strong>, nicht von Isolation."
         },
         {
           "text": "Förderung einer friedlichen und gerechten internationalen Ordnung.",
           "is_correct": true,
-          "feedback": "✅ Richtig! Die<strong>Förderung einer friedlichen und gerechten internationalen Ordnung</strong> ist eine Aufgabe des Staates."
+          "feedback": "✅ Richtig! Die <strong>Förderung einer friedlichen und gerechten internationalen Ordnung</strong> ist eine Aufgabe des Staates."
         },
         {
           "text": "Aggressive Durchsetzung nationaler Interessen.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Der Fokus liegt auf<strong>Frieden und Gerechtigkeit</strong>, nicht auf aggressiver Durchsetzung."
+          "feedback": "❌ Falsch. Der Fokus liegt auf <strong>Frieden und Gerechtigkeit</strong>, nicht auf aggressiver Durchsetzung."
         }
       ]
     },
@@ -102,17 +102,17 @@
         {
           "text": "Schnelllebig und kurzfristig.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die Begriffe sind<strong>nachhaltig</strong> und<strong>langfristig</strong>, nicht schnelllebig."
+          "feedback": "❌ Falsch. Die Begriffe sind <strong>nachhaltig</strong> und <strong>langfristig</strong>, nicht schnelllebig."
         },
         {
           "text": "Nachhaltig und langfristig.",
           "is_correct": true,
-          "feedback": "✅ Richtig! Die<strong>nachhaltige Entwicklung</strong> ist ein zentraler Begriff in diesem Zusammenhang."
+          "feedback": "✅ Richtig! Die <strong>nachhaltige Entwicklung</strong> ist ein zentraler Begriff in diesem Zusammenhang."
         },
         {
           "text": "Rücksichtslos und expansiv.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die Entwicklung soll<strong>nachhaltig</strong> sein, nicht rücksichtslos."
+          "feedback": "❌ Falsch. Die Entwicklung soll <strong>nachhaltig</strong> sein, nicht rücksichtslos."
         }
       ]
     },
@@ -124,17 +124,17 @@
         {
           "text": "Der Staat soll die Stärkeren bevorzugen, um die Wirtschaft anzukurbeln.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Der Staat soll<strong>alle</strong> schützen, auch die Schwächeren, und keine Gruppe bevorzugen."
+          "feedback": "❌ Falsch. Der Staat soll <strong>alle</strong> schützen, auch die Schwächeren, und keine Gruppe bevorzugen."
         },
         {
           "text": "Der Staat muss Regeln setzen, damit alle fair und in Würde leben können.",
           "is_correct": true,
-          "feedback": "✅ Richtig! Es bedeutet, dass der Staat durch<strong>Gesetze und Regeln</strong> ein<strong>gerechtes Zusammenleben</strong> sichert."
+          "feedback": "✅ Richtig! Es bedeutet, dass der Staat durch <strong>Gesetze und Regeln</strong> ein <strong>gerechtes Zusammenleben</strong> sichert."
         },
         {
           "text": "Der Staat soll die Schwächeren ignorieren, da sie weniger zum Fortschritt beitragen.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Der Staat hat die Aufgabe,<strong>alle</strong> zu schützen, besonders die<strong>Schwächeren</strong>."
+          "feedback": "❌ Falsch. Der Staat hat die Aufgabe, <strong>alle</strong> zu schützen, besonders die <strong>Schwächeren</strong>."
         }
       ]
     },
@@ -146,17 +146,17 @@
         {
           "text": "Weil politische Entscheidungen nur von Experten getroffen werden sollten.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die<strong>Teilnahme der Bürger</strong> ist entscheidend, nicht nur die von Experten."
+          "feedback": "❌ Falsch. Die <strong>Teilnahme der Bürger</strong> ist entscheidend, nicht nur die von Experten."
         },
         {
           "text": "Weil die Bürger durch ihre Teilnahme mitbestimmen, in welche Richtung sich der Staat entwickelt.",
           "is_correct": true,
-          "feedback": "✅ Richtig! Durch<strong>aktive Teilnahme</strong> gestalten die Bürger den Staat und seine Entwicklung mit."
+          "feedback": "✅ Richtig! Durch <strong>aktive Teilnahme</strong> gestalten die Bürger den Staat und seine Entwicklung mit."
         },
         {
           "text": "Weil der Staat ohne politische Teilnahme der Bürger effizienter arbeiten kann.",
           "is_correct": false,
-          "feedback": "❌ Falsch.<strong>Demokratische Mitbestimmung</strong> ist wichtig, auch wenn es manchmal komplexer ist."
+          "feedback": "❌ Falsch. <strong>Demokratische Mitbestimmung</strong> ist wichtig, auch wenn es manchmal komplexer ist."
         }
       ]
     },
@@ -168,17 +168,17 @@
         {
           "text": "Alle Bürger müssen genau das Gleiche erreichen.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Chancengleichheit bedeutet<strong>nicht Ergebnisgleichheit</strong>, sondern gleiche Ausgangsbedingungen."
+          "feedback": "❌ Falsch. Chancengleichheit bedeutet <strong>nicht Ergebnisgleichheit</strong>, sondern gleiche Ausgangsbedingungen."
         },
         {
           "text": "Alle Bürger sollen die gleichen Möglichkeiten haben, unabhängig von ihrer Herkunft oder ihrem Geschlecht.",
           "is_correct": true,
-          "feedback": "✅ Richtig!<strong>Chancengleichheit</strong> bedeutet gleiche<strong>Möglichkeiten</strong> für alle."
+          "feedback": "✅ Richtig! <strong>Chancengleichheit</strong> bedeutet gleiche <strong>Möglichkeiten</strong> für alle."
         },
         {
           "text": "Der Staat garantiert jedem Bürger ein bestimmtes Einkommen.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Es geht um<strong>Möglichkeiten</strong>, nicht um garantierte Einkommen."
+          "feedback": "❌ Falsch. Es geht um <strong>Möglichkeiten</strong>, nicht um garantierte Einkommen."
         }
       ]
     },
@@ -190,17 +190,17 @@
         {
           "text": "Die Aufgaben des Staates sind in der Verfassung festgelegt und unveränderlich.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die<strong>Umsetzung</strong> der Aufgaben ist<strong>politisch gestaltbar</strong> und nicht unveränderlich."
+          "feedback": "❌ Falsch. Die <strong>Umsetzung</strong> der Aufgaben ist <strong>politisch gestaltbar</strong> und nicht unveränderlich."
         },
         {
           "text": "Es gibt einen Spielraum bei der Interpretation und Umsetzung der staatlichen Aufgaben.",
           "is_correct": true,
-          "feedback": "✅ Richtig!<strong>Politik</strong> bestimmt<strong>wie</strong> die Aufgaben interpretiert und konkret umgesetzt werden."
+          "feedback": "✅ Richtig! <strong>Politik</strong> bestimmt <strong>wie</strong> die Aufgaben interpretiert und konkret umgesetzt werden."
         },
         {
           "text": "Die Politik hat keinen Einfluss auf die grundlegenden Aufgaben des Staates.",
           "is_correct": false,
-          "feedback": "❌ Falsch.<strong>Politik</strong> beeinflusst massgeblich die<strong>Umsetzung</strong> der Staatsaufgaben."
+          "feedback": "❌ Falsch. <strong>Politik</strong> beeinflusst massgeblich die <strong>Umsetzung</strong> der Staatsaufgaben."
         }
       ]
     },
@@ -212,17 +212,17 @@
         {
           "text": "Die Verfassung legt die Ziele fest, die politischen Fragen betreffen die konkrete Umsetzung.",
           "is_correct": true,
-          "feedback": "✅ Richtig! Die<strong>Verfassung definiert die Ziele</strong>, während die<strong>politischen Fragen die Umsetzung</strong> betreffen."
+          "feedback": "✅ Richtig! Die <strong>Verfassung definiert die Ziele</strong>, während die <strong>politischen Fragen die Umsetzung</strong> betreffen."
         },
         {
           "text": "Es gibt keinen Unterschied, beide beschreiben dasselbe.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die<strong>Verfassung formuliert allgemeine Aufgaben</strong>, die<strong>politischen Fragen sind spezifischer</strong> und umsetzungsorientiert."
+          "feedback": "❌ Falsch. Die <strong>Verfassung formuliert allgemeine Aufgaben</strong>, die <strong>politischen Fragen sind spezifischer</strong> und umsetzungsorientiert."
         },
         {
           "text": "Die politischen Fragen stehen über der Bundesverfassung.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die<strong>Bundesverfassung</strong> bildet den<strong>Rahmen</strong>, innerhalb dessen sich die Politik bewegt."
+          "feedback": "❌ Falsch. Die <strong>Bundesverfassung</strong> bildet den <strong>Rahmen</strong>, innerhalb dessen sich die Politik bewegt."
         }
       ]
     },
