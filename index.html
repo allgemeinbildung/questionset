@@ -366,6 +366,13 @@
     let userResponses = [];
     let assignmentId = 'default';
 
+    // Paste the parseMarkdown function here:
+    function parseMarkdown(text) {
+      return text
+        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')  // Convert **bold** to <strong>
+        .replace(/\*(.*?)\*/g, '<em>$1</em>');              // Convert *italic* to <em>
+    }
+
     // Funktion zum Ersetzen von 'ß' durch 'ss' in allen Strings eines Objekts
     function replaceSharpS(obj) {
       if (typeof obj === 'string') {
@@ -479,18 +486,20 @@
     // Anzeigen einer Frage
     function showQuestion(index) {
       const question = questions[index];
-      document.getElementById('questionText').innerHTML = question.question;
+      // Convert markdown in the question text to HTML
+      document.getElementById('questionText').innerHTML = parseMarkdown(question.question);
       const optionsContainer = document.getElementById('optionsContainer');
       optionsContainer.innerHTML = '';
-
+  
       const isAnswered = userResponses[index] !== undefined;
-
+  
       if (question.type === "MultipleChoice") {
         question.options.forEach((option) => {
           const optionDiv = document.createElement('div');
           optionDiv.className = 'option';
-          optionDiv.innerHTML = option.text;
-
+          // Convert markdown in the option text
+          optionDiv.innerHTML = parseMarkdown(option.text);
+  
           if (!isAnswered) {
             optionDiv.onclick = () => handleMCAnswer(option, question);
           } else {
@@ -507,8 +516,9 @@
         ['Wahr', 'Falsch'].forEach((answer) => {
           const optionDiv = document.createElement('div');
           optionDiv.className = 'option';
+          // If needed, you can also use parseMarkdown here, though plain text may suffice:
           optionDiv.textContent = answer;
-
+  
           if (!isAnswered) {
             optionDiv.onclick = () => handleTFAnswer(answer === 'Wahr', question);
           } else {
@@ -524,13 +534,14 @@
           optionsContainer.appendChild(optionDiv);
         });
       }
-
+  
       if (isAnswered) {
         showFeedback(userResponses[index].feedback);
       } else {
         hideFeedback();
       }
     }
+
 
     // Behandeln der Multiple-Choice-Antwort
     function handleMCAnswer(selectedOption, question) {
