@@ -1,169 +1,546 @@
 {
-  "title": "Budget – Grundlagen und Tipps",
+  "title": "Verständnisfragen Budget",
   "media": {
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/qknIgyHBhq8",
-    "source": "https://www.youtube.com"
+    "type": "",
+    "url": "",
+    "source": ""
   },
   "questions": [
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Warum ist ein Budget wichtig?</p>",
+      "question": "<p>Was ist der Hauptzweck eines Budgets?</p>",
       "options": [
         {
-          "text": "Es gibt einen Überblick über Einnahmen und Ausgaben.",
+          "text": "Um mehr Geld auszugeben, als man einnimmt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Budget dient nicht dazu, mehr auszugeben, sondern die <strong>Ausgaben zu planen</strong> und zu <strong>kontrollieren</strong>."
+        },
+        {
+          "text": "Um einen Überblick über Einnahmen und Ausgaben zu bekommen.",
           "is_correct": true,
-          "feedback": "✅ Richtig! Ein Budget hilft, die eigenen Finanzen zu organisieren und zu kontrollieren."
+          "feedback": "✅ Richtig! Der Hauptzweck eines Budgets ist es, einen <strong>Überblick über die finanzielle Situation</strong> zu verschaffen."
         },
         {
-          "text": "Es erhöht automatisch das verfügbare Geld.",
+          "text": "Um Schulden zu machen.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Ein Budget schafft keine zusätzlichen Einnahmen, sondern hilft, Geld bewusster zu verwalten."
-        },
-        {
-          "text": "Es ist nur für Menschen mit Schulden notwendig.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Ein Budget ist für jeden sinnvoll, um finanzielle Ziele zu erreichen."
+          "feedback": "❌ Falsch. Ein Budget soll helfen, <strong>Schulden zu vermeiden</strong>, nicht zu verursachen."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Welche Kosten zählen zu den fixen Kosten?</p>",
+      "question": "<p>Welche der folgenden Optionen gehört <strong>nicht</strong> zu den Merkpunkten der Budgeterstellung?</p>",
       "options": [
         {
-          "text": "Miete und Handy-Abo",
+          "text": "Nur unrealistische Zahlen einsetzen.",
           "is_correct": true,
-          "feedback": "✅ Richtig! Fixe Kosten sind regelmäßige und schwer beeinflussbare Ausgaben wie Miete oder Handy-Abos."
+          "feedback": "✅ Richtig! Es ist wichtig, <strong>realistische Zahlen</strong> zu verwenden, nicht unrealistische."
         },
         {
-          "text": "Essen und Freizeitaktivitäten",
+          "text": "Mit eigenen Zahlen rechnen.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Diese zählen zu den variablen Kosten, da sie sich je nach Verhalten ändern können."
+          "feedback": "❌ Falsch. Es ist ein wichtiger Merkpunkt, mit den <strong>eigenen Zahlen</strong> zu rechnen."
         },
         {
-          "text": "Spontane Einkäufe",
+          "text": "Geld muss zuerst eingenommen werden, bevor es ausgegeben werden kann.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Spontane Einkäufe gehören nicht zu den fixen, sondern zu den variablen Kosten."
+          "feedback": "❌ Falsch. Dies ist ein grundlegender <strong>Merkpunkt der Budgeterstellung</strong>."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Was sollte man zuerst berechnen, wenn man ein Budget erstellt?</p>",
+      "question": "<p>Was sind <strong>fixe Kosten</strong>?</p>",
       "options": [
         {
-          "text": "Die Einnahmen",
+          "text": "Kosten, die sich monatlich stark verändern.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Fixe Kosten bleiben in der Regel <strong>gleichbleibend</strong>."
+        },
+        {
+          "text": "Kosten, die regelmäßig und in ähnlicher Höhe anfallen.",
           "is_correct": true,
-          "feedback": "✅ Richtig! Die Einnahmen sind die Basis für jede Budgetplanung."
+          "feedback": "✅ Richtig! Fixe Kosten sind <strong>regelmässig</strong> und in <strong>ähnlicher Höhe</strong>."
         },
         {
-          "text": "Die variablen Kosten",
+          "text": "Kosten, die man nicht beeinflussen kann.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die variablen Kosten sollten erst nach den Einnahmen und fixen Kosten geplant werden."
-        },
-        {
-          "text": "Die Sparziele",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Sparziele sind wichtig, aber zunächst müssen die Einnahmen und Fixkosten bekannt sein."
+          "feedback": "❌ Falsch. Während fixe Kosten schwer zu beeinflussen sind, ist das <strong>nicht die Definition</strong>."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Warum sollte ein Budget regelmäßig überprüft werden?</p>",
+      "question": "<p>Nennen Sie ein Beispiel für <strong>variable Kosten</strong>.</p>",
       "options": [
         {
-          "text": "Um es an finanzielle Veränderungen anzupassen.",
+          "text": "Mietzins",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mietzins ist ein Beispiel für <strong>fixe Kosten</strong>."
+        },
+        {
+          "text": "Krankenkasse",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Krankenkasse ist ein Beispiel für <strong>fixe Kosten</strong>."
+        },
+        {
+          "text": "Taschengeld",
           "is_correct": true,
-          "feedback": "✅ Richtig! Ein Budget sollte regelmäßig überprüft werden, um aktuelle finanzielle Gegebenheiten zu berücksichtigen."
-        },
-        {
-          "text": "Weil es nach einem Monat automatisch verfällt.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Ein Budget verfällt nicht, es muss aber regelmäßig angepasst werden."
-        },
-        {
-          "text": "Damit man es jedes Mal neu erstellen muss.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Ziel ist es, ein Budget langfristig nutzbar zu machen."
+          "feedback": "✅ Richtig! Taschengeld ist ein Beispiel für <strong>variable Kosten</strong>."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Welche Aussage über variable Kosten ist richtig?</p>",
+      "question": "<p>Was ist die Folge einer fehlenden Budgetkontrolle?</p>",
       "options": [
         {
-          "text": "Sie lassen sich leichter anpassen als fixe Kosten.",
+          "text": "Man behält immer den Überblick über seine Finanzen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Fehlende Kontrolle führt zum <strong>Verlust des Überblicks</strong>."
+        },
+        {
+          "text": "Es kann zur Schuldenspirale führen.",
           "is_correct": true,
-          "feedback": "✅ Richtig! Variable Kosten schwanken und können durch persönliches Verhalten beeinflusst werden."
+          "feedback": "✅ Richtig! Fehlende Budgetkontrolle kann in eine <strong>Schuldenspirale</strong> münden."
         },
         {
-          "text": "Sie sind gleichbleibend und schwer zu verändern.",
+          "text": "Man spart automatisch mehr Geld.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Fixe Kosten sind schwerer zu verändern, nicht variable Kosten."
+          "feedback": "❌ Falsch. Ohne Kontrolle ist es <strong>schwieriger zu sparen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo findet man in der Schweiz Hilfe bei Schuldenproblemen?</p>",
+      "options": [
+        {
+          "text": "Auf budgetberatung.ch und schulden.ch.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>budgetberatung.ch</strong> und <strong>schulden.ch</strong> sind genannte Beratungsstellen."
         },
         {
-          "text": "Sie betreffen nur große Investitionen.",
+          "text": "Bei der Bank.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Variable Kosten betreffen alltägliche Ausgaben wie Essen oder Freizeitaktivitäten."
+          "feedback": "❌ Falsch. Banken sind <strong>nicht primär</strong> für Schuldenberatung zuständig."
+        },
+        {
+          "text": "Beim Strassenverkehrsamt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Strassenverkehrsamt hat <strong>keinen Bezug</strong> zu Schuldenberatung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Eigenschaft ist <strong>keine</strong> Grundvoraussetzung für ein Budget?</p>",
+      "options": [
+        {
+          "text": "Ehrlichkeit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Ehrlichkeit</strong> ist eine wichtige Grundvoraussetzung."
+        },
+        {
+          "text": "Disziplin",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Disziplin</strong> ist eine wichtige Grundvoraussetzung."
+        },
+        {
+          "text": "Perfektionismus",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Perfektionismus</strong> ist keine notwendige Grundvoraussetzung, eher <strong>Realismus</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was resultiert am Ende des Monats aus dem Budgetvergleich?</p>",
+      "options": [
+        {
+          "text": "Der Gewinn des nächsten Monats.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es resultiert der <strong>Saldo des aktuellen Monats</strong>."
+        },
+        {
+          "text": "Der Saldo für den aktuellen Monat.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der <strong>Saldo für den aktuellen Monat</strong> resultiert aus dem Budgetvergleich."
+        },
+        {
+          "text": "Die Höhe der nächsten Steuerrate.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Steuern sind <strong>nicht direkt</strong> mit dem monatlichen Budgetsaldo verbunden."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Verstehen",
-      "question": "<p>Warum hilft ein Budget, Schulden zu vermeiden?</p>",
+      "question": "<p>Warum ist es wichtig, bei der Budgeterstellung realistische Zahlen zu verwenden?</p>",
       "options": [
         {
-          "text": "Weil man seine Finanzen besser überblicken kann.",
-          "is_correct": true,
-          "feedback": "✅ Richtig! Ein Budget zeigt, wohin das Geld fließt, und verhindert unkontrollierte Ausgaben."
+          "text": "Weil unrealistische Zahlen zu einem besseren Gefühl führen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Unrealistische Zahlen führen zu <strong>falschen Erwartungen</strong> und <strong>Enttäuschungen</strong>."
         },
         {
-          "text": "Weil es Kredite automatisch reduziert.",
+          "text": "Weil unrealistische Zahlen helfen, mehr Geld auszugeben.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Ein Budget verhindert neue Schulden, baut aber keine bestehenden automatisch ab."
+          "feedback": "❌ Falsch. Ein Budget soll helfen, <strong>Ausgaben zu kontrollieren</strong>, nicht zu erhöhen."
+        },
+        {
+          "text": "Weil realistische Zahlen ein genaueres Bild der finanziellen Situation ermöglichen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Realistische Zahlen</strong> sind entscheidend für ein <strong>verlässliches Budget</strong> und eine <strong>genaue Planung</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet es, wenn die 'Tage im Monat noch übrig sind, das Geld aber schon aufgebraucht ist'?</p>",
+      "options": [
+        {
+          "text": "Dass man ein erfolgreiches Budget hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dies deutet auf <strong>finanzielle Schwierigkeiten</strong> hin."
+        },
+        {
+          "text": "Dass die Ausgaben höher sind als die Einnahmen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Dies ist ein klares Zeichen dafür, dass die <strong>Ausgaben die Einnahmen übersteigen</strong>."
+        },
+        {
+          "text": "Dass man besonders sparsam war.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sparsamkeit führt <strong>nicht</strong> zu dieser Situation."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Inwiefern helfen variable Kosten, das Budget anzupassen?</p>",
+      "options": [
+        {
+          "text": "Sie sind nicht beeinflussbar und daher irrelevant.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Variable Kosten sind <strong>beeinflussbar</strong> und daher <strong>relevant für Anpassungen</strong>."
+        },
+        {
+          "text": "Sie können durch Verhaltensänderungen beeinflusst werden und bieten Sparpotenzial.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Variable Kosten</strong> bieten <strong>Flexibilität</strong> und <strong>Sparpotenzial</strong> durch <strong>Verhaltensänderungen</strong>."
+        },
+        {
+          "text": "Sie sind immer höher als fixe Kosten und daher unwichtig.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Höhe der Kosten ist <strong>nicht entscheidend</strong> für die Anpassungsfähigkeit."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist die Kontrolle des Budgets am Monatsende wichtig?</p>",
+      "options": [
+        {
+          "text": "Um das Budget für den nächsten Monat zu erstellen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht primär um die <strong>Kontrolle des aktuellen Budgets</strong>."
+        },
+        {
+          "text": "Um den Lebensstil anzupassen, falls nötig und eine Schuldenspirale zu vermeiden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Kontrolle dient der <strong>Anpassung des Lebensstils</strong> und der <strong>Vermeidung der Schuldenspirale</strong>."
+        },
+        {
+          "text": "Um die Bank über die finanzielle Situation zu informieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Bankinformation ist <strong>nicht der Hauptgrund</strong> für die Budgetkontrolle."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was sollte man tun, wenn die laufenden Zahlungsverpflichtungen höher sind als der maximale Sparfreibetrag?</p>",
+      "options": [
+        {
+          "text": "Nichts, das Problem löst sich von selbst.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Handeln ist notwendig</strong> in dieser Situation."
+        },
+        {
+          "text": "Mit den Gläubigern Kontakt aufnehmen, um alternative Rückzahlungsvarianten festzulegen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Kontaktaufnahme mit Gläubigern</strong> ist der empfohlene nächste Schritt."
+        },
+        {
+          "text": "Einen noch grösseren Kredit aufnehmen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein weiterer Kredit <strong>verschärft das Problem</strong> meistens."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist ein individuell erstelltes Budget wichtig?</p>",
+      "options": [
+        {
+          "text": "Weil Standardbudgets immer besser funktionieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Standardbudgets passen <strong>nicht zu individuellen Bedürfnissen</strong>."
+        },
+        {
+          "text": "Weil jedes Budget individuell nach den eigenen Bedürfnissen zu erstellen ist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein Budget muss <strong>individuell</strong> auf die <strong>eigenen Bedürfnisse</strong> zugeschnitten sein."
+        },
+        {
+          "text": "Weil nur professionelle Budgets sinnvoll sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Jeder kann und sollte</strong> ein eigenes Budget erstellen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen Vorteil bietet die Unterscheidung zwischen fixen und variablen Kosten bei der Budgetplanung?</p>",
+      "options": [
+        {
+          "text": "Sie ist irrelevant für die Budgetplanung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Unterscheidung ist <strong>sehr relevant</strong>."
+        },
+        {
+          "text": "Sie hilft, Sparpotenziale bei den variablen Kosten zu erkennen und das Budget flexibler zu gestalten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Unterscheidung hilft, <strong>Sparpotenziale</strong> zu erkennen und das Budget <strong>flexibler zu gestalten</strong>."
+        },
+        {
+          "text": "Sie macht die Budgetplanung komplizierter.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sie macht die Planung <strong>strukturierter</strong> und <strong>effektiver</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der erste Schritt, wenn man merkt, dass man finanziell 'über seinen Verhältnissen lebt'?</p>",
+      "options": [
+        {
+          "text": "Sofort alle Ausgaben stoppen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein erster Schritt ist <strong>nicht</strong> das sofortige Stoppen aller Ausgaben."
+        },
+        {
+          "text": "Sich einen Überblick über die finanzielle Situation verschaffen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der erste Schritt ist, sich einen <strong>Überblick über die finanzielle Situation</strong> zu verschaffen."
+        },
+        {
+          "text": "Einen neuen Kredit aufnehmen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein neuer Kredit <strong>verschärft das Problem</strong> meistens."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum wird Ehrlichkeit als Grundvoraussetzung für ein Budget genannt?</p>",
+      "options": [
+        {
+          "text": "Weil man sonst beim Ausgeben erwischt wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ehrlichkeit im Budget bezieht sich auf die <strong>Selbstreflexion</strong>."
+        },
+        {
+          "text": "Weil man nur mit ehrlichen Zahlen die eigene finanzielle Situation realistisch einschätzen kann.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Ehrlichkeit</strong> sichert eine <strong>realistische Einschätzung</strong> der finanziellen Lage."
+        },
+        {
+          "text": "Weil unehrliche Budgets illegal sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Unehrliche Budgets sind <strong>nicht illegal</strong>, aber <strong>ineffektiv</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet 'Schuldenspirale' im Kontext eines Budgets?</p>",
+      "options": [
+        {
+          "text": "Ein positiver Kreislauf von steigendem Einkommen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schuldenspirale ist ein <strong>negativer Kreislauf</strong>."
+        },
+        {
+          "text": "Ein negativer Kreislauf, bei dem Schulden immer weiter anwachsen, weil man Zinsen und neue Schulden nicht mehr tilgen kann.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Schuldenspirale</strong> ist ein <strong>negativer Kreislauf wachsender Schulden</strong>."
+        },
+        {
+          "text": "Ein System, um schnell reich zu werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schuldenspirale hat <strong>nichts mit Reichtum zu tun</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es wichtig, auch Rückstellungen im Budget zu berücksichtigen?</p>",
+      "options": [
+        {
+          "text": "Weil Rückstellungen fixe Kosten erhöhen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Rückstellungen sind <strong>keine direkten Kostenerhöhungen</strong>."
+        },
+        {
+          "text": "Weil unerwartete Ausgaben wie Zahnarztkosten oder Ferien eingeplant werden sollen, um finanzielle Überraschungen zu vermeiden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Rückstellungen</strong> helfen, <strong>unerwartete Ausgaben</strong> zu planen und <strong>Überraschungen zu vermeiden</strong>."
+        },
+        {
+          "text": "Weil Rückstellungen das Budget komplizierter machen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Rückstellungen machen das Budget <strong>umfassender</strong> und <strong>realistischer</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Unterschied zwischen Budgeterstellung und Budgetkontrolle?</p>",
+      "options": [
+        {
+          "text": "Budgeterstellung ist unwichtig, Budgetkontrolle ist alles.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Beide sind wichtig</strong>."
+        },
+        {
+          "text": "Budgeterstellung ist das Planen der Einnahmen und Ausgaben, Budgetkontrolle ist das Überprüfen, ob die Planung eingehalten wurde und gegebenenfalls Anpassungen vorzunehmen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Budgeterstellung ist Planung</strong>, <strong>Budgetkontrolle ist Überprüfung und Anpassung</strong>."
+        },
+        {
+          "text": "Es gibt keinen Unterschied, es ist dasselbe.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es sind <strong>zwei unterschiedliche Phasen</strong> im Budgetprozess."
         }
       ]
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>Ein Budget hilft dabei, bewusste finanzielle Entscheidungen zu treffen.</p>",
-      "correct_answer": true,
-      "feedback_correct": "Richtig! Ein Budget zeigt, wo das Geld hingeht, und ermöglicht eine bessere Kontrolle.",
-      "feedback_incorrect": "Falsch. Ein Budget hilft, Einnahmen und Ausgaben zu organisieren und kluge finanzielle Entscheidungen zu treffen."
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Fixe Kosten sind flexibel und können jederzeit angepasst werden.</p>",
+      "question": "<p>Ein Budget ist nur für Personen mit hohen Einkommen notwendig.</p>",
       "correct_answer": false,
-      "feedback_correct": "Richtig! Fixe Kosten wie Miete oder Versicherungen sind schwer veränderbar.",
-      "feedback_incorrect": "Falsch. Fixe Kosten sind regelmäßige, kaum veränderbare Ausgaben."
+      "feedback_correct": "Falsch. Ein Budget ist für jeden nützlich, unabhängig vom Einkommen, um die Finanzen zu planen und zu kontrollieren.",
+      "feedback_incorrect": "Richtig. Ein Budget ist für jeden nützlich, unabhängig vom Einkommen."
     },
     {
       "type": "TrueFalse",
-      "bloom_level": "Verstehen",
-      "question": "<p>Ein Budget ist nur für Menschen mit wenig Geld oder Schulden notwendig.</p>",
+      "bloom_level": "Erinnern",
+      "question": "<p>Variable Kosten sind im Budget nicht relevant.</p>",
       "correct_answer": false,
-      "feedback_correct": "Richtig! Ein Budget hilft jedem, finanzielle Ziele zu erreichen, unabhängig vom Einkommen.",
-      "feedback_incorrect": "Falsch. Auch Menschen mit hohem Einkommen profitieren von einem Budget."
+      "feedback_correct": "Falsch. Variable Kosten sind sehr relevant, da sie beeinflussbar sind und Sparpotenzial bieten.",
+      "feedback_incorrect": "Richtig. Variable Kosten sind relevant für das Budget."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Budgeterstellung sollte einmalig erfolgen und muss danach nicht mehr angepasst werden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Ein Budget sollte regelmäßig kontrolliert und angepasst werden, um Veränderungen der finanziellen Situation Rechnung zu tragen.",
+      "feedback_incorrect": "Richtig. Ein Budget muss regelmässig angepasst werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Fixe Kosten können durch persönliches Verhalten beeinflusst werden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Fixe Kosten sind in der Regel nicht oder nur schwer durch persönliches Verhalten beeinflussbar.",
+      "feedback_incorrect": "Richtig. Fixe Kosten sind schwer beeinflussbar."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Budget hilft, die eigenen Geldmittel gezielt einzusetzen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Ein Budget ist ein Werkzeug, um die eigenen Geldmittel gezielt und planvoll einzusetzen.",
+      "feedback_incorrect": "Falsch. Ein Budget hilft, die Geldmittel gezielt einzusetzen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Schuldenberatungsstellen bieten keine kostenlose Hilfe an.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Viele Schuldenberatungsstellen, wie die genannten budgetberatung.ch und schulden.ch, bieten kostenlose Beratung an.",
+      "feedback_incorrect": "Richtig. Schuldenberatungsstellen bieten kostenlose Hilfe."
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Verstehen",
-      "question": "<p>Regelmäßige Budgetkontrollen helfen, finanzielle Ziele zu erreichen.</p>",
-      "correct_answer": true,
-      "feedback_correct": "Richtig! Nur durch regelmäßige Anpassungen bleibt das Budget aktuell und nützlich.",
-      "feedback_incorrect": "Falsch. Ein Budget muss regelmäßig überprüft werden, um finanzielle Ziele zu erreichen."
+      "question": "<p>Ein detailliertes Budget ist kompliziert und für den Alltag unnötig.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Ein detailliertes Budget kann helfen, die eigenen Finanzen besser zu verstehen und zu kontrollieren, was im Alltag sehr nützlich ist.",
+      "feedback_incorrect": "Richtig. Ein detailliertes Budget ist nützlich für den Alltag."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wenn man ein Budget erstellt hat, ist man automatisch vor einer Schuldenspirale geschützt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Ein Budget ist ein wichtiges Werkzeug, aber nur die konsequente Kontrolle und Einhaltung des Budgets schützt vor einer Schuldenspirale.",
+      "feedback_incorrect": "Richtig. Ein Budget allein schützt nicht vor Schulden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Es ist besser, sich nur auf die Einnahmen zu konzentrieren und die Ausgaben zu ignorieren.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Für ein ausgeglichenes Budget ist es wichtig, sowohl Einnahmen als auch Ausgaben im Blick zu haben und zu planen.",
+      "feedback_incorrect": "Richtig. Ausgaben sind genauso wichtig wie Einnahmen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein Budget ist nur für Menschen mit finanziellen Problemen sinnvoll.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Ein Budget ist für jeden sinnvoll, um die finanzielle Situation zu optimieren und finanzielle Ziele zu erreichen, nicht nur bei Problemen.",
+      "feedback_incorrect": "Richtig. Ein Budget ist für jeden sinnvoll."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Erstellung eines Budgets ist zeitaufwendig und bringt keinen direkten Nutzen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Budgeterstellung mag anfangs etwas Zeit kosten, aber der Nutzen in Form von finanzieller Übersicht und Kontrolle ist langfristig sehr wertvoll.",
+      "feedback_incorrect": "Richtig. Ein Budget bringt langfristigen Nutzen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Es ist ausreichend, nur die festen Kosten im Budget zu planen, da variable Kosten unvorhersehbar sind.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Auch variable Kosten sollten im Budget berücksichtigt werden, da sie einen wesentlichen Teil der Ausgaben ausmachen und beeinflussbar sind.",
+      "feedback_incorrect": "Richtig. Variable Kosten müssen auch geplant werden."
     }
   ]
 }
