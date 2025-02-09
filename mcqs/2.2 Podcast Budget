@@ -1,0 +1,169 @@
+{
+  "title": "Budget – Grundlagen und Tipps",
+  "media": {
+      "type": "youtube",
+      "url": "https://www.youtube.com/embed/qknIgyHBhq8",
+      "source": "https://www.youtube.com"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum ist ein Budget wichtig?</p>",
+      "options": [
+        {
+          "text": "Es gibt einen Überblick über Einnahmen und Ausgaben.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein Budget hilft, die eigenen Finanzen zu organisieren und zu kontrollieren."
+        },
+        {
+          "text": "Es erhöht automatisch das verfügbare Geld.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Budget schafft keine zusätzlichen Einnahmen, sondern hilft, Geld bewusster zu verwalten."
+        },
+        {
+          "text": "Es ist nur für Menschen mit Schulden notwendig.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Budget ist für jeden sinnvoll, um finanzielle Ziele zu erreichen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Kosten zählen zu den fixen Kosten?</p>",
+      "options": [
+        {
+          "text": "Miete und Handy-Abo",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Fixe Kosten sind regelmäßige und schwer beeinflussbare Ausgaben wie Miete oder Handy-Abos."
+        },
+        {
+          "text": "Essen und Freizeitaktivitäten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese zählen zu den variablen Kosten, da sie sich je nach Verhalten ändern können."
+        },
+        {
+          "text": "Spontane Einkäufe",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Spontane Einkäufe gehören nicht zu den fixen, sondern zu den variablen Kosten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte man zuerst berechnen, wenn man ein Budget erstellt?</p>",
+      "options": [
+        {
+          "text": "Die Einnahmen",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Einnahmen sind die Basis für jede Budgetplanung."
+        },
+        {
+          "text": "Die variablen Kosten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die variablen Kosten sollten erst nach den Einnahmen und fixen Kosten geplant werden."
+        },
+        {
+          "text": "Die Sparziele",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sparziele sind wichtig, aber zunächst müssen die Einnahmen und Fixkosten bekannt sein."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum sollte ein Budget regelmäßig überprüft werden?</p>",
+      "options": [
+        {
+          "text": "Um es an finanzielle Veränderungen anzupassen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein Budget sollte regelmäßig überprüft werden, um aktuelle finanzielle Gegebenheiten zu berücksichtigen."
+        },
+        {
+          "text": "Weil es nach einem Monat automatisch verfällt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Budget verfällt nicht, es muss aber regelmäßig angepasst werden."
+        },
+        {
+          "text": "Damit man es jedes Mal neu erstellen muss.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ziel ist es, ein Budget langfristig nutzbar zu machen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Aussage über variable Kosten ist richtig?</p>",
+      "options": [
+        {
+          "text": "Sie lassen sich leichter anpassen als fixe Kosten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Variable Kosten schwanken und können durch persönliches Verhalten beeinflusst werden."
+        },
+        {
+          "text": "Sie sind gleichbleibend und schwer zu verändern.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Fixe Kosten sind schwerer zu verändern, nicht variable Kosten."
+        },
+        {
+          "text": "Sie betreffen nur große Investitionen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Variable Kosten betreffen alltägliche Ausgaben wie Essen oder Freizeitaktivitäten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum hilft ein Budget, Schulden zu vermeiden?</p>",
+      "options": [
+        {
+          "text": "Weil man seine Finanzen besser überblicken kann.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein Budget zeigt, wohin das Geld fließt, und verhindert unkontrollierte Ausgaben."
+        },
+        {
+          "text": "Weil es Kredite automatisch reduziert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Budget verhindert neue Schulden, baut aber keine bestehenden automatisch ab."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Budget hilft dabei, bewusste finanzielle Entscheidungen zu treffen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Ein Budget zeigt, wo das Geld hingeht, und ermöglicht eine bessere Kontrolle.",
+      "feedback_incorrect": "Falsch. Ein Budget hilft, Einnahmen und Ausgaben zu organisieren und kluge finanzielle Entscheidungen zu treffen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Fixe Kosten sind flexibel und können jederzeit angepasst werden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Fixe Kosten wie Miete oder Versicherungen sind schwer veränderbar.",
+      "feedback_incorrect": "Falsch. Fixe Kosten sind regelmäßige, kaum veränderbare Ausgaben."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein Budget ist nur für Menschen mit wenig Geld oder Schulden notwendig.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Ein Budget hilft jedem, finanzielle Ziele zu erreichen, unabhängig vom Einkommen.",
+      "feedback_incorrect": "Falsch. Auch Menschen mit hohem Einkommen profitieren von einem Budget."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Regelmäßige Budgetkontrollen helfen, finanzielle Ziele zu erreichen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Nur durch regelmäßige Anpassungen bleibt das Budget aktuell und nützlich.",
+      "feedback_incorrect": "Falsch. Ein Budget muss regelmäßig überprüft werden, um finanzielle Ziele zu erreichen."
+    }
+  ]
+}
