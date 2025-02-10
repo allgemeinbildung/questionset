@@ -1,406 +1,406 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-    <meta charset="UTF-8">
-    <title>Verständnisfragen</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-            max-width: 800px;
-            margin: auto;
-            background-color: #f9f9f9;
-        }
-
-        #startScreen {
-            text-align: center;
-            padding: 50px 20px;
-        }
-
-        .title-image {
-            max-width: 400px;
-            margin: 0 auto 20px;
-            display: block;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
-        }
-
-        #startScreen h1 {
-            margin-top: 15px;
-        }
-
-        #startBtn {
-            margin-top: 20px;
-            background: #4CAF50;
-            color: white;
-            padding: 12px 25px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            font-size: 16px;
-            transition: all 0.3s ease;
-        }
-
-        #quizContainer {
-            display: none;
-            position: relative;
-            overflow: hidden;
-        }
-
-        #quizMedia {
-            margin: 0 auto 20px;
-            max-width: 600px;
-        }
-
-        #quizMedia iframe {
-            width: 100%;
-            height: 340px;
-            border: none;
-            border-radius: 8px;
-        }
-
-        #quizMedia audio {
-            width: 100%;
-        }
-
-        #mediaSource {
-            text-align: center;
-            margin-top: 10px;
-        }
-
-        #mediaSource a {
-            color: #2196F3;
-            text-decoration: none;
-            font-weight: bold;
-        }
-
-        #mediaSource a:hover {
-            text-decoration: underline;
-        }
-
-        .progress {
-            text-align: center;
-            margin: 20px 0;
-            font-weight: bold;
-            color: #666;
-        }
-
-        .question-container {
-            background: white;
-            padding: 25px;
-            border-radius: 10px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-            margin: 20px 0;
-        }
-
-        .option {
-            padding: 15px;
-            margin: 10px 0;
-            background: #f8f8f8;
-            border: 2px solid #ddd;
-            border-radius: 5px;
-            cursor: pointer;
-            transition: all 0.2s ease;
-        }
-
-        .option:hover {
-            background: #f0f0f0;
-        }
-
-        .selected {
-            border-color: #2196F3;
-            background: #e3f2fd;
-        }
-
-        .correct {
-            background: #e8f5e9 !important;
-            border-color: #4CAF50 !important;
-            animation: correctAnim 0.5s ease;
-        }
-
-        .incorrect {
-            background: #ffebee !important;
-            border-color: #f44336 !important;
-            animation: incorrectAnim 0.5s ease;
-        }
-
-        .feedback {
-            margin-top: 15px;
-            padding: 15px;
-            border-radius: 5px;
-            display: none;
-            background: #e3f2fd;
-            border: 2px solid #90caf9;
-        }
-
-        #nextBtn, #prevBtn {
-            background: #2196F3;
-            color: white;
-            padding: 12px 25px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            font-size: 16px;
-            transition: all 0.3s ease;
-            margin: 0; /* Entfernt vorherige Margins */
-        }
-
-        #prevBtn {
-            background: #9E9E9E;
-        }
-
-        #prevBtn:hover {
-            background: #7e7e7e;
-        }
-
-        #nextBtn:hover {
-            background: #1976D2;
-        }
-
-        .results {
-            text-align: center;
-            padding: 20px;
-            background: white;
-            border-radius: 10px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-        }
-
-        .donut-chart {
-            width: 200px;
-            height: 200px;
-            margin: 20px auto;
-            transform: rotate(-90deg);
-        }
-
-        .donut-segment {
-            fill: none;
-            stroke-width: 8;
-            stroke-linecap: round;
-        }
-
-        .review-item {
-            margin: 20px 0;
-            padding: 15px;
-            background: white;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-            text-align: left;
-        }
-
-        .review-question {
-            color: #2c3e50;
-            margin-bottom: 10px;
-            font-weight: bold;
-        }
-
-        .user-answer {
-            margin: 5px 0;
-        }
-
-        .user-answer.correct {
-            color: #4CAF50;
-        }
-
-        .user-answer.incorrect {
-            color: #f44336;
-        }
-
-        .explanation {
-            color: #666;
-            margin-top: 10px;
-            font-style: italic;
-        }
-
-        @keyframes correctAnim {
-            0% { transform: scale(1); }
-            50% { transform: scale(1.02); }
-            100% { transform: scale(1); }
-        }
-
-        @keyframes incorrectAnim {
-            0% { transform: translateX(0); }
-            25% { transform: translateX(-5px); }
-            50% { transform: translateX(5px); }
-            100% { transform: translateX(0); }
-        }
-
-        .hidden {
-            display: none;
-            opacity: 0;
-        }
-
-        .slide-out {
-            animation: slideOutLeft 0.3s forwards;
-        }
-
-        @keyframes slideOutLeft {
-            from { transform: translateX(0); opacity: 1; }
-            to { transform: translateX(-100%); opacity: 0; }
-        }
-
-        .slide-in {
-            animation: slideInRight 0.3s forwards;
-        }
-
-        @keyframes slideInRight {
-            from { transform: translateX(100%); opacity: 0; }
-            to { transform: translateX(0); opacity: 1; }
-        }
-
-        /* Neue CSS-Regel zum Ausblenden der Medienkomponente */
-        #quizMedia.hidden {
-            display: none;
-        }
-
-        /* Anpassung für Button-Container mit Flexbox */
-        .button-container {
-            display: flex;
-            justify-content: center;
-            gap: 10px; /* Abstand zwischen den Buttons */
-            margin-top: 20px; /* Abstand oben */
-        }
-        @media print {
-            /* Verstecke alle Elemente außer dem Ergebniscontainer */
-            body * {
-                visibility: hidden;
-            }
-            #resultContainer, #resultContainer * {
-                visibility: visible;
-            }
-            /* Positioniere den Ergebniscontainer oben links */
-            #resultContainer {
-                position: absolute;
-                left: 0;
-                top: 0;
-                width: 100%;
-            }
-            /* Verstecke den Print-Button im Druck */
-            button[onclick="printResults()"] {
-                display: none;
-            }
-        }
-        /* Neue CSS-Regel zum Ausblenden der Medienkomponente */
-        #quizMedia.hidden {
-            display: none;
-        }
-
-        /* Anpassung für Button-Container mit Flexbox */
-        .button-container {
-            display: flex;
-            justify-content: center;
-            gap: 10px; /* Abstand zwischen den Buttons */
-            margin-top: 20px; /* Abstand oben */
-        }
-
-        /* CSS für den Druckmodus */
-        @media print {
-            /* Verstecke alle Elemente außer dem Ergebniscontainer */
-            body * {
-                visibility: hidden;
-            }
-            #resultContainer, #resultContainer * {
-                visibility: visible;
-            }
-            /* Positioniere den Ergebniscontainer oben links */
-            #resultContainer {
-                position: absolute;
-                left: 0;
-                top: 0;
-                width: 100%;
-            }
-            /* Verstecke den Print-Button im Druck */
-            button[onclick="printResults()"] {
-                display: none;
-            }
-        }
-
-        /* Optional: Cursor-Änderung für deaktivierte Optionen */
-        .option.disabled {
-            cursor: default;
-            pointer-events: none;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <title>Verständnisfragen</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      background-color: #f9f9f9;
+    }
+    
+    /* Start Screen */
+    #startScreen {
+      text-align: center;
+      padding: 50px 20px;
+    }
+    
+    .title-image {
+      max-width: 200px;
+      margin: 0 auto 20px;
+      display: block;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    }
+    
+    #startScreen h1 {
+      margin-top: 15px;
+    }
+    
+    #startBtn {
+      margin-top: 20px;
+      background: #4CAF50;
+      color: white;
+      padding: 12px 25px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+      transition: all 0.3s ease;
+    }
+    
+    /* New container for two-column layout */
+    #quizContentWrapper {
+      display: flex;
+      gap: 5px;
+    }
+    
+    /* Left column: media (video/audio) + progress */
+    #mediaColumn {
+      flex: 0 0 55%;
+    }
+    
+    /* Right column: questions and controls */
+    #questionColumn {
+      flex: 0 0 45%;
+    }
+    
+    /* Quiz container (hidden until start) */
+    #quizContainer {
+      display: none;
+      position: relative;
+      overflow: hidden;
+    }
+    
+    /* Media container; note that the iframe, audio, or image will fill its container */
+    #quizMedia {
+      margin: 0 auto 20px;
+      max-width: 100%;
+    }
+    
+    #quizMedia iframe {
+      width: 100%;
+      height: 340px;
+      border: none;
+      border-radius: 8px;
+    }
+    
+    #quizMedia audio {
+      width: 100%;
+    }
+    
+    #mediaSource {
+      text-align: center;
+      margin-top: 10px;
+    }
+    
+    #mediaSource a {
+      color: #2196F3;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    #mediaSource a:hover {
+      text-decoration: underline;
+    }
+    
+    /* Moved Progress (now below the media) */
+    .progress {
+      text-align: center;
+      margin-top: 10px;
+      font-weight: bold;
+      color: #666;
+    }
+    
+    /* Question container */
+    .question-container {
+      background: white;
+      padding: 15px;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      margin: 10px 0;
+      font-size: 14px;      /* smaller text */
+    }
+    
+    /* Answer option styling: reduced font size, padding, and margin */
+    .option {
+      padding: 3px;         /* reduced padding */
+      margin: 2px 0;        /* reduced margin */
+      background: #f8f8f8;
+      border: 2px solid #ddd;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      font-size: 12px;      /* smaller text */
+    }
+    
+    .option:hover {
+      background: #f0f0f0;
+    }
+    
+    .selected {
+      border-color: #2196F3;
+      background: #e3f2fd;
+    }
+    
+    .correct {
+      background: #e8f5e9 !important;
+      border-color: #4CAF50 !important;
+      animation: correctAnim 0.5s ease;
+    }
+    
+    .incorrect {
+      background: #ffebee !important;
+      border-color: #f44336 !important;
+      animation: incorrectAnim 0.5s ease;
+    }
+    
+    .feedback {
+      margin-top: 15px;
+      padding: 15px;
+      border-radius: 5px;
+      display: none;
+      background: #e3f2fd;
+      border: 2px solid #90caf9;
+      font-size: 14px;      /* smaller text */
+    }
+    
+    /* Button container: uses flexbox for consistent button spacing */
+    .button-container {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      margin-top: 20px;
+    }
+    
+    #nextBtn, #prevBtn {
+      background: #2196F3;
+      color: white;
+      padding: 12px 25px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 14px;
+      transition: all 0.3s ease;
+      margin: 0;
+    }
+    
+    #prevBtn {
+      background: #9E9E9E;
+    }
+    
+    #prevBtn:hover {
+      background: #7e7e7e;
+    }
+    
+    #nextBtn:hover {
+      background: #1976D2;
+    }
+    
+    /* Results */
+    .results {
+      text-align: center;
+      padding: 20px;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    
+    .donut-chart {
+      width: 200px;
+      height: 200px;
+      margin: 20px auto;
+      transform: rotate(-90deg);
+    }
+    
+    .donut-segment {
+      fill: none;
+      stroke-width: 8;
+      stroke-linecap: round;
+    }
+    
+    .review-item {
+      margin: 20px 0;
+      padding: 15px;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      text-align: left;
+    }
+    
+    .review-question {
+      color: #2c3e50;
+      margin-bottom: 10px;
+      font-weight: bold;
+    }
+    
+    .user-answer {
+      margin: 5px 0;
+    }
+    
+    .user-answer.correct {
+      color: #4CAF50;
+    }
+    
+    .user-answer.incorrect {
+      color: #f44336;
+    }
+    
+    .explanation {
+      color: #666;
+      margin-top: 10px;
+      font-style: italic;
+    }
+    
+    @keyframes correctAnim {
+      0% { transform: scale(1); }
+      50% { transform: scale(1.02); }
+      100% { transform: scale(1); }
+    }
+    
+    @keyframes incorrectAnim {
+      0% { transform: translateX(0); }
+      25% { transform: translateX(-5px); }
+      50% { transform: translateX(5px); }
+      100% { transform: translateX(0); }
+    }
+    
+    .hidden {
+      display: none;
+      opacity: 0;
+    }
+    
+    .slide-out {
+      animation: slideOutLeft 0.3s forwards;
+    }
+    
+    @keyframes slideOutLeft {
+      from { transform: translateX(0); opacity: 1; }
+      to { transform: translateX(-100%); opacity: 0; }
+    }
+    
+    .slide-in {
+      animation: slideInRight 0.3s forwards;
+    }
+    
+    @keyframes slideInRight {
+      from { transform: translateX(100%); opacity: 0; }
+      to { transform: translateX(0); opacity: 1; }
+    }
+    
+    /* Bestehende Regeln für versteckte Medien */
+    #quizMedia.hidden {
+      display: none;
+    }
+    
+    /* Druckmodus */
+    @media print {
+      body * {
+        visibility: hidden;
+      }
+      #resultContainer, #resultContainer * {
+        visibility: visible;
+      }
+      #resultContainer {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+      }
+      button[onclick="printResults()"] {
+        display: none;
+      }
+    }
+  </style>
 </head>
 <body>
-    <div id="startScreen">
-        <img src="images/img1.jpg" alt="Quiz Header Image" class="title-image">
-        <h1 id="quizTitle"></h1>
-        <button id="startBtn" onclick="startQuiz()">Quiz starten</button>
-    </div>
+  <div id="startScreen">
+    <button id="startBtn" onclick="startQuiz()">Starten</button>
+    <h1 id="quizTitle"></h1>
+    <img src="images/img1.jpg" alt="Quiz Header Image" class="title-image">
+  </div>
 
-    <div id="quizContainer">
-        <div id="quizMedia" class="hidden"></div> <!-- Initial als verborgen gesetzt -->
-        <div id="mediaSource" class="hidden"></div> <!-- Bereich für den 'Quelle' Link -->
+  <div id="quizContainer">
+    <!-- Wrapper for the two-column layout -->
+    <div id="quizContentWrapper">
+      <!-- Left Column: Media (iframe, audio, or placeholder image) + Progress -->
+      <div id="mediaColumn">
+        <div id="quizMedia" class="hidden"></div>
+        <div id="mediaSource" class="hidden"></div>
         <div class="progress">Frage <span id="current">1</span> von <span id="total">7</span></div>
-        
+      </div>
+      
+      <!-- Right Column: Questions and Buttons -->
+      <div id="questionColumn">
         <div class="question-container">
-            <div class="question" id="questionText"></div>
-            <div id="optionsContainer"></div>
-            <div id="feedback" class="feedback"></div>
+          <div class="question" id="questionText"></div>
+          <div id="optionsContainer"></div>
+          <div id="feedback" class="feedback"></div>
         </div>
-
         <div class="button-container">
-            <button id="prevBtn" onclick="prevQuestion()">Zurück</button>
-            <button id="nextBtn" onclick="nextQuestion()">Weiter</button>
+          <button id="prevBtn" onclick="prevQuestion()">Zurück</button>
+          <button id="nextBtn" onclick="nextQuestion()">Weiter</button>
         </div>
+      </div>
     </div>
+  </div>
 
-    <div id="resultContainer" class="hidden">
-        <div class="results">
-            <h2>Ergebnis</h2>
-            <svg class="donut-chart" viewBox="0 0 40 40">
-                <circle class="donut-segment" cx="20" cy="20" r="15" 
-                        stroke="#eeeeee" stroke-width="8" fill="none"/>
-                <circle class="donut-segment" cx="20" cy="20" r="15" 
-                        stroke="#4CAF50" stroke-width="8" 
-                        stroke-dasharray="0 100" fill="none"
-                        id="correctSegment"/>
-            </svg>
-            <p id="scoreText"></p>
-            <p id="resultMessage"></p>
-            <button onclick="location.reload()">Neues Quiz</button>
-            <button onclick="printResults()" style="margin-left: 10px;">Drucken</button>
-
-            <div id="reviewSection"></div>
-        </div>
+  <div id="resultContainer" class="hidden">
+    <div class="results">
+      <h2>Ergebnis: <span id="quizTitleResult"></span></h2>
+      <svg class="donut-chart" viewBox="0 0 40 40">
+        <circle class="donut-segment" cx="20" cy="20" r="15" 
+                stroke="#eeeeee" stroke-width="8" fill="none"/>
+        <circle class="donut-segment" cx="20" cy="20" r="15" 
+                stroke="#4CAF50" stroke-width="8" 
+                stroke-dasharray="0 100" fill="none"
+                id="correctSegment"/>
+      </svg>
+      <p id="scoreText"></p>
+      <p id="resultMessage"></p>
+      <button onclick="location.reload()">Neues Quiz</button>
+      <button onclick="printResults()" style="margin-left: 10px;">Drucken</button>
+      <div id="reviewSection"></div>
     </div>
+  </div>
 
-<script>
-let currentQuestion = 0;
-let score = 0;
-let questions = [];
-let quizTitle = "";
-let userResponses = [];
+  <script>
+    let currentQuestion = 0;
+    let score = 0;
+    let questions = [];
+    let quizTitle = "";
+    let userResponses = [];
+    let assignmentId = 'default';
 
-// Funktion zum Ersetzen von 'ß' durch 'ss' in allen Strings eines Objekts
-function replaceSharpS(obj) {
-    if (typeof obj === 'string') {
+    // Paste the parseMarkdown function here:
+    function parseMarkdown(text) {
+      return text
+        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')  // Convert **bold** to <strong>
+        .replace(/\*(.*?)\*/g, '<em>$1</em>');              // Convert *italic* to <em>
+    }
+
+    // Funktion zum Ersetzen von 'ß' durch 'ss' in allen Strings eines Objekts
+    function replaceSharpS(obj) {
+      if (typeof obj === 'string') {
         return obj.replace(/ß/g, 'ss');
-    } else if (Array.isArray(obj)) {
+      } else if (Array.isArray(obj)) {
         return obj.map(replaceSharpS);
-    } else if (typeof obj === 'object' && obj !== null) {
+      } else if (typeof obj === 'object' && obj !== null) {
         const newObj = {};
         for (let key in obj) {
-            if (obj.hasOwnProperty(key)) {
-                newObj[key] = replaceSharpS(obj[key]);
-            }
+          if (obj.hasOwnProperty(key)) {
+            newObj[key] = replaceSharpS(obj[key]);
+          }
         }
         return newObj;
+      }
+      return obj;
     }
-    return obj;
-}
 
-// Funktion zur Initialisierung des Quiz
-async function initializeQuiz() {
-    const params = new URLSearchParams(window.location.search);
-    const assignmentId = params.get('assignmentId') || 'default';
-    console.log(`Lade Quiz für Assignment ID: ${assignmentId}`);
-    
-    try {
-        const response = await fetch(`mcqs/${encodeURIComponent(assignmentId)}.json`); // Relativer Pfad
+    // Funktion zur Initialisierung des Quiz
+    async function initializeQuiz() {
+      const params = new URLSearchParams(window.location.search);
+      assignmentId = params.get('assignmentId') || 'default';
+      console.log(`Lade Quiz für Assignment ID: ${assignmentId}`);
+      
+      try {
+        const response = await fetch(`mcqs/${encodeURIComponent(assignmentId)}.json`);
         if (!response.ok) {
-            throw new Error(`HTTP-Fehler! Status: ${response.status}`);
+          throw new Error(`HTTP-Fehler! Status: ${response.status}`);
         }
         let data = await response.json();
         console.log('Quiz-Daten geladen:', data);
@@ -409,372 +409,343 @@ async function initializeQuiz() {
         data = replaceSharpS(data);
         console.log('Bereinigte Quiz-Daten:', data);
         
+        // Set header image based on JSON property
+        const headerImageElement = document.querySelector('.title-image');
+        if (data.headerImage) {
+          headerImageElement.src = `images/${data.headerImage}`;
+        } else {
+          headerImageElement.src = 'images/img1.jpg';
+        }
+
         // Handle quiz media
         const quizMedia = document.getElementById('quizMedia');
         const mediaSource = document.getElementById('mediaSource');
-        if (data.media && data.media.type && data.media.url) { // Erweiterte Bedingung
-            console.log('Medientyp gefunden:', data.media.type);
-            if (data.media.type === 'youtube') {
-                quizMedia.innerHTML = `
-                    <iframe src="${data.media.url}" 
-                            frameborder="0" 
-                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                            allowfullscreen>
-                    </iframe>`;
-                console.log('YouTube-Video eingebettet');
-            } else if (data.media.type === 'mp3') {
-                quizMedia.innerHTML = `
-                    <audio controls>
-                        <source src="${data.media.url}" type="audio/mpeg">
-                        Ihr Browser unterstützt das Audioelement nicht.
-                    </audio>`;
-                console.log('Audio eingebettet');
-            } else {
-                quizMedia.innerHTML = ''; // Falls ein unbekannter Medientyp angegeben ist
-                console.warn('Unbekannter Medientyp angegeben.');
-            }
-            // 'Quelle' Link hinzufügen, falls vorhanden
-            if (data.media.source) {
-                mediaSource.innerHTML = `<a href="${data.media.source}" target="_blank">Quelle</a>`;
-                mediaSource.classList.remove('hidden');
-            } else {
-                mediaSource.innerHTML = '';
-                mediaSource.classList.add('hidden');
-            }
-            quizMedia.classList.remove('hidden'); // Medienbereich sichtbar machen
-        } else {
+        if (data.media && data.media.type && data.media.url) {
+          console.log('Medientyp gefunden:', data.media.type);
+          if (data.media.type === 'youtube') {
+            quizMedia.innerHTML = `
+              <iframe src="${data.media.url}" 
+                      frameborder="0" 
+                      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+                      allowfullscreen>
+              </iframe>`;
+            console.log('YouTube-Video eingebettet');
+          } else if (data.media.type === 'mp3') {
+            quizMedia.innerHTML = `
+              <audio controls>
+                <source src="${data.media.url}" type="audio/mpeg">
+                Ihr Browser unterstützt das Audioelement nicht.
+              </audio>`;
+            console.log('Audio eingebettet');
+          } else {
             quizMedia.innerHTML = '';
+            console.warn('Unbekannter Medientyp angegeben.');
+          }
+          if (data.media.source) {
+            mediaSource.innerHTML = `<a href="${data.media.source}" target="_blank">Quelle</a>`;
+            mediaSource.classList.remove('hidden');
+          } else {
             mediaSource.innerHTML = '';
-            quizMedia.classList.add('hidden'); // Medienbereich ausblenden
             mediaSource.classList.add('hidden');
-            console.log('Keine gültigen Medieninformationen gefunden');
+          }
+          quizMedia.classList.remove('hidden');
+        } else {
+          // If no valid media is provided, display the default quiz.png image
+          quizMedia.innerHTML = `<img src="images/quiz.png" alt="Quiz Placeholder" style="width: 100%; border-radius: 8px;">`;
+          quizMedia.classList.remove('hidden');
+          mediaSource.innerHTML = '';
+          mediaSource.classList.add('hidden');
+          console.log('Keine gültigen Medieninformationen gefunden. Platzhalter wird angezeigt.');
         }
 
-        // Überprüfung auf vorhandene Fragen
         if (!data.questions || !Array.isArray(data.questions) || data.questions.length === 0) {
-            throw new Error('Keine Fragen im Quiz gefunden.');
+          throw new Error('Keine Fragen im Quiz gefunden.');
         }
 
         questions = shuffleArray(data.questions).slice(0, 7); // Begrenzung auf 7 Fragen
         quizTitle = data.title || assignmentId.replace(/-/g, ' ');
         document.getElementById('quizTitle').textContent = quizTitle;
         console.log('Quiz-Titel gesetzt:', quizTitle);
-        document.getElementById('total').textContent = questions.length; // Dynamische Gesamtanzahl setzen
-    } catch (error) {
+        document.getElementById('total').textContent = questions.length;
+      } catch (error) {
         console.error('Fehler beim Laden der Fragen:', error);
         alert('Quiz konnte nicht geladen werden: ' + error.message);
-    }
-}
-
-// Start des Quiz
-function startQuiz() {
-    document.getElementById('startScreen').style.display = 'none';
-    document.getElementById('quizContainer').style.display = 'block';
-    showQuestion(currentQuestion);
-    updateProgress();
-    updatePrevButton();
-    updateNextButton(); // Button-Text initialisieren
-}
-
-// Anzeigen einer Frage
-function showQuestion(index) {
-    const question = questions[index];
-    document.getElementById('questionText').innerHTML = question.question;
-    const optionsContainer = document.getElementById('optionsContainer');
-    optionsContainer.innerHTML = '';
-
-    const isAnswered = userResponses[index] !== undefined;
-
-    if (question.type === "MultipleChoice") {
-        question.options.forEach((option, optIndex) => {
-            const optionDiv = document.createElement('div');
-            optionDiv.className = 'option';
-            optionDiv.innerHTML = option.text;
-
-            if (!isAnswered) {
-                optionDiv.onclick = () => handleMCAnswer(option, question);
-            } else {
-                // Optional: Hinzufügen einer CSS-Klasse, um anzuzeigen, dass die Option deaktiviert ist
-                optionDiv.classList.add('disabled');
-            }
-            
-            // Überprüfen, ob der Benutzer diese Option bereits ausgewählt hat
-            if (isAnswered && userResponses[index].selected === option.text) {
-                optionDiv.classList.add(userResponses[index].correct ? 'correct' : 'incorrect');
-                optionDiv.classList.add('selected');
-            }
-            optionsContainer.appendChild(optionDiv);
-        });
-    } else if (question.type === "TrueFalse") {
-        ['Wahr', 'Falsch'].forEach((answer, optIndex) => {
-            const optionDiv = document.createElement('div');
-            optionDiv.className = 'option';
-            optionDiv.textContent = answer;
-
-            if (!isAnswered) {
-                optionDiv.onclick = () => handleTFAnswer(answer === 'Wahr', question);
-            } else {
-                // Optional: Hinzufügen einer CSS-Klasse, um anzuzeigen, dass die Option deaktiviert ist
-                optionDiv.classList.add('disabled');
-            }
-            
-            // Überprüfen, ob der Benutzer diese Option bereits ausgewählt hat
-            if (isAnswered && 
-                ((userResponses[index].selected === 'Wahr' && answer === 'Wahr') ||
-                 (userResponses[index].selected === 'Falsch' && answer === 'Falsch'))) {
-                optionDiv.classList.add(userResponses[index].correct ? 'correct' : 'incorrect');
-                optionDiv.classList.add('selected');
-            }
-            optionsContainer.appendChild(optionDiv);
-        });
+      }
     }
 
-    // Zeige Feedback, wenn die Frage bereits beantwortet wurde
-    if (isAnswered) {
+    // Start des Quiz
+    function startQuiz() {
+      document.getElementById('startScreen').style.display = 'none';
+      document.getElementById('quizContainer').style.display = 'block';
+      showQuestion(currentQuestion);
+      updateProgress();
+      updatePrevButton();
+      updateNextButton();
+    }
+
+    // Anzeigen einer Frage
+    function showQuestion(index) {
+      const question = questions[index];
+      // Convert markdown in the question text to HTML
+      document.getElementById('questionText').innerHTML = parseMarkdown(question.question);
+      const optionsContainer = document.getElementById('optionsContainer');
+      optionsContainer.innerHTML = '';
+  
+      const isAnswered = userResponses[index] !== undefined;
+  
+      if (question.type === "MultipleChoice") {
+        question.options.forEach((option) => {
+          const optionDiv = document.createElement('div');
+          optionDiv.className = 'option';
+          // Convert markdown in the option text
+          optionDiv.innerHTML = parseMarkdown(option.text);
+  
+          if (!isAnswered) {
+            optionDiv.onclick = () => handleMCAnswer(option, question);
+          } else {
+            optionDiv.classList.add('disabled');
+          }
+          
+          if (isAnswered && userResponses[index].selected === option.text) {
+            optionDiv.classList.add(userResponses[index].correct ? 'correct' : 'incorrect');
+            optionDiv.classList.add('selected');
+          }
+          optionsContainer.appendChild(optionDiv);
+        });
+      } else if (question.type === "TrueFalse") {
+        ['Wahr', 'Falsch'].forEach((answer) => {
+          const optionDiv = document.createElement('div');
+          optionDiv.className = 'option';
+          // If needed, you can also use parseMarkdown here, though plain text may suffice:
+          optionDiv.textContent = answer;
+  
+          if (!isAnswered) {
+            optionDiv.onclick = () => handleTFAnswer(answer === 'Wahr', question);
+          } else {
+            optionDiv.classList.add('disabled');
+          }
+          
+          if (isAnswered && 
+              ((userResponses[index].selected === 'Wahr' && answer === 'Wahr') ||
+               (userResponses[index].selected === 'Falsch' && answer === 'Falsch'))) {
+            optionDiv.classList.add(userResponses[index].correct ? 'correct' : 'incorrect');
+            optionDiv.classList.add('selected');
+          }
+          optionsContainer.appendChild(optionDiv);
+        });
+      }
+  
+      if (isAnswered) {
         showFeedback(userResponses[index].feedback);
-    } else {
+      } else {
         hideFeedback();
-    }
-}
-
-// Behandeln der Multiple-Choice-Antwort
-function handleMCAnswer(selectedOption, question) {
-    const index = currentQuestion;
-    const previousResponse = userResponses[index];
-    
-    // Wenn die Frage bereits beantwortet wurde, ignoriere weitere Klicks
-    if (previousResponse) {
-        return;
+      }
     }
 
-    // Speichern der neuen Antwort
-    userResponses[index] = {
+
+    // Behandeln der Multiple-Choice-Antwort
+    function handleMCAnswer(selectedOption, question) {
+      const index = currentQuestion;
+      if (userResponses[index]) return;
+      userResponses[index] = {
         question: question.question,
         selected: selectedOption.text,
         correct: selectedOption.is_correct,
         feedback: selectedOption.feedback
-    };
-
-    // Aktualisieren des Scores
-    if (selectedOption.is_correct) {
+      };
+      if (selectedOption.is_correct) {
         score++;
+      }
+      updateOptionsUI(question);
+      showFeedback(selectedOption.feedback);
+      updateNextButton();
     }
 
-    // Aktualisieren der UI
-    updateOptionsUI(question);
-    showFeedback(selectedOption.feedback);
-    updateNextButton();
-}
-
-// Behandeln der True/False-Antwort
-function handleTFAnswer(selectedValue, question) {
-    const index = currentQuestion;
-    const previousResponse = userResponses[index];
-    
-    // Wenn die Frage bereits beantwortet wurde, ignoriere weitere Klicks
-    if (previousResponse) {
-        return;
-    }
-
-    // Speichern der neuen Antwort
-    userResponses[index] = {
+    // Behandeln der True/False-Antwort
+    function handleTFAnswer(selectedValue, question) {
+      const index = currentQuestion;
+      if (userResponses[index]) return;
+      userResponses[index] = {
         question: question.question,
         selected: selectedValue ? 'Wahr' : 'Falsch',
         correct: selectedValue === question.correct_answer,
         feedback: selectedValue === question.correct_answer ? question.feedback_correct : question.feedback_incorrect
-    };
-
-    // Aktualisieren des Scores
-    if (userResponses[index].correct) {
+      };
+      if (userResponses[index].correct) {
         score++;
+      }
+      updateOptionsUI(question);
+      showFeedback(userResponses[index].feedback);
+      updateNextButton();
     }
 
-    // Aktualisieren der UI
-    updateOptionsUI(question);
-    showFeedback(userResponses[index].feedback);
-    updateNextButton();
-}
+    // Aktualisieren der Optionen-UI
+    function updateOptionsUI(question) {
+      const optionsContainer = document.getElementById('optionsContainer');
+      const optionDivs = Array.from(optionsContainer.getElementsByClassName('option'));
 
-// Aktualisieren der Optionen-UI
-function updateOptionsUI(question) {
-    const optionsContainer = document.getElementById('optionsContainer');
-    const optionDivs = Array.from(optionsContainer.getElementsByClassName('option'));
-
-    if (question.type === "MultipleChoice") {
+      if (question.type === "MultipleChoice") {
         question.options.forEach((option, optIndex) => {
-            const optionDiv = optionDivs[optIndex];
-            optionDiv.classList.remove('correct', 'incorrect', 'selected', 'disabled');
-            if (userResponses[currentQuestion].selected === option.text) {
-                optionDiv.classList.add(userResponses[currentQuestion].correct ? 'correct' : 'incorrect');
-                optionDiv.classList.add('selected');
-            }
+          const optionDiv = optionDivs[optIndex];
+          optionDiv.classList.remove('correct', 'incorrect', 'selected', 'disabled');
+          if (userResponses[currentQuestion].selected === option.text) {
+            optionDiv.classList.add(userResponses[currentQuestion].correct ? 'correct' : 'incorrect');
+            optionDiv.classList.add('selected');
+          }
         });
-    } else if (question.type === "TrueFalse") {
+      } else if (question.type === "TrueFalse") {
         ['Wahr', 'Falsch'].forEach((answer, optIndex) => {
-            const optionDiv = optionDivs[optIndex];
-            optionDiv.classList.remove('correct', 'incorrect', 'selected', 'disabled');
-            if (
-                (userResponses[currentQuestion].selected === 'Wahr' && answer === 'Wahr') ||
-                (userResponses[currentQuestion].selected === 'Falsch' && answer === 'Falsch')
-            ) {
-                optionDiv.classList.add(userResponses[currentQuestion].correct ? 'correct' : 'incorrect');
-                optionDiv.classList.add('selected');
-            }
+          const optionDiv = optionDivs[optIndex];
+          optionDiv.classList.remove('correct', 'incorrect', 'selected', 'disabled');
+          if (
+            (userResponses[currentQuestion].selected === 'Wahr' && answer === 'Wahr') ||
+            (userResponses[currentQuestion].selected === 'Falsch' && answer === 'Falsch')
+          ) {
+            optionDiv.classList.add(userResponses[currentQuestion].correct ? 'correct' : 'incorrect');
+            optionDiv.classList.add('selected');
+          }
         });
+      }
     }
-}
 
-// Zeigen des Feedbacks
-function showFeedback(feedbackText) {
-    const feedback = document.getElementById('feedback');
-    feedback.innerHTML = feedbackText;
-    feedback.style.display = 'block';
-}
+    // Zeigen des Feedbacks
+    function showFeedback(feedbackText) {
+      const feedback = document.getElementById('feedback');
+      feedback.innerHTML = feedbackText;
+      feedback.style.display = 'block';
+    }
 
-// Verstecken des Feedbacks
-function hideFeedback() {
-    const feedback = document.getElementById('feedback');
-    feedback.innerHTML = '';
-    feedback.style.display = 'none';
-}
+    // Verstecken des Feedbacks
+    function hideFeedback() {
+      const feedback = document.getElementById('feedback');
+      feedback.innerHTML = '';
+      feedback.style.display = 'none';
+    }
 
-// Navigieren zur nächsten Frage oder Auswerten
-function nextQuestion() {
-    if (currentQuestion < questions.length - 1) {
+    // Navigieren zur nächsten Frage oder Auswerten
+    function nextQuestion() {
+      if (currentQuestion < questions.length - 1) {
         currentQuestion++;
         showQuestion(currentQuestion);
         updateProgress();
         updatePrevButton();
         updateNextButton();
-    } else {
-        // Letzte Frage: Ergebnisse anzeigen
+      } else {
         showResults();
+      }
     }
-}
 
-// Navigieren zur vorherigen Frage
-function prevQuestion() {
-    if (currentQuestion > 0) {
+    // Navigieren zur vorherigen Frage
+    function prevQuestion() {
+      if (currentQuestion > 0) {
         currentQuestion--;
         showQuestion(currentQuestion);
         updateProgress();
         updatePrevButton();
         updateNextButton();
+      }
     }
-}
 
-// Aktualisieren des Fortschrittsbalkens
-function updateProgress() {
-    document.getElementById('current').textContent = currentQuestion + 1;
-    document.getElementById('total').textContent = questions.length;
-}
-
-// Aktualisieren des "Zurück" Buttons
-function updatePrevButton() {
-    const prevBtn = document.getElementById('prevBtn');
-    if (currentQuestion > 0) {
-        prevBtn.disabled = false;
-    } else {
-        prevBtn.disabled = true;
+    // Aktualisieren des Fortschrittsbalkens
+    function updateProgress() {
+      document.getElementById('current').textContent = currentQuestion + 1;
+      document.getElementById('total').textContent = questions.length;
     }
-}
 
-// Aktualisieren des "Weiter" Buttons Text
-function updateNextButton() {
-    const nextBtn = document.getElementById('nextBtn');
-    if (currentQuestion === questions.length - 1) {
-        nextBtn.textContent = 'Auswerten';
-    } else {
-        nextBtn.textContent = 'Weiter';
+    // Aktualisieren des "Zurück" Buttons
+    function updatePrevButton() {
+      const prevBtn = document.getElementById('prevBtn');
+      prevBtn.disabled = currentQuestion <= 0;
     }
-}
 
-// Anzeigen der Ergebnisse
-function showResults() {
-    // Blenden Sie den Medieniframe und den 'Quelle' Link aus
-    document.getElementById('quizMedia').classList.add('hidden');
-    document.getElementById('mediaSource').classList.add('hidden');
+    // Aktualisieren des "Weiter" Buttons Text
+    function updateNextButton() {
+      const nextBtn = document.getElementById('nextBtn');
+      nextBtn.textContent = (currentQuestion === questions.length - 1) ? 'Auswerten' : 'Weiter';
+    }
 
-    // Blenden Sie den Quiz-Container aus
-    const quizContainer = document.getElementById('quizContainer');
-    quizContainer.classList.add('slide-out');
-
-    quizContainer.addEventListener('animationend', () => {
+    // Anzeigen der Ergebnisse
+    function showResults() {
+      document.getElementById('quizMedia').classList.add('hidden');
+      document.getElementById('mediaSource').classList.add('hidden');
+      const quizContainer = document.getElementById('quizContainer');
+      quizContainer.classList.add('slide-out');
+      quizContainer.addEventListener('animationend', () => {
         quizContainer.classList.add('hidden');
         displayResults();
-    }, {once: true});
-}
+      }, {once: true});
+    }
 
-// Anzeigen der Ergebnisse im DOM
-function displayResults() {
-    const percentage = (score / questions.length) * 100;
-    const circumference = 2 * Math.PI * 15;
-    const dashArray = `${(circumference * percentage) / 100} ${circumference}`;
-    document.getElementById('correctSegment').setAttribute('stroke-dasharray', dashArray);
+    // Anzeigen der Ergebnisse im DOM
+    function displayResults() {
+      const percentage = (score / questions.length) * 100;
+      const circumference = 2 * Math.PI * 15;
+      const dashArray = `${(circumference * percentage) / 100} ${circumference}`;
+      document.getElementById('correctSegment').setAttribute('stroke-dasharray', dashArray);
 
-    document.getElementById('scoreText').textContent = 
+      document.getElementById('scoreText').textContent = 
         `Sie haben ${score} von ${questions.length} Fragen richtig beantwortet (${Math.round(percentage)}%).`;
 
-    const messages = {
+      const messages = {
         90: "Herzlichen Glückwunsch! Ausgezeichnetes Ergebnis!",
         70: "Gute Arbeit! Sie haben den Stoff gut verstanden.",
         50: "Nicht schlecht, aber noch etwas Übung könnte helfen.",
         0: "Bitte wiederholen Sie den Lernstoff und versuchen Sie es erneut."
-    };
+      };
 
-    let resultMessage = "";
-    for (let threshold in messages) {
+      let resultMessage = "";
+      for (let threshold in messages) {
         if (percentage >= threshold) {
-            resultMessage = messages[threshold];
-            break;
+          resultMessage = messages[threshold];
+          break;
         }
+      }
+      
+      document.getElementById('resultMessage').textContent = resultMessage;
+      showReviewSection();
+      document.getElementById('quizTitleResult').textContent = assignmentId;
+
+      const resultContainer = document.getElementById('resultContainer');
+      resultContainer.classList.remove('hidden');
+      resultContainer.classList.add('slide-in');
     }
-    
-    document.getElementById('resultMessage').textContent = resultMessage;
-    showReviewSection();
 
-    // Anzeigen des Ergebniscontainers mit Animation
-    const resultContainer = document.getElementById('resultContainer');
-    resultContainer.classList.remove('hidden');
-    resultContainer.classList.add('slide-in');
-}
-
-// Anzeigen des Überprüfungsabschnitts
-function showReviewSection() {
-    const reviewSection = document.getElementById('reviewSection');
-    reviewSection.innerHTML = '<h3>Antwort-Übersicht:</h3>';
-    
-    userResponses.forEach((response, index) => {
+    // Anzeigen des Überprüfungsabschnitts
+    function showReviewSection() {
+      const reviewSection = document.getElementById('reviewSection');
+      reviewSection.innerHTML = '<h3>Antwort-Übersicht:</h3>';
+      
+      userResponses.forEach((response, index) => {
         reviewSection.innerHTML += `
-            <div class="review-item">
-                <div class="review-question">${index + 1}. ${response.question}</div>
-                <div class="user-answer ${response.correct ? 'correct' : 'incorrect'}">
-                    Ihre Antwort: ${response.selected}
-                </div>
-                <div class="explanation">Feedback: ${response.feedback}</div>
+          <div class="review-item">
+            <div class="review-question">${index + 1}. ${response.question}</div>
+            <div class="user-answer ${response.correct ? 'correct' : 'incorrect'}">
+              Ihre Antwort: ${response.selected}
             </div>
+            <div class="explanation">Feedback: ${response.feedback}</div>
+          </div>
         `;
-    });
-}
+      });
+    }
 
-// Array shuffle Funktion
-function shuffleArray(array) {
-    for (let i = array.length - 1; i > 0; i--) {
+    // Array shuffle Funktion
+    function shuffleArray(array) {
+      for (let i = array.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [array[i], array[j]] = [array[j], array[i]];
+      }
+      return array;
     }
-    return array;
-}
 
-// Funktion zum Drucken der Ergebnisse
-function printResults() {
-    window.print();
-}
+    // Funktion zum Drucken der Ergebnisse
+    function printResults() {
+      window.print();
+    }
 
-// Initialisieren des Quiz beim Laden der Seite
-document.addEventListener('DOMContentLoaded', function() {
-    initializeQuiz();
-});
-</script>
+    // Initialisieren des Quiz beim Laden der Seite
+    document.addEventListener('DOMContentLoaded', function() {
+      initializeQuiz();
+    });
+  </script>
 </body>
 </html>
