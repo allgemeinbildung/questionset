@@ -1,142 +1,279 @@
 {
-  "title": "Wohnungsbrand",
+  "title": "Verständnisfragen Wohnungsbrand",
+  "headerImage": "img1.png",
   "media": {
-    "type": "",
-    "url": "",
-    "source": ""
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2021/03/Espresso_25-03-2021-817.mp3",
+    "source": "https://www.srf.ch/sendungen/kassensturz-espresso/rechtsfragen/mietrecht/haftung-nach-wohnungsbrand-welche-mietzinsreduktion-muss-ich-meinem-mieter-gewaehren"
   },
   "questions": [
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Was ist das zentrale Thema des Radiobeitrags?</p>",
+      "question": "<p>Was ist der grundlegende Anspruch eines Mieters, wenn die Wohnung aufgrund eines Brandes nicht mehr bewohnbar ist?</p>",
       "options": [
         {
-          "text": "Die Pflicht des Mieters zur Brandverhütung",
+          "text": "Anspruch auf sofortige Reparatur der Wohnung durch den Vermieter.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Der Beitrag dreht sich um die Frage, ob und in welcher Höhe der Vermieter dem Mieter eine Mietzinsreduktion gewähren muss, wenn die Wohnung nach einem Brand unbewohnbar ist."
+          "feedback": "❌ Falsch. Der primäre Anspruch ist nicht die sofortige Reparatur, sondern eine <strong>Mietzinsreduktion</strong> aufgrund des Mangels."
         },
         {
-          "text": "Die Mietzinsreduktion bei unbewohnbarer Wohnung nach einem Brand",
+          "text": "Anspruch auf eine Mietzinsreduktion.",
           "is_correct": true,
-          "feedback": "✅ Richtig!"
+          "feedback": "✅ Richtig! Bei einer unbewohnbaren Wohnung hat der Mieter grundsätzlich Anspruch auf eine <strong>Mietzinsreduktion</strong>."
         },
         {
-          "text": "Die Haftung des Vermieters bei Brandschäden",
+          "text": "Anspruch auf eine Entschädigung für entstandene Schäden, unabhängig von der Mietzinszahlung.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Der Beitrag dreht sich um die Frage, ob und in welcher Höhe der Vermieter dem Mieter eine Mietzinsreduktion gewähren muss, wenn die Wohnung nach einem Brand unbewohnbar ist."
-        },
-        {
-          "text": "Der Ablauf eines Versicherungsfalls nach einem Wohnungsbrand",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Beitrag dreht sich um die Frage, ob und in welcher Höhe der Vermieter dem Mieter eine Mietzinsreduktion gewähren muss, wenn die Wohnung nach einem Brand unbewohnbar ist."
+          "feedback": "❌ Falsch. Während Schadensersatzansprüche möglich sind, geht es hier primär um die Frage der <strong>Mietzinsreduktion</strong> bei Unbewohnbarkeit."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Welche Forderung stellt der Mieter im geschilderten Fall?</p>",
+      "question": "<p>Bis zu welchem Grad kann eine Mietzinsreduktion bei Unbewohnbarkeit einer Wohnung maximal ausfallen?</p>",
       "options": [
         {
-          "text": "Eine Entschädigung für den Verlust seines Hausrats",
+          "text": "Bis zu 50% des Mietzinses.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Der Mieter verlangt eine vollständige Mietzinsreduktion, da er die Wohnung aufgrund des Brandes nicht bewohnen kann."
+          "feedback": "❌ Falsch. Die Mietzinsreduktion kann bei vollständiger Unbewohnbarkeit auch höher als 50% sein."
         },
         {
-          "text": "Eine Mietzinsreduktion von 50%",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Mieter verlangt eine vollständige Mietzinsreduktion, da er die Wohnung aufgrund des Brandes nicht bewohnen kann."
-        },
-        {
-          "text": "Die Stellung einer Ersatzwohnung",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Mieter verlangt eine vollständige Mietzinsreduktion, da er die Wohnung aufgrund des Brandes nicht bewohnen kann."
-        },
-        {
-          "text": "Eine Mietzinsreduktion von 100%",
+          "text": "Bis zu 100% des Mietzinses.",
           "is_correct": true,
-          "feedback": "✅ Richtig!"
-        }
-      ]
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Der Vermieter muss dem Mieter in jedem Fall eine Mietzinsreduktion gewähren, wenn es in der Wohnung brennt.</p>",
-      "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Eine Mietzinsreduktion ist nur dann gerechtfertigt, wenn die Wohnung durch den Brand unbewohnbar geworden ist oder die Nutzung erheblich eingeschränkt ist.",
-      "feedback_incorrect": "❌ Richtig. Eine Mietzinsreduktion ist nur dann gerechtfertigt, wenn die Wohnung durch den Brand unbewohnbar geworden ist oder die Nutzung erheblich eingeschränkt ist."
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Wenn der Mieter den Brand verursacht hat, hat er keinen Anspruch auf eine Mietzinsreduktion.</p>",
-      "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Auch wenn der Mieter den Brand verursacht hat, hat er grundsätzlich Anspruch auf eine Mietzinsreduktion, wenn die Wohnung unbewohnbar ist. Der Vermieter kann jedoch Schadensersatz verlangen.",
-      "feedback_incorrect": "❌ Richtig. Auch wenn der Mieter den Brand verursacht hat, hat er grundsätzlich Anspruch auf eine Mietzinsreduktion, wenn die Wohnung unbewohnbar ist. Der Vermieter kann jedoch Schadensersatz verlangen."
-    },
-    {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Was ist die rechtliche Grundlage für die Mietzinsreduktion?</p>",
-      "options": [
-        {
-          "text": "Das Obligationenrecht",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Das Mietrecht regelt die Rechte und Pflichten von Mieter und Vermieter, einschliesslich der Mietzinsreduktion bei Mängeln an der Mietsache."
+          "feedback": "✅ Richtig! Bei vollständiger Unbewohnbarkeit kann die Mietzinsreduktion nach Gerichtspraxis bis zu <strong>100%</strong> des Mietzinses betragen."
         },
         {
-          "text": "Das Mietrecht",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "Das Strafgesetzbuch",
+          "text": "Bis zu 75% des Mietzinses.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Das Mietrecht regelt die Rechte und Pflichten von Mieter und Vermieter, einschliesslich der Mietzinsreduktion bei Mängeln an der Mietsache."
-        },
-        {
-          "text": "Das Versicherungsgesetz",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Das Mietrecht regelt die Rechte und Pflichten von Mieter und Vermieter, einschliesslich der Mietzinsreduktion bei Mängeln an der Mietsache."
+          "feedback": "❌ Falsch. In bestimmten Fällen, insbesondere bei vollständiger Unbewohnbarkeit, kann die Reduktion auch <strong>100%</strong> erreichen."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Welcher Faktor spielt KEINE Rolle bei der Bemessung der Mietzinsreduktion?</p>",
+      "question": "<p>Was passiert mit dem Mietvertrag, wenn eine Wohnung durch einen Brand komplett zerstört wird und nicht mehr renoviert werden kann?</p>",
       "options": [
         {
-          "text": "Die Dauer der Unbewohnbarkeit",
+          "text": "Der Mietvertrag bleibt bestehen, und der Vermieter muss eine Ersatzwohnung stellen.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die Verfügbarkeit von Nebenräumen ist irrelevant, wenn die Wohnung selbst unbewohnbar ist."
+          "feedback": "❌ Falsch. In diesem Fall <strong>verlässt der Mietvertrag</strong>, und der Vermieter muss keine Ersatzwohnung stellen."
         },
         {
-          "text": "Der Grad der Beeinträchtigung der Wohnqualität",
+          "text": "Der Mietvertrag verlässt, und der Mieter muss weiterhin den vollen Mietzins zahlen.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die Verfügbarkeit von Nebenräumen ist irrelevant, wenn die Wohnung selbst unbewohnbar ist."
+          "feedback": "❌ Falsch. Der Mietvertrag <strong>verlässt</strong>, aber der Mieter muss <strong>keinen Mietzins</strong> mehr zahlen."
         },
         {
-          "text": "Die Ursache des Brandes",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Die Verfügbarkeit von Nebenräumen ist irrelevant, wenn die Wohnung selbst unbewohnbar ist."
-        },
-        {
-          "text": "Die Verfügbarkeit von Keller, Waschküche und Parkplatz",
+          "text": "Der Mietvertrag verlässt, und der Vermieter muss keine Ersatzwohnung stellen.",
           "is_correct": true,
-          "feedback": "✅ Richtig!"
+          "feedback": "✅ Richtig! Laut Gesetz <strong>verlässt in diesem Fall der Mietvertrag</strong>, womit keine weiteren Pflichten aus dem Vertrag bestehen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Aussage zur Schuldfrage beim Wohnungsbrand und der Mietzinsreduktion ist korrekt?</p>",
+      "options": [
+        {
+          "text": "Wenn der Mieter schuld am Brand ist, verliert er automatisch den Anspruch auf Mietzinsreduktion.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Auch wenn der Mieter schuld ist, besteht im Grundsatz ein Anspruch auf <strong>Mietzinsreduktion</strong>, aber der Vermieter kann <strong>Schadensersatz</strong> fordern."
+        },
+        {
+          "text": "Auch wenn der Mieter schuld am Brand ist, hat er im Grundsatz Anspruch auf Mietzinsreduktion.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Grundsätzlich besteht der Anspruch auf <strong>Mietzinsreduktion</strong> unabhängig von der Schuldfrage, aber der Vermieter kann <strong>Schadensersatz</strong> geltend machen."
+        },
+        {
+          "text": "Die Schuldfrage des Mieters am Brand hat keinen Einfluss auf den Anspruch auf Mietzinsreduktion.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schuldfrage beeinflusst zwar nicht den direkten Anspruch auf Mietzinsreduktion, ist aber relevant für mögliche <strong>Schadensersatzansprüche</strong> des Vermieters."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was kann der Vermieter verlangen, wenn dem Mieter die Schuld am Wohnungsbrand nachgewiesen wird?</p>",
+      "options": [
+        {
+          "text": "Ausschluss des Mieters aus der Wohnung, aber keine weiteren Forderungen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Neben dem Ausschluss kann der Vermieter weitere Forderungen geltend machen."
+        },
+        {
+          "text": "Schadensersatz vom Mieter.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Wenn der Mieter schuld ist, kann der Vermieter im Gegenzug <strong>Schadensersatz</strong> verlangen."
+        },
+        {
+          "text": "Eine höhere Mietzahlung nach Wiederherstellung der Wohnung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine höhere Mietzahlung ist in diesem Kontext nicht die direkte Folge, sondern eher <strong>Schadensersatz</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es laut Rechtsexpertin wichtig zu betonen, dass der Beweis der Mieterschuld am Brand zweifelsfrei sein muss?</p>",
+      "options": [
+        {
+          "text": "Weil die Beweisführung bei Brandursachenermittlung meist einfach ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Beweisführung ist eben gerade <strong>nicht einfach</strong>, was die Betonung der Rechtsexpertin unterstreicht."
+        },
+        {
+          "text": "Weil es bei Bränden oft schwierig ist, die genaue Ursache und somit die Schuldfrage zu klären.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Betonung liegt darauf, weil es bei Bränden eben <strong>meistens nicht einfach</strong> ist, die Schuldfrage zweifelsfrei zu beweisen."
+        },
+        {
+          "text": "Weil der Vermieter sonst ungerechtfertigt Mietzinsreduktion verweigern könnte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht primär um den <strong>Schadensersatzanspruch</strong> des Vermieters, nicht um die Verweigerung der Mietzinsreduktion."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Inwiefern beeinflusst die Nutzbarkeit von Keller, Waschküche und Parkplatz den Anspruch auf Mietzinsreduktion, wenn die Wohnung unbewohnbar ist?</p>",
+      "options": [
+        {
+          "text": "Sie reduzieren den Anspruch auf Mietzinsreduktion, da Teile des Mietobjekts noch nutzbar sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Wenn die <strong>Wohnung unbewohnbar</strong> ist, ist die Nutzbarkeit von Nebenräumen irrelevant für die Mietzinsreduktion."
+        },
+        {
+          "text": "Sie haben keinen Einfluss auf den Anspruch, da die Wohnung als Hauptteil des Mietobjekts unbewohnbar ist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Wenn die <strong>Wohnung unbewohnbar</strong> ist und der Mieter woanders wohnen muss, sind Keller, Waschküche und Parkplatz in dieser Zeit nicht relevant."
+        },
+        {
+          "text": "Sie erhöhen den Anspruch auf Mietzinsreduktion, da der Mieter zusätzlich eingeschränkt ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Nutzbarkeit von Nebenräumen hat in diesem Fall keinen Einfluss auf die <strong>Mietzinsreduktion</strong> der unbewohnbaren Wohnung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Unterschied bezüglich der Mietzinsreduktion, wenn eine Wohnung nur teilweise oder komplett unbewohnbar ist?</p>",
+      "options": [
+        {
+          "text": "Bei teilweiser Unbewohnbarkeit ist die Reduktion immer 100%, bei kompletter Unbewohnbarkeit geringer.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist genau umgekehrt: Bei <strong>kompletter Unbewohnbarkeit</strong> kann die Reduktion bis zu 100% betragen, bei <strong>teilweiser Unbewohnbarkeit</strong> entsprechend weniger."
+        },
+        {
+          "text": "Bei kompletter Unbewohnbarkeit kann die Reduktion bis zu 100% betragen, bei teilweiser Unbewohnbarkeit ist sie entsprechend geringer.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Grad der <strong>Unbewohnbarkeit</strong> bestimmt das Ausmaß der möglichen <strong>Mietzinsreduktion</strong>."
+        },
+        {
+          "text": "Es gibt keinen Unterschied; in beiden Fällen ist die Mietzinsreduktion gleich hoch.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Grad der <strong>Beeinträchtigung</strong> durch die Unbewohnbarkeit ist entscheidend für die Höhe der <strong>Mietzinsreduktion</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum verlässt der Mietvertrag, wenn eine Wohnung komplett abbrennt und nicht renoviert werden kann?</p>",
+      "options": [
+        {
+          "text": "Weil der Vermieter seine vertragliche Pflicht zur Bereitstellung der Wohnung nicht mehr erfüllen kann.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Mietvertrag <strong>verlässt</strong>, weil der Vermieter die <strong>vertraglich vereinbarte Leistung</strong> – die Bereitstellung der Wohnung – nicht mehr erbringen kann."
+        },
+        {
+          "text": "Weil der Mieter automatisch schuld am Brand ist, wenn die Wohnung komplett abbrennt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schuldfrage ist nicht der Grund für die Vertragsauflösung, sondern die <strong>Unmöglichkeit der Leistungserbringung</strong> durch den Vermieter."
+        },
+        {
+          "text": "Weil der Vermieter in diesem Fall automatisch Schadensersatz vom Mieter fordern kann.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Schadensersatz ist eine separate Frage und nicht der Grund, warum der <strong>Mietvertrag verlässt</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet 'Aufrechnung' im Kontext von Mietzinsreduktion und Schadensersatzforderungen nach einem Wohnungsbrand?</p>",
+      "options": [
+        {
+          "text": "Dass Mieter und Vermieter ihre Forderungen addieren, um eine Gesamtsumme zu erhalten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 'Aufrechnung' bedeutet nicht Addition, sondern Verrechnung gegenseitiger Forderungen."
+        },
+        {
+          "text": "Dass die gegenseitigen Ansprüche von Mieter (Mietzinsreduktion) und Vermieter (Schadensersatz) miteinander verrechnet werden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Aufrechnung</strong> bedeutet, dass die Ansprüche beider Parteien <strong>gegeneinander verrechnet</strong> werden."
+        },
+        {
+          "text": "Dass der Vermieter die Mietzinsreduktion des Mieters durch eine zusätzliche Zahlung ausgleicht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 'Aufrechnung' ist eine Verrechnung von Forderungen, nicht ein Ausgleich durch zusätzliche Zahlung des Vermieters."
         }
       ]
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>Wenn die Wohnung komplett zerstört ist, erlischt der Mietvertrag.</p>",
+      "question": "<p>Ein Mieter hat immer Anspruch auf eine Mietzinsreduktion, wenn die Wohnung aufgrund eines Brandes unbewohnbar wird.</p>",
       "correct_answer": true,
-      "feedback_correct": "✅ Richtig! Kann der Vermieter seine Pflicht zur Bereitstellung der Wohnung nicht mehr erfüllen, erlischt der Mietvertrag.",
-      "feedback_incorrect": "❌ Falsch. Kann der Vermieter seine Pflicht zur Bereitstellung der Wohnung nicht mehr erfüllen, erlischt der Mietvertrag."
+      "feedback_correct": "✅ Richtig! Im Grundsatz hat ein Mieter bei Unbewohnbarkeit Anspruch auf eine <strong>Mietzinsreduktion</strong>.",
+      "feedback_incorrect": "❌ Falsch. Grundsätzlich besteht bei Unbewohnbarkeit ein Anspruch auf <strong>Mietzinsreduktion</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Vermieter muss dem Mieter automatisch eine Ersatzwohnung stellen, wenn dessen Wohnung durch einen Brand unbewohnbar wird.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Vermieter ist <strong>nicht automatisch verpflichtet</strong>, eine Ersatzwohnung zu stellen, besonders wenn der Mietvertrag verlässt.",
+      "feedback_incorrect": "❌ Falsch. Es besteht <strong>keine automatische Pflicht</strong> des Vermieters zur Stellung einer Ersatzwohnung, insbesondere bei Vertragsauflösung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine Mietzinsreduktion von 100% ist in der Schweiz bei einer komplett unbewohnbaren Wohnung aufgrund eines Brandes möglich.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Nach Gerichtspraxis kann die Mietzinsreduktion bei vollständiger Unbewohnbarkeit bis zu <strong>100%</strong> betragen.",
+      "feedback_incorrect": "❌ Falsch. Eine Mietzinsreduktion von <strong>100%</strong> ist bei vollständiger Unbewohnbarkeit durchaus möglich."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Auch wenn ein Mieter nachweislich den Brand in seiner Wohnung verursacht hat, kann er zunächst eine Mietzinsreduktion fordern.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Anspruch auf <strong>Mietzinsreduktion</strong> besteht unabhängig von der Schuldfrage zunächst, aber der Vermieter kann <strong>Schadensersatz</strong> fordern.",
+      "feedback_incorrect": "❌ Falsch. Der Anspruch auf <strong>Mietzinsreduktion</strong> ist nicht direkt von der Schuldfrage ausgeschlossen, aber es können <strong>Schadensersatzansprüche</strong> des Vermieters entstehen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wenn der Mietvertrag aufgrund eines Wohnungsbrandes endet, haben beide Parteien keine weiteren Ansprüche gegeneinander.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Wenn der Mietvertrag <strong>verlässt</strong>, erlöschen die gegenseitigen vertraglichen Pflichten, und somit in der Regel auch weitergehende Ansprüche aus dem Mietvertrag.",
+      "feedback_incorrect": "❌ Falsch. Mit der Auflösung des Mietvertrages <strong>enden die vertraglichen Pflichten</strong> grundsätzlich für beide Seiten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Schwierigkeit, die Schuld am Brand zweifelsfrei zu beweisen, stärkt tendenziell die Position des Mieters im Hinblick auf die Mietzinsreduktion.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Da die Beweisführung schwierig ist, kann der Vermieter <strong>Schadensersatzansprüche</strong> möglicherweise schwerer durchsetzen, was indirekt die Position des Mieters bezüglich der <strong>Mietzinsreduktion</strong> stärkt.",
+      "feedback_incorrect": "❌ Falsch. Die Beweisproblematik kann tatsächlich die Position des Mieters stärken, da <strong>Schadensersatzforderungen</strong> des Vermieters schwerer durchzusetzen sein könnten."
     }
   ]
 }
