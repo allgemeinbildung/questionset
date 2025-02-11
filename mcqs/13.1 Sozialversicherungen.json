@@ -1,0 +1,524 @@
+{
+  "title": "Verständnisfragen: Schweizerische Altersvorsorge",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Säulen umfasst das Schweizerische Altersvorsorgesystem?</p>",
+      "options": [
+        {
+          "text": "Zwei Säulen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Schweizerische Altersvorsorgesystem basiert auf <strong>drei Säulen</strong>."
+        },
+        {
+          "text": "Drei Säulen",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Das Schweizerische Altersvorsorgesystem ist als <strong>Dreisäulenprinzip</strong> aufgebaut."
+        },
+        {
+          "text": "Vier Säulen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es sind <strong>drei Säulen</strong>, die das Schweizerische Altersvorsorgesystem bilden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden Versicherungen gehört zur 1. Säule der Altersvorsorge?</p>",
+      "options": [
+        {
+          "text": "Pensionskasse (BVG)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Pensionskasse (BVG)</strong> gehört zur <strong>2. Säule</strong>."
+        },
+        {
+          "text": "AHV (Alters- und Hinterlassenenversicherung)",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die <strong>AHV</strong> ist die <strong>staatliche Vorsorge</strong> und somit Teil der <strong>1. Säule</strong>."
+        },
+        {
+          "text": "Säule 3a",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Säule 3a</strong> ist die <strong>gebundene private Vorsorge</strong> und gehört zur <strong>3. Säule</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie wird die AHV hauptsächlich finanziert?</p>",
+      "options": [
+        {
+          "text": "Durch das Kapitaldeckungsverfahren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>Kapitaldeckungsverfahren</strong> wird in der <strong>2. und 3. Säule</strong> angewendet."
+        },
+        {
+          "text": "Durch Steuereinnahmen des Bundes",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Steuereinnahmen des Bundes leisten zwar <strong>Zuschüsse</strong>, sind aber nicht die Hauptfinanzierung."
+        },
+        {
+          "text": "Durch das Umlageverfahren",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die AHV wird hauptsächlich durch das <strong>Umlageverfahren</strong> finanziert."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Ziel verfolgt die 2. Säule der Altersvorsorge?</p>",
+      "options": [
+        {
+          "text": "Existenzsicherung im Alter",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Existenzsicherung im Alter</strong> ist das Ziel der <strong>1. Säule (AHV)</strong>."
+        },
+        {
+          "text": "Individuelle Ergänzung der Altersvorsorge",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>individuelle Ergänzung</strong> ist das Ziel der <strong>3. Säule</strong>."
+        },
+        {
+          "text": "Fortsetzung des bisherigen Lebensstandards im Alter",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die <strong>2. Säule</strong> soll zusammen mit der 1. Säule den <strong>bisherigen Lebensstandard</strong> sichern."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden Versicherungen ist Teil der 1. Säule?</p>",
+      "options": [
+        {
+          "text": "Pensionskasse",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Pensionskasse</strong> gehört zur <strong>2. Säule</strong>."
+        },
+        {
+          "text": "Invalidenversicherung (IV)",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die <strong>Invalidenversicherung (IV)</strong> ist Teil der <strong>1. Säule</strong>."
+        },
+        {
+          "text": "Säule 3b",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Säule 3b</strong> gehört zur <strong>3. Säule</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Altersgruppe ist obligatorisch in der 2. Säule (BVG) versichert, wenn sie einen bestimmten Jahreslohn übersteigt?</p>",
+      "options": [
+        {
+          "text": "Alle Einwohner der Schweiz ab 18 Jahren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>BVG-Pflicht</strong> ist an ein <strong>Erwerbsverhältnis</strong> geknüpft."
+        },
+        {
+          "text": "Angestellte mit einem bestimmten Mindestjahreslohn",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! <strong>Angestellte mit einem Jahreslohn über CHF 21'510</strong> sind <strong>obligatorisch</strong> in der 2. Säule versichert."
+        },
+        {
+          "text": "Nur Selbstständigerwerbende",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Selbstständigerwerbende</strong> sind <strong>nicht obligatorisch</strong> in der 2. Säule versichert."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Säule der Altersvorsorge wird staatlich gefördert, indem Einzahlungen steuerlich absetzbar sind?</p>",
+      "options": [
+        {
+          "text": "1. Säule (AHV)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>1. Säule (AHV)</strong> ist die <strong>staatliche Grundvorsorge</strong>, aber Einzahlungen sind nicht steuerlich absetzbar."
+        },
+        {
+          "text": "2. Säule (Pensionskasse)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Beiträge an die <strong>2. Säule (Pensionskasse)</strong> werden direkt vom <strong>Bruttolohn abgezogen</strong>, sind aber nicht zusätzlich steuerlich absetzbar."
+        },
+        {
+          "text": "3. Säule a (gebundene private Vorsorge)",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Einzahlungen in die <strong>Säule 3a</strong> sind im Rahmen der gesetzlichen Bestimmungen <strong>steuerlich absetzbar</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Aussage trifft auf die freie Vorsorge (Säule 3b) zu?</p>",
+      "options": [
+        {
+          "text": "Sie bietet direkte Steuervorteile wie die Säule 3a.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Säule 3b</strong> bietet <strong>keine direkten Steuervorteile</strong>."
+        },
+        {
+          "text": "Sie ist obligatorisch für alle Erwerbstätigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Säule 3b</strong> ist eine <strong>freiwillige</strong> Vorsorgeform."
+        },
+        {
+          "text": "Sie umfasst verschiedene Formen der Vermögensbildung wie Sparguthaben oder Wertpapiere.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Zur <strong>Säule 3b</strong> gehören verschiedene Formen der <strong>Vermögensbildung zu Vorsorgezwecken</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Hauptunterschied zwischen dem Umlageverfahren der AHV und dem Kapitaldeckungsverfahren der Pensionskasse?</p>",
+      "options": [
+        {
+          "text": "Beim Umlageverfahren werden die Beiträge individuell angespart, beim Kapitaldeckungsverfahren direkt an die Rentner ausbezahlt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist <strong>genau umgekehrt</strong>: Beim <strong>Umlageverfahren</strong> werden die Beiträge direkt an die Rentner ausbezahlt."
+        },
+        {
+          "text": "Beim Umlageverfahren werden die Beiträge der aktuell Erwerbstätigen für die Renten der heutigen Rentner verwendet, beim Kapitaldeckungsverfahren individuell angespart.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Dies ist der <strong>zentrale Unterschied</strong> in der Finanzierung beider Säulen."
+        },
+        {
+          "text": "Es gibt keinen wesentlichen Unterschied in den Finanzierungsverfahren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Finanzierungsverfahren</strong> sind <strong>grundlegend verschieden</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum steht die AHV vor finanziellen Herausforderungen?</p>",
+      "options": [
+        {
+          "text": "Weil die Renten der AHV zu niedrig sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Höhe der Renten ist <strong>nicht das Hauptproblem</strong> der AHV-Finanzierung."
+        },
+        {
+          "text": "Weil es immer weniger Erwerbstätige gibt, die für immer mehr Rentner aufkommen müssen.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die <strong>demografische Entwicklung</strong> mit einer <strong>alternden Bevölkerung</strong> ist die grösste Herausforderung."
+        },
+        {
+          "text": "Weil die Verwaltungskosten der AHV zu hoch sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Verwaltungskosten</strong> sind <strong>nicht der Hauptgrund</strong> für die finanziellen Probleme."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet der Grundsatz «Eingliederung vor Rente» in der Invalidenversicherung (IV)?</p>",
+      "options": [
+        {
+          "text": "Dass Rentenleistungen immer Vorrang vor Eingliederungsmassnahmen haben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist <strong>genau umgekehrt</strong>: <strong>Eingliederungsmassnahmen</strong> haben <strong>Vorrang</strong>."
+        },
+        {
+          "text": "Dass die IV primär versucht, Menschen wieder in den Arbeitsmarkt zu integrieren, bevor Renten ausbezahlt werden.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die <strong>Wiedereingliederung in die Arbeitswelt</strong> steht im <strong>Vordergrund</strong> der IV-Massnahmen."
+        },
+        {
+          "text": "Dass Renten nur an Personen ausbezahlt werden, die bereits in Rente sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Rente</strong> ist eine Leistung der IV, wenn <strong>Eingliederung nicht möglich</strong> ist."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>In welchen Situationen zahlt die Arbeitslosenversicherung (ALV) Leistungen?</p>",
+      "options": [
+        {
+          "text": "Nur bei vollständiger Arbeitslosigkeit.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die ALV zahlt auch in <strong>anderen Situationen</strong>."
+        },
+        {
+          "text": "Bei Arbeitslosigkeit, Kurzarbeit und wetterbedingten Arbeitsausfällen.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die ALV deckt <strong>verschiedene Formen des Arbeitsausfalls</strong> ab."
+        },
+        {
+          "text": "Nur bei Krankheit oder Unfall.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Krankheit und Unfall</strong> werden durch andere Versicherungen abgedeckt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Zweck der Erwerbsersatzordnung (EO)?</p>",
+      "options": [
+        {
+          "text": "Die Finanzierung der AHV sicherstellen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Finanzierung der AHV</strong> ist nicht der Zweck der EO."
+        },
+        {
+          "text": "Den Lebensstandard im Alter sichern.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Sicherung des Lebensstandards im Alter</strong> ist das Ziel der <strong>2. Säule</strong>."
+        },
+        {
+          "text": "Einkommensausfälle bei Militärdienst, Zivildienst oder Mutterschaft kompensieren.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die EO leistet <strong>Lohnersatz</strong> in diesen Situationen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es wichtig, auch privat für das Alter vorzusorgen (3. Säule)?</p>",
+      "options": [
+        {
+          "text": "Weil die Leistungen der 1. und 2. Säule in der Regel nicht ausreichen, um den gewohnten Lebensstandard vollständig zu halten.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die <strong>private Vorsorge</strong> dient der <strong>individuellen Ergänzung</strong>, um finanzielle Lücken zu schliessen."
+        },
+        {
+          "text": "Weil die private Vorsorge obligatorisch ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>private Vorsorge</strong> ist <strong>freiwillig</strong>."
+        },
+        {
+          "text": "Weil nur die private Vorsorge staatlich gefördert wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Auch die <strong>2. Säule</strong> wird durch die <strong>BVG-Pflicht</strong> staatlich gefördert."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist ein wesentlicher Vorteil der Säule 3a gegenüber der Säule 3b?</p>",
+      "options": [
+        {
+          "text": "Die höhere Flexibilität in der Geldanlage.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Säule 3b</strong> ist <strong>flexibler</strong> in der Geldanlage."
+        },
+        {
+          "text": "Die Möglichkeit, Einzahlungen steuerlich abzusetzen.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die <strong>Steuerbegünstigung</strong> ist ein <strong>zentraler Vorteil</strong> der Säule 3a."
+        },
+        {
+          "text": "Die garantierte höhere Rendite.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt <strong>keine garantierte höhere Rendite</strong> in der Säule 3a."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Bis zu welchem Alter müssen Männer in der Regel AHV-Beiträge bezahlen?</p>",
+      "options": [
+        {
+          "text": "Bis zum 64. Altersjahr",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>AHV-Alter für Frauen</strong> liegt aktuell noch bei <strong>64 Jahren</strong>."
+        },
+        {
+          "text": "Bis zum 65. Altersjahr",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Das <strong>AHV-Alter für Männer</strong> liegt bei <strong>65 Jahren</strong>."
+        },
+        {
+          "text": "Bis zum 70. Altersjahr",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>AHV-Alter</strong> liegt <strong>unter 70 Jahren</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Aussage zur Invalidenversicherung (IV) ist korrekt?</p>",
+      "options": [
+        {
+          "text": "Die IV zahlt Renten ohne vorherige Eingliederungsmassnahmen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die IV verfolgt den Grundsatz <strong>«Eingliederung vor Rente»</strong>."
+        },
+        {
+          "text": "Die IV unterstützt Personen unter 20 Jahren, die nicht erwerbstätig sind und deren Gesundheit eine spätere Erwerbstätigkeit einschränkt.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die IV ist auch für <strong>junge Menschen</strong> zuständig, deren <strong>Erwerbsfähigkeit gefährdet</strong> ist."
+        },
+        {
+          "text": "Die IV ist nur für Personen mit körperlichen Einschränkungen zuständig.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die IV ist zuständig für <strong>körperliche, geistige und psychische Einschränkungen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Leistung erbringt die Erwerbsersatzordnung (EO) für Väter?</p>",
+      "options": [
+        {
+          "text": "Vaterschaftsurlaub von vier Wochen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Vaterschaftsurlaub</strong> beträgt <strong>zwei Wochen</strong>."
+        },
+        {
+          "text": "Vaterschaftsentschädigung während zwei Wochen Vaterschaftsurlaub",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die EO zahlt eine <strong>Vaterschaftsentschädigung</strong> für <strong>zwei Wochen Urlaub</strong>."
+        },
+        {
+          "text": "Keine spezielle Leistung für Väter",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die EO sieht eine <strong>Vaterschaftsentschädigung</strong> vor."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist die private Vorsorge (3. Säule) wichtig im Kontext des demografischen Wandels?</p>",
+      "options": [
+        {
+          "text": "Weil die 3. Säule die einzige Säule ist, die vom demografischen Wandel nicht betroffen ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Alle <strong>Säulen</strong> sind in gewisser Weise vom <strong>demografischen Wandel betroffen</strong>."
+        },
+        {
+          "text": "Weil die 3. Säule dazu beiträgt, die Belastung der 1. Säule (AHV) durch den demografischen Wandel zu reduzieren, indem sie zusätzliche Vorsorge ermöglicht.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die <strong>3. Säule</strong> stärkt die <strong>Eigenverantwortung</strong> und kann die <strong>staatliche Vorsorge entlasten</strong>."
+        },
+        {
+          "text": "Weil die 3. Säule die Finanzierung der 2. Säule (Pensionskasse) sicherstellt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>3. Säule</strong> hat <strong>keinen direkten Einfluss</strong> auf die Finanzierung der <strong>2. Säule</strong>."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die AHV wurde im Jahr 1948 eingeführt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Die AHV wurde 1948 eingeführt.",
+      "feedback_incorrect": "Falsch. Die AHV wurde tatsächlich 1948 eingeführt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Frauen erreichen das AHV-Alter später als Männer.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Frauen erreichen das AHV-Alter aktuell noch früher als Männer.",
+      "feedback_incorrect": "Richtig. Frauen erreichen das AHV-Alter aktuell noch früher als Männer."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Selbstständigerwerbende sind obligatorisch in der 2. Säule (BVG) versichert.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Selbstständigerwerbende sind nicht obligatorisch in der 2. Säule versichert.",
+      "feedback_incorrect": "Richtig. Selbstständigerwerbende sind nicht obligatorisch in der 2. Säule versichert."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Säule 3a ist flexibler in Bezug auf die Verfügbarkeit des Kapitals als die Säule 3b.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Säule 3b ist flexibler in Bezug auf die Verfügbarkeit des Kapitals.",
+      "feedback_incorrect": "Richtig. Die Säule 3b ist flexibler in Bezug auf die Verfügbarkeit des Kapitals."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Arbeitslosenversicherung (ALV) zahlt nur bei vollständiger Arbeitslosigkeit.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die ALV zahlt auch bei Kurzarbeit und wetterbedingten Arbeitsausfällen.",
+      "feedback_incorrect": "Richtig. Die ALV zahlt auch bei Kurzarbeit und wetterbedingten Arbeitsausfällen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Erwerbsersatzordnung (EO) wird durch Steuereinnahmen finanziert.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die EO wird wie die AHV aus Lohnprozenten finanziert.",
+      "feedback_incorrect": "Richtig. Die EO wird wie die AHV aus Lohnprozenten finanziert."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Das Dreisäulenprinzip zielt darauf ab, dass Pensionierte im Alter mehr Geld zur Verfügung haben als während ihrer Erwerbstätigkeit.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Das Dreisäulenprinzip zielt darauf ab, den bisherigen Lebensstandard zu sichern, nicht zu übertreffen.",
+      "feedback_incorrect": "Richtig. Das Dreisäulenprinzip zielt darauf ab, den bisherigen Lebensstandard zu sichern, nicht zu übertreffen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Das Umlageverfahren der AHV ist anfälliger auf demografische Veränderungen als das Kapitaldeckungsverfahren der Pensionskasse.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Das Umlageverfahren ist stärker von der Anzahl der Erwerbstätigen abhängig.",
+      "feedback_incorrect": "Falsch. Das Umlageverfahren ist tatsächlich anfälliger auf demografische Veränderungen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Der Grundsatz «Eingliederung vor Rente» in der IV bedeutet, dass finanzielle Leistungen immer wichtiger sind als die Integration in den Arbeitsmarkt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Der Grundsatz betont, dass die Eingliederung in den Arbeitsmarkt Vorrang vor Rentenzahlungen hat.",
+      "feedback_incorrect": "Richtig. Der Grundsatz betont, dass die Eingliederung in den Arbeitsmarkt Vorrang vor Rentenzahlungen hat."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Arbeitslosenversicherung (ALV) unterstützt Arbeitslose nur finanziell, nicht aber bei der Stellensuche.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die ALV unterstützt Arbeitslose auch aktiv bei der Stellensuche durch RAV und Arbeitsämter.",
+      "feedback_incorrect": "Richtig. Die ALV unterstützt Arbeitslose auch aktiv bei der Stellensuche durch RAV und Arbeitsämter."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Erwerbsersatzordnung (EO) leistet nur Lohnersatz bei Militär- und Zivildienst, nicht aber bei Mutterschaft.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die EO umfasst auch die Mutterschaftsentschädigung.",
+      "feedback_incorrect": "Richtig. Die EO umfasst auch die Mutterschaftsentschädigung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die private Vorsorge (3. Säule) ist vor allem für Personen mit höheren Einkommen relevant.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die private Vorsorge ist für alle relevant, die ihre Altersvorsorge individuell ergänzen möchten, unabhängig vom Einkommen.",
+      "feedback_incorrect": "Richtig. Die private Vorsorge ist für alle relevant, die ihre Altersvorsorge individuell ergänzen möchten, unabhängig vom Einkommen."
+    }
+  ]
+}

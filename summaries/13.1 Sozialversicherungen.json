@@ -1,0 +1,151 @@
+{
+  "title": "Das Schweizerische Dreisäulenprinzip",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "text",
+    "url": "",
+    "source": "Lehrmittel Seite 316-322"
+  },
+  "questions": [
+    {
+      "correct_sentence": "Das Schweizerische Altersvorsorgesystem basiert auf dem Dreisäulenprinzip, welches die Vorsorge auf staatliche, berufliche und private Säulen verteilt.",
+      "wrong_alternatives": [
+        "Das Schweizerische Altersvorsorgesystem basiert auf dem Zweisäulenprinzip, welches die Vorsorge ausschliesslich auf staatliche und private Säulen konzentriert.",
+        "Das Schweizerische Altersvorsorgesystem basiert auf dem Viersäulenprinzip, welches neben staatlicher, beruflicher und privater Vorsorge auch familiäre Vorsorge umfasst."
+      ]
+    },
+    {
+      "correct_sentence": "Die erste Säule, die AHV, zielt auf die Existenzsicherung im Alter und wird durch das Umlageverfahren finanziert.",
+      "wrong_alternatives": [
+        "Die erste Säule, die AHV, zielt auf die Sicherung des Lebensstandards im Alter und wird durch das Kapitaldeckungsverfahren finanziert.",
+        "Die erste Säule, die AHV, zielt auf die individuelle Ergänzung der Altersvorsorge und wird durch Steuereinnahmen des Bundes finanziert."
+      ]
+    },
+    {
+      "correct_sentence": "Das Umlageverfahren der AHV bedeutet, dass die Beiträge der aktuell Erwerbstätigen direkt für die Renten der heutigen Rentner verwendet werden.",
+      "wrong_alternatives": [
+        "Das Umlageverfahren der AHV bedeutet, dass die Beiträge der aktuell Erwerbstätigen individuell angespart und für ihre eigenen zukünftigen Renten verwendet werden.",
+        "Das Umlageverfahren der AHV bedeutet, dass die Beiträge der aktuell Erwerbstätigen in einen staatlichen Fonds fliessen und gewinnbringend für zukünftige Rentenzahlungen angelegt werden."
+      ]
+    },
+    {
+      "correct_sentence": "Die zweite Säule, die berufliche Vorsorge oder Pensionskasse, soll den gewohnten Lebensstandard im Alter zusammen mit der AHV sichern.",
+      "wrong_alternatives": [
+        "Die zweite Säule, die berufliche Vorsorge oder Pensionskasse, soll ausschliesslich die Existenzsicherung im Alter gewährleisten und wird staatlich subventioniert.",
+        "Die zweite Säule, die berufliche Vorsorge oder Pensionskasse, soll die individuelle Ergänzung der Altersvorsorge ermöglichen und ist für alle Einwohner obligatorisch."
+      ]
+    },
+    {
+      "correct_sentence": "Die Pensionskasse wird durch das Kapitaldeckungsverfahren finanziert, bei dem Beiträge individuell angespart und gewinnbringend angelegt werden.",
+      "wrong_alternatives": [
+        "Die Pensionskasse wird durch das Umlageverfahren finanziert, bei dem die Beiträge direkt an die aktuellen Rentner ausbezahlt werden.",
+        "Die Pensionskasse wird durch Steuereinnahmen des Bundes finanziert und garantiert eine feste jährliche Rendite auf die eingezahlten Beiträge."
+      ]
+    },
+    {
+      "correct_sentence": "Die dritte Säule, die private Vorsorge, dient der individuellen Ergänzung der Altersvorsorge und wird in Säule 3a (gebunden) und 3b (frei) unterteilt.",
+      "wrong_alternatives": [
+        "Die dritte Säule, die private Vorsorge, dient der obligatorischen Grundversorgung im Alter und wird ausschliesslich durch staatliche Stellen verwaltet.",
+        "Die dritte Säule, die private Vorsorge, dient der beruflichen Vorsorge und ist für alle Arbeitnehmer mit einem Jahreseinkommen über CHF 21'510 obligatorisch."
+      ]
+    },
+    {
+      "correct_sentence": "Einzahlungen in die Säule 3a sind steuerlich absetzbar, aber die Verfügung über das Kapital ist bis kurz vor der Pensionierung eingeschränkt.",
+      "wrong_alternatives": [
+        "Einzahlungen in die Säule 3a sind nicht steuerlich absetzbar, bieten aber eine hohe Flexibilität in der Verfügung über das angesparte Kapital.",
+        "Einzahlungen in die Säule 3a sind steuerlich absetzbar und ermöglichen einen sofortigen Zugriff auf das Kapital ohne Einschränkungen."
+      ]
+    },
+    {
+      "correct_sentence": "Die Säule 3b, die freie Vorsorge, umfasst verschiedene Formen der Vermögensbildung und bietet mehr Flexibilität, aber keine direkten Steuervorteile.",
+      "wrong_alternatives": [
+        "Die Säule 3b, die freie Vorsorge, ist staatlich reglementiert und bietet garantierte Steuervorteile sowie eine hohe Sicherheit der Anlagen.",
+        "Die Säule 3b, die freie Vorsorge, ist obligatorisch für alle Schweizer Bürger und wird ausschliesslich durch Banken und Versicherungen verwaltet."
+      ]
+    },
+    {
+      "correct_sentence": "Die Invalidenversicherung (IV) ist Teil der ersten Säule und verfolgt den Grundsatz «Eingliederung vor Rente», um Menschen wieder in den Arbeitsmarkt zu integrieren.",
+      "wrong_alternatives": [
+        "Die Invalidenversicherung (IV) ist Teil der zweiten Säule und zahlt ausschliesslich Rentenleistungen ohne vorherige Eingliederungsmassnahmen.",
+        "Die Invalidenversicherung (IV) ist Teil der dritten Säule und dient der privaten Absicherung gegen Invalidität ohne staatliche Beteiligung."
+      ]
+    },
+    {
+      "correct_sentence": "Die Arbeitslosenversicherung (ALV), ebenfalls Teil der ersten Säule, leistet Taggelder bei Arbeitslosigkeit, Kurzarbeit und wetterbedingten Arbeitsausfällen.",
+      "wrong_alternatives": [
+        "Die Arbeitslosenversicherung (ALV) ist Teil der zweiten Säule und leistet ausschliesslich Kapitalauszahlungen bei dauerhafter Arbeitsunfähigkeit.",
+        "Die Arbeitslosenversicherung (ALV) ist Teil der dritten Säule und wird privat finanziert, um das Risiko von Arbeitslosigkeit individuell abzusichern."
+      ]
+    },
+    {
+      "correct_sentence": "Die Erwerbsersatzordnung (EO) in der ersten Säule sichert den Verdienstausfall bei Militärdienst, Zivildienst und Mutterschaft.",
+      "wrong_alternatives": [
+        "Die Erwerbsersatzordnung (EO) in der zweiten Säule sichert den Verdienstausfall bei Weiterbildungen und Umschulungen im Berufsleben.",
+        "Die Erwerbsersatzordnung (EO) in der dritten Säule sichert den Verdienstausfall bei längeren Krankheitsphasen und Unfällen im privaten Bereich."
+      ]
+    },
+    {
+      "correct_sentence": "Die AHV soll die Existenz im Alter sichern, während die Pensionskasse den gewohnten Lebensstandard aufrechterhalten soll.",
+      "wrong_alternatives": [
+        "Die AHV soll den gewohnten Lebensstandard im Alter sichern, während die Pensionskasse lediglich die Existenzgrundlage bereitstellen soll.",
+        "AHV und Pensionskasse verfolgen beide ausschliesslich das Ziel der individuellen Vermögensbildung im Alter ohne staatliche Vorgaben."
+      ]
+    },
+    {
+      "correct_sentence": "Die demografische Entwicklung mit einer alternden Bevölkerung stellt eine Herausforderung für die Finanzierung der AHV dar.",
+      "wrong_alternatives": [
+        "Die demografische Entwicklung mit einer jüngeren Bevölkerung stellt eine Herausforderung für die Finanzierung der Pensionskassen dar.",
+        "Die demografische Entwicklung hat keinen Einfluss auf die Finanzierung der Altersvorsorge, da diese durch staatliche Subventionen gesichert ist."
+      ]
+    },
+    {
+      "correct_sentence": "Die Höhe der AHV-Rente ist abhängig von den Beitragsjahren und dem durchschnittlichen Erwerbseinkommen während der Beitragszeit.",
+      "wrong_alternatives": [
+        "Die Höhe der AHV-Rente ist unabhängig von den Beitragsjahren und wird ausschliesslich durch das aktuelle Vermögen des Rentenempfängers bestimmt.",
+        "Die Höhe der AHV-Rente ist festgelegt und für alle Rentner gleich, unabhängig von den Beitragsjahren oder dem früheren Einkommen."
+      ]
+    },
+    {
+      "correct_sentence": "Im Kapitaldeckungsverfahren der Pensionskasse werden die Beiträge individuell angespart und am Kapitalmarkt angelegt, um Rendite zu erzielen.",
+      "wrong_alternatives": [
+        "Im Kapitaldeckungsverfahren der Pensionskasse werden die Beiträge direkt an die Versicherten ausbezahlt und nicht am Kapitalmarkt angelegt.",
+        "Im Kapitaldeckungsverfahren der Pensionskasse werden die Beiträge in staatliche Anleihen investiert und garantieren eine feste, aber niedrige Rendite."
+      ]
+    },
+    {
+      "correct_sentence": "Die freie Vorsorge (Säule 3b) bietet im Vergleich zur gebundenen Vorsorge (Säule 3a) mehr Flexibilität in Bezug auf die Anlageformen und die Verfügbarkeit des Kapitals.",
+      "wrong_alternatives": [
+        "Die freie Vorsorge (Säule 3b) bietet im Vergleich zur gebundenen Vorsorge (Säule 3a) weniger Flexibilität und ist staatlich stärker reglementiert.",
+        "Die freie Vorsorge (Säule 3b) ist ausschliesslich für Selbstständigerwerbende konzipiert und bietet keine Vorteile für Angestellte."
+      ]
+    },
+    {
+      "correct_sentence": "Die private Vorsorge (3. Säule) ermöglicht es, individuelle Vorsorgelücken zu schliessen und den Lebensstandard im Alter zusätzlich zu verbessern.",
+      "wrong_alternatives": [
+        "Die private Vorsorge (3. Säule) ist nur für Personen mit sehr hohen Einkommen relevant und dient nicht der Schliessung von Vorsorgelücken.",
+        "Die private Vorsorge (3. Säule) ist obligatorisch und dient ausschliesslich der Deckung der minimalen Lebenshaltungskosten im Alter."
+      ]
+    },
+    {
+      "correct_sentence": "Die Schweizerische Altersvorsorge basiert auf einem Zusammenspiel von staatlicher Verantwortung, Arbeitgeberverantwortung und Eigenverantwortung.",
+      "wrong_alternatives": [
+        "Die Schweizerische Altersvorsorge basiert ausschliesslich auf staatlicher Verantwortung und vernachlässigt die Eigenverantwortung des Einzelnen.",
+        "Die Schweizerische Altersvorsorge basiert primär auf der Eigenverantwortung des Einzelnen und minimiert die Rolle des Staates und der Arbeitgeber."
+      ]
+    },
+    {
+      "correct_sentence": "Neben der Altersrente kennt die AHV auch Hinterlassenenrenten wie Witwen-, Witwer- und Waisenrenten, um den finanziellen Schutz von Hinterbliebenen zu gewährleisten.",
+      "wrong_alternatives": [
+        "Neben der Altersrente kennt die AHV ausschliesslich Invalidenrenten und keine Leistungen für Hinterlassene oder Angehörige von Verstorbenen.",
+        "Neben der Altersrente konzentriert sich die AHV auf die Förderung der privaten Vorsorge und bietet keine direkten finanziellen Leistungen für Hinterlassene."
+      ]
+    },
+    {
+      "correct_sentence": "Die Schweizerische Altersvorsorge ist ein dynamisches System, das regelmässig an die wirtschaftliche und demografische Entwicklung angepasst wird.",
+      "wrong_alternatives": [
+        "Die Schweizerische Altersvorsorge ist ein statisches System, das seit seiner Einführung im Jahr 1948 kaum Veränderungen erfahren hat.",
+        "Die Schweizerische Altersvorsorge wird ausschliesslich durch internationale Vorgaben und Gesetze reguliert und ist wenig anpassungsfähig an nationale Entwicklungen."
+      ]
+    }
+  ]
+}
