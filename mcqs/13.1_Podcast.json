@@ -1,0 +1,153 @@
+{
+  "title": "Altersvorsorge in der Schweiz",
+  "media": {
+    "type": "youtube",
+    "url": "",
+    "source": ""      
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Säule des Dreisäulenprinzips dient der Existenzsicherung?</p>",
+      "options": [
+        {
+          "text": "Erste Säule (AHV)",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die AHV ist die staatliche Vorsorge und dient der Existenzsicherung."
+        },
+        {
+          "text": "Zweite Säule (Pensionskasse)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die zweite Säule dient dazu, den gewohnten Lebensstandard zu erhalten."
+        },
+        {
+          "text": "Dritte Säule (Private Vorsorge)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die dritte Säule ist eine freiwillige Ergänzung zur Vorsorge."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie wird die AHV finanziert?</p>",
+      "options": [
+        {
+          "text": "Durch das Umlageverfahren",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die AHV wird durch Beiträge der Erwerbstätigen finanziert, um die Renten der aktuellen Generation zu decken."
+        },
+        {
+          "text": "Durch das Kapitaldeckungsverfahren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Kapitaldeckungsverfahren wird bei der zweiten Säule (Pensionskasse) angewendet."
+        },
+        {
+          "text": "Ausschließlich durch Steuergelder",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die AHV wird hauptsächlich durch Beiträge von Arbeitnehmern und Arbeitgebern finanziert, nicht nur durch Steuern."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist der Zweck der zweiten Säule (Pensionskasse)?</p>",
+      "options": [
+        {
+          "text": "Den Lebensstandard über das Existenzminimum hinaus sichern",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die zweite Säule ergänzt die AHV und hilft, den gewohnten Lebensstandard im Alter aufrechtzuerhalten."
+        },
+        {
+          "text": "Die Grundsicherung im Alter gewährleisten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Grundsicherung wird durch die erste Säule (AHV) abgedeckt."
+        },
+        {
+          "text": "Eine zusätzliche freiwillige Sparmöglichkeit bieten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die freiwillige Vorsorge gehört zur dritten Säule, nicht zur zweiten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es sinnvoll, in die dritte Säule (private Vorsorge) zu investieren?</p>",
+      "options": [
+        {
+          "text": "Um die Rente individuell zu ergänzen",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Mit der dritten Säule kann man zusätzlich sparen und die Altersvorsorge verbessern."
+        },
+        {
+          "text": "Weil die erste Säule nicht existiert",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die erste Säule existiert und stellt die Grundsicherung dar."
+        },
+        {
+          "text": "Weil die zweite Säule nicht verpflichtend ist",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die zweite Säule ist für Erwerbstätige obligatorisch."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen Vorteil hat die Säule 3a im Vergleich zur Säule 3b?</p>",
+      "options": [
+        {
+          "text": "Sie bietet Steuervorteile",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Einzahlungen in die Säule 3a können von den Steuern abgezogen werden."
+        },
+        {
+          "text": "Sie kann jederzeit ausgezahlt werden",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Säule 3a unterliegt Einschränkungen bei der Auszahlung."
+        },
+        {
+          "text": "Sie gehört automatisch zur zweiten Säule",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Säule 3a ist eine freiwillige private Vorsorge."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die AHV wird über das Kapitaldeckungsverfahren finanziert.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Die AHV wird über das Umlageverfahren finanziert, nicht über das Kapitaldeckungsverfahren.",
+      "feedback_incorrect": "Falsch. Die AHV basiert auf dem Umlageverfahren, bei dem die Beiträge der Erwerbstätigen direkt zur Finanzierung der Renten verwendet werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Pensionskasse gehört zur zweiten Säule der Altersvorsorge.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Die Pensionskasse ist ein Bestandteil der zweiten Säule und dient der beruflichen Vorsorge.",
+      "feedback_incorrect": "Falsch. Die Pensionskasse gehört zur zweiten Säule und ergänzt die AHV."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die dritte Säule ist eine freiwillige Vorsorge, die individuell ergänzt werden kann.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Die dritte Säule ist eine private, freiwillige Ergänzung zur Altersvorsorge.",
+      "feedback_incorrect": "Falsch. Die dritte Säule ist nicht obligatorisch und dient der individuellen Ergänzung der Altersvorsorge."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Invalidenversicherung (IV) und die AHV sind dasselbe.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Die IV ist für Menschen mit gesundheitlichen Einschränkungen, während die AHV der Altersvorsorge dient.",
+      "feedback_incorrect": "Falsch. Die IV ist nicht dasselbe wie die AHV. Sie unterstützt Menschen, die aufgrund einer Invalidität nicht mehr arbeiten können."
+    }
+  ]
+}
+  
