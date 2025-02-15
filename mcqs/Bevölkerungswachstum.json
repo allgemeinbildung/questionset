@@ -1,0 +1,279 @@
+{
+    "title": "Verständnisfragen Bevölkerungswachstum",
+    "headerImage": "img1.jpg",
+    "media": {
+      "type": "mp3",
+      "url": "https://download-media.srf.ch/world/audio/SRF-4-News/2023/09/SRF-4-News_27-09-2023-1354.mp3",
+      "source": "https://www.srf.ch/audio/srf-4-news/wie-wirkt-sich-das-bevoelkerungswachstum-auf-die-altersvorsorge-aus?uuid=6a46cb60-c750-4c8b-92fb-10ce7f989f1e"
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wie viele Menschen lebten vor 23 Jahren dauerhaft in der Schweiz?</p>",
+        "options": [
+          {
+            "text": "Fünf Millionen",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Vor 23 Jahren lebten gut <strong>sieben Millionen</strong> Menschen dauerhaft in der Schweiz."
+          },
+          {
+            "text": "Sieben Millionen",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Vor 23 Jahren lebten gut <strong>sieben Millionen</strong> Menschen dauerhaft in der Schweiz."
+          },
+          {
+            "text": "Neun Millionen",
+            "is_correct": false,
+            "feedback": "❌ Falsch. <strong>Neun Millionen</strong> Einwohner wird die Schweiz erst in Kürze erreichen."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welchen Beruf übt Reto Völlmi aus, der in dem Audiobeitrag zitiert wird?</p>",
+        "options": [
+          {
+            "text": "Politiker",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Reto Völlmi ist kein Politiker, sondern ein <strong>Ökonom</strong>."
+          },
+          {
+            "text": "Journalist",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Reto Völlmi ist kein Journalist, sondern ein <strong>Ökonom</strong>."
+          },
+          {
+            "text": "Ökonom",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Reto Völlmi ist <strong>HSG-Ökonom</strong>."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Aussage über den Effekt der Zuwanderung auf die AHV hat Reto Völlmi am meisten überrascht?</p>",
+        "options": [
+          {
+            "text": "Dass Zuwanderung einen negativen Effekt auf die AHV hat.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Völlmi war überrascht, dass Zuwanderung einen <strong>positiven</strong> Effekt hat."
+          },
+          {
+            "text": "Dass Zuwanderung keinen messbaren Effekt auf die AHV hat.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Völlmi fand gerade den <strong>Effekt der Zuwanderung</strong> auf die AHV bemerkenswert."
+          },
+          {
+            "text": "Dass Zuwanderung einen sehr positiven Effekt auf die AHV hat.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Völlmi war überrascht, dass Zuwanderung einen <strong>sehr positiven Effekt</strong> auf die AHV hat."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>In welcher Altersspanne sind die meisten Zuwanderer, wenn sie in die Schweiz kommen?</p>",
+        "options": [
+          {
+            "text": "Zwischen 20 und 50 Jahren",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die meisten Zuwanderer sind zwischen <strong>20 und 50 Jahren</strong> alt, wenn sie in die Schweiz kommen."
+          },
+          {
+            "text": "Zwischen 50 und 70 Jahren",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Zuwanderer sind meist jünger, nämlich zwischen <strong>20 und 50 Jahren</strong>."
+          },
+          {
+            "text": "Über 70 Jahre",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Zuwanderer sind im Durchschnitt <strong>jünger</strong> und kommen selten erst im hohen Alter."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Berufsgruppen wandern laut dem Audiobeitrag relativ häufiger in die Schweiz ein als in der ansässigen Bevölkerung vorhanden sind?</p>",
+        "options": [
+          {
+            "text": "Bauarbeiter und Handwerker",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Es sind vor allem <strong>Ärzte, Ärztinnen und IT-Spezialisten</strong>, die relativ häufiger einwandern."
+          },
+          {
+            "text": "Ärzte, Ärztinnen und Fachspezialisten im IT-Bereich",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Vor allem <strong>Ärzte, Ärztinnen und Fachspezialisten im IT-Bereich</strong> wandern relativ häufiger ein."
+          },
+          {
+            "text": "Pensionierte und Rentner",
+            "is_correct": false,
+            "feedback": "❌ Falsch.  <strong>Erwerbstätige</strong>, insbesondere Fachkräfte, wandern häufiger ein, nicht Pensionierte."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum bezeichnet der Ökonom Zuwanderer als «Jungbrunnen» für die Gesellschaft im Kontext der AHV?</p>",
+        "options": [
+          {
+            "text": "Weil Zuwanderer im Durchschnitt älter sind und somit mehr AHV beziehen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Zuwanderer sind im Durchschnitt <strong>jünger</strong> und zahlen mehr in die AHV ein, als sie beziehen."
+          },
+          {
+            "text": "Weil Zuwanderer im Durchschnitt jünger sind und mehr in die AHV einzahlen als sie später beziehen.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Zuwanderer sind im Durchschnitt <strong>jünger</strong> und wirken wie ein <strong>Jungbrunnen</strong>, weil sie mehr in die AHV einzahlen."
+          },
+          {
+            "text": "Weil Zuwanderer keine AHV-Leistungen beanspruchen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Zuwanderer beanspruchen später auch AHV-Leistungen, aber der <strong>positive Effekt</strong> überwiegt zunächst."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Inwiefern gleichen Zuwanderer laut dem Audiobeitrag ihre tendenziell tieferen Erwerbseinkommen im Bezug auf die AHV aus?</p>",
+        "options": [
+          {
+            "text": "Durch höhere Steuerzahlungen in anderen Bereichen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Ausgleich erfolgt nicht durch andere Steuerzahlungen, sondern durch ihre <strong>Altersstruktur</strong>."
+          },
+          {
+            "text": "Durch ihre jüngere Altersstruktur, wodurch sie länger in die AHV einzahlen.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Durch ihre <strong>jüngere Altersstruktur</strong> zahlen sie länger in die AHV ein und gleichen so die tieferen Einkommen aus."
+          },
+          {
+            "text": "Durch geringere Ansprüche an staatliche Leistungen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch.  Es geht primär um den Effekt ihrer <strong>Altersstruktur</strong> auf die AHV-Beiträge."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was ist laut dem Audiobeitrag notwendig, damit der verjüngende Effekt der Zuwanderung auf die AHV erhalten bleibt?</p>",
+        "options": [
+          {
+            "text": "Eine Reduktion der Zuwanderung.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Gerade eine <strong>weitere Zuwanderung</strong> ist nötig, um den Effekt zu erhalten."
+          },
+          {
+            "text": "Dass die Schweiz weiterhin attraktiv für Zuwanderer bleibt.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die <strong>Attraktivität der Schweiz</strong> für Zuwanderer muss erhalten bleiben."
+          },
+          {
+            "text": "Eine Erhöhung des Rentenalters für Zuwanderer.",
+            "is_correct": false,
+            "feedback": "❌ Falsch.  Es geht primär um die <strong>kontinuierliche Zuwanderung</strong>, nicht um das Rentenalter."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Welches Problem entsteht laut dem Audiobeitrag, wenn die Schweiz nicht attraktiv für Zuwanderer bleibt oder sogar Abwanderung erlebt?</p>",
+        "options": [
+          {
+            "text": "Die AHV wäre chronisch überfinanziert.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Bei Abwanderung wäre die AHV <strong>chronisch unterfinanziert</strong>."
+          },
+          {
+            "text": "Die AHV wäre chronisch unterfinanziert und die Infrastruktur wäre schwerer zu unterhalten.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Sowohl die <strong>AHV wäre unterfinanziert</strong> als auch die <strong>Infrastruktur schwerer zu unterhalten</strong>."
+          },
+          {
+            "text": "Es gäbe keine Auswirkungen auf die AHV oder die Infrastruktur.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Eine Abwanderung hätte <strong>negative Auswirkungen</strong> auf AHV und Infrastruktur."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was bezeichnet der Ökonom im Audiobeitrag als «Fluch des Erfolgreichen» im Zusammenhang mit der Zuwanderung?</p>",
+        "options": [
+          {
+            "text": "Die positiven Auswirkungen der Zuwanderung auf die AHV.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der «Fluch» bezieht sich auf die <strong>negativen Begleiterscheinungen</strong> trotz der positiven Effekte."
+          },
+          {
+            "text": "Die negativen Begleiterscheinungen wie Wohnungsnot und volle Züge trotz der positiven Effekte der Zuwanderung.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die <strong>negativen Begleiterscheinungen</strong> der Zuwanderung sind der «Fluch des Erfolgreichen»."
+          },
+          {
+            "text": "Die Angst vor dem Bevölkerungswachstum in der Schweiz.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der «Fluch» sind die <strong>konkreten Probleme</strong>, nicht nur die Angst vor Wachstum."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Die Schweiz wird voraussichtlich noch in diesem Jahr die Marke von neun Millionen Einwohnern erreichen.</p>",
+        "correct_answer": true,
+        "feedback_correct": "✅ Richtig! Laut den Statistiken des Bundes wird die <strong>Neun-Millionen-Schweiz</strong> voraussichtlich bald Realität sein.",
+        "feedback_incorrect": "❌ Falsch. Die Schweiz wird laut Prognosen <strong>bald neun Millionen Einwohner</strong> haben."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Zuwanderer beziehen im Durchschnitt mehr AHV-Leistungen, als sie einzahlen.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Es ist <strong>falsch</strong>, Zuwanderer zahlen im Durchschnitt <strong>mehr ein</strong>, als sie beziehen.",
+        "feedback_incorrect": "❌ Falsch. Zuwanderer zahlen im Durchschnitt <strong>mehr in die AHV ein</strong>, als sie beziehen."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Reto Völlmi ist Volkswirtschaftsprofessor an der Universität Zürich.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Es ist <strong>falsch</strong>, Reto Völlmi ist Volkswirtschaftsprofessor an der <strong>Universität St. Gallen (HSG)</strong>.",
+        "feedback_incorrect": "❌ Falsch. Reto Völlmi ist Professor an der <strong>Universität St. Gallen (HSG)</strong>, nicht Zürich."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Ohne Zuwanderung würde die Altersvorsorge in der Schweiz langfristig stabiler sein.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Es ist <strong>falsch</strong>, ohne Zuwanderung wäre die Altersvorsorge <strong>chronisch unterfinanziert</strong>.",
+        "feedback_incorrect": "❌ Falsch. Ohne Zuwanderung würde die Altersvorsorge <strong>nicht stabiler</strong>, sondern unterfinanziert sein."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Die Infrastruktur in der Schweiz könnte bei sinkender Bevölkerungszahl leichter aufrechterhalten werden.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Es ist <strong>falsch</strong>, bei sinkender Bevölkerungszahl wäre die Infrastruktur <strong>schwerer zu unterhalten</strong>, da Steuergelder fehlen würden.",
+        "feedback_incorrect": "❌ Falsch. Bei sinkender Bevölkerung wäre die Infrastruktur <strong>nicht leichter</strong>, sondern schwerer zu unterhalten."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Ein stetes Austarieren und Ausdiskutieren ist laut dem Audiobeitrag notwendig, um die Zuwanderung für die Gesellschaft verträglich zu gestalten.</p>",
+        "correct_answer": true,
+        "feedback_correct": "✅ Richtig! Ein <strong>Austarieren und Ausdiskutieren</strong> ist notwendig, um die Zuwanderung gesellschaftlich verträglich zu gestalten.",
+        "feedback_incorrect": "❌ Falsch.  Gerade ein <strong>Austarieren und Ausdiskutieren</strong> ist laut Beitrag wichtig für eine verträgliche Zuwanderung."
+      }
+    ]
+  }
