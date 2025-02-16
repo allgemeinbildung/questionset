@@ -1,0 +1,279 @@
+{
+    "title": "Verständnisfragen Unverheiratete Paare und Pensionskasse",
+    "headerImage": "img1.jpg",
+    "media": {
+      "type": "mp3",
+      "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2024/04/Espresso-radio-58030b49-ffb3-492b-8674-a245ea6d7fb6.mp3",
+      "source": "https://www.srf.ch/audio/espresso/unverheiratete-paare-auf-goodwill-der-pensionskasse-angewiesen?partId=58030b49-ffb3-492b-8674-a245ea6d7fb6#autoplay"
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Art von Rente erhalten Ehepaare automatisch von der AHV und der Pensionskasse im Todesfall eines Partners?</p>",
+        "options": [
+          {
+            "text": "Invalidenrente",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die <strong>Invalidenrente</strong> wird bei <strong>Erwerbsunfähigkeit</strong> ausbezahlt, nicht im Todesfall eines Partners."
+          },
+          {
+            "text": "Altersrente",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die <strong>Altersrente</strong> ist für <strong>Pensionierte</strong> gedacht und nicht spezifisch für den Todesfall eines Partners."
+          },
+          {
+            "text": "Wittwer- oder Wittwerrente",
+            "is_correct": true,
+            "feedback": "✅ Richtig! <strong>Ehepaare</strong> erhalten automatisch eine <strong>Wittwer- oder Wittwerrente</strong> von der AHV und Pensionskasse."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Von wem erhält Walter Albrechts Partnerin eine kleine Rente im Falle ihres Ablebens, laut dem Audiobeitrag?</p>",
+        "options": [
+          {
+            "text": "Von der AHV",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die <strong>AHV</strong> zahlt im Konkubinat <strong>keine automatische Rente</strong>."
+          },
+          {
+            "text": "Von ihrer Pensionskasse",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Ihre <strong>Pensionskasse</strong> würde ihm eine kleine <strong>Rente</strong> zahlen."
+          },
+          {
+            "text": "Von der Stadt Luzern",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die <strong>Stadt Luzern</strong> ist in diesem Fall die <strong>Pensionskasse von Walter Albrecht</strong>, nicht seine Partnerin."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Aussage trifft auf die Pensionskasse der Stadt Luzern im Fall von Walter Albrecht zu?</p>",
+        "options": [
+          {
+            "text": "Sie zahlt Walter Albrechts Partnerin automatisch eine Rente.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Pensionskasse der Stadt Luzern zahlt <strong>keine Rente</strong> an Walter Albrechts Partnerin."
+          },
+          {
+            "text": "Sie verweist auf ihr Reglement und lehnt eine Rente für seine Partnerin ab.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die Pensionskasse <strong>verweist auf ihr Reglement</strong> und lehnt die Rente ab."
+          },
+          {
+            "text": "Sie zahlt eine grosszügige Rente an unverheiratete Partner.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Pensionskasse der Stadt Luzern zeigt sich in diesem Fall <strong>nicht grosszügig</strong>."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was ist laut dem Audiobeitrag eine mögliche Lösung, damit Walter Albrechts Partnerin eine Wittwerrente erhalten könnte?</p>",
+        "options": [
+          {
+            "text": "Einreichen eines Konkubinatsvertrags",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Ein <strong>Konkubinatsvertrag</strong> garantiert <strong>nicht automatisch</strong> eine Wittwerrente."
+          },
+          {
+            "text": "Eine Klage gegen die Pensionskasse einreichen",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Eine <strong>Klage</strong> wird im Audiobeitrag <strong>nicht als Lösung</strong> genannt."
+          },
+          {
+            "text": "Heiraten",
+            "is_correct": true,
+            "feedback": "✅ Richtig! <strong>Heiraten</strong> wäre die Lösung, um automatisch eine <strong>Wittwerrente</strong> zu erhalten."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welches Gesetz regelt die berufliche Vorsorge in der Schweiz, und wird im Beitrag erwähnt?</p>",
+        "options": [
+          {
+            "text": "AHVG (Alters- und Hinterlassenenversicherungsgesetz)",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das <strong>AHVG</strong> regelt die <strong>AHV</strong>, nicht die berufliche Vorsorge."
+          },
+          {
+            "text": "BVG (Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge)",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Das <strong>BVG</strong> regelt die <strong>berufliche Vorsorge</strong> (Pensionskasse)."
+          },
+          {
+            "text": "OR (Obligationenrecht)",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das <strong>OR</strong> ist das <strong>Obligationenrecht</strong> und regelt allgemeine Vertragsverhältnisse."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum sind unverheiratete Paare bezüglich der Hinterlassenenrente stärker auf den «Gutwill» der Pensionskasse angewiesen als verheiratete Paare?</p>",
+        "options": [
+          {
+            "text": "Weil das BVG keine automatische Hinterlassenenrente für Konkubinatspartner vorsieht.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Das <strong>BVG</strong> sieht <strong>keine automatische Rente</strong> für unverheiratete Partner vor, daher ist es vom <strong>«Gutwill»</strong> der Kasse abhängig."
+          },
+          {
+            "text": "Weil unverheiratete Paare generell weniger Anspruch auf staatliche Leistungen haben.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Es geht hier spezifisch um die <strong>Pensionskassenleistungen</strong>, nicht um alle staatlichen Leistungen generell."
+          },
+          {
+            "text": "Weil Heiraten in der Schweiz obligatorisch ist, um Rentenansprüche zu sichern.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. <strong>Heiraten ist nicht obligatorisch</strong>, aber es hat Auswirkungen auf Rentenansprüche."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was bedeutet es, wenn eine Pensionskasse eine Hinterlassenenrente für unverheiratete Paare als «freiwilliges Angebot» bezeichnet?</p>",
+        "options": [
+          {
+            "text": "Dass die Pensionskasse gesetzlich dazu verpflichtet wäre, es aber nicht tut.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. «Freiwillig» bedeutet, dass es <strong>keine gesetzliche Pflicht</strong> gibt."
+          },
+          {
+            "text": "Dass die Pensionskasse selbst entscheiden kann, ob und unter welchen Bedingungen sie eine solche Rente anbietet.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! «Freiwillig» bedeutet, dass die <strong>Pensionskasse Entscheidungsfreiheit</strong> hat."
+          },
+          {
+            "text": "Dass unverheiratete Paare automatisch Anspruch auf diese Rente haben, aber sie beantragen müssen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. «Freiwillig» impliziert <strong>keinen automatischen Anspruch</strong>."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum wird im Audiobeitrag geraten, die Reglemente der eigenen Pensionskasse genau zu studieren, besonders für unverheiratete Paare?</p>",
+        "options": [
+          {
+            "text": "Weil die Reglemente für verheiratete Paare irrelevant sind.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Reglemente sind auch für <strong>verheiratete Paare relevant</strong>, aber die Situation für <strong>unverheiratete ist komplexer</strong>."
+          },
+          {
+            "text": "Weil die Bedingungen für eine Hinterlassenenrente für unverheiratete Paare von Pensionskasse zu Pensionskasse unterschiedlich sein können.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die <strong>Bedingungen variieren</strong>, daher ist es wichtig, das <strong>eigene Reglement</strong> zu kennen."
+          },
+          {
+            "text": "Weil die Reglemente nur in Fachsprache verfasst sind und schwer zu verstehen sind.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Obwohl Reglemente komplex sein können, ist der Hauptgrund die <strong>unterschiedlichen Bedingungen</strong>."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was ist die Kernaussage des Beitrags bezüglich der finanziellen Absicherung von Konkubinatspartnern im Todesfall?</p>",
+        "options": [
+          {
+            "text": "Konkubinatspartner sind im Todesfall finanziell automatisch gleichgestellt mit Ehepartnern.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Konkubinatspartner sind <strong>nicht automatisch gleichgestellt</strong>."
+          },
+          {
+            "text": "Konkubinatspartner müssen sich aktiv informieren undMassnahmen ergreifen, um finanziell abgesichert zu sein, da es keine automatische Rente gibt.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! <strong>Aktive Information und Massnahmen</strong> sind für Konkubinatspartner entscheidend."
+          },
+          {
+            "text": "Der Staat garantiert in jedem Fall eine Hinterlassenenrente für Konkubinatspartner.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der <strong>Staat garantiert keine automatische Rente</strong> über die Pensionskasse für Konkubinatspartner."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Inwiefern illustriert das Beispiel der Pensionskasse Luzern die Veränderung im Umgang mit Hinterlassenenrenten für unverheiratete Paare?</p>",
+        "options": [
+          {
+            "text": "Es zeigt, dass Pensionskassen generell dazu verpflichtet werden, Hinterlassenenrenten für Unverheiratete zu zahlen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Es zeigt <strong>keine generelle Verpflichtung</strong>, sondern eine <strong>freiwillige Anpassung</strong>."
+          },
+          {
+            "text": "Es zeigt, dass sich einige Pensionskassen öffnen und unter bestimmten Bedingungen auch unverheirateten Paaren Hinterlassenenrenten zugestehen.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Es illustriert die <strong>Tendenz zur Öffnung</strong> einiger Kassen, aber unter <strong>Bedingungen</strong>."
+          },
+          {
+            "text": "Es zeigt, dass ältere Reglemente automatisch an neue angepasst werden müssen, sodass alle profitieren.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. <strong>Ältere Reglemente gelten weiterhin</strong> für Personen, die unter diesen Bedingungen pensioniert wurden, es gibt <strong>keine automatische Anpassung</strong> für alle."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Im Konkubinat lebende Paare erhalten in der Schweiz automatisch eine Wittwer- oder Wittwerrente von der AHV.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Das ist falsch. Im <strong>Konkubinat</strong> gibt es <strong>keine automatische Rente</strong> von der AHV.",
+        "feedback_incorrect": "❌ Falsch! Das ist richtig. Im <strong>Konkubinat</strong> gibt es <strong>keine automatische Rente</strong> von der AHV."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Walter Albrecht und seine Partnerin sind verheiratet.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Das ist falsch. Walter Albrecht und seine Partnerin sind <strong>nicht verheiratet</strong>.",
+        "feedback_incorrect": "❌ Falsch! Das ist richtig. Walter Albrecht und seine Partnerin sind <strong>nicht verheiratet</strong>."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Die Pensionskasse von Walter Albrecht hat seiner Partnerin eine Hinterlassenenrente zugesichert.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Das ist falsch. Die Pensionskasse von Walter Albrecht hat <strong>keine Rente zugesichert</strong>.",
+        "feedback_incorrect": "❌ Falsch! Das ist richtig. Die Pensionskasse von Walter Albrecht hat <strong>keine Rente zugesichert</strong>."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Es ist für alle Pensionskassen in der Schweiz obligatorisch, eine Hinterlassenenrente für unverheiratete Paare anzubieten.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Das ist falsch. Es ist ein <strong>freiwilliges Angebot</strong> der Pensionskassen, keine Pflicht.",
+        "feedback_incorrect": "❌ Falsch! Das ist richtig. Es ist ein <strong>freiwilliges Angebot</strong> der Pensionskassen, keine Pflicht."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Auch wenn eine Pensionskasse ihr Reglement ändert, profitieren automatisch alle Rentenbezüger von den neuen Regelungen.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Das ist falsch. <strong>Neue Reglemente gelten nicht automatisch rückwirkend</strong> für alle.",
+        "feedback_incorrect": "❌ Falsch! Das ist richtig. <strong>Neue Reglemente gelten nicht automatisch rückwirkend</strong> für alle."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Heiraten ist laut Audiobeitrag eine sichere Methode, um den Anspruch auf eine Wittwerrente für den Partner oder die Partnerin zu gewährleisten.</p>",
+        "correct_answer": true,
+        "feedback_correct": "✅ Richtig! Das ist richtig. <strong>Heiraten</strong> sichert den Anspruch auf eine <strong>Wittwerrente</strong>.",
+        "feedback_incorrect": "❌ Falsch! Das ist falsch. <strong>Heiraten</strong> sichert tatsächlich den Anspruch auf eine <strong>Wittwerrente</strong>."
+      }
+    ]
+  }

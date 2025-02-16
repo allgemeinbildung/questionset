@@ -1,0 +1,279 @@
+{
+    "title": "Verständnisfragen Sozialversicherung - Gibt es eine Heiratsstrafe",
+    "headerImage": "img1.jpg",
+    "media": {
+      "type": "mp3",
+      "url": "https://download-media.srf.ch/world/audio/Recht_einfach_radio/2013/10/Recht-einfach-radio_de6c6c8ed3a24bf4a2ca803cb8d3fd6e.mp3",
+      "source": "https://www.srf.ch/audio/recht-einfach/sozialversicherung-gibt-es-eine-heiratsstrafe?uuid=267c3329-ac15-4677-96be-94061c3e79a4"
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Aussage beschreibt die Kernaussage des Beitrags bezüglich der Sozialversicherungen und des Heirats?</p>",
+        "options": [
+          {
+            "text": "Heiraten führt in allen Bereichen der Sozialversicherungen zu finanziellen Vorteilen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Beitrag zeigt, dass es sowohl <strong>Vor- als auch Nachteile</strong> beim Heiraten in Bezug auf Sozialversicherungen gibt."
+          },
+          {
+            "text": "Konkubinatspaare sind bei den Sozialversicherungen generell bessergestellt als verheiratete Paare.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Im Allgemeinen sind <strong>Konkubinatspaare eher schlechter</strong> gestellt, ausser in spezifischen Fällen bei der AHV-Rente im Alter."
+          },
+          {
+            "text": "In Bezug auf Sozialversicherungen gibt es Unterschiede zwischen verheirateten Paaren und Konkubinatspaaren, die beachtet werden sollten.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Der Beitrag betont die <strong>Unterschiede in den Sozialversicherungsleistungen</strong> zwischen verheirateten und nicht verheirateten Paaren."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Säule der Sozialversicherung wurde im Beitrag als besonders relevant für Unterschiede zwischen Konkubinatspaaren und Verheirateten hervorgehoben?</p>",
+        "options": [
+          {
+            "text": "Die dritte Säule (private Vorsorge)",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Beitrag konzentriert sich hauptsächlich auf die <strong>erste und zweite Säule</strong>."
+          },
+          {
+            "text": "Die zweite Säule (Pensionskasse)",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die <strong>Pensionskasse</strong> (zweite Säule) wird als Bereich genannt, in dem es wichtige Unterschiede und Handlungsbedarf für Konkubinatspaare gibt."
+          },
+          {
+            "text": "Die obligatorische Krankenversicherung",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die <strong>Krankenversicherung</strong> wird in diesem Beitrag nicht im Detail bezüglich Heiratsstrafe thematisiert."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was erhalten Konkubinatspartner gemäss Beitrag nicht von der AHV des verstorbenen Partners?</p>",
+        "options": [
+          {
+            "text": "Eine Witwen- oder Witwerrente",
+            "is_correct": true,
+            "feedback": "✅ Richtig! <strong>Konkubinatspartner erhalten keine Witwen- oder Witwerrente</strong> aus der AHV des verstorbenen Partners."
+          },
+          {
+            "text": "Kinderzulagen",
+            "is_correct": false,
+            "feedback": "❌ Falsch. <strong>Kinderzulagen</strong> sind unabhängig vom Zivilstand der Eltern und werden den Kindern gewährt."
+          },
+          {
+            "text": "Invalidenrente",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die <strong>Invalidenrente</strong> ist eine individuelle Leistung und nicht direkt vom Zivilstand des Partners abhängig."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Versicherung wurde im Beitrag als Beispiel genannt, bei der Konkubinatspartner im Todesfall leer ausgehen?</p>",
+        "options": [
+          {
+            "text": "Die Arbeitslosenversicherung",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die <strong>Arbeitslosenversicherung</strong> wurde in diesem Kontext nicht spezifisch erwähnt."
+          },
+          {
+            "text": "Die Unfallversicherung",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die <strong>Unfallversicherung</strong> wurde als Beispiel genannt, bei der Konkubinatspartner im Todesfall nicht begünstigt sind."
+          },
+          {
+            "text": "Die Krankenversicherung",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die <strong>Krankenversicherung</strong> wurde in diesem Kontext nicht spezifisch erwähnt."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Bis zu welchem Betrag ist die monatliche Ehepaarrente der AHV maximal begrenzt?</p>",
+        "options": [
+          {
+            "text": "CHF 4'680",
+            "is_correct": false,
+            "feedback": "❌ Falsch. CHF 4'680 ist der <strong>Gesamtbetrag für zwei Einzelrenten</strong> im Konkubinat, nicht die maximale Ehepaarrente."
+          },
+          {
+            "text": "CHF 3'510",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die maximale monatliche <strong>Ehepaarrente ist auf CHF 3'510 begrenzt</strong> (Ehepaarrente)."
+          },
+          {
+            "text": "CHF 2'340",
+            "is_correct": false,
+            "feedback": "❌ Falsch. CHF 2'340 ist die <strong>maximale Einzelrente</strong>, die ein Konkubinatspartner erhalten kann."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum ist es für Konkubinatspartner wichtig, ihr Konkubinat bei der Pensionskasse anzumelden?</p>",
+        "options": [
+          {
+            "text": "Um Steuern zu sparen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Anmeldung des Konkubinats bei der Pensionskasse dient nicht primär der <strong>Steuerersparnis</strong>."
+          },
+          {
+            "text": "Damit der Partner im Todesfall möglicherweise als Begünstigter der Pensionskasse berücksichtigt werden kann.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die Anmeldung ist wichtig, damit der <strong>Partner als Begünstigter</strong> im Todesfall berücksichtigt werden kann, sofern die Pensionskasse dies zulässt."
+          },
+          {
+            "text": "Weil es gesetzlich vorgeschrieben ist.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Anmeldung des Konkubinats bei der Pensionskasse ist <strong>nicht generell gesetzlich vorgeschrieben</strong>, sondern dient der Begünstigung."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was bedeutet die Aussage, dass das Vorsorgegesetz bezüglich der Begünstigung von Konkubinatspartnern in der Pensionskasse eine «Kann-Bestimmung» enthält?</p>",
+        "options": [
+          {
+            "text": "Pensionskassen sind gesetzlich verpflichtet, Konkubinatspartner zu begünstigen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Eine «Kann-Bestimmung» bedeutet, dass es <strong>keine Pflicht</strong>, sondern eine <strong>Möglichkeit</strong> für Pensionskassen ist."
+          },
+          {
+            "text": "Es ist den Pensionskassen freigestellt, ob sie Konkubinatspartner als Begünstigte zulassen oder nicht.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Eine «Kann-Bestimmung» räumt den <strong>Pensionskassen die Freiheit ein</strong>, selbst zu entscheiden, ob sie Konkubinatspartner begünstigen wollen."
+          },
+          {
+            "text": "Konkubinatspartner haben einen Rechtsanspruch auf Begünstigung durch die Pensionskasse.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Eine «Kann-Bestimmung» begründet <strong>keinen Rechtsanspruch</strong> auf Begünstigung."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Inwiefern stellt die unterschiedliche Rentenberechnung für Ehepaare und Konkubinatspaare im Alter eine Art «Belohnung» für Konkubinatspaare dar?</p>",
+        "options": [
+          {
+            "text": "Konkubinatspaare zahlen weniger Steuern im Alter.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die «Belohnung» bezieht sich direkt auf die <strong>AHV-Rentenhöhe</strong>, nicht auf Steuern."
+          },
+          {
+            "text": "Konkubinatspaare erhalten in der Summe höhere AHV-Renten als Ehepaare mit gleichem Einkommen.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Durch die Berechnung von <strong>zwei Einzelrenten</strong> können Konkubinatspaare insgesamt eine höhere AHV-Rente erhalten als ein Ehepaar mit vergleichbarer Situation."
+          },
+          {
+            "text": "Ehepaare müssen ihre Renten teilen, während Konkubinatspaare dies nicht müssen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. <strong>Ehepaare teilen ihre Renten nicht</strong> im Sinne einer Aufteilung, aber die Ehepaarrente ist begrenzt."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Welches traditionelle Familienbild wird im Beitrag als Grundlage für die Ausgestaltung der ersten und zweiten Säule der Sozialversicherung kritisiert?</p>",
+        "options": [
+          {
+            "text": "Das Modell der gleichberechtigten Doppelverdienerschaft.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Beitrag kritisiert, dass die Sozialversicherungen <strong>nicht</strong> auf diesem Modell basieren."
+          },
+          {
+            "text": "Das Modell, bei dem der Mann arbeitet und die Frau sich um die Kinder kümmert.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Der Beitrag kritisiert, dass die Sozialversicherungen immer noch vom <strong>klassischen Familienbild des «Alleinerernährers»</strong> ausgehen."
+          },
+          {
+            "text": "Das Modell der Patchwork-Familie.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das <strong>Patchwork-Familienmodell</strong> ist nicht der kritisierte Bezugspunkt in diesem Kontext."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was ist die Hauptempfehlung des Beitrags für Konkubinatspaare in Bezug auf ihre finanzielle Absicherung?</p>",
+        "options": [
+          {
+            "text": "Sie sollten unbedingt heiraten, um besser abgesichert zu sein.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Beitrag rät nicht generell zum Heiraten, sondern zur <strong>Information und Eigeninitiative</strong>."
+          },
+          {
+            "text": "Sie sollten sich gut über die Unterschiede in den Sozialversicherungen informieren und gegebenenfalls Massnahmen ergreifen, wie z.B. die Anmeldung bei der Pensionskasse.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die Hauptempfehlung ist die <strong>Information über die Unterschiede und das Ergreifen von Massnahmen</strong> zur eigenen Absicherung."
+          },
+          {
+            "text": "Sie sollten sich keine Sorgen machen, da Konkubinatspaare und Ehepaare in der Schweiz sozialversicherungsrechtlich gleichgestellt sind.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Beitrag zeigt, dass es eben <strong>keine vollständige Gleichstellung</strong> gibt und Handlungsbedarf besteht."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Verheiratete Frauen erhalten unter allen Umständen eine Witwenrente von der AHV ihres verstorbenen Mannes.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Nicht unter allen Umständen. Es gibt bestimmte Bedingungen, unter denen verheiratete Frauen eine Witwenrente erhalten.",
+        "feedback_incorrect": "❌ Falsch! Es gibt Bedingungen, unter denen verheiratete Frauen eine Witwenrente erhalten, aber nicht unter allen Umständen."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Kinder sind unabhängig vom Zivilstand ihrer Eltern in der AHV, der Pensionskasse und der Unfallversicherung gleich abgesichert.</p>",
+        "correct_answer": true,
+        "feedback_correct": "✅ Richtig! Für Kinder macht es keinen Unterschied, ob ihre Eltern verheiratet sind oder nicht; ihre Absicherung ist gleich.",
+        "feedback_incorrect": "❌ Falsch! Die Absicherung von Kindern in diesen Sozialversicherungen ist unabhängig vom Zivilstand der Eltern."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wenn eine ledige Person stirbt, geht das Kapital in der Pensionskasse immer an den Staat zurück.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Es geht an die Kasse zurück, nicht an den Staat. Pensionskassen können sich so auf Kosten der Ledigen bereichern.",
+        "feedback_incorrect": "❌ Falsch! Das Kapital geht an die Pensionskasse zurück, nicht an den Staat."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Der Beitrag argumentiert, dass die «Heiratsstrafe» im Alter durch die AHV-Regelung für Konkubinatspaare vollständig aufgehoben wird.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Die «Heiratsstrafe» wird im Alter durch die AHV-Regelung teilweise kompensiert, aber nicht vollständig aufgehoben, da in anderen Bereichen weiterhin Nachteile bestehen.",
+        "feedback_incorrect": "❌ Falsch! Die «Heiratsstrafe» wird im Alter zwar teilweise kompensiert, aber nicht vollständig aufgehoben."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Die im Beitrag erwähnte «Heiratsstrafe» bezieht sich primär auf finanzielle Nachteile, die verheiratete Paare im Vergleich zu Konkubinatspaaren bei den Sozialversicherungen haben.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig!  Die «Heiratsstrafe» bezeichnet im allgemeinen Sprachgebrauch eher die potenziellen finanziellen Nachteile für Verheiratete im Vergleich zu Ledigen oder Konkubinatspaaren, aber der Beitrag zeigt, dass es in den Sozialversicherungen komplexer ist.",
+        "feedback_incorrect": "❌ Falsch! Die «Heiratsstrafe» bezieht sich eher auf Nachteile für Verheiratete, aber der Beitrag zeigt ein differenzierteres Bild."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Um als Konkubinatspartner in der Pensionskasse begünstigt zu werden, reicht es aus, wenn man dem Arbeitgeber das Konkubinat mündlich mitteilt.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig!  Eine mündliche Mitteilung reicht nicht aus. Die meisten Kassen verlangen eine formelle Anmeldung mit einem Formular.",
+        "feedback_incorrect": "❌ Falsch!  Eine formelle Anmeldung bei der Pensionskasse, meist mit einem Formular, ist notwendig."
+      }
+    ]
+  }

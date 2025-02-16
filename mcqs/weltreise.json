@@ -1,0 +1,279 @@
+{
+    "title": "Verständnisfragen Weltreise - Sozialversicherungen nicht vergessen",
+    "headerImage": "img1.jpg",
+    "media": {
+      "type": "mp3",
+      "url": "https://download-media.srf.ch/world/audio/DRS_3_Ratgeber/2012/10/DRS-3-Ratgeber_12fa22eca4aa4861875d716857c54f59.mp3",
+      "source": "https://www.srf.ch/audio/drs-3-ratgeber/weltreise-sozialversicherungen-nicht-vergessen?uuid=aec54f17-5393-4935-a4b6-2c46cf390cdf"
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Versicherung wird in der Schweiz typischerweise über den Arbeitgeber bezahlt?</p>",
+        "options": [
+          {
+            "text": "Hausratversicherung",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die <strong>Hausratversicherung</strong> ist in der Regel eine private Versicherung und nicht vom Arbeitgeber abhängig."
+          },
+          {
+            "text": "Unfallversicherung",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die <strong>Unfallversicherung</strong> wird in der Schweiz üblicherweise über den <strong>Arbeitgeber</strong> bezahlt."
+          },
+          {
+            "text": "Reiseversicherung",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die <strong>Reiseversicherung</strong> ist eine private Versicherung, die man selbst abschliessen muss."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wie lange sind Sie nach Kündigung Ihres Jobs noch durch die Unfallversicherung Ihres Arbeitgebers gedeckt?</p>",
+        "options": [
+          {
+            "text": "Einen Monat",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Nach einem Monat endet die Deckung durch die <strong>Pensionskasse</strong>, nicht die Unfallversicherung."
+          },
+          {
+            "text": "30 Tage",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die <strong>Unfallversicherung</strong> über den Arbeitgeber gilt noch <strong>30 Tage</strong> nach Jobende."
+          },
+          {
+            "text": "Drei Monate",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Drei Monate ist die Frist, ab der man sich bei längerer Auszeit als <strong>Nicht-Erwerbstätige</strong> anmelden sollte."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Option wird im Text genannt, um den Unfallversicherungsschutz nach den 30 Tagen zu verlängern?</p>",
+        "options": [
+          {
+            "text": "Eine Abredenversicherung",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Eine <strong>Abredenversicherung</strong> ermöglicht es, den <strong>Unfallversicherungsschutz</strong> zu verlängern."
+          },
+          {
+            "text": "Eine Lebensversicherung",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Eine <strong>Lebensversicherung</strong> ist nicht relevant für den kurzfristigen Unfallversicherungsschutz nach Jobende."
+          },
+          {
+            "text": "Eine Autoversicherung",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Eine <strong>Autoversicherung</strong> hat keinen Bezug zum persönlichen Unfallversicherungsschutz."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wie lange kann man die Abredenversicherung für die Unfallversicherung maximal abschliessen?</p>",
+        "options": [
+          {
+            "text": "120 Tage",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die maximale Dauer der Abredenversicherung ist länger als 120 Tage."
+          },
+          {
+            "text": "180 Tage",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die <strong>Abredenversicherung</strong> ist maximal für <strong>180 Tage</strong> möglich."
+          },
+          {
+            "text": "365 Tage",
+            "is_correct": false,
+            "feedback": "❌ Falsch. 365 Tage ist ein ganzes Jahr, was die maximale Dauer der <strong>Abredenversicherung</strong> übersteigt."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was sollten Sie mindestens weiterhin bezahlen, wenn Sie länger als drei Monate auf Weltreise sind, um Beitragslücken zu vermeiden?</p>",
+        "options": [
+          {
+            "text": "Pensionskassenbeiträge",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Es ist zwar ratsam, den Risikoschutz der <strong>Pensionskasse</strong> zu prüfen, aber nicht zwingend die Beiträge weiterzuzahlen, um Beitragslücken zu vermeiden."
+          },
+          {
+            "text": "AHV-Mindestbeiträge",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Sie sollten die <strong>AHV-Mindestbeiträge</strong> zahlen, um <strong>Beitragslücken</strong> in der Altersrente zu verhindern."
+          },
+          {
+            "text": "Krankenkassenprämien",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die <strong>Krankenkassenprämien</strong> müssen Sie ohnehin weiterzahlen, wenn Sie in der Schweiz angemeldet bleiben möchten, aber dies ist nicht primär zur Vermeidung von Beitragslücken in der Altersvorsorge relevant."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum könnte eine Zusatzversicherung zur Krankenkasse für eine Weltreise sinnvoll sein, besonders in Ländern wie Australien oder Kanada?</p>",
+        "options": [
+          {
+            "text": "Weil die medizinische Versorgung dort günstiger ist.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. In Ländern wie <strong>Australien</strong> und <strong>Kanada</strong> sind die <strong>medizinischen Kosten</strong> tendenziell <strong>höher</strong> als in der Schweiz."
+          },
+          {
+            "text": "Weil die Schweizer Krankenkasse im Ausland nur begrenzte Leistungen erbringt.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die <strong>Schweizer Krankenkasse</strong> zahlt im Ausland maximal das Doppelte dessen, was sie in der Schweiz für die gleiche Behandlung zahlen würde, was in Ländern mit hohen Gesundheitskosten knapp werden kann. Daher ist eine <strong>Zusatzversicherung</strong> sinnvoll."
+          },
+          {
+            "text": "Weil die Grundversicherung im Ausland ungültig ist.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die <strong>Grundversicherung</strong> ist auch im Ausland gültig, deckt aber möglicherweise nicht alle Kosten vollständig ab."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was ist der Hauptgrund, sich vor einer Weltreise mit dem Thema Versicherungen auseinanderzusetzen?</p>",
+        "options": [
+          {
+            "text": "Um Geld für die Reise zu sparen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das Hauptziel ist nicht das Sparen, sondern der <strong>Schutz vor finanziellen Risiken</strong> im Falle von Krankheit oder Unfall."
+          },
+          {
+            "text": "Weil viele Versicherungen in der Schweiz an ein Arbeitsverhältnis geknüpft sind.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Viele wichtige Versicherungen wie <strong>Unfallversicherung</strong> und Teile der <strong>Sozialversicherungen</strong> sind in der Schweiz mit dem <strong>Arbeitsverhältnis</strong> verbunden und müssen bei einer längeren Auszeit angepasst werden."
+          },
+          {
+            "text": "Weil Reiseversicherungen immer obligatorisch sind.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. <strong>Reiseversicherungen</strong> sind nicht immer obligatorisch, aber es gibt andere Versicherungsaspekte, die bei einer Weltreise wichtiger sind, wie die <strong>Grundversorgung</strong> und <strong>Sozialversicherungen</strong>."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum wird im Text empfohlen, eine Gönnerschaft bei einer Rettungsorganisation in Betracht zu ziehen?</p>",
+        "options": [
+          {
+            "text": "Um die Kosten für Gepäckverlust zu decken.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Eine <strong>Gönnerschaft bei einer Rettungsorganisation</strong> deckt keine Gepäckverluste ab."
+          },
+          {
+            "text": "Um die Kosten für einen Rücktransport bei Krankheit oder Unfall zu reduzieren.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Eine <strong>Gönnerschaft bei einer Rettungsorganisation</strong> kann einen <strong>Rücktransport</strong> bei <strong>Unfall</strong> oder <strong>schwerer Krankheit</strong> kostengünstiger gestalten."
+          },
+          {
+            "text": "Um die Kosten für eine Reiseverlängerung zu übernehmen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Eine <strong>Gönnerschaft bei einer Rettungsorganisation</strong> ist nicht für die Übernahme von Kosten bei Reiseverlängerungen gedacht."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Unter welcher Bedingung können Sie nach einer Weltreise Arbeitslosengelder in der Schweiz beziehen?</p>",
+        "options": [
+          {
+            "text": "Wenn Sie länger als ein Jahr im Ausland waren.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Sie dürfen <strong>nicht länger als ein Jahr</strong> weg gewesen sein, um Arbeitslosengelder beziehen zu können."
+          },
+          {
+            "text": "Wenn Sie vorher Beiträge an die Arbeitslosenversicherung bezahlt haben und nicht länger als ein Jahr weg waren.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Sie müssen <strong>vorher Beiträge</strong> an die <strong>Arbeitslosenversicherung</strong> bezahlt haben und <strong>nicht länger als ein Jahr</strong> weg gewesen sein."
+          },
+          {
+            "text": "Unabhängig von der Dauer der Weltreise, solange Sie in der Schweiz wohnhaft sind.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die <strong>Dauer der Weltreise</strong> und die <strong>vorherige Beitragszahlung</strong> sind entscheidende Bedingungen für den Bezug von Arbeitslosengeldern."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was bedeutet es, sich bei einer längeren Weltreise als 'Nicht-Erwerbstätiger' anzumelden?</p>",
+        "options": [
+          {
+            "text": "Dass man keine AHV-Beiträge mehr zahlen muss.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Als <strong>Nicht-Erwerbstätiger</strong> müssen Sie weiterhin <strong>AHV-Beiträge</strong> zahlen, um Beitragslücken zu vermeiden."
+          },
+          {
+            "text": "Dass man sicherstellt, weiterhin AHV-Beiträge zu leisten, um die Altersvorsorge nicht zu gefährden.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die Anmeldung als <strong>Nicht-Erwerbstätiger</strong> dient dazu, sicherzustellen, dass Sie weiterhin <strong>AHV-Beiträge</strong> leisten und somit Ihre <strong>Altersvorsorge</strong> nicht gefährden."
+          },
+          {
+            "text": "Dass man automatisch von der Krankenkassenpflicht befreit wird.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die <strong>Krankenkassenpflicht</strong> bleibt in der Schweiz in der Regel bestehen, auch bei einer Anmeldung als <strong>Nicht-Erwerbstätiger</strong>."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Nach Beendigung des Arbeitsverhältnisses sind Sie noch einen Monat über die Pensionskasse unfallversichert.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Die <strong>Unfallversicherung</strong> über den Arbeitgeber läuft noch 30 Tage, die <strong>Pensionskasse</strong> ist einen Monat abgedeckt, aber es geht hier um die <strong>Unfallversicherung</strong>.",
+        "feedback_incorrect": "❌ Falsch! Die <strong>Unfallversicherung</strong> über den Arbeitgeber läuft noch 30 Tage, die <strong>Pensionskasse</strong> ist einen Monat abgedeckt, aber es geht hier um die <strong>Unfallversicherung</strong>."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Die Abredenversicherung für die Unfallversicherung kostet 25 Franken pro Monat.</p>",
+        "correct_answer": true,
+        "feedback_correct": "✅ Richtig! Die <strong>Abredenversicherung</strong> kostet ungefähr <strong>25 Franken pro Monat</strong>.",
+        "feedback_incorrect": "❌ Falsch! Die <strong>Abredenversicherung</strong> kostet ungefähr <strong>25 Franken pro Monat</strong>."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wenn Sie während der Weltreise krank werden, zahlt Ihre Schweizer Krankenkasse im Ausland immer die vollen Kosten.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Die Schweizer <strong>Krankenkasse</strong> zahlt im Ausland <strong>nicht immer die vollen Kosten</strong>, sondern maximal das Doppelte dessen, was sie in der Schweiz zahlen würde.",
+        "feedback_incorrect": "❌ Falsch! Die Schweizer <strong>Krankenkasse</strong> zahlt im Ausland <strong>nicht immer die vollen Kosten</strong>, sondern maximal das Doppelte dessen, was sie in der Schweiz zahlen würde."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Es ist unnötig, sich um die Altersvorsorge zu kümmern, wenn man nur für ein Jahr auf Weltreise geht.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Es ist <strong>nicht unnötig</strong>. Gerade bei längeren Reisen sollte man die <strong>AHV-Beiträge</strong> im Auge behalten, um Beitragslücken zu vermeiden, auch wenn es nur ein Jahr ist.",
+        "feedback_incorrect": "❌ Falsch! Es ist <strong>nicht unnötig</strong>. Gerade bei längeren Reisen sollte man die <strong>AHV-Beiträge</strong> im Auge behalten, um Beitragslücken zu vermeiden, auch wenn es nur ein Jahr ist."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Eine private Reiseversicherung ist ausreichend, um alle Versicherungsbedürfnisse auf einer Weltreise abzudecken.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Eine <strong>Reiseversicherung alleine reicht nicht aus</strong>. Es ist wichtig, auch die <strong>Sozialversicherungen</strong>, <strong>Unfallversicherung</strong> und <strong>Krankenversicherung</strong> im Blick zu haben, da diese oft vom Arbeitsverhältnis abhängen.",
+        "feedback_incorrect": "❌ Falsch! Eine <strong>Reiseversicherung alleine reicht nicht aus</strong>. Es ist wichtig, auch die <strong>Sozialversicherungen</strong>, <strong>Unfallversicherung</strong> und <strong>Krankenversicherung</strong> im Blick zu haben, da diese oft vom Arbeitsverhältnis abhängen."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Die Anmeldung als arbeitslos nach einer Weltreise ist immer möglich, solange man in der Schweiz wohnt.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Die Anmeldung als arbeitslos ist <strong>nicht immer möglich</strong>. Bedingungen sind unter anderem, dass man <strong>nicht länger als ein Jahr weg war</strong> und <strong>vorher in die Arbeitslosenversicherung einbezahlt</strong> hat.",
+        "feedback_incorrect": "❌ Falsch! Die Anmeldung als arbeitslos ist <strong>nicht immer möglich</strong>. Bedingungen sind unter anderem, dass man <strong>nicht länger als ein Jahr weg war</strong> und <strong>vorher in die Arbeitslosenversicherung einbezahlt</strong> hat."
+      }
+    ]
+  }
