@@ -1,0 +1,281 @@
+{
+    "title": "Verständnisfragen Tipps zum Einkauf in die Pensionskasse",
+    "headerImage": "img1.jpg",
+    "media": {
+      "type": "mp3",
+      "url": "https://download-media.srf.ch/world/audio/Ratgeber-radio/2022/02/Ratgeber_02-03-2022-1108.mp3",
+      "source": "https://www.srf.ch/audio/ratgeber/tipps-zum-einkauf-in-die-pensionskasse?id=c174a70d-8bab-4745-a888-60deccc616eb#autoplay"
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche zwei Bedingungen müssen grundsätzlich erfüllt sein, bevor man sich in die Pensionskasse einkaufen kann?</p>",
+        "options": [
+          {
+            "text": "Man muss das AHV-Alter erreicht haben und über freies Kapital verfügen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das <strong>AHV-Alter</strong> ist keine Bedingung und freies Kapital allein reicht nicht. Es geht um spezifischere Bedingungen."
+          },
+          {
+            "text": "Man darf kein Pensionskassengeld für Wohneigentum bezogen und es muss eine Beitragslücke vorhanden sein.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Man darf kein <strong>Pensionskassengeld für Wohneigentum</strong> bezogen haben (oder es zurückgezahlt haben) und es muss eine <strong>Beitragslücke</strong> bestehen."
+          },
+          {
+            "text": "Man muss mindestens 50 Jahre alt sein und eine Arbeitsstelle haben.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das <strong>Alter von 50 Jahren</strong> und eine <strong>Arbeitsstelle</strong> sind keine grundlegenden Bedingungen für einen Einkauf."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wo findet man Informationen darüber, ob und wie viel man zusätzlich in die Pensionskasse einzahlen kann?</p>",
+        "options": [
+          {
+            "text": "Im Steuerbescheid der letzten Steuererklärung.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der <strong>Steuerbescheid</strong> enthält diese Informationen nicht. Es geht um Dokumente der Pensionskasse."
+          },
+          {
+            "text": "Auf dem jährlichen Pensionskassenausweis.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Diese Informationen stehen auf dem <strong>Pensionskassenausweis</strong>, den man jährlich erhält."
+          },
+          {
+            "text": "In den allgemeinen Geschäftsbedingungen der Bank.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die <strong>AGB der Bank</strong> sind nicht relevant für die Informationen zum Pensionskasseneinkauf."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was ist die empfohlene Mindestwartezeit zwischen dem letzten Einkauf in die Pensionskasse und einem Kapitalbezug bei Pensionierung?</p>",
+        "options": [
+          {
+            "text": "Ein Jahr.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. <strong>Ein Jahr</strong> ist zu kurz. Es gibt eine längere Wartezeit."
+          },
+          {
+            "text": "Drei Jahre.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Es sollten mindestens <strong>drei Jahre</strong> zwischen dem letzten Einkauf und dem Kapitalbezug liegen."
+          },
+          {
+            "text": "Fünf Jahre.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. <strong>Fünf Jahre</strong> sind nicht die angegebene Mindestwartezeit. Drei Jahre sind korrekt."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was sollte man prüfen, um sicherzustellen, dass ein Einkauf in die Pensionskasse sinnvoll ist?</p>",
+        "options": [
+          {
+            "text": "Die aktuelle Zinsprognose der Nationalbank.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die <strong>Zinsprognose der Nationalbank</strong> ist nicht der entscheidende Faktor für die Sinnhaftigkeit eines Einkaufs."
+          },
+          {
+            "text": "Den Deckungsgrad und die finanzielle Gesundheit der Pensionskasse.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Man sollte den <strong>Deckungsgrad</strong> und die <strong>Gesundheit der Pensionskasse</strong> prüfen, um Risiken zu vermeiden."
+          },
+          {
+            "text": "Die Entwicklung des Aktienmarktes im letzten Jahr.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die <strong>Aktienmarktentwicklung</strong> ist weniger direkt relevant als die finanzielle Stabilität der Pensionskasse selbst."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welches Dokument sollte man bei der Pensionskasse anfordern, um Details und Auswirkungen eines Einkaufs zu klären?</p>",
+        "options": [
+          {
+            "text": "Einen Kontoauszug.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Ein <strong>Kontoauszug</strong> gibt nicht spezifisch Auskunft über die Auswirkungen eines Einkaufs."
+          },
+          {
+            "text": "Eine Einkaufsofferte.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Man sollte eine <strong>Einkaufsofferte</strong> verlangen, um alle Details und Auswirkungen zu prüfen."
+          },
+          {
+            "text": "Das Vorsorgereglement.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das <strong>Vorsorgereglement</strong> ist zwar wichtig, aber eine <strong>Einkaufsofferte</strong> ist direkter auf den individuellen Einkauf bezogen."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum wird empfohlen, beim Einkauf in die Pensionskasse nicht den gesamten verfügbaren Betrag zu investieren?</p>",
+        "options": [
+          {
+            "text": "Weil man sonst keine Steuern sparen kann.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Es geht nicht primär um die <strong>Steuerersparnis</strong> in diesem Kontext, sondern um die Liquidität."
+          },
+          {
+            "text": "Weil das Geld in der Pensionskasse gebunden ist und man Reserven für unvorhergesehene Ausgaben behalten sollte.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Das Geld in der Pensionskasse ist <strong>gebunden</strong>, daher sollte man <strong>flüssige Mittel als Reserve</strong> behalten."
+          },
+          {
+            "text": "Weil ein zu hoher Einkauf die monatlichen Rentenzahlungen reduziert.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Ein höherer Einkauf würde tendenziell die <strong>Renten erhöhen</strong>, nicht reduzieren. Es geht um die Liquidität."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Wann im Lebensverlauf kann ein Einkauf in die Pensionskasse besonders interessant werden, und warum?</p>",
+        "options": [
+          {
+            "text": "Direkt nach dem Berufseinstieg, weil man dann am meisten Zeit hat, um von Zinseszinsen zu profitieren.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Direkt nach dem <strong>Berufseinstieg</strong> hat man oft noch nicht die finanziellen Mittel und es gibt steuerlich später oft bessere Zeitpunkte."
+          },
+          {
+            "text": "Eher später im Erwerbsleben, etwa ab 50 Jahren, da man dann meist ein höheres Einkommen hat und die Steuerersparnis relevanter wird.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Ab etwa <strong>50 Jahren</strong> kann es interessant werden, da das <strong>Einkommen oft höher</strong> ist und die <strong>Steuerersparnis</strong> stärker ins Gewicht fällt."
+          },
+          {
+            "text": "Kurz vor der Pensionierung, um die Rente nochmals kurzfristig zu maximieren.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. <strong>Kurz vor der Pensionierung</strong> kann es zu spät sein, besonders wegen der Dreijahresfrist vor Kapitalbezug."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum kann es steuerlich vorteilhaft sein, Einkäufe in die Pensionskasse über mehrere Jahre zu verteilen?</p>",
+        "options": [
+          {
+            "text": "Weil man so die jährlichen Steuerabzüge maximieren und die Steuerprogression besser nutzen kann.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Durch <strong>gestaffelte Einkäufe</strong> kann man die <strong>Steuerabzüge optimieren</strong> und die <strong>Steuerprogression</strong> vorteilhafter nutzen."
+          },
+          {
+            "text": "Weil die Pensionskassen höhere Einzahlungen auf einmal nicht akzeptieren.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Pensionskassen <strong>akzeptieren generell auch höhere Einmalzahlungen</strong>, die Staffelung ist aus steuerlichen Gründen vorteilhaft."
+          },
+          {
+            "text": "Weil man nur so von staatlichen Förderbeiträgen profitieren kann.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. <strong>Staatliche Förderbeiträge</strong> sind nicht direkt an die Staffelung der Einkäufe geknüpft."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Inwiefern beeinflusst die finanzielle Gesundheit einer Pensionskasse die Entscheidung für einen Einkauf?</p>",
+        "options": [
+          {
+            "text": "Eine schlechte finanzielle Gesundheit der Pensionskasse macht einen Einkauf attraktiver, da man so zur Sanierung beiträgt.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Eine <strong>schlechte finanzielle Gesundheit</strong> macht einen Einkauf <strong>riskanter</strong>, nicht attraktiver."
+          },
+          {
+            "text": "Eine schlechte finanzielle Gesundheit der Pensionskasse sollte von einem Einkauf abraten, da das eingezahlte Geld gefährdet sein könnte.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Bei einer <strong>schlechten finanziellen Gesundheit</strong> der Kasse sollte man <strong>keinen Einkauf</strong> tätigen, da das Geld gefährdet sein könnte."
+          },
+          {
+            "text": "Die finanzielle Gesundheit der Pensionskasse spielt keine Rolle, da Einkäufe staatlich garantiert sind.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. <strong>Einkäufe in Pensionskassen sind nicht staatlich garantiert</strong>, daher ist die finanzielle Gesundheit relevant."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was bedeutet es, wenn die Todesfall- und Invaliditätsleistungen durch einen Einkauf in die Pensionskasse verbessert werden?</p>",
+        "options": [
+          {
+            "text": "Dass man im Falle von Invalidität oder Tod höhere Leistungen von der Pensionskasse erhält.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Es bedeutet, dass im Fall von <strong>Invalidität oder Tod höhere Leistungen</strong> von der Pensionskasse ausgezahlt werden."
+          },
+          {
+            "text": "Dass die Steuervorteile des Einkaufs noch grösser werden.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Es geht hier nicht um <strong>Steuervorteile</strong>, sondern um den <strong>Versicherungsschutz</strong> im Fall von Invalidität oder Tod."
+          },
+          {
+            "text": "Dass man früher in Rente gehen kann.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Verbesserung der Leistungen hat <strong>keinen direkten Einfluss auf den Rentenbeginn</strong>, sondern auf die Versicherungsleistungen."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Ein Einkauf in die Pensionskasse ist immer und für jeden Arbeitnehmer in der Schweiz möglich.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig!",
+        "feedback_incorrect": "❌ Falsch. Es gibt <strong>Bedingungen</strong>, die erfüllt sein müssen, damit ein Einkauf möglich ist. Nicht jeder Arbeitnehmer kann sich jederzeit einkaufen."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Der Pensionskassenausweis enthält Informationen darüber, wie hoch die maximale Beitragslücke für einen Einkauf ist.</p>",
+        "correct_answer": true,
+        "feedback_correct": "✅ Richtig!",
+        "feedback_incorrect": "❌ Falsch. Der <strong>Pensionskassenausweis</strong> gibt Auskunft über die mögliche <strong>Beitragslücke</strong> und den maximalen Einkaufsbetrag."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Es ist empfehlenswert, den Zeitpunkt für einen Einkauf in die Pensionskasse spontan und ohne langfristige Planung zu wählen.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig!",
+        "feedback_incorrect": "❌ Falsch. Es ist ratsam, den Zeitpunkt für einen Einkauf <strong>langfristig zu planen</strong> und verschiedene Faktoren zu berücksichtigen, wie z.B. Steuern."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Ein wesentlicher Vorteil eines Einkaufs in die Pensionskasse kann die Reduktion der Steuerbelastung im Einkaufsjahr sein.</p>",
+        "correct_answer": true,
+        "feedback_correct": "✅ Richtig! Die <strong>Steuerersparnis</strong> ist ein wichtiger <strong>Vorteil</strong> eines Einkaufs in die Pensionskasse."
+        ,
+        "feedback_incorrect": "❌ Falsch. Ein wesentlicher Vorteil des Einkaufs in die Pensionskasse ist die Möglichkeit, die <strong>Steuerbelastung zu reduzieren</strong>."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Auch bei einer finanziell angeschlagenen Pensionskasse ist ein Einkauf immer eine sichere Investition in die Altersvorsorge.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig!",
+        "feedback_incorrect": "❌ Falsch. Bei einer <strong>finanziell angeschlagenen Pensionskasse</strong> ist ein Einkauf <strong>nicht sicher</strong> und kann sogar riskant sein."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Die Staffelung von Einkäufen in die Pensionskasse über mehrere Jahre kann helfen, die Steuerprogression zu mildern.</p>",
+        "correct_answer": true,
+        "feedback_correct": "✅ Richtig! Durch die <strong>Staffelung der Einkäufe</strong> kann die <strong>Steuerprogression gemildert</strong> und die Steuerersparnis optimiert werden."
+        ,
+        "feedback_incorrect": "❌ Falsch. Die <strong>Staffelung von Einkäufen</strong> ist eine Strategie, um die <strong>Steuerprogression zu mildern</strong> und Steuern zu sparen."
+      }
+    ]
+  }
