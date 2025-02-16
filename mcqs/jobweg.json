@@ -1,0 +1,279 @@
+{
+    "title": "Verständnisfragen Job weg kurz vor Pensionierung",
+    "headerImage": "img1.jpg",
+    "media": {
+      "type": "mp3",
+      "url": "https://download-media.srf.ch/world/audio/Ratgeber_radio/2021/09/Ratgeber-radio_343535753b4646aaa5fdf2d40f404cc4.mp3",
+      "source": "https://www.srf.ch/audio/ratgeber/job-weg-kurz-vor-pensionierung-was-tun-mit-der-pensionskasse?id=9c42228e-2135-4176-8e81-89a7b4911c3b#autoplay"
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wie viele Varianten werden im Beitrag genannt, was man mit dem Pensionskassengeld machen kann, wenn man kurz vor der Pensionierung den Job verliert?</p>",
+        "options": [
+          {
+            "text": "Drei",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Es werden <strong>vier Varianten</strong> im Beitrag besprochen, nicht drei."
+          },
+          {
+            "text": "Vier",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Der Beitrag nennt <strong>vier Varianten</strong>, was man mit dem Pensionskassengeld tun kann."
+          },
+          {
+            "text": "Fünf",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Es werden <strong>vier Varianten</strong> im Beitrag besprochen, nicht fünf."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche der folgenden Optionen ist KEINE der im Beitrag genannten Varianten für das Pensionskassengeld?</p>",
+        "options": [
+          {
+            "text": "Das Geld in Aktien investieren und selbst verwalten.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Das <strong>selbständige Investieren in Aktien</strong> wird im Beitrag nicht als direkte Option genannt."
+          },
+          {
+            "text": "Das Pensionskassengeld in eine Freizügigkeitsstiftung einzahlen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das Einzahlen in eine <strong>Freizügigkeitsstiftung</strong> ist eine der genannten Optionen."
+          },
+          {
+            "text": "Sich frühzeitig pensionieren lassen und das Pensionskassengeld vorzeitig beziehen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die <strong>frühzeitige Pensionierung</strong> mit Vorbezug ist eine der genannten Optionen."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Ab welchem Alter ist ein Vorbezug des Pensionskassengeldes bei vielen Pensionskassen frühestens möglich?</p>",
+        "options": [
+          {
+            "text": "Ab 55 Jahren",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Vorbezug ist bei vielen Pensionskassen frühestens <strong>ab 60 Jahren</strong> möglich."
+          },
+          {
+            "text": "Ab 60 Jahren",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Bei vielen Pensionskassen ist ein Vorbezug frühestens <strong>ab 60 Jahren</strong> möglich."
+          },
+          {
+            "text": "Ab 65 Jahren",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Vorbezug ist in der Regel früher möglich, nämlich frühestens <strong>ab 60 Jahren</strong>."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Bis zu welchem Alter kann man bei den meisten Pensionskassen noch Pensionskassengelder einzahlen, auch ohne neuen Job?</p>",
+        "options": [
+          {
+            "text": "Bis 58 Jahren",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Bei den meisten Pensionskassen ist das Einzahlen ohne Job frühestens bis <strong>58 Jahren</strong> möglich."
+          },
+          {
+            "text": "Bis 60 Jahren",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das Einzahlen ohne Job ist bei den meisten Pensionskassen frühestens bis <strong>58 Jahren</strong> möglich, nicht bis 60."
+          },
+          {
+            "text": "Bis 62 Jahren",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das Einzahlen ohne Job ist bei den meisten Pensionskassen frühestens bis <strong>58 Jahren</strong> möglich, nicht bis 62."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Stiftung wird im Beitrag genannt, in die man das Pensionskassengeld einzahlen kann, um Steuern zu sparen?</p>",
+        "options": [
+          {
+            "text": "BVG-Auffangvorrichtung",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die <strong>BVG-Auffangvorrichtung</strong> ist eine andere Option. Für Steuersparen wird die Freizügigkeitsstiftung genannt."
+          },
+          {
+            "text": "Freizügigkeitsstiftung",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die <strong>Freizügigkeitsstiftung</strong> wird genannt, um Steuern zu sparen."
+          },
+          {
+            "text": "Pensionskassen-Dachstiftung",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Eine <strong>Pensionskassen-Dachstiftung</strong> wird im Beitrag nicht in diesem Zusammenhang erwähnt."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum kann ein Vorbezug des Pensionskassengeldes zu weniger Arbeitslosengeld führen?</p>",
+        "options": [
+          {
+            "text": "Weil das vorbezogene Pensionskassengeld als Einkommen angerechnet wird.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Das <strong>vorbezogene Pensionskassengeld</strong> wird als <strong>Einkommen angerechnet</strong> und reduziert das Arbeitslosengeld."
+          },
+          {
+            "text": "Weil man mit dem Vorbezug automatisch aus der Arbeitslosenversicherung austritt.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Vorbezug führt nicht automatisch zum <strong>Austritt aus der Arbeitslosenversicherung</strong>, sondern zur Anrechnung als Einkommen."
+          },
+          {
+            "text": "Weil der Vorbezug die Anspruchsdauer auf Arbeitslosengeld verkürzt.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Vorbezug <strong>verkürzt nicht direkt die Anspruchsdauer</strong>, sondern reduziert die Höhe des Arbeitslosengeldes durch Anrechnung als Einkommen."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Welchen Nachteil hat es, wenn man Pensionskassengelder ohne Job weiter einzahlt?</p>",
+        "options": [
+          {
+            "text": "Man verliert den Anspruch auf eine Rente.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Beim Weiterzahlen in die Pensionskasse <strong>behält man den Anspruch auf eine Rente</strong>."
+          },
+          {
+            "text": "Man muss die Beiträge des Arbeitgebers zusätzlich übernehmen.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Ohne Arbeitgeber muss man <strong>zusätzlich die Beiträge des Arbeitgebers übernehmen</strong>, was teuer sein kann."
+          },
+          {
+            "text": "Man ist nicht mehr gegen Invalidität und Tod versichert.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Beim Weiterzahlen in die Pensionskasse <strong>bleibt man gegen Invalidität und Tod versichert</strong>."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was ist ein Vorteil der Einzahlung des Pensionskassengeldes in eine Freizügigkeitsstiftung bezüglich Steuern?</p>",
+        "options": [
+          {
+            "text": "Das Geld in der Freizügigkeitsstiftung gilt nicht als Vermögen.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Das Geld in der <strong>Freizügigkeitsstiftung gilt nicht als Vermögen</strong> und die Erträge nicht als Einkommen, was Steuern spart."
+          },
+          {
+            "text": "Man erhält sofort eine Steuergutschrift bei der Einzahlung.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Es gibt <strong>keine sofortige Steuergutschrift</strong> bei der Einzahlung, aber das Geld wird steuerlich privilegiert behandelt."
+          },
+          {
+            "text": "Die Erträge aus dem Geld in der Freizügigkeitsstiftung sind steuerfrei.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die <strong>Erträge aus dem Geld in der Freizügigkeitsstiftung sind nicht als Einkommen steuerpflichtig</strong>, was Steuern spart."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum kann es vorteilhaft sein, das Geld auf zwei verschiedene Freizügigkeitsstiftungen aufzuteilen?</p>",
+        "options": [
+          {
+            "text": "Um höhere Zinsen auf das Kapital zu erhalten.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Aufteilung auf zwei Stiftungen dient nicht primär dazu, <strong>höhere Zinsen</strong> zu erhalten."
+          },
+          {
+            "text": "Um das Geld später gestaffelt beziehen zu können und so Steuern zu sparen.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Durch die Aufteilung kann man das Geld <strong>gestaffelt beziehen</strong> und so <strong>Steuern sparen</strong>."
+          },
+          {
+            "text": "Um das Risiko bei einer Stiftungskonkurs zu minimieren.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Risikominimierung bei einem <strong>Stiftungskonkurs</strong> ist nicht der Hauptgrund für die Aufteilung."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was ist ein Unterschied zwischen der Freizügigkeitsstiftung und der BVG-Auffangvorrichtung bezüglich des Kapitalbezugs?</p>",
+        "options": [
+          {
+            "text": "Bei der Freizügigkeitsstiftung kann man später eine Rente beziehen, bei der BVG-Auffangvorrichtung nicht.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Es ist genau umgekehrt: Bei der <strong>BVG-Auffangvorrichtung</strong> kann man später eine <strong>Rente beziehen</strong>, bei der Freizügigkeitsstiftung nicht."
+          },
+          {
+            "text": "Bei der Freizügigkeitsstiftung kann man das Geld später nur als Ganzes beziehen, bei der BVG-Auffangvorrichtung auch als Rente.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Bei der <strong>Freizügigkeitsstiftung</strong> ist nur ein <strong>Kapitalbezug als Ganzes</strong> möglich, bei der BVG-Auffangvorrichtung auch eine Rente."
+          },
+          {
+            "text": "Bei beiden Optionen kann man sowohl eine Rente als auch einen Kapitalbezug wählen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Bei der <strong>Freizügigkeitsstiftung</strong> ist nur ein <strong>Kapitalbezug</strong> möglich, bei der BVG-Auffangvorrichtung auch eine Rente."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wenn man sich frühzeitig pensionieren lässt und Pensionskassengeld vorzeitig bezieht, erhält man in der Regel mehr Altersgeld, als wenn man weiter einzahlen würde.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Das ist falsch. Ein Vorbezug führt in der Regel zu weniger Altersgeld, da man weniger lange einzahlt und möglicherweise Abzüge hat.",
+        "feedback_incorrect": "❌ Falsch. Das ist richtig. Ein Vorbezug führt in der Regel zu weniger Altersgeld, da man weniger lange einzahlt und möglicherweise Abzüge hat."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Bei der BVG-Auffangvorrichtung ist man nur für das Minimum versichert.</p>",
+        "correct_answer": true,
+        "feedback_correct": "✅ Richtig! Das ist korrekt. Bei der BVG-Auffangvorrichtung ist man tatsächlich nur für das Minimum versichert.",
+        "feedback_incorrect": "❌ Falsch. Das ist falsch. Bei der BVG-Auffangvorrichtung ist man tatsächlich nur für das Minimum versichert."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wenn man das Pensionskassengeld in eine Freizügigkeitsstiftung einzahlt, muss man sich nicht um eine neue Stelle bemühen.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Das ist falsch. Die Voraussetzung für die Einzahlung in eine Freizügigkeitsstiftung ist, dass man sich um eine neue Stelle bemüht.",
+        "feedback_incorrect": "❌ Falsch. Das ist richtig. Die Voraussetzung für die Einzahlung in eine Freizügigkeitsstiftung ist, dass man sich um eine neue Stelle bemüht."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Die Wahl zwischen Kapitalbezug und Rente ist immer möglich, egal für welche Option man sich entscheidet.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Das ist falsch. Nicht bei allen Optionen hat man die Wahl zwischen Kapital und Rente. Bei der Freizügigkeitsstiftung z.B. nicht.",
+        "feedback_incorrect": "❌ Falsch. Das ist richtig. Nicht bei allen Optionen hat man die Wahl zwischen Kapital und Rente. Bei der Freizügigkeitsstiftung z.B. nicht."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Es ist ratsam, sich in dieser Situation von unabhängigen Fachleuten beraten zu lassen.</p>",
+        "correct_answer": true,
+        "feedback_correct": "✅ Richtig! Das ist korrekt. Der Beitrag empfiehlt, sich von unabhängigen Fachleuten beraten zu lassen, da die Situation komplex ist.",
+        "feedback_incorrect": "❌ Falsch. Das ist falsch. Der Beitrag empfiehlt tatsächlich, sich von unabhängigen Fachleuten beraten zu lassen."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Die Arbeitslosenversicherung zahlt immer gleich viel, unabhängig davon, ob man Pensionskassengelder bezieht oder nicht.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Das ist falsch. Wie im Beitrag erwähnt, kann der Bezug von Pensionskassengeldern das Arbeitslosengeld reduzieren.",
+        "feedback_incorrect": "❌ Falsch. Das ist richtig. Wie im Beitrag erwähnt, kann der Bezug von Pensionskassengeldern das Arbeitslosengeld reduzieren."
+      }
+    ]
+  }
