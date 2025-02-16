@@ -1,236 +1,279 @@
 {
-  "title": "Mahngebühren",
+  "title": "Verständnisfragen Mahngebühren",
+  "headerImage": "img1.jpg",
   "media": {
-    "type": "",
-    "url": "",
-    "source": ""
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2021/03/Espresso_18-03-2021-815.mp3",
+    "source": "https://www.srf.ch/sendungen/kassensturz-espresso/rechtsfragen/kaufrecht/mail-nicht-angekommen-keine-rechnung-bekommen-muss-ich-trotzdem-mahngebuehren-zahlen"
   },
   "questions": [
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Was hat Herr Mauchli bestellt?</p>",
+      "question": "<p>Was hat Herr Mauchli gemäss dem Audiobeitrag online bestellt?</p>",
       "options": [
         {
           "text": "Kleider",
           "is_correct": false,
-          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass Herr Mauchli wiederaufladbare Batterien bestellt hat."
-        },
-        {
-          "text": "Batterien",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "Einen Laptop",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass Herr Mauchli wiederaufladbare Batterien bestellt hat."
+          "feedback": "❌ Falsch. Obwohl Kleider im Beitrag als Beispiel für Online-Bestellungen genannt werden, hat Herr Mauchli <strong>Batterien</strong> bestellt."
         },
         {
           "text": "Bücher",
           "is_correct": false,
-          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass Herr Mauchli wiederaufladbare Batterien bestellt hat."
+          "feedback": "❌ Falsch. Bücher werden zwar als Beispiel für Online-Bestellungen erwähnt, aber Herr Mauchli bestellte <strong>Batterien</strong>."
+        },
+        {
+          "text": "Batterien",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Herr Mauchli hat gemäss dem Audiobeitrag <strong>Batterien zum Wiederaufladen</strong> online bestellt."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Wie hat der Online-Shop die Rechnung verschickt?</p>",
+      "question": "<p>In welcher Situation entstand der Ärger für Herrn Mauchli?</p>",
       "options": [
         {
-          "text": "Per Post",
+          "text": "Die Lieferung der Ware dauerte sehr lange.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Es wird explizit erwähnt, dass der Online-Shop Rechnungen per E-Mail verschickt."
+          "feedback": "❌ Falsch. Die Lieferung klappte im Fall von Herrn Mauchli <strong>tipptopp</strong>."
         },
         {
-          "text": "Per E-Mail",
+          "text": "Er erhielt Mahngebühren, obwohl er keine Rechnung bekommen hatte.",
           "is_correct": true,
-          "feedback": "✅ Richtig!"
+          "feedback": "✅ Richtig! Der Ärger entstand, weil Herr Mauchli <strong>Mahngebühren</strong> erhielt, ohne zuvor eine <strong>Rechnung</strong> bekommen zu haben."
         },
         {
-          "text": "Per SMS",
+          "text": "Die bestellte Ware kam beschädigt bei ihm an.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Es wird explizit erwähnt, dass der Online-Shop Rechnungen per E-Mail verschickt."
+          "feedback": "❌ Falsch. Die Ware kam im Fall von Herrn Mauchli <strong>ordnungsgemäss</strong> an."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Medium wurde im Beitrag als Versandweg für Rechnungen im Online-Handel genannt?</p>",
+      "options": [
+        {
+          "text": "Briefpost",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl Briefpost erwähnt wird, liegt der Fokus im Online-Handel auf dem Versand per <strong>E-Mail</strong>."
         },
         {
-          "text": "Per Fax",
+          "text": "E-Mail",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Im Beitrag wird erwähnt, dass Online-Shops Rechnungen oft per <strong>E-Mail</strong> verschicken."
+        },
+        {
+          "text": "SMS",
           "is_correct": false,
-          "feedback": "❌ Falsch. Es wird explizit erwähnt, dass der Online-Shop Rechnungen per E-Mail verschickt."
+          "feedback": "❌ Falsch. SMS wird im Beitrag nicht als Versandweg für Rechnungen im Online-Handel thematisiert. Es geht um <strong>E-Mails</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was riet die Rechtsexpertin Gabriela Baumgartner bezüglich wichtiger E-Mails?</p>",
+      "options": [
+        {
+          "text": "Wichtige E-Mails immer per Post verschicken.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sie riet nicht, E-Mails per Post zu verschicken, sondern bei wichtigen E-Mails <strong>nachzufragen</strong>, ob sie angekommen sind."
+        },
+        {
+          "text": "Bei wichtigen E-Mails den Empfang bestätigen lassen oder nachfragen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Gabriela Baumgartner riet, bei wichtigen E-Mails <strong>nachzufragen oder sich bestätigen zu lassen</strong>, ob sie angekommen sind."
+        },
+        {
+          "text": "Wichtige E-Mails immer mit Lesebestätigung versenden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Lesebestätigung reicht laut Bundesgericht <strong>nicht als Beweis</strong> für den Empfang."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer trägt laut Rechtsexpertin das Risiko, wenn eine Rechnung per E-Mail nicht ankommt?</p>",
+      "options": [
+        {
+          "text": "Der Kunde",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Laut Rechtsexpertin trägt nicht der Kunde, sondern der <strong>Absender</strong> das Risiko."
+        },
+        {
+          "text": "Der Online-Anbieter (Absender)",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Rechtsexpertin erklärte, dass der <strong>Online-Anbieter als Absender</strong> das Risiko trägt, wenn eine E-Mail nicht ankommt."
+        },
+        {
+          "text": "Die Post",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Post ist für den Versand von E-Mails nicht verantwortlich. Das Risiko liegt beim <strong>Online-Anbieter</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum sind Mahngebühren im Fall von Herrn Mauchli rechtlich nicht haltbar?</p>",
+      "options": [
+        {
+          "text": "Weil er die Ware bereits bezahlt hatte.",
+          "is_correct": false,
+          "feedback": "❌ Nicht direkt. Es geht primär darum, dass er <strong>keine Rechnung erhalten</strong> hat, nicht darum, ob er schon bezahlt hatte.  Die Mahngebühren sind unrechtmässig, weil der Shop nicht beweisen kann, dass die Rechnung ankam."
+        },
+        {
+          "text": "Weil der Online-Shop nicht beweisen kann, dass die Rechnung bei ihm angekommen ist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Mahngebühren sind nicht haltbar, weil der <strong>Online-Shop beweisen müsste</strong>, dass Herr Mauchli die Rechnung erhalten hat, was bei E-Mails schwierig ist."
+        },
+        {
+          "text": "Weil Mahngebühren im Online-Handel generell unzulässig sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mahngebühren können zulässig sein, aber nur wenn der Kunde <strong>nachweislich eine Rechnung erhalten</strong> hat und in Verzug geraten ist."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet es, wenn im Beitrag gesagt wird, eine E-Mail könne im 'Datanirvana' landen?</p>",
+      "options": [
+        {
+          "text": "Die E-Mail wird automatisch gelöscht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 'Datanirvana' bedeutet nicht, dass die E-Mail gelöscht wird, sondern dass sie <strong>nicht beim Empfänger ankommt</strong> und im digitalen Raum 'verschwindet'."
+        },
+        {
+          "text": "Die E-Mail geht verloren und erreicht den Empfänger nicht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! 'Datanirvana' ist eine bildhafte Beschreibung dafür, dass eine E-Mail <strong>nicht zugestellt werden kann</strong> und im digitalen Raum 'verschwindet'."
+        },
+        {
+          "text": "Die E-Mail wird vom Spamfilter aussortiert.",
+          "is_correct": false,
+          "feedback": "❌ Nicht unbedingt. Der Spamfilter kann eine Ursache sein, aber 'Datanirvana' ist ein allgemeinerer Begriff für das <strong>Verlorengehen von Daten im digitalen Raum</strong>, unabhängig von der spezifischen Ursache."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Inwiefern ist der Vergleich zwischen E-Mail und Briefpost im Kontext des Beitrags relevant?</p>",
+      "options": [
+        {
+          "text": "Er zeigt, dass für beide Versandarten der Empfänger das Risiko trägt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vergleich zeigt, dass für beide Versandarten der <strong>Absender das Risiko trägt</strong>, wenn die Sendung nicht ankommt."
+        },
+        {
+          "text": "Er verdeutlicht, dass bei beiden Versandarten der Absender das Risiko des Zugangs trägt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Vergleich macht deutlich, dass sowohl bei E-Mail als auch bei Briefpost der <strong>Absender das Risiko trägt</strong>, dass die Nachricht den Empfänger erreicht."
+        },
+        {
+          "text": "Er illustriert, dass E-Mails zuverlässiger sind als Briefpost.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag deutet eher darauf hin, dass E-Mails in Bezug auf den <strong>sicheren Zugang problematischer</strong> sein können als Briefpost, da der Zugang schwerer nachweisbar ist."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Schlussfolgerung zieht das Bundesgericht bezüglich der Verantwortung bei E-Mail-Kommunikation?</p>",
+      "options": [
+        {
+          "text": "Der Absender muss sich aktiv vergewissern, dass wichtige E-Mails angekommen sind.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Bundesgericht schlussfolgert, dass der <strong>Absender aktiv nachfragen und kontrollieren muss</strong>, ob wichtige E-Mails angekommen sind."
+        },
+        {
+          "text": "Der Empfänger ist verantwortlich, den Eingang wichtiger E-Mails zu bestätigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Bundesgericht macht den <strong>Absender verantwortlich</strong>, sich zu vergewissern, dass die E-Mail ankommt, nicht den Empfänger."
+        },
+        {
+          "text": "Eine Lesebestätigung per E-Mail ist ein ausreichender Beweis für den Zugang.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Bundesgericht hat entschieden, dass eine <strong>Lesebestätigung eben nicht als ausreichender Beweis</strong> für den Zugang gilt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist die Kernaussage des Beitrags bezüglich Mahngebühren im Online-Handel?</p>",
+      "options": [
+        {
+          "text": "Mahngebühren sind im Online-Handel immer unzulässig.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mahngebühren können zulässig sein, aber nur unter bestimmten Bedingungen. Die Kernaussage ist, dass der <strong>Zugang der Rechnung nachweisbar sein muss</strong>."
+        },
+        {
+          "text": "Online-Händler müssen den Zugang der Rechnung beim Kunden beweisen, bevor sie Mahngebühren erheben dürfen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Kernaussage ist, dass <strong>Online-Händler den Zugang der Rechnung beweisen müssen</strong>, bevor sie Mahngebühren verlangen können."
+        },
+        {
+          "text": "Kunden müssen Mahngebühren immer bezahlen, auch wenn sie keine Rechnung erhalten haben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kunden müssen Mahngebühren nicht bezahlen, wenn der <strong>Online-Händler den Zugang der Rechnung nicht beweisen kann</strong>."
         }
       ]
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>Herr Mauchli hat die Mahngebühren bezahlt.</p>",
+      "question": "<p>Herr Mauchli erhielt zuerst eine Rechnung und dann Mahngebühren.</p>",
       "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Herr Mauchli hat die Mahngebühren reklamiert und die Rechtsexpertin bestätigt, dass er sie nicht bezahlen muss.",
-      "feedback_incorrect": "❌ Richtig. Herr Mauchli hat die Mahngebühren reklamiert und die Rechtsexpertin bestätigt, dass er sie nicht bezahlen muss."
+      "feedback_correct": "✅ Richtig! Herr Mauchli erhielt <strong>keine Rechnung</strong>, sondern direkt <strong>Mahngebühren</strong>.",
+      "feedback_incorrect": "❌ Falsch. Herr Mauchli erhielt <strong>keine Rechnung</strong>, sondern direkt <strong>Mahngebühren</strong>."
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>Eine Lesebestätigung reicht als Beweis für den Empfang einer E-Mail vor Gericht.</p>",
-      "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Das Bundesgericht hat entschieden, dass eine Lesebestätigung nicht als Beweis ausreicht.",
-      "feedback_incorrect": "❌ Richtig. Das Bundesgericht hat entschieden, dass eine Lesebestätigung nicht als Beweis ausreicht."
-    },
-    {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Wer trägt das Risiko, wenn eine E-Mail nicht ankommt?</p>",
-      "options": [
-        {
-          "text": "Der Empfänger",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Absender trägt das Risiko, dass die E-Mail nicht ankommt, wie im Beitrag erklärt wird."
-        },
-        {
-          "text": "Der Absender",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "Der E-Mail-Provider",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Absender trägt das Risiko, dass die E-Mail nicht ankommt, wie im Beitrag erklärt wird."
-        },
-        {
-          "text": "Niemand",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Absender trägt das Risiko, dass die E-Mail nicht ankommt, wie im Beitrag erklärt wird."
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Was sollte man tun, wenn man wichtige Dokumente per E-Mail verschickt?</p>",
-      "options": [
-        {
-          "text": "Abwarten",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Dies ist die Empfehlung der Rechtsexpertin, um sicherzustellen, dass wichtige E-Mails angekommen sind."
-        },
-        {
-          "text": "Eine Lesebestätigung anfordern",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Dies ist die Empfehlung der Rechtsexpertin, um sicherzustellen, dass wichtige E-Mails angekommen sind."
-        },
-        {
-          "text": "Nachfragen oder sich den Empfang bestätigen lassen",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "Den E-Mail-Provider kontaktieren",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Dies ist die Empfehlung der Rechtsexpertin, um sicherzustellen, dass wichtige E-Mails angekommen sind."
-        }
-      ]
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Der Online-Shop hat einen guten Kundenservice bewiesen.</p>",
-      "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Der Online-Shop hat direkt Mahngebühren verschickt, ohne die Reklamation des Kunden zu prüfen, was kein guter Kundenservice ist.",
-      "feedback_incorrect": "❌ Richtig. Der Online-Shop hat direkt Mahngebühren verschickt, ohne die Reklamation des Kunden zu prüfen, was kein guter Kundenservice ist."
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Mahngebühren sind immer gerechtfertigt.</p>",
-      "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Mahngebühren sind nur gerechtfertigt, wenn der Kunde die Rechnung auch erhalten hat.",
-      "feedback_incorrect": "❌ Richtig. Mahngebühren sind nur gerechtfertigt, wenn der Kunde die Rechnung auch erhalten hat."
-    },
-    {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>In welchem Monat hat Herr Mauchli die Batterien bestellt?</p>",
-      "options": [
-        {
-          "text": "Januar",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass die Bestellung im Dezember stattfand."
-        },
-        {
-          "text": "Februar",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass die Bestellung im Dezember stattfand."
-        },
-        {
-          "text": "März",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass die Bestellung im Dezember stattfand."
-        },
-        {
-          "text": "Dezember",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Welcher Sender hat über den Fall berichtet?</p>",
-      "options": [
-        {
-          "text": "Kassensturz",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Beitrag stammt von der Sendung \"Espresso\"."
-        },
-        {
-          "text": "Espresso",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "Tagesschau",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Beitrag stammt von der Sendung \"Espresso\"."
-        },
-        {
-          "text": "10vor10",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Beitrag stammt von der Sendung \"Espresso\"."
-        }
-      ]
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Die Lieferun der Batterien hat geklappt.</p>",
+      "question": "<p>Die Rechtsexpertin heisst Gabriela Baumgartner.</p>",
       "correct_answer": true,
-      "feedback_correct": "✅ Richtig! Es wird erwähnt, dass die Lieferung der Batterien tipptopp geklappt hat.",
-      "feedback_incorrect": "❌ Falsch. Es wird erwähnt, dass die Lieferung der Batterien tipptopp geklappt hat."
+      "feedback_correct": "✅ Richtig! Die Rechtsexpertin im Beitrag wird als <strong>Gabriela Baumgartner</strong> vorgestellt.",
+      "feedback_incorrect": "❌ Falsch. Die Rechtsexpertin im Beitrag heisst <strong>Gabriela Baumgartner</strong>."
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>Herr Mauchli hat zuerst eine Rechnung und dann eine Mahnung erhalten.</p>",
+      "question": "<p>Im Beitrag wird empfohlen, Kündigungen per E-Mail zu verschicken.</p>",
       "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Herr Mauchli hat keine Rechnung, sondern direkt eine Mahnung erhalten.",
-      "feedback_incorrect": "❌ Richtig. Herr Mauchli hat keine Rechnung, sondern direkt eine Mahnung erhalten."
+      "feedback_correct": "✅ Richtig! Im Beitrag wird im Zusammenhang mit wichtigen Dokumenten wie Kündigungen geraten, diese <strong>eingeschrieben per Post</strong> zu verschicken, nicht per E-Mail.",
+      "feedback_incorrect": "❌ Falsch. Im Beitrag wird geraten, wichtige Dokumente wie Kündigungen <strong>eingeschrieben per Post</strong> zu verschicken."
     },
     {
       "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Der Online-Shop muss beweisen können, dass Herr Mauchli die Rechnung erhalten hat.</p>",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wenn ein Online-Shop Rechnungen per E-Mail verschickt, übernimmt er automatisch die Verantwortung für deren Zustellung.</p>",
       "correct_answer": true,
-      "feedback_correct": "✅ Richtig! Der Online-Shop muss den Empfang der Rechnung beweisen können, um Mahngebühren rechtfertigen zu können.",
-      "feedback_incorrect": "❌ Falsch. Der Online-Shop muss den Empfang der Rechnung beweisen können, um Mahngebühren rechtfertigen zu können."
+      "feedback_correct": "✅ Richtig! Durch den Versand per E-Mail <strong>übernimmt der Online-Shop die Verantwortung</strong>, sicherzustellen, dass die Rechnung den Kunden erreicht.",
+      "feedback_incorrect": "❌ Falsch. Der Online-Shop <strong>übernimmt die Verantwortung</strong> für die Zustellung, indem er E-Mails als Versandweg wählt."
     },
     {
       "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Herr Mauchli wohnt in Zürich.</p>",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine Lesebestätigung für eine E-Mail ist ein gerichtsfester Beweis, dass die E-Mail tatsächlich gelesen wurde.</p>",
       "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Herr Mauchli wohnt in St. Gallen.",
-      "feedback_incorrect": "❌ Richtig. Herr Mauchli wohnt in St. Gallen."
+      "feedback_correct": "✅ Richtig! Gemäss Bundesgericht ist eine <strong>Lesebestätigung kein gerichtsfester Beweis</strong> dafür, dass eine E-Mail tatsächlich angekommen und gelesen wurde.",
+      "feedback_incorrect": "❌ Falsch. Eine Lesebestätigung ist <strong>kein gerichtsfester Beweis</strong> für den tatsächlichen Empfang und das Lesen einer E-Mail."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Der Beitrag impliziert, dass es für Online-Händler risikofreier wäre, Rechnungen per Briefpost statt per E-Mail zu versenden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Beitrag impliziert, dass es für Online-Händler <strong>risikoreicher ist, Rechnungen per E-Mail zu versenden</strong>, da der Zugang schwerer zu beweisen ist als bei Briefpost (z.B. Einschreiben).",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag deutet an, dass der Versand per <strong>E-Mail risikoreicher</strong> für Online-Händler sein kann, da der Zugang schwerer nachzuweisen ist."
     }
   ]
 }

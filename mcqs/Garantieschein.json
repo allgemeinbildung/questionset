@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Garantieschein",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2024/02/Espresso-radio-1bcf6389-3035-4e64-8aed-82a4c519a800.mp3",
+    "source": "https://www.srf.ch/sendungen/kassensturz-espresso/rechtsfragen/kaufrecht/garantie-garantieschein-verloren-habe-ich-jetzt-keine-garantie-mehr"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange dauert die gesetzliche Garantiezeit in der Schweiz für die meisten gekauften Produkte?</p>",
+      "options": [
+        {
+          "text": "Ein Jahr",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die gesetzliche Garantiezeit beträgt in der Schweiz in der Regel <strong>zwei Jahre</strong>."
+        },
+        {
+          "text": "Zwei Jahre",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die gesetzliche Garantiezeit in der Schweiz beträgt in der Regel <strong>zwei Jahre</strong>."
+        },
+        {
+          "text": "Fünf Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Fünf Jahre ist länger als die übliche gesetzliche Garantiezeit von <strong>zwei Jahren</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Dokument ist *kein* direkter Beweis für einen Kauf im Sinne der Garantie?</p>",
+      "options": [
+        {
+          "text": "Eine Quittung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine <strong>Quittung</strong> ist ein gültiger Beweis für einen Kauf."
+        },
+        {
+          "text": "Ein Garantieschein",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein <strong>Garantieschein</strong> wird oft als Nachweis angesehen, obwohl er rechtlich nicht zwingend notwendig ist."
+        },
+        {
+          "text": "Die Originalverpackung ohne Kaufbeleg",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Originalverpackung alleine</strong> ist kein direkter Beweis für den Kauf ohne einen separaten Beleg wie eine Quittung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie wird die gesetzliche Garantie im schweizerischen Obligationenrecht genannt?</p>",
+      "options": [
+        {
+          "text": "Produktgarantie",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Begriff 'Produktgarantie' ist keine offizielle Bezeichnung im Gesetz."
+        },
+        {
+          "text": "Gewährleistung",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Im Obligationenrecht wird die gesetzliche Garantie als <strong>Gewährleistung</strong> bezeichnet."
+        },
+        {
+          "text": "Haftpflicht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Haftpflicht</strong> bezieht sich auf die Verantwortung für Schäden, ist aber nicht der Begriff für die Garantie im OR."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was kann als zusätzlicher Kaufbeleg dienen, wenn keine Quittung vorhanden ist?</p>",
+      "options": [
+        {
+          "text": "Ein Foto des Produkts",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein <strong>Foto des Produkts</strong> allein beweist keinen Kauf."
+        },
+        {
+          "text": "Eine Belastung auf der Kreditkartenrechnung",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Eine <strong>Belastung auf der Kreditkartenrechnung</strong> kann als starkes Indiz für einen Kauf dienen."
+        },
+        {
+          "text": "Die Aussage eines Freundes, der beim Kauf dabei war",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Aussage eines Freundes</strong> ist kein objektiver Kaufbeleg."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo können Online-Käufe oft nachverfolgt werden, falls der Kaufbeleg verloren geht?</p>",
+      "options": [
+        {
+          "text": "Im E-Mail-Postfach des Verkäufers",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Verkäufer speichert E-Mails</strong>, aber das ist für den Kunden nicht direkt zugänglich."
+        },
+        {
+          "text": "Im Kundenkonto des Online-Shops",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Im <strong>Kundenkonto des Online-Shops</strong> sind Käufe oft gespeichert und nachverfolgbar."
+        },
+        {
+          "text": "Auf der Webseite der Post",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Post verfolgt Sendungen</strong>, aber nicht die Kaufhistorie."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es vorteilhaft, digitale Belege von Käufen zu haben?</p>",
+      "options": [
+        {
+          "text": "Digitale Belege sind gesetzlich stärker anerkannt als Papierbelege.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Digitale und Papierbelege</strong> sind rechtlich gleichwertig."
+        },
+        {
+          "text": "Digitale Belege können helfen, Zettelwirtschaft zu vermeiden und sind einfacher zu archivieren.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Digitale Belege</strong> helfen gegen Zettelwirtschaft und sind <strong>einfacher zu archivieren</strong> und wiederzufinden."
+        },
+        {
+          "text": "Nur digitale Belege garantieren den Garantieanspruch.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sowohl <strong>digitale als auch Papierbelege</strong> können den Garantieanspruch belegen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet 'Kulanz' eines Geschäfts im Zusammenhang mit Garantie?</p>",
+      "options": [
+        {
+          "text": "Die gesetzliche Pflicht des Geschäfts, die Garantie auch ohne Beweis zu gewähren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Kulanz</strong> geht über die gesetzliche Pflicht hinaus."
+        },
+        {
+          "text": "Ein freiwilliges Entgegenkommen des Geschäfts, auch wenn kein eindeutiger Kaufbeleg vorliegt oder die Garantiezeit abgelaufen ist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Kulanz</strong> ist ein <strong>freiwilliges Entgegenkommen</strong> des Geschäfts, oft ausserhalb der eigentlichen Garantiebedingungen."
+        },
+        {
+          "text": "Eine spezielle Form der Garantie, die nur für Stammkunden gilt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Kulanz</strong> ist nicht auf Stammkunden beschränkt, sondern eine allgemeine Möglichkeit des Entgegenkommens."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es ratsam, beim Bezahlen mit Kundenkarten (z.B. Cumulus, Supercard) diese auch zu nutzen, wenn es um Garantieansprüche geht?</p>",
+      "options": [
+        {
+          "text": "Weil man dadurch automatisch eine längere Garantiezeit erhält.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Kundenkarten verlängern nicht automatisch die Garantiezeit</strong>."
+        },
+        {
+          "text": "Weil der Kauf unter Umständen im Kundenkonto registriert wird und als Kaufnachweis dienen kann.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der <strong>Kauf kann im Kundenkonto registriert</strong> sein und als <strong>Kaufnachweis</strong> dienen, falls die Quittung fehlt."
+        },
+        {
+          "text": "Weil man ohne Kundenkarte keine Garantie auf Produkte erhält, die in diesen Geschäften gekauft wurden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Garantie ist nicht von der Nutzung einer Kundenkarte abhängig</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Hauptunterschied zwischen einem Garantieschein und der gesetzlichen Gewährleistung (Garantie)?</p>",
+      "options": [
+        {
+          "text": "Der Garantieschein ist gesetzlich vorgeschrieben, die Gewährleistung ist freiwillig.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist genau umgekehrt: Die <strong>Gewährleistung ist gesetzlich vorgeschrieben</strong>, der <strong>Garantieschein ist oft zusätzlich, aber nicht zwingend notwendig</strong>."
+        },
+        {
+          "text": "Die Gewährleistung ist gesetzlich verankert und gilt automatisch, während der Garantieschein oft ein zusätzliches, freiwilliges Versprechen des Herstellers oder Verkäufers ist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Gewährleistung ist gesetzlich</strong> und <strong>automatisch</strong>, der <strong>Garantieschein ist oft eine zusätzliche, freiwillige Leistung</strong>."
+        },
+        {
+          "text": "Es gibt keinen Unterschied, beide Begriffe beschreiben dasselbe.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt einen Unterschied: Die <strong>Gewährleistung ist gesetzlich</strong>, der <strong>Garantieschein ist eine zusätzliche Vereinbarung</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>In welcher Situation ist es am wahrscheinlichsten, dass ein Geschäft 'Kulanz' zeigt?</p>",
+      "options": [
+        {
+          "text": "Wenn der Kunde den Garantieschein verloren hat, aber einen anderen Kaufbeleg vorweisen kann.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mit einem <strong>anderen Kaufbeleg</strong> besteht ein klarer Garantieanspruch, Kulanz ist hier weniger relevant."
+        },
+        {
+          "text": "Wenn kein Kaufbeleg mehr vorhanden ist, aber der Kunde regelmässig in diesem Geschäft einkauft und bekannt ist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! In solchen Fällen, besonders bei <strong>bekannten Kunden ohne Beleg</strong>, ist die Wahrscheinlichkeit für <strong>Kulanz</strong> höher."
+        },
+        {
+          "text": "Wenn das Produkt älter als zwei Jahre ist und somit ausserhalb der gesetzlichen Garantiezeit liegt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ausserhalb der <strong>gesetzlichen Garantiezeit</strong> ist <strong>Kulanz</strong> unwahrscheinlicher, es sei denn, es gibt besondere Umstände."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Garantieschein ist zwingend notwendig, um in der Schweiz Garantieansprüche geltend zu machen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Ein Garantieschein ist <strong>nicht zwingend notwendig</strong>. Die gesetzliche Gewährleistung besteht auch ohne Garantieschein.",
+      "feedback_incorrect": "❌ Falsch. Ein Garantieschein ist <strong>nicht zwingend erforderlich</strong>. Es gibt auch ohne Garantieschein eine gesetzliche Gewährleistung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine Quittung vom Geschäft reicht als Beweis für den Kauf eines Produktes im Rahmen der Garantie aus.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Eine <strong>Quittung</strong> ist ein <strong>gültiger Beweis</strong> für den Kauf und ausreichend, um Garantieansprüche geltend zu machen.",
+      "feedback_incorrect": "❌ Falsch. Eine <strong>Quittung</strong> ist tatsächlich ein <strong>ausreichender Beweis</strong> für den Kauf im Garantie-Fall."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die gesetzliche Garantiezeit in der Schweiz beträgt standardmässig vier Jahre.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Standard-Garantiezeit beträgt <strong>zwei Jahre</strong>, nicht vier.",
+      "feedback_incorrect": "❌ Falsch. Die übliche gesetzliche Garantiezeit in der Schweiz ist <strong>kürzer</strong>, nämlich zwei Jahre."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Auch wenn man den originalen Kaufbeleg verloren hat, gibt es möglicherweise andere Wege, den Kauf nachzuweisen und Garantieansprüche geltend zu machen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Es gibt <strong>andere Wege</strong> wie Kontoauszüge, Kundenkonten oder Kulanz, um den Kauf zu beweisen.",
+      "feedback_incorrect": "❌ Falsch. Es gibt tatsächlich <strong>Alternativen zum Kaufbeleg</strong>, um den Kauf nachzuweisen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein Foto eines Papierbelegs ist rechtlich nicht als gültiger Kaufnachweis anerkannt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! <strong>Fotos oder digitale Kopien von Belegen</strong> sind in der Regel <strong>gültig</strong>, da es keine Formvorschriften gibt.",
+      "feedback_incorrect": "❌ Falsch. <strong>Digitale Belege</strong>, wie Fotos, sind <strong>rechtlich anerkannt</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wenn ein Geschäft 'Kulanz' zeigt, handelt es sich um eine rechtliche Pflicht und nicht um ein freiwilliges Entgegenkommen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! <strong>Kulanz ist freiwillig</strong> und keine rechtliche Pflicht. Geschäfte zeigen Kulanz aus Goodwill.",
+      "feedback_incorrect": "❌ Falsch. <strong>Kulanz ist ein freiwilliges Entgegenkommen</strong> und keine rechtliche Verpflichtung."
+    }
+  ]
+}

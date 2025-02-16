@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Wem nützt Bargeld eigentlich noch",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/SRF-4-News/2024/12/BEITRAG-Bargeld.mp3",
+    "source": "https://www.srf.ch/audio/srf-4-news/wem-nuetzt-bargeld-eigentlich-noch?uuid=a621e42b-70ef-4ec0-ac45-957c95f358d8"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Mit welchem Zahlungsmittel wurde im Jahr 2017 im Alltag in der Schweiz noch häufiger bezahlt?</p>",
+      "options": [
+        {
+          "text": "Bargeld",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Im Jahr 2017 wurde in der Schweiz noch zu <strong>zwei Drittel</strong> mit <strong>Bargeld</strong> bezahlt."
+        },
+        {
+          "text": "Debitkarte",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Jahr 2017 war <strong>Bargeld</strong> noch das häufigere Zahlungsmittel im Vergleich zur Debitkarte."
+        },
+        {
+          "text": "Kreditkarte",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Jahr 2017 war <strong>Bargeld</strong> noch das häufigere Zahlungsmittel im Vergleich zur Kreditkarte."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Aussage beschreibt die aktuelle Nutzung von Bargeld im Alltag in der Schweiz am besten?</p>",
+      "options": [
+        {
+          "text": "Bargeld wird im Alltag häufiger genutzt als Kartenzahlung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Aktuell wird <strong>Kartenzahlung</strong> häufiger genutzt als Bargeld."
+        },
+        {
+          "text": "Bargeld wird im Alltag ungefähr gleich häufig genutzt wie Kartenzahlung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Kartenzahlung</strong> ist aktuell häufiger als Bargeld."
+        },
+        {
+          "text": "Bargeld wird im Alltag weniger häufig genutzt als Kartenzahlung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Heute wird nur noch rund <strong>ein Drittel</strong> der Alltagszahlungen mit <strong>Bargeld</strong> getätigt, während <strong>Kartenzahlungen</strong> zugenommen haben."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Kosten entstehen Bäckereien durch die Akzeptanz von Bargeld, laut dem Audiobeitrag?</p>",
+      "options": [
+        {
+          "text": "Kosten für Personal und Zeitaufwand beim Zählen und Wechseln von Bargeld.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Für Bäckereien entstehen <strong>Kosten</strong> durch den <strong>Zeitaufwand</strong> und das <strong>Personal</strong>, das mit dem <strong>Zählen</strong> und <strong>Wechseln</strong> von Bargeld beschäftigt ist."
+        },
+        {
+          "text": "Kosten für die Anschaffung von Kartenlesegeräten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Kartenlesegeräte</strong> verursachen Kosten bei <strong>Kartenzahlung</strong>, nicht bei Bargeld."
+        },
+        {
+          "text": "Kosten für die Lagerung von verderblichen Waren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Lagerung verderblicher Waren</strong> ist unabhängig von der Zahlungsart."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Aussage zu den Kosten von Bargeldautomaten ist korrekt?</p>",
+      "options": [
+        {
+          "text": "Ein Bargeldautomat kostet in der Anschaffung etwa 90'000 Franken.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Anschaffungskosten</strong> für einen Bargeldautomaten betragen etwa <strong>90'000 Franken</strong>."
+        },
+        {
+          "text": "Ein Bargeldautomat kostet jährlich etwa 20'000 Franken im Betrieb.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die jährlichen <strong>Betriebskosten</strong> für einen Bargeldautomaten liegen bei etwa <strong>40'000 Franken</strong>."
+        },
+        {
+          "text": "Ein Bargeldautomat verursacht keine zusätzlichen Betriebskosten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bargeldautomaten verursachen jährliche <strong>Betriebskosten</strong>, beispielsweise für das <strong>Befüllen</strong> und die <strong>Versicherung</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchen Situationen steigt die Nachfrage nach Bargeld typischerweise?</p>",
+      "options": [
+        {
+          "text": "In Zeiten wirtschaftlicher Stabilität.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. In Zeiten wirtschaftlicher <strong>Stabilität</strong> ist die Nachfrage nach Bargeld tendenziell <strong>geringer</strong>."
+        },
+        {
+          "text": "In Krisenzeiten wie Finanzkrisen oder geopolitischen Unsicherheiten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! In <strong>Krisenzeiten</strong> wie <strong>Finanzkrisen</strong> oder bei <strong>geopolitischen Unsicherheiten</strong> steigt die Nachfrage nach Bargeld als <strong>Wertaufbewahrungsmittel</strong>."
+        },
+        {
+          "text": "Bei sinkenden Inflationsraten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Sinkende Inflationsraten</strong> haben keinen direkten Zusammenhang mit einer erhöhten Nachfrage nach Bargeld."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum bevorzugen Unternehmen tendenziell Kartenzahlungen gegenüber Bargeld?</p>",
+      "options": [
+        {
+          "text": "Weil Kartenzahlungen in der Regel schneller abgewickelt werden können.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Geschwindigkeit</strong> der Abwicklung ist nicht der Hauptgrund. Unternehmen bevorzugen Kartenzahlungen vor allem wegen der <strong>Kosteneinsparungen</strong> beim <strong>Bargeldhandling</strong>."
+        },
+        {
+          "text": "Weil Bargeld mehr Aufwand und Kosten für Unternehmen verursacht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Bargeld</strong> verursacht für Unternehmen <strong>Aufwand</strong> und <strong>Kosten</strong> durch <strong>Zählen</strong>, <strong>Wechseln</strong> und <strong>Transport</strong>, was bei Kartenzahlungen entfällt."
+        },
+        {
+          "text": "Weil Kunden Kartenzahlungen generell ablehnen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Viele <strong>Kunden</strong> nutzen <strong>Kartenzahlungen</strong> gerne und lehnen sie nicht generell ab."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen Vorteil bietet Bargeld im Vergleich zu digitalen Zahlungsmitteln?</p>",
+      "options": [
+        {
+          "text": "Bargeldtransaktionen sind einfacher nachzuverfolgen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Bargeldtransaktionen</strong> sind gerade <strong>nicht nachverfolgbar</strong>, was ein Vorteil hinsichtlich <strong>Privatsphäre</strong> sein kann."
+        },
+        {
+          "text": "Bargeld funktioniert auch bei Ausfall digitaler Systeme.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein wesentlicher Vorteil von <strong>Bargeld</strong> ist, dass es <strong>unabhängig von digitalen Systemen</strong> funktioniert und somit auch bei <strong>Systemausfällen</strong> als Zahlungsmittel dient."
+        },
+        {
+          "text": "Bargeld ist in der Handhabung hygienischer als digitale Zahlungsmittel.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Hygiene</strong> ist kein primärer Vorteil von Bargeld im Vergleich zu digitalen Zahlungsmitteln."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum wird Bargeld in Krisenzeiten zu einem beliebten Wertaufbewahrungsmittel?</p>",
+      "options": [
+        {
+          "text": "Weil der Wert von Bargeld in Krisenzeiten tendenziell steigt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Wert von Bargeld</strong> steigt in Krisenzeiten nicht direkt, aber es wird als <strong>sicherer Hafen</strong> wahrgenommen."
+        },
+        {
+          "text": "Weil Bargeld als sicherer und physisch greifbarer Wertspeicher wahrgenommen wird.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! In Krisenzeiten wird <strong>Bargeld</strong> als <strong>sicherer</strong> und <strong>physisch greifbarer Wertspeicher</strong> bevorzugt, da es <strong>unabhängig von Banken</strong> und <strong>digitalen Systemen</strong> ist."
+        },
+        {
+          "text": "Weil Bargeld in Krisenzeiten höhere Zinsen abwirft.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Bargeld</strong> wirft <strong>keine Zinsen</strong> ab, weder in Krisenzeiten noch in normalen Zeiten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet die Aussage, dass Bargeldzahlungen 'nicht nachverfolgt werden können' im Kontext des Audiobeitrags?</p>",
+      "options": [
+        {
+          "text": "Dass Bargeldtransaktionen immer illegal sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>fehlende Nachverfolgbarkeit</strong> von Bargeld bedeutet <strong>nicht</strong>, dass Bargeldtransaktionen <strong>illegal</strong> sind."
+        },
+        {
+          "text": "Dass Bargeldzahlungen mehr Privatsphäre ermöglichen, da keine digitalen Spuren hinterlassen werden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>fehlende Nachverfolgbarkeit</strong> von Bargeld bedeutet, dass <strong>Bargeldzahlungen mehr Privatsphäre</strong> ermöglichen, da keine <strong>digitalen Spuren</strong> entstehen."
+        },
+        {
+          "text": "Dass Bargeldzahlungen immer zu Steuerhinterziehung führen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>fehlende Nachverfolgbarkeit</strong> von Bargeld bedeutet <strong>nicht</strong>, dass Bargeldzahlungen zwangsläufig zu <strong>Steuerhinterziehung</strong> führen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Für wen ist Bargeld laut dem Audiobeitrag besonders nützlich?</p>",
+      "options": [
+        {
+          "text": "Ausschliesslich für ältere Menschen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bargeld ist <strong>nicht ausschliesslich</strong> für ältere Menschen nützlich, sondern auch für andere Gruppen."
+        },
+        {
+          "text": "Für Personen, die digital nicht versiert sind und für Kinder.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Bargeld</strong> ist besonders nützlich für <strong>Personen, die digital nicht versiert sind</strong>, sowie für <strong>Kinder</strong>, die möglicherweise keinen Zugang zu digitalen Zahlungsmitteln haben."
+        },
+        {
+          "text": "Nur für Touristen in der Schweiz.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bargeld ist <strong>nicht nur</strong> für Touristen nützlich, sondern auch für <strong>Einheimische</strong>."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Schweizerische Nationalbank plant die Entwicklung neuer Banknoten.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die <strong>Schweizerische Nationalbank</strong> arbeitet an der Entwicklung <strong>neuer Banknoten</strong>.",
+      "feedback_incorrect": "❌ Falsch. Es ist korrekt, dass die Schweizerische Nationalbank die Entwicklung neuer Banknoten plant."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine Volksinitiative in der Schweiz fordert, Bargeld aus der Verfassung zu streichen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Eine Volksinitiative fordert das <strong>Gegenteil</strong>, nämlich <strong>Bargeld in die Verfassung aufzunehmen</strong>.",
+      "feedback_incorrect": "❌ Falsch. Eine Volksinitiative fordert, Bargeld in die Verfassung aufzunehmen, nicht es zu streichen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Bundesrat ist gegen die Aufnahme von Bargeld in die Verfassung.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der <strong>Bundesrat</strong> ist <strong>für</strong> die Aufnahme von Bargeld in die Verfassung.",
+      "feedback_incorrect": "❌ Falsch. Der Bundesrat befürwortet die Aufnahme von Bargeld in die Verfassung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die zunehmende Nutzung von Kartenzahlungen führt zu höheren Kosten für Banken.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die zunehmende Nutzung von <strong>Kartenzahlungen</strong> führt tendenziell zu <strong>geringeren Kosten für Banken</strong> im Bereich des Bargeldhandlings, auch wenn andere Kosten im digitalen Zahlungsverkehr entstehen.",
+      "feedback_incorrect": "❌ Falsch. Die zunehmende Nutzung von Kartenzahlungen reduziert eher die Kosten für Banken im Zusammenhang mit Bargeld."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Bargeld dient in Krisenzeiten hauptsächlich als Spekulationsobjekt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Bargeld dient in Krisenzeiten hauptsächlich als <strong>sicherer Wertspeicher</strong> und <strong>Wertaufbewahrungsmittel</strong>, nicht primär als Spekulationsobjekt.",
+      "feedback_incorrect": "❌ Falsch. Bargeld wird in Krisenzeiten eher als sicherer Hafen und Wertspeicher genutzt, nicht primär für Spekulationen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine Gesellschaft ohne Bargeld würde die Anonymität von Transaktionen vollständig aufheben.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Eine Gesellschaft <strong>ohne Bargeld</strong> würde die <strong>Anonymität von Transaktionen</strong> weitgehend <strong>aufheben</strong>, da alle Zahlungen digital nachverfolgbar wären.",
+      "feedback_incorrect": "❌ Falsch. In einer bargeldlosen Gesellschaft wäre die Anonymität von Transaktionen tatsächlich stark eingeschränkt."
+    }
+  ]
+}

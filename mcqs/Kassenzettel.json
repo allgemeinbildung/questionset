@@ -1,274 +1,279 @@
 {
-  "title": "Kassenzettel",
+  "title": "Verständnisfragen Kassenzettel",
+  "headerImage": "img1.jpg",
   "media": {
-    "type": "",
-    "url": "",
-    "source": ""
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2019/11/Espresso_28-11-2019-814.mp3",
+    "source": "https://www.srf.ch/sendungen/kassensturz-espresso/rechtsfragen/kaufrecht/kassenzettel-bin-ich-verpflichtet-eine-quittung-auf-mir-zu-tragen"
   },
   "questions": [
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Was ist neu am Self-Checkout bei Coop?</p>",
+      "question": "<p>Was ist ein Schweizer Geschäft oder Restaurant rechtlich verpflichtet, dem Kunden zu geben?</p>",
       "options": [
         {
-          "text": "Man kann bargeldlos bezahlen.",
+          "text": "Nur auf Anfrage eine Quittung.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Coop bietet die Option, den Ausdruck des Kassenzettels zu unterdrücken."
+          "feedback": "❌ Falsch. Geschäfte und Restaurants in der Schweiz sind verpflichtet, <strong>immer</strong> eine <strong>Quittung</strong> oder <strong>Rechnung</strong> anzubieten, <strong>unabhängig von einer Anfrage</strong>."
         },
         {
-          "text": "Man kann selbst scannen und bezahlen.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Coop bietet die Option, den Ausdruck des Kassenzettels zu unterdrücken."
-        },
-        {
-          "text": "Man kann wählen, ob man einen Kassenzettel möchte.",
+          "text": "Eine schriftliche Quittung oder Rechnung.",
           "is_correct": true,
-          "feedback": "✅ Richtig!"
+          "feedback": "✅ Richtig! In der Schweiz ist jedes Geschäft oder Restaurant verpflichtet, eine <strong>schriftliche Quittung</strong> oder <strong>Rechnung</strong> auszuhändigen."
         },
         {
-          "text": "Man kann Rabatte direkt am Automaten einlösen.",
+          "text": "Gar keine Quittung, da es in der Schweiz nicht obligatorisch ist.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Coop bietet die Option, den Ausdruck des Kassenzettels zu unterdrücken."
+          "feedback": "❌ Falsch. Es ist in der Schweiz <strong>obligatorisch</strong> für Geschäfte und Restaurants, eine <strong>Quittung</strong> anzubieten."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Wo ist der Hörer Simon Gauci aufgefallen, dass man den Kassenzettel mitnehmen muss?</p>",
+      "question": "<p>In welchem Land im erwähnten Beispiel werden Kunden bestraft, wenn sie keinen Beleg mit sich führen?</p>",
       "options": [
         {
-          "text": "In Deutschland",
+          "text": "In der Schweiz.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Im Beitrag wird Italien als Beispiel für ein Land genannt, in dem die Mitnahmepflicht besteht."
+          "feedback": "❌ Falsch. In der <strong>Schweiz</strong> wird man <strong>nicht bestraft</strong>, wenn man keinen Beleg mit sich führt."
         },
         {
-          "text": "In Frankreich",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Im Beitrag wird Italien als Beispiel für ein Land genannt, in dem die Mitnahmepflicht besteht."
-        },
-        {
-          "text": "In Italien",
+          "text": "In Italien.",
           "is_correct": true,
-          "feedback": "✅ Richtig!"
+          "feedback": "✅ Richtig! Im erwähnten Beispiel ist es in <strong>Italien</strong> der Fall, wo Kunden zur Mitnahme des Belegs verpflichtet sein können und bei Nichtbeachtung <strong>bestraft</strong> werden können."
         },
         {
-          "text": "In Österreich",
+          "text": "In Deutschland.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Im Beitrag wird Italien als Beispiel für ein Land genannt, in dem die Mitnahmepflicht besteht."
+          "feedback": "❌ Falsch. <strong>Deutschland</strong> wird in diesem Zusammenhang im Text <strong>nicht erwähnt</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer kontrolliert in der Schweiz die korrekte Abrechnung der Unternehmen bezüglich der Mehrwertsteuer?</p>",
+      "options": [
+        {
+          "text": "Die Kunden selbst.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. In der Schweiz werden <strong>nicht die Kunden</strong> kontrolliert, sondern die Unternehmen."
+        },
+        {
+          "text": "Die eidgenössischen Steuerbehörden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! In der Schweiz kontrollieren die <strong>eidgenössischen Steuerbehörden</strong> die Unternehmen."
+        },
+        {
+          "text": "Die lokalen Polizeibehörden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Polizeibehörden</strong> sind <strong>nicht</strong> für die Kontrolle der Abrechnung der Unternehmen bezüglich der Mehrwertsteuer zuständig."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange dauert die Garantiezeit in der Schweiz gemäss Gesetz?</p>",
+      "options": [
+        {
+          "text": "Ein Jahr.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die gesetzliche Garantiezeit in der Schweiz beträgt <strong>nicht ein Jahr</strong>."
+        },
+        {
+          "text": "Zwei Jahre.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Gesetz in der Schweiz sieht eine <strong>zweijährige Garantiezeit</strong> vor."
+        },
+        {
+          "text": "Fünf Jahre.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die gesetzliche Garantiezeit in der Schweiz beträgt <strong>nicht fünf Jahre</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte man besonders beachten, wenn man langlebige Produkte an einem Self-Checkout kauft?</p>",
+      "options": [
+        {
+          "text": "Man sollte immer auf eine Quittung verzichten, um Papier zu sparen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gerade bei <strong>langlebigen Produkten</strong> ist es <strong>nicht ratsam</strong>, auf die Quittung zu verzichten."
+        },
+        {
+          "text": "Man sollte auf jeden Fall eine Quittung mitnehmen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Für <strong>langlebige Produkte</strong> ist es empfehlenswert, eine <strong>Quittung mitzunehmen</strong>, um den Garantieanspruch beweisen zu können."
+        },
+        {
+          "text": "Es ist egal, ob man eine Quittung mitnimmt oder nicht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist <strong>nicht egal</strong>, besonders im Hinblick auf die <strong>Garantie</strong> von langlebigen Produkten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es in Italien relevant, dass Kunden einen Kassenzettel mit sich führen?</p>",
+      "options": [
+        {
+          "text": "Weil es dort um Konsumentenschutz geht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl Konsumentenschutz wichtig ist, ist dies <strong>nicht der Hauptgrund</strong> für die Relevanz des Kassenzettels in Italien in diesem Kontext."
+        },
+        {
+          "text": "Weil es dort um steuerrechtliche Fragen geht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! In Italien geht es vor allem um <strong>steuerrechtliche Fragen</strong>, um sicherzustellen, dass alle Verkäufe korrekt verbucht werden."
+        },
+        {
+          "text": "Weil italienische Geschäfte ehrlicher sind als Schweizer Geschäfte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Ehrlichkeit von Geschäften ist <strong>kein relevanter Faktor</strong> in dieser Fragestellung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet es, wenn Coop sagt, dass Waren und Zahlungsmittel zurückverfolgt werden können, auch ohne Quittung?</p>",
+      "options": [
+        {
+          "text": "Dass man bei einer Taschenkontrolle immer Recht hat, auch ohne Quittung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Auch wenn Coop dies sagt, ist die <strong>Quittung der direkteste Beweis</strong> für einen Kauf bei einer Taschenkontrolle."
+        },
+        {
+          "text": "Dass Coop intern nachweisen kann, dass ein Kauf getätigt wurde, was aber für den Kunden im Garantiefall nicht unbedingt hilfreich ist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Es bedeutet, dass <strong>Coop intern Transaktionen nachvollziehen</strong> kann, aber für den <strong>Kunden im Garantiefall</strong> ist die <strong>eigene Quittung</strong> der einfachere Beweis."
+        },
+        {
+          "text": "Dass Kassenzettel in Zukunft komplett überflüssig werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kassenzettel bleiben besonders für den <strong>Garantienachweis</strong> und die <strong>eigene Buchhaltung</strong> relevant."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es für Konsumenten ratsam, Kassenzettel für bestimmte Käufe aufzubewahren, obwohl es in der Schweiz keine Mitführpflicht gibt?</p>",
+      "options": [
+        {
+          "text": "Weil man sonst von der Polizei bestraft werden kann.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. In der Schweiz gibt es <strong>keine Strafen</strong> für das Nicht-Mitführen von Kassenzetteln."
+        },
+        {
+          "text": "Weil der Kassenzettel als Beweismittel für Garantieansprüche dient.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Kassenzettel dient als <strong>wichtiges Beweismittel</strong>, um <strong>Garantieansprüche geltend zu machen</strong>."
+        },
+        {
+          "text": "Weil Geschäfte ohne Kassenzettel das Geld nicht korrekt verbuchen können.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Buchhaltung der Geschäfte</strong> ist <strong>nicht direkt vom Mitführen des Kassenzettels durch den Kunden abhängig</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Hauptunterschied in der Kontrolle von Kassenzetteln zwischen der Schweiz und Ländern wie Italien?</p>",
+      "options": [
+        {
+          "text": "In der Schweiz werden nur die Kunden kontrolliert, in Italien nur die Geschäfte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. In der <strong>Schweiz</strong> werden <strong>die Geschäfte kontrolliert</strong>, in Italien werden <strong>teilweise auch die Kunden kontrolliert</strong>."
+        },
+        {
+          "text": "In der Schweiz werden die Geschäfte kontrolliert, während in Italien auch Kunden kontrolliert werden können.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Hauptunterschied ist, dass in der <strong>Schweiz</strong> sich die Kontrolle auf die <strong>Geschäfte beschränkt</strong>, während in <strong>Italien</strong> auch <strong>Kunden kontrolliert</strong> werden können."
+        },
+        {
+          "text": "Es gibt keinen Unterschied in der Kontrolle von Kassenzetteln.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt einen <strong>deutlichen Unterschied</strong> in der Art und Weise, wie Kassenzettel in der Schweiz und in Ländern wie Italien kontrolliert werden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen praktischen Rat gibt der Beitrag bezüglich des Verzichts auf Kassenzettel beim Self-Checkout?</p>",
+      "options": [
+        {
+          "text": "Man sollte immer auf den Kassenzettel verzichten, um die Umwelt zu schonen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl Umweltschutz wichtig ist, wird <strong>nicht empfohlen</strong>, <strong>immer</strong> auf den Kassenzettel zu verzichten, besonders bei langlebigen Gütern."
+        },
+        {
+          "text": "Bei langlebigen Gütern sollte man nicht auf den Kassenzettel verzichten, bei alltäglichen Kleinigkeiten kann man darauf verzichten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der praktische Rat ist, bei <strong>langlebigen Gütern</strong> den <strong>Kassenzettel mitzunehmen</strong>, während man bei <strong>alltäglichen Kleinigkeiten</strong> eher darauf verzichten kann."
+        },
+        {
+          "text": "Kassenzettel sind generell überflüssig und man kann immer darauf verzichten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kassenzettel sind <strong>nicht generell überflüssig</strong>, besonders im Hinblick auf <strong>Garantieansprüche</strong>."
         }
       ]
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>In der Schweiz ist man verpflichtet, den Kassenzettel mitzunehmen.</p>",
+      "question": "<p>In der Schweiz ist es gesetzlich vorgeschrieben, dass Kunden beim Verlassen eines Geschäfts einen Kassenzettel vorweisen müssen.</p>",
       "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Man ist nicht verpflichtet, den Kassenzettel mitzunehmen, aber die Geschäfte müssen ihn anbieten.",
-      "feedback_incorrect": "❌ Richtig. Man ist nicht verpflichtet, den Kassenzettel mitzunehmen, aber die Geschäfte müssen ihn anbieten."
+      "feedback_correct": "✅ Richtig! In der Schweiz gibt es <strong>keine gesetzliche Pflicht</strong> für Kunden, beim Verlassen eines Geschäfts einen Kassenzettel vorzuweisen.",
+      "feedback_incorrect": "❌ Falsch. Es ist <strong>nicht vorgeschrieben</strong> in der Schweiz, dass Kunden einen Kassenzettel vorweisen müssen."
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>Die Mitnahmepflicht im Ausland dient der Steuerkontrolle.</p>",
+      "question": "<p>Schweizer Geschäfte sind verpflichtet, ihren Kunden auf Wunsch eine Quittung auszuhändigen.</p>",
       "correct_answer": true,
-      "feedback_correct": "✅ Richtig! Dadurch soll sichergestellt werden, dass alle Verkäufe korrekt verbucht werden.",
-      "feedback_incorrect": "❌ Falsch. Dadurch soll sichergestellt werden, dass alle Verkäufe korrekt verbucht werden."
-    },
-    {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Wer wird in der Schweiz von den Steuerbehörden kontrolliert?</p>",
-      "options": [
-        {
-          "text": "Nur die Kunden",
-          "is_correct": false,
-          "feedback": "❌ Falsch. In der Schweiz werden nur die Unternehmen auf korrekte Abrechnung geprüft."
-        },
-        {
-          "text": "Nur die Unternehmen",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "Sowohl Kunden als auch Unternehmen",
-          "is_correct": false,
-          "feedback": "❌ Falsch. In der Schweiz werden nur die Unternehmen auf korrekte Abrechnung geprüft."
-        },
-        {
-          "text": "Weder Kunden noch Unternehmen",
-          "is_correct": false,
-          "feedback": "❌ Falsch. In der Schweiz werden nur die Unternehmen auf korrekte Abrechnung geprüft."
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Was ist der Nachteil, wenn man bei einer Taschenkontrolle keinen Kassenzettel hat?</p>",
-      "options": [
-        {
-          "text": "Man muss eine Busse bezahlen.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Ohne Kassenzettel ist es schwieriger zu beweisen, dass man die Ware ehrlich erworben hat."
-        },
-        {
-          "text": "Man wird wegen Diebstahls angezeigt.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Ohne Kassenzettel ist es schwieriger zu beweisen, dass man die Ware ehrlich erworben hat."
-        },
-        {
-          "text": "Es kann der Verdacht entstehen, dass man die Ware nicht bezahlt hat.",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "Man muss die Ware zurückgeben.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Ohne Kassenzettel ist es schwieriger zu beweisen, dass man die Ware ehrlich erworben hat."
-        }
-      ]
+      "feedback_correct": "✅ Richtig! Schweizer Geschäfte sind <strong>gesetzlich verpflichtet</strong>, Kunden eine Quittung anzubieten.",
+      "feedback_incorrect": "❌ Falsch. Geschäfte in der Schweiz sind <strong>tatsächlich verpflichtet</strong>, eine Quittung anzubieten."
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>Es ist empfehlenswert, den Kassenzettel für langlebige Güter aufzuheben.</p>",
-      "correct_answer": true,
-      "feedback_correct": "✅ Richtig! Der Kassenzettel dient als Beweis für Garantieansprüche.",
-      "feedback_incorrect": "❌ Falsch. Der Kassenzettel dient als Beweis für Garantieansprüche."
-    },
-    {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Wie lange gilt die Garantie auf Produkte in der Schweiz?</p>",
-      "options": [
-        {
-          "text": "1 Jahr",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Gesetzlich gilt eine Garantie von 2 Jahren."
-        },
-        {
-          "text": "2 Jahre",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "3 Jahre",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Gesetzlich gilt eine Garantie von 2 Jahren."
-        },
-        {
-          "text": "5 Jahre",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Gesetzlich gilt eine Garantie von 2 Jahren."
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Was ist ein Kassenzettel?</p>",
-      "options": [
-        {
-          "text": "Ein Gutschein",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Kassenzettel ist der Beweis für einen Kauf und dient als Quittung."
-        },
-        {
-          "text": "Eine Rechnung / Quittung",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "Eine Garantie",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Kassenzettel ist der Beweis für einen Kauf und dient als Quittung."
-        },
-        {
-          "text": "Ein Zahlungsversprechen",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Kassenzettel ist der Beweis für einen Kauf und dient als Quittung."
-        }
-      ]
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Coop hat die Kassenzettel-Option abgeschafft.</p>",
+      "question": "<p>Die gesetzliche Garantiezeit in der Schweiz beträgt ein Jahr.</p>",
       "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Coop bietet die Wahlmöglichkeit an, ob man einen Kassenzettel möchte oder nicht.",
-      "feedback_incorrect": "❌ Richtig. Coop bietet die Wahlmöglichkeit an, ob man einen Kassenzettel möchte oder nicht."
-    },
-    {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Was ist der Vorteil, wenn man keinen Kassenzettel druckt?</p>",
-      "options": [
-        {
-          "text": "Man spart Geld",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Durch den Verzicht auf den Ausdruck wird Papier gespart."
-        },
-        {
-          "text": "Man spart Papier",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "Man spart Zeit",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Durch den Verzicht auf den Ausdruck wird Papier gespart."
-        },
-        {
-          "text": "Man spart Energie",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Durch den Verzicht auf den Ausdruck wird Papier gespart."
-        }
-      ]
+      "feedback_correct": "✅ Richtig! Die gesetzliche Garantiezeit in der Schweiz beträgt <strong>zwei Jahre</strong>, nicht ein Jahr.",
+      "feedback_incorrect": "❌ Falsch. Die Garantiezeit ist <strong>länger als ein Jahr</strong>, sie beträgt zwei Jahre."
     },
     {
       "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Der Hörer findet die neue Kassenzettel-Option schlecht.</p>",
+      "bloom_level": "Verstehen",
+      "question": "<p>Auch ohne Kassenzettel haben Konsumenten in der Schweiz keinerlei Möglichkeit, Garantieansprüche geltend zu machen.</p>",
       "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Der Hörer findet die Option gut, da so Papier gespart werden kann.",
-      "feedback_incorrect": "❌ Richtig. Der Hörer findet die Option gut, da so Papier gespart werden kann."
-    },
-    {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Was ist die Aufgabe von Gabriela Baumgartner im Beitrag?</p>",
-      "options": [
-        {
-          "text": "Sie ist die Moderatorin.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Gabriela Baumgartner klärt die Rechtslage in Bezug auf Kassenzettel."
-        },
-        {
-          "text": "Sie ist die Hörerin.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Gabriela Baumgartner klärt die Rechtslage in Bezug auf Kassenzettel."
-        },
-        {
-          "text": "Sie ist die Rechtsexpertin.",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "Sie ist die Verkäuferin bei Coop.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Gabriela Baumgartner klärt die Rechtslage in Bezug auf Kassenzettel."
-        }
-      ]
+      "feedback_correct": "✅ Richtig! Obwohl ein Kassenzettel hilfreich ist, ist er <strong>nicht die einzige Möglichkeit</strong>, Garantieansprüche geltend zu machen. Es gibt auch andere Beweismittel.",
+      "feedback_incorrect": "❌ Falsch. Es gibt <strong>auch andere Möglichkeiten</strong>, Garantieansprüche zu beweisen, auch wenn der Kassenzettel der einfachste Weg ist."
     },
     {
       "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Man kann in der Schweiz für das Nichtmitnehmen des Kassenzettels bestraft werden.</p>",
+      "bloom_level": "Verstehen",
+      "question": "<p>Der Hauptgrund für die Kassenzettelpflicht in Italien ist der Umweltschutz.</p>",
       "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Es gibt keine rechtlichen Konsequenzen, wenn man den Kassenzettel nicht mitnimmt.",
-      "feedback_incorrect": "❌ Richtig. Es gibt keine rechtlichen Konsequenzen, wenn man den Kassenzettel nicht mitnimmt."
+      "feedback_correct": "✅ Richtig! Der Hauptgrund in Italien sind <strong>steuerrechtliche Gründe</strong>, nicht der Umweltschutz.",
+      "feedback_incorrect": "❌ Falsch. Der Hauptgrund liegt <strong>nicht im Umweltschutz</strong>, sondern in der Steuergesetzgebung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wenn ein Geschäft in der Schweiz die Möglichkeit bietet, auf einen Kassenzettel zu verzichten, verzichtet es damit auch auf die korrekte Verbuchung des Verkaufs.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Verzicht auf den Kassenzettel durch den Kunden hat <strong>keinen Einfluss</strong> auf die <strong>Verbuchung des Verkaufs</strong> durch das Geschäft.",
+      "feedback_incorrect": "❌ Falsch. Die <strong>Verbuchung des Verkaufs</strong> durch das Geschäft ist <strong>unabhängig</strong> davon, ob der Kunde einen Kassenzettel erhält oder nicht."
     }
   ]
 }

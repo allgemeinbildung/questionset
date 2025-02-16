@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Gekauft ist gekauft",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2022/09/Espresso_29-09-2022-0813.mp3",
+    "source": "https://www.srf.ch/sendungen/kassensturz-espresso/rechtsfragen/kaufrecht/gekauft-ist-gekauft-darf-eine-16-jaehrige-ein-ticket-fuer-300-franken-kaufen"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie alt ist die junge Frau imRadiobeitrag, die ein Konzertticket gekauft hat?</p>",
+      "options": [
+        {
+          "text": "14 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die junge Frau ist <strong>16 Jahre</strong> alt."
+        },
+        {
+          "text": "16 Jahre",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die junge Frau ist <strong>16 Jahre</strong> alt."
+        },
+        {
+          "text": "18 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch, mit 18 Jahren wäre sie bereits <strong>volljährig</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viel kostet das Konzertticket, das die junge Frau gekauft hat?</p>",
+      "options": [
+        {
+          "text": "200 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das Ticket hat <strong>300 Franken</strong> gekostet."
+        },
+        {
+          "text": "300 Franken",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Ticket hat <strong>300 Franken</strong> gekostet."
+        },
+        {
+          "text": "500 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das Ticket war <strong>günstiger</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo hat die junge Frau das Konzertticket gekauft?</p>",
+      "options": [
+        {
+          "text": "Im Reisebüro",
+          "is_correct": false,
+          "feedback": "❌ Falsch, sie hat es nicht im Reisebüro gekauft."
+        },
+        {
+          "text": "Auf einer Auktionsplattform im Internet",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Sie hat es auf einer <strong>Auktionsplattform im Internet</strong> gekauft."
+        },
+        {
+          "text": "Direkt beim Veranstalter",
+          "is_correct": false,
+          "feedback": "❌ Falsch, sie hat es nicht direkt beim <strong>Veranstalter</strong> gekauft."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was droht der Verkäufer an, falls die junge Frau nicht bezahlt?</p>",
+      "options": [
+        {
+          "text": "Eine Anzeige bei der Polizei",
+          "is_correct": false,
+          "feedback": "❌ Falsch, er droht nicht mit einer <strong>Anzeige bei der Polizei</strong>."
+        },
+        {
+          "text": "Eine Betreibung",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Verkäufer droht mit einer <strong>Betreibung</strong>."
+        },
+        {
+          "text": "Ein Gespräch mit den Eltern",
+          "is_correct": false,
+          "feedback": "❌ Falsch, er droht nicht mit einem <strong>Gespräch mit den Eltern</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viel verdient die junge Frau monatlich während ihrer Lehre?</p>",
+      "options": [
+        {
+          "text": "300 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch, sie verdient <strong>mehr</strong> als 300 Franken."
+        },
+        {
+          "text": "600 Franken",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Sie verdient etwa <strong>600 Franken</strong> im Monat."
+        },
+        {
+          "text": "1000 Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch, sie verdient <strong>weniger</strong> als 1000 Franken."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist der Kaufvertrag für das Konzertticket rechtlich gültig, obwohl die Käuferin minderjährig ist?</p>",
+      "options": [
+        {
+          "text": "Weil Konzerttickets generell von Minderjährigen gekauft werden dürfen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, es geht nicht spezifisch um Konzerttickets, sondern um die <strong>Finanzierung aus eigenem Einkommen</strong>."
+        },
+        {
+          "text": "Weil sie das Ticket mit ihrem eigenen Lehrlingslohn bezahlt hat.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Verträge sind gültig, wenn Minderjährige sie mit <strong>selbstverdientem Geld</strong> bezahlen."
+        },
+        {
+          "text": "Weil der Verkäufer mit dem Verkauf an Minderjährige einverstanden war.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die Zustimmung des Verkäufers ist hier <strong>nicht der entscheidende Punkt</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was wäre anders, wenn die 16-Jährige ein teures Smartphone auf Rechnung gekauft hätte?</p>",
+      "options": [
+        {
+          "text": "Der Vertrag wäre automatisch ungültig.",
+          "is_correct": false,
+          "feedback": "❌ Nicht automatisch ungültig, aber er wäre <strong>schwebend unwirksam</strong>."
+        },
+        {
+          "text": "Der Vertrag wäre nur gültig, wenn die Eltern zustimmen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Bei Käufen auf Rechnung oder wenn das Geld nicht aus eigenem Einkommen stammt, ist die <strong>Zustimmung der Eltern</strong> nötig."
+        },
+        {
+          "text": "Sie könnte das Smartphone problemlos zurückgeben, egal was die Eltern sagen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Rückgabe hängt von der Zustimmung der Eltern ab</strong>, nicht nur vom Wunsch der Tochter."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Konsequenz droht der jungen Frau, wenn sie das Ticket nicht bezahlt?</p>",
+      "options": [
+        {
+          "text": "Sie wird automatisch strafrechtlich verfolgt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, es handelt sich um eine <strong>zivilrechtliche Forderung</strong>, keine Strafsache."
+        },
+        {
+          "text": "Sie riskiert eine Betreibung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Bei Nichtzahlung riskiert sie eine <strong>Betreibung</strong>."
+        },
+        {
+          "text": "Ihre Eltern müssen automatisch für die Schulden aufkommen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die Eltern sind <strong>nicht automatisch haftbar</strong>, aber die Betreibung wird ihnen zugestellt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum gibt es in diesem Fall kein Rücktrittsrecht vom Kaufvertrag?</p>",
+      "options": [
+        {
+          "text": "Weil es sich um einen Online-Kauf handelt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das Rücktrittsrecht ist nicht generell ausgeschlossen bei <strong>Online-Käufen</strong>."
+        },
+        {
+          "text": "Weil es bei Kaufverträgen generell kein Rücktrittsrecht gibt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! In der Schweiz gibt es bei <strong>Kaufverträgen grundsätzlich kein Rücktrittsrecht</strong>, ausser es ist speziell vereinbart oder gesetzlich vorgesehen (z.B. Haustürgeschäfte)."
+        },
+        {
+          "text": "Weil die Käuferin minderjährig ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das Alter der Käuferin ist für das <strong>Rücktrittsrecht nicht relevant</strong> in diesem Kontext."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet es, wenn die junge Frau einen 'Toll' in der Betreibung hat, z.B. für eine spätere Wohnungssuche?</p>",
+      "options": [
+        {
+          "text": "Es hat keine negativen Auswirkungen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, ein 'Toll' in der Betreibung kann <strong>negative Auswirkungen</strong> haben."
+        },
+        {
+          "text": "Es kann ihre Kreditwürdigkeit negativ beeinflussen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein 'Toll' in der Betreibung kann die <strong>Kreditwürdigkeit negativ beeinflussen</strong> und z.B. die Wohnungssuche erschweren."
+        },
+        {
+          "text": "Es führt automatisch zu einer Strafanzeige.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, es führt <strong>nicht automatisch zu einer Strafanzeige</strong>, sondern ist ein zivilrechtliches Verfahren."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die junge Frau wollte das Konzertticket zurückgeben, nachdem sie es gekauft hatte.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Sie bereute den Kauf und wollte das Ticket wieder umgeben.",
+      "feedback_incorrect": "❌ Falsch. Sie wollte das Ticket tatsächlich zurückgeben, nachdem sie es gekauft hatte."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Gabriela Baumgartner ist die Rechtsexpertin, die im Radiobeitrag zu Wort kommt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Gabriela Baumgartner ist die Rechtsexpertin im Beitrag.",
+      "feedback_incorrect": "❌ Falsch. Die Rechtsexpertin im Beitrag heisst Gabriela Baumgartner."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die junge Frau hat das Ticket für 50 Franken gekauft.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Das Ticket hat 300 Franken gekostet.",
+      "feedback_incorrect": "❌ Richtig. Das Ticket war teurer und hat 300 Franken gekostet."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Auch Minderjährige können in der Schweiz betrieben werden.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Auch Minderjährige können betrieben werden, der Zahlungsbefehl wird dann den Eltern zugestellt.",
+      "feedback_incorrect": "❌ Falsch. Minderjährige können tatsächlich betrieben werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eltern haften automatisch für alle Schulden ihrer minderjährigen Kinder.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Eltern haften nicht automatisch für alle Schulden, aber im Rahmen der Betreibung werden sie informiert.",
+      "feedback_incorrect": "❌ Richtig. Eltern haften nicht automatisch für die Schulden ihrer Kinder, es kommt auf den Einzelfall an."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein Kaufvertrag ist immer ungültig, wenn er von einer minderjährigen Person abgeschlossen wird.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Kaufverträge von Minderjährigen können gültig sein, besonders wenn sie mit eigenem Geld bezahlt werden.",
+      "feedback_incorrect": "❌ Richtig. Kaufverträge von Minderjährigen können unter bestimmten Bedingungen gültig sein."
+    }
+  ]
+}

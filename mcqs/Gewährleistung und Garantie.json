@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Gewährleistung und Garantie",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2022/03/Espresso_10-03-2022-816.mp3",
+    "source": "https://www.srf.ch/sendungen/kassensturz-espresso/rechtsfragen/kaufrecht/garantie-darf-der-verkaeufer-die-gesetzliche-garantie-ausschliessen"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Begriff wird im Gesetz verwendet, wenn umgangssprachlich von 'Garantie' die Rede ist?</p>",
+      "options": [
+        {
+          "text": "Produkthaftung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Produkthaftung</strong> beschreibt die Haftung für Schäden, die durch ein fehlerhaftes Produkt entstehen. Der korrekte Begriff im Gesetz ist <strong>Gewährleistung</strong>."
+        },
+        {
+          "text": "Kulanz",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Kulanz</strong> ist ein freiwilliges Entgegenkommen des Verkäufers, aber nicht der gesetzliche Begriff. Der gesetzliche Begriff ist <strong>Gewährleistung</strong>."
+        },
+        {
+          "text": "Gewährleistung",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Im Gesetz wird der Begriff <strong>Gewährleistung</strong> verwendet, auch wenn im Alltag oft von <strong>Garantie</strong> gesprochen wird."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange beträgt die gesetzliche Gewährleistungsfrist in der Schweiz grundsätzlich?</p>",
+      "options": [
+        {
+          "text": "Ein Jahr",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die gesetzliche Gewährleistungsfrist in der Schweiz beträgt grundsätzlich <strong>zwei Jahre</strong>, nicht nur ein Jahr."
+        },
+        {
+          "text": "Zwei Jahre",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die gesetzliche Gewährleistungsfrist in der Schweiz beträgt grundsätzlich <strong>zwei Jahre</strong>."
+        },
+        {
+          "text": "Fünf Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Fünf Jahre ist keine korrekte Angabe für die generelle gesetzliche Gewährleistungsfrist. Sie beträgt <strong>zwei Jahre</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was wollte Judith Trüb kaufen, als sie auf die Klausel zur Gewährleistung stiess?</p>",
+      "options": [
+        {
+          "text": "Einen Fernseher",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Judith Trüb wollte keinen Fernseher kaufen. Sie wollte ein <strong>Mikrofon</strong> erwerben."
+        },
+        {
+          "text": "Ein Mikrofon",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Judith Trüb wollte ein <strong>Mikrofon</strong> kaufen, als sie die Klausel in den AGB entdeckte."
+        },
+        {
+          "text": "Einen Koffer",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Koffer wird im Text als Beispiel für Garantie genannt, aber Judith Trüb wollte ein <strong>Mikrofon</strong> kaufen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo fand Judith Trüb die Klausel, welche die gesetzliche Gewährleistung einschränkte?</p>",
+      "options": [
+        {
+          "text": "Im Schaufenster des Geschäfts",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Klausel befand sich nicht im Schaufenster. Sie fand sie in den <strong>allgemeinen Geschäftsbedingungen (AGB)</strong>."
+        },
+        {
+          "text": "Auf der Produktverpackung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Klausel war nicht auf der Produktverpackung. Sie war in den <strong>allgemeinen Geschäftsbedingungen (AGB)</strong> versteckt."
+        },
+        {
+          "text": "In den allgemeinen Geschäftsbedingungen (AGB)",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Judith Trüb entdeckte die Klausel in den <strong>allgemeinen Geschäftsbedingungen (AGB)</strong> des Verkäufers."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was wird im Text als Beispiel für eine zusätzliche Garantieleistung genannt, die über die Gewährleistung hinausgeht?</p>",
+      "options": [
+        {
+          "text": "Kostenlose Reparatur in jedem Geschäft der Schweiz",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Beispiel im Text nennt die Möglichkeit, einen <strong>Koffer in jedem Geschäft der Schweiz reparieren</strong> zu lassen, als zusätzliche Garantieleistung."
+        },
+        {
+          "text": "Verlängerung der Gewährleistungsfrist auf drei Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Verlängerung der Frist ist zwar eine Garantieerweiterung, aber das genannte Beispiel fokussiert auf die <strong>örtliche Flexibilität der Reparatur</strong>."
+        },
+        {
+          "text": "Sofortiger Umtausch ohne Prüfung des Defekts",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der sofortige Umtausch ist keine beschriebene zusätzliche Garantie. Das Beispiel im Text betont die <strong>Reparaturmöglichkeit in verschiedenen Geschäften</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet es, wenn ein Verkäufer die gesetzliche Gewährleistung 'wegbedingt' oder 'ausschliesst'?</p>",
+      "options": [
+        {
+          "text": "Der Verkäufer garantiert für die volle gesetzliche Gewährleistungsfrist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 'Wegbedingen' oder 'Ausschliessen' bedeutet das <strong>Gegenteil</strong>: Der Verkäufer will die gesetzliche Gewährleistung <strong>nicht oder nur eingeschränkt</strong> übernehmen."
+        },
+        {
+          "text": "Der Verkäufer bietet eine zusätzliche, erweiterte Garantie an.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Ausschliessen der Gewährleistung bedeutet <strong>keine zusätzliche Garantie</strong>, sondern eine Einschränkung oder Aufhebung der gesetzlichen Rechte."
+        },
+        {
+          "text": "Der Verkäufer schränkt die gesetzlichen Ansprüche des Käufers ein oder hebt sie auf.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! 'Wegbedingen' oder 'Ausschliessen' bedeutet, dass der Verkäufer die <strong>gesetzlichen Ansprüche des Käufers bezüglich der Gewährleistung einschränkt oder ganz aufhebt</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Unter welcher Bedingung darf ein Verkäufer in der Schweiz die gesetzliche Gewährleistung ausschliessen?</p>",
+      "options": [
+        {
+          "text": "Gar nicht, die gesetzliche Gewährleistung ist immer zwingend.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Entgegen der Annahme ist es in der Schweiz <strong>rechtlich möglich</strong>, die gesetzliche Gewährleistung auszuschliessen, wenn auch unter Bedingungen."
+        },
+        {
+          "text": "Er muss die Kunden explizit auf den Ausschluss hinweisen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Verkäufer darf die Gewährleistung ausschliessen, muss aber seine <strong>Kunden klar und deutlich darauf hinweisen</strong>, beispielsweise in den AGB."
+        },
+        {
+          "text": "Nur wenn er dafür eine längere, eigene Garantie anbietet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Ausschluss der Gewährleistung ist nicht an eine längere Garantie gebunden. Er muss die Kunden aber <strong>deutlich informieren</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum rät die Rechtsexpertin Gabriela Baumgartner dazu, die allgemeinen Geschäftsbedingungen (AGB) zu lesen?</p>",
+      "options": [
+        {
+          "text": "Weil dort immer die kundenfreundlichsten Regelungen stehen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. AGB enthalten nicht immer kundenfreundliche Regelungen. Gerade im Bereich <strong>Gewährleistung und Garantie</strong> können sie wichtige Einschränkungen enthalten."
+        },
+        {
+          "text": "Weil dort Klauseln zur Gewährleistung oder Garantie enthalten sein können, die ungünstig für den Kunden sind.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! In den AGB können sich Klauseln zur <strong>Gewährleistung oder Garantie</strong> befinden, die für Kunden <strong>ungünstig</strong> sein können, wie im Fall von Judith Trüb."
+        },
+        {
+          "text": "Weil AGB gesetzlich vorgeschrieben und immer gleich aufgebaut sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. AGB sind nicht immer gleich aufgebaut und ihre Hauptrelevanz liegt in den <strong>vertraglichen Details</strong>, insbesondere zu <strong>Gewährleistung und Garantie</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Unterschied zwischen der gesetzlichen Gewährleistung und einer vertraglichen Garantie?</p>",
+      "options": [
+        {
+          "text": "Es gibt keinen Unterschied, beide Begriffe sind im Gesetz synonym.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl umgangssprachlich oft gleichbedeutend, ist die <strong>Gewährleistung gesetzlich</strong> festgelegt, während die <strong>Garantie eine zusätzliche, vertragliche Leistung</strong> des Verkäufers sein kann."
+        },
+        {
+          "text": "Die gesetzliche Gewährleistung ist kürzer und weniger umfassend als eine vertragliche Garantie.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>gesetzliche Gewährleistung</strong> ist der Mindeststandard. Eine <strong>vertragliche Garantie</strong> kann zusätzliche Leistungen oder längere Fristen bieten."
+        },
+        {
+          "text": "Die gesetzliche Gewährleistung ist im Gesetz verankert, während eine vertragliche Garantie eine freiwillige Zusatzleistung des Verkäufers sein kann.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Gewährleistung ist gesetzlich vorgeschrieben</strong>, während eine <strong>vertragliche Garantie</strong> eine <strong>freiwillige, zusätzliche Zusage</strong> des Verkäufers ist."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Konsequenz kann es für Konsumenten haben, wenn ein Verkäufer die gesetzliche Gewährleistung ausschliesst und nur eine eigene Garantie anbietet?</p>",
+      "options": [
+        {
+          "text": "Sie haben automatisch bessere Rechte, da die eigene Garantie des Verkäufers immer vorteilhafter ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine eigene Garantie ist <strong>nicht automatisch vorteilhafter</strong>. Sie kann auch <strong>weniger umfangreich</strong> sein als die gesetzliche Gewährleistung."
+        },
+        {
+          "text": "Sie können unter Umständen schlechter gestellt sein, da die eigene Garantie des Verkäufers weniger umfangreich sein kann als die gesetzliche Gewährleistung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Wenn die gesetzliche Gewährleistung ausgeschlossen wird, kann die <strong>eigene Garantie des Verkäufers weniger Rechte einräumen</strong>, was für Konsumenten <strong>nachteilig</strong> sein kann."
+        },
+        {
+          "text": "Es gibt keine Konsequenzen, da eine Garantie immer den gleichen Schutz wie die Gewährleistung bietet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Garantie und Gewährleistung sind nicht immer gleichwertig</strong>. Der Ausschluss der Gewährleistung und eine eigene Garantie können die <strong>Rechte des Konsumenten verändern</strong>."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Im schweizerischen Gesetzestext findet sich das Wort 'Garantie' im Zusammenhang mit Mängelrechten beim Kauf.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Im Gesetz wird der Begriff <strong>Gewährleistung</strong> verwendet, nicht <strong>Garantie</strong>.",
+      "feedback_incorrect": "❌ Falsch. Das Gesetz verwendet den Begriff <strong>Gewährleistung</strong>, nicht <strong>Garantie</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die gesetzliche Gewährleistungsfrist in der Schweiz beträgt standardmässig ein Jahr.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Standard-Gewährleistungsfrist in der Schweiz beträgt <strong>zwei Jahre</strong>.",
+      "feedback_incorrect": "❌ Falsch. Die gesetzliche Gewährleistungsfrist in der Schweiz ist <strong>länger</strong>, nämlich <strong>zwei Jahre</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Judith Trüb wollte einen Koffer kaufen, als sie auf die Klausel zur Gewährleistung aufmerksam wurde.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Judith Trüb wollte ein <strong>Mikrofon</strong> kaufen, nicht einen Koffer.",
+      "feedback_incorrect": "❌ Falsch. Judith Trüb interessierte sich für ein <strong>Mikrofon</strong>, der Koffer wurde nur als Beispiel im Text erwähnt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein Verkäufer darf die gesetzliche Gewährleistung in seinen AGB grundsätzlich nicht ausschliessen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Entgegen der Erwartung ist es in der Schweiz unter bestimmten Bedingungen <strong>erlaubt</strong>, die gesetzliche Gewährleistung <strong>auszuschliessen</strong>.",
+      "feedback_incorrect": "❌ Falsch. Es ist tatsächlich <strong>möglich</strong>, die gesetzliche Gewährleistung <strong>auszuschliessen</strong>, wenn der Kunde entsprechend informiert wird."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wenn ein Verkäufer die gesetzliche Gewährleistung ausschliesst, muss er seine Kunden explizit darauf hinweisen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die <strong>Hinweispflicht</strong> ist zentral. Kunden müssen über den Ausschluss der gesetzlichen Gewährleistung <strong>informiert</strong> werden.",
+      "feedback_incorrect": "❌ Falsch. Es ist <strong>Pflicht</strong> des Verkäufers, auf den Ausschluss der gesetzlichen Gewährleistung <strong>hinzuweisen</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Es ist immer empfehlenswert, bei einem Anbieter zu kaufen, der die gesetzliche Gewährleistung nicht ausschliesst.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Aus Kundensicht ist es in der Regel <strong>vorteilhafter</strong>, wenn die <strong>gesetzliche Gewährleistung</strong> greift, da dies ein <strong>Mindestmass an Schutz</strong> bietet.",
+      "feedback_incorrect": "❌ Falsch. Anbieter, die die gesetzliche Gewährleistung nicht ausschliessen, bieten in der Regel einen <strong>umfassenderen Schutz</strong> für Konsumenten."
+    }
+  ]
+}

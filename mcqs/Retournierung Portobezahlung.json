@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Retournierung Portobezahlung",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2022/11/Espresso_03-11-2022-815.mp3",
+    "source": "https://www.srf.ch/sendungen/kassensturz-espresso/rechtsfragen/kaufrecht/retournierung-portobezahlung-muss-ich-versandkosten-bezahlen-wenn-ich-die-ware-retourniere"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist die generelle Regelung bezüglich der Versandkosten bei einer Retoure im Online-Handel gemäss dem Text?</p>",
+      "options": [
+        {
+          "text": "Online-Händler müssen immer die Versandkosten für Retouren übernehmen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gemäss dem Text müssen Online-Händler die <strong>Versandkosten für Retouren nicht generell übernehmen</strong>. Es ist oft freiwillig."
+        },
+        {
+          "text": "Kunden müssen grundsätzlich die Versandkosten für die Rücksendung tragen, auch wenn der Händler die Ware zurücknimmt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Grundsätzlich müssen die <strong>Kunden die Versandkosten für die Rücksendung bezahlen</strong>, selbst wenn der Händler die Ware kulanterweise zurücknimmt."
+        },
+        {
+          "text": "Die Versandkosten werden immer vom Online-Händler übernommen, wenn die Ware defekt ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Text spricht primär über Retouren bei Nichtgefallen, nicht über defekte Ware. Die generelle Regelung betrifft die <strong>Kostenübernahme durch den Kunden</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wofür steht die Abkürzung AGB im Zusammenhang mit Online-Shops?</p>",
+      "options": [
+        {
+          "text": "Allgemeine Gebührenbedingungen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. AGB steht nicht für 'Allgemeine Gebührenbedingungen'."
+        },
+        {
+          "text": "Automatische Garantiebestimmungen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. AGB steht nicht für 'Automatische Garantiebestimmungen'."
+        },
+        {
+          "text": "Allgemeine Geschäftsbedingungen",
+          "is_correct": true,
+          "feedback": "✅ Richtig! AGB ist die Abkürzung für <strong>Allgemeine Geschäftsbedingungen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Sind Online-Shops generell verpflichtet, Ware zurückzunehmen, wenn Kunden es wünschen?</p>",
+      "options": [
+        {
+          "text": "Ja, Online-Shops sind gesetzlich dazu verpflichtet, Waren zurückzunehmen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Online-Shops sind <strong>nicht generell gesetzlich verpflichtet</strong>, Ware zurückzunehmen. Es ist oft Kulanz."
+        },
+        {
+          "text": "Nein, es ist Kulanzsache des Online-Shops, Ware zurückzunehmen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Es ist grundsätzlich eine <strong>Kulanzsache des Online-Shops</strong>, ob er Ware zurücknimmt oder nicht."
+        },
+        {
+          "text": "Nur grosse Online-Shops sind verpflichtet, Ware zurückzunehmen, kleine nicht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Grösse des Online-Shops ist <strong>nicht der entscheidende Faktor</strong> für eine Rücknahmeverpflichtung gemäss Text."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was wird im Text als einfacher Tipp genannt, um die Seriosität eines Online-Shops zu überprüfen?</p>",
+      "options": [
+        {
+          "text": "Die AGB des Shops detailliert zu studieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl das Studieren der AGB wichtig ist, wird im Text ein anderer <strong>einfacherer Tipp</strong> genannt."
+        },
+        {
+          "text": "Eine Suchmaschine nach Kommentaren und Erfahrungen mit dem Shop zu durchsuchen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Tipp ist, eine <strong>Suchmaschine zu nutzen</strong>, um Kommentare und Erfahrungen anderer Kunden zu finden."
+        },
+        {
+          "text": "Den Shop telefonisch zu kontaktieren und Fragen zu stellen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Kontaktieren des Shops ist zwar möglich, aber der Text empfiehlt einen <strong>schnelleren und einfacheren Weg</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo findet man häufig Kommentare und Erfahrungen anderer Kunden zu einem Online-Shop?</p>",
+      "options": [
+        {
+          "text": "In den AGB des Online-Shops.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>AGB enthalten keine Kundenkommentare</strong> oder Erfahrungen."
+        },
+        {
+          "text": "In den Produktbeschreibungen des Online-Shops.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Produktbeschreibungen enthalten in der Regel keine allgemeinen Shop-Bewertungen</strong>."
+        },
+        {
+          "text": "In den Kommentaren in einer Suchmaschine oder auf Bewertungsportalen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Suchmaschinen und Bewertungsportale</strong> sind Orte, wo man häufig Kundenkommentare findet."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum sind Online-Shops, die Ware kulanterweise zurücknehmen, trotzdem oft nicht verpflichtet, die Versandgebühren zurückzuerstatten?</p>",
+      "options": [
+        {
+          "text": "Weil die Rücknahme der Ware bereits eine grosse Kulanzleistung darstellt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl die Warenrücknahme kulant ist, ist dies <strong>nicht der Hauptgrund</strong> für die separate Behandlung der Versandkosten."
+        },
+        {
+          "text": "Weil die Versandkosten dem Shop sowieso entstanden sind, unabhängig von der Retoure.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Versandkosten sind dem Shop bereits entstanden</strong>, unabhängig davon, ob die Ware retourniert wird oder nicht."
+        },
+        {
+          "text": "Weil die AGB dies meistens so vorsehen und die AGB immer Vorrang haben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die AGB sind relevant, aber der <strong>grundlegende Aspekt ist, dass die Versandkosten bereits angefallen sind</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Bedeutung haben die AGB beim Online-Shopping in Bezug auf Versandkosten?</p>",
+      "options": [
+        {
+          "text": "AGB sind irrelevant für die Versandkosten, da das Gesetz diese automatisch regelt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>AGB sind relevant</strong>, da sie spezifische Regelungen zu Versandkosten enthalten können, die vom Gesetz abweichen."
+        },
+        {
+          "text": "AGB können festlegen, dass Versandkosten nicht im Preis inbegriffen sind und separat verrechnet werden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>AGB können klarstellen</strong>, dass Versandkosten nicht im Preis enthalten sind und separat anfallen."
+        },
+        {
+          "text": "AGB dürfen keine Regelungen zu Versandkosten enthalten, da dies gesetzlich verboten ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>AGB dürfen Regelungen zu Versandkosten enthalten</strong>, solange sie gesetzeskonform sind."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was gilt bezüglich der Versandkosten, wenn ein Online-Shop keine AGB hat oder die AGB keine Aussage zu Versandkosten enthalten?</p>",
+      "options": [
+        {
+          "text": "In diesem Fall muss der Online-Shop immer die Versandkosten übernehmen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Auch ohne AGB oder klare Regelung gilt <strong>nicht automatisch</strong>, dass der Shop die Kosten übernehmen muss."
+        },
+        {
+          "text": "Es gilt das Gesetz, und demnach muss grundsätzlich der Kunde die Versandkosten tragen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Wenn keine AGB oder Regelung vorhanden ist, <strong>gilt das Gesetz</strong>, welches besagt, dass der Kunde die Versandkosten trägt."
+        },
+        {
+          "text": "Die Regelung ist unklar und muss im Einzelfall juristisch geprüft werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Regelung ist <strong>nicht unklar</strong>, da das Gesetz eine klare Aussage trifft, wenn keine AGB greifen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Unter welcher Bedingung gelten AGB auch dann, wenn man per Mail oder Telefon bestellt und sie nicht direkt sieht?</p>",
+      "options": [
+        {
+          "text": "AGB gelten automatisch bei jeder Bestellung, unabhängig von der Bestellmethode.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. AGB gelten <strong>nicht automatisch</strong>, es braucht eine explizite Handlung oder Information."
+        },
+        {
+          "text": "AGB gelten nur, wenn man beim Vertragsabschluss darauf hingewiesen wurde und die Möglichkeit hatte, sie zu lesen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! AGB gelten, wenn man <strong>beim Vertragsabschluss darauf hingewiesen</strong> wurde und sie einsehen konnte."
+        },
+        {
+          "text": "AGB gelten nie, wenn man per Mail oder Telefon bestellt, da man sie nicht online bestätigt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. AGB können auch bei Bestellungen per Mail oder Telefon gelten, wenn die <strong>Bedingungen erfüllt sind</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Hauptgrund, warum es sich lohnen kann, die AGB eines Online-Shops nochmals anzuschauen, auch wenn man sie beim Bestellprozess bestätigt hat?</p>",
+      "options": [
+        {
+          "text": "Weil sich die AGB nach der Bestellung ändern könnten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. AGB ändern sich <strong>in der Regel nicht rückwirkend</strong> für abgeschlossene Bestellungen."
+        },
+        {
+          "text": "Weil man sich möglicherweise nicht mehr genau erinnert, was in den AGB stand, oder etwas übersehen haben könnte.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Es kann sich lohnen, <strong>nochmals reinzuschauen</strong>, um sicherzustellen, dass man sich richtig erinnert oder nichts übersehen hat."
+        },
+        {
+          "text": "Weil die Bestätigung der AGB im Bestellprozess rechtlich nicht bindend ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Bestätigung der AGB im Bestellprozess ist <strong>grundsätzlich rechtlich bindend</strong>."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Online-Shops in der Schweiz sind gesetzlich verpflichtet, die Kosten für die Rücksendung von Waren immer zu übernehmen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Es ist <strong>nicht gesetzlich vorgeschrieben</strong>, dass Online-Shops in der Schweiz immer die Rücksendekosten übernehmen müssen.",
+      "feedback_incorrect": "❌ Falsch! Es ist <strong>nicht gesetzlich vorgeschrieben</strong>, dass Online-Shops in der Schweiz immer die Rücksendekosten übernehmen müssen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wenn in den AGB eines Online-Shops nichts zu den Versandkosten bei Retouren steht, muss der Kunde die Kosten trotzdem übernehmen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Auch wenn nichts in den AGB steht, gilt <strong>grundsätzlich das Gesetz</strong>, wonach der Kunde die Versandkosten trägt.",
+      "feedback_incorrect": "❌ Falsch! Auch ohne AGB-Regelung gilt <strong>grundsätzlich das Gesetz</strong>, wonach der Kunde die Versandkosten trägt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>AGB gelten automatisch, sobald man eine Bestellung in einem Online-Shop aufgibt, unabhängig davon, ob man sie gesehen oder bestätigt hat.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! AGB gelten <strong>nicht automatisch</strong>. Man muss auf sie hingewiesen werden und die Möglichkeit haben, sie zu lesen.",
+      "feedback_incorrect": "❌ Falsch! AGB gelten <strong>nicht automatisch</strong>. Man muss auf sie hingewiesen werden und die Möglichkeit haben, sie zu lesen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Tatsache, dass manche Online-Shops freiwillig die Rücksendekosten übernehmen, bedeutet, dass dies eigentlich eine gesetzliche Pflicht sein sollte.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Nur weil einige Shops kulant sind, heisst das <strong>nicht, dass es eine gesetzliche Pflicht ist</strong>. Es handelt sich um eine freiwillige Leistung.",
+      "feedback_incorrect": "❌ Falsch! Die Kulanz einiger Shops bedeutet <strong>nicht, dass es eine gesetzliche Pflicht ist</strong>. Es bleibt eine freiwillige Leistung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Das nochmalige Durchlesen der AGB ist nur dann wichtig, wenn man bereits ein ungutes Gefühl bei einer Bestellung hat.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Es ist <strong>immer ratsam</strong>, die AGB zu überprüfen, nicht nur bei einem unguten Gefühl, um Missverständnisse zu vermeiden.",
+      "feedback_incorrect": "❌ Falsch! Es ist <strong>immer ratsam</strong>, die AGB zu überprüfen, nicht nur bei einem unguten Gefühl, um Missverständnisse zu vermeiden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Online-Bewertungen und Kommentare sind eine hundertprozentig zuverlässige Methode, um die Vertrauenswürdigkeit eines Online-Shops zu garantieren.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Online-Bewertungen sind <strong>hilfreich, aber keine Garantie</strong> für absolute Vertrauenswürdigkeit. Es können auch gefälschte Bewertungen existieren.",
+      "feedback_incorrect": "❌ Falsch! Online-Bewertungen sind <strong>hilfreich, aber keine Garantie</strong> für absolute Vertrauenswürdigkeit. Es können auch gefälschte Bewertungen existieren."
+    }
+  ]
+}
