@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Fehler in der Werbung",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2020/09/Espresso_10-09-2020-814.mp3",
+    "source": "https://www.srf.ch/sendungen/kassensturz-espresso/rechtsfragen/kaufrecht/fehler-in-der-werbung-preise-in-prospekten-sind-verbindlich-oder-liege-ich-falsch"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was wollte Espresso-Hörerin Margrit Müller ursprünglich bestellen, als sie den Flyer sah?</p>",
+      "options": [
+        {
+          "text": "Einen neuen Fernseher.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Margrit Müller wollte keinen Fernseher bestellen. Sie interessierte sich für einen <strong>Kittel</strong>."
+        },
+        {
+          "text": "Einen Kittel.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Margrit Müller wollte einen <strong>Kittel</strong> bestellen, der im Flyer beworben wurde."
+        },
+        {
+          "text": "Ein Paar Schuhe.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Margrit Müller suchte keine Schuhe. Es ging um einen <strong>Kittel</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welchen Preis für den Kittel fand Margrit Müller im Prospekt?</p>",
+      "options": [
+        {
+          "text": "239 Franken.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 239 Franken war der Preis auf der Webseite. Im Prospekt stand ein anderer Preis, nämlich <strong>139 Franken</strong>."
+        },
+        {
+          "text": "139 Franken.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Im Prospekt wurde der Kittel für <strong>139 Franken</strong> angeboten."
+        },
+        {
+          "text": "100 Franken.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 100 Franken ist die Preisdifferenz, aber nicht der Preis im Prospekt. Der Preis im Prospekt war <strong>139 Franken</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo entdeckte Margrit Müller den höheren Preis für den Kittel?</p>",
+      "options": [
+        {
+          "text": "Im Radio.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Margrit Müller hörte den Preis nicht im Radio. Sie sah den höheren Preis auf der <strong>Webseite</strong>."
+        },
+        {
+          "text": "Auf der Webseite des Händlers.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Margrit Müller bemerkte den höheren Preis auf der <strong>Webseite des Händlers</strong>."
+        },
+        {
+          "text": "Auf der Rechnung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sie sah den Preis nicht erst auf der Rechnung, sondern bereits auf der <strong>Webseite</strong>, bevor sie bestellte."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Um welche Art von Werbung ging es in Margrit Müllers Fall?</p>",
+      "options": [
+        {
+          "text": "Fernsehwerbung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ging nicht um Fernsehwerbung, sondern um Werbung in einem <strong>Flyer</strong>."
+        },
+        {
+          "text": "Radiowerbung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es handelte sich nicht um Radiowerbung, sondern um einen <strong>Flyer</strong>, der in ihrem Briefkasten lag."
+        },
+        {
+          "text": "Flyer im Briefkasten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Margrit Müller erhielt einen <strong>Flyer im Briefkasten</strong>, der die Aktion bewarb."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte Margrit Müller laut Gabriela Baumgartner tun, wenn ihr der Preis auf der Rechnung zu hoch gewesen wäre und sie den Kittel online bestellt hätte?</p>",
+      "options": [
+        {
+          "text": "Sofort zur Polizei gehen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Gang zur Polizei ist hier nicht der erste Schritt. Sie sollte zuerst die <strong>AGB des Ladens prüfen</strong>."
+        },
+        {
+          "text": "In den allgemeinen Geschäftsbedingungen (AGB) des Ladens nachschauen, ob sie ein Widerrufsrecht hat.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Sie sollte in den <strong>AGB des Ladens nachschauen</strong>, um zu prüfen, ob ein <strong>Widerrufsrecht</strong> besteht."
+        },
+        {
+          "text": "Den Kittel einfach nicht annehmen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Nicht-Annehmen allein reicht nicht. Sie muss klären, ob ein <strong>Widerrufsrecht</strong> besteht, was in den <strong>AGB</strong> steht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet es, wenn gesagt wird, Preise in der Werbung sind 'nicht verbindlich'?</p>",
+      "options": [
+        {
+          "text": "Der Händler muss den Preis in der Werbung immer einhalten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 'Nicht verbindlich' bedeutet gerade, dass der Händler den Preis in der Werbung <strong>nicht zwingend einhalten muss</strong>."
+        },
+        {
+          "text": "Der Händler kann den Preis im Laden oder online ändern, auch wenn er im Prospekt anders angegeben ist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! 'Nicht verbindlich' heisst, dass der <strong>Preis im Laden oder online massgebend</strong> ist und von der Werbung abweichen kann."
+        },
+        {
+          "text": "Der Preis in der Werbung gilt nur für Neukunden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Verbindlichkeit hat nichts mit Neu- oder Bestandskunden zu tun. Es geht darum, dass <strong>Werbepreise generell nicht bindend</strong> sind."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum muss man bei Online-Bestellungen in der Schweiz besonders aufmerksam sein, wenn es um das Rückgaberecht geht?</p>",
+      "options": [
+        {
+          "text": "Weil das Rückgaberecht in der Schweiz gesetzlich automatisch garantiert ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gerade weil das <strong>Rückgaberecht in der Schweiz nicht automatisch gesetzlich garantiert</strong> ist, muss man aufmerksam sein."
+        },
+        {
+          "text": "Weil ein Rückgaberecht nur gilt, wenn man per Kreditkarte bezahlt hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Zahlungsart spielt keine Rolle für das Rückgaberecht. Entscheidend ist, dass es <strong>kein automatisches gesetzliches Rückgaberecht</strong> gibt."
+        },
+        {
+          "text": "Weil es in der Schweiz kein automatisches gesetzliches Rückgaberecht für Online-Bestellungen gibt, ausser bei bestimmten Vertragsabschlüssen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! In der Schweiz gibt es <strong>kein automatisches Rückgaberecht</strong> für Online-Käufe, daher muss man auf die <strong>freiwilligen Regelungen der Händler</strong> achten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>In welchen Situationen haben Konsumenten in der Schweiz ein gesetzliches Widerrufsrecht?</p>",
+      "options": [
+        {
+          "text": "Nur bei Käufen im Laden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bei Käufen im Laden gibt es in der Regel <strong>kein gesetzliches Widerrufsrecht</strong>."
+        },
+        {
+          "text": "Bei Verträgen, die an der Haustür, am Telefon oder an einer Werbeveranstaltung abgeschlossen wurden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein <strong>gesetzliches Widerrufsrecht</strong> besteht bei Verträgen, die an der <strong>Haustür, am Telefon oder an Werbeveranstaltungen</strong> geschlossen wurden."
+        },
+        {
+          "text": "Immer, wenn ein Produkt online bestellt wurde.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Für Online-Bestellungen gibt es <strong>kein generelles gesetzliches Widerrufsrecht</strong> in der Schweiz."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was sollte man tun, wenn man einen falsch angeschriebenen Preis in der Werbung entdeckt?</p>",
+      "options": [
+        {
+          "text": "Sofort eine Beschwerde beim Konsumentenschutz einreichen.",
+          "is_correct": false,
+          "feedback": "❌ Nicht unbedingt sofort. Es ist wichtig zu wissen, dass <strong>Werbepreise oft nicht verbindlich</strong> sind. Eine Beschwerde ist nicht immer der erste Schritt."
+        },
+        {
+          "text": "Sich bewusst sein, dass der Preis in der Werbung meist nicht verbindlich ist und den Preis im Laden oder online überprüfen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Es ist wichtig zu verstehen, dass <strong>Werbepreise in der Regel nicht verbindlich</strong> sind und man den <strong>aktuellen Preis überprüfen</strong> sollte."
+        },
+        {
+          "text": "Auf den Preis in der Werbung bestehen und den Händler rechtlich belangen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Da <strong>Werbepreise meist nicht verbindlich</strong> sind, hat man in der Regel <strong>keinen rechtlichen Anspruch</strong> auf den beworbenen Preis."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Hauptunterschied zwischen einem 'verbindlichen' und einem 'nicht verbindlichen' Preis im Kontext von Werbung?</p>",
+      "options": [
+        {
+          "text": "Ein verbindlicher Preis gilt nur für kurze Zeit, ein nicht verbindlicher Preis dauerhaft.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Dauer der Gültigkeit ist nicht der Hauptunterschied. Es geht darum, ob der <strong>Händler an den Preis gebunden ist oder nicht</strong>."
+        },
+        {
+          "text": "Ein verbindlicher Preis muss vom Händler eingehalten werden, ein nicht verbindlicher Preis kann geändert werden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein <strong>verbindlicher Preis verpflichtet den Händler</strong>, während ein <strong>nicht verbindlicher Preis vom Händler geändert werden kann</strong>."
+        },
+        {
+          "text": "Ein verbindlicher Preis gilt nur für Online-Käufe, ein nicht verbindlicher Preis für Käufe im Laden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Unterscheidung zwischen verbindlich und nicht verbindlich bezieht sich nicht auf den Ort des Kaufs, sondern auf die <strong>Zusicherung des Preises durch den Händler</strong>."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Laut Gabriela Baumgartner sind Preise in Prospekten und Flyern in der Schweiz immer verbindlich.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Preise in Prospekten und Flyern sind in der Schweiz <strong>nicht verbindlich</strong>.",
+      "feedback_incorrect": "❌ Falsch. Preise in Prospekten und Flyern sind eben <strong>nicht verbindlich</strong> in der Schweiz."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Margrit Müller wollte einen Kittel für 139 Franken bestellen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Margrit Müller wollte tatsächlich einen <strong>Kittel für 139 Franken</strong> bestellen, den sie im Prospekt gesehen hatte.",
+      "feedback_incorrect": "❌ Falsch. Es stimmt, Margrit Müller wollte einen <strong>Kittel für 139 Franken</strong> bestellen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Auf der Webseite des Händlers kostete der Kittel 139 Franken.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Auf der Webseite kostete der Kittel <strong>239 Franken</strong>, nicht 139 Franken.",
+      "feedback_incorrect": "❌ Falsch. Auf der Webseite war der Preis <strong>höher</strong>, nämlich 239 Franken."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Auch wenn ein Preis in der Werbung falsch ist, muss der Händler ihn dem Kunden zum beworbenen Preis verkaufen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Da Werbepreise in der Schweiz meist <strong>nicht verbindlich</strong> sind, muss der Händler den <strong>falschen Preis nicht einhalten</strong>.",
+      "feedback_incorrect": "❌ Falsch. Gerade weil Werbepreise <strong>nicht verbindlich</strong> sind, ist der Händler <strong>nicht verpflichtet</strong>, einen falschen Preis einzuhalten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>In der Schweiz haben Konsumenten immer ein automatisches Rückgaberecht bei Online-Bestellungen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Ein <strong>automatisches Rückgaberecht</strong> bei Online-Bestellungen gibt es in der Schweiz <strong>nicht generell</strong>.",
+      "feedback_incorrect": "❌ Falsch. Es gibt eben <strong>kein automatisches Rückgaberecht</strong> für alle Online-Bestellungen in der Schweiz."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein freiwilliges Rückgaberecht des Händlers ist etwas anderes als ein gesetzliches Widerrufsrecht.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Ein <strong>freiwilliges Rückgaberecht</strong> ist eine Kulanzleistung des Händlers, während ein <strong>gesetzliches Widerrufsrecht</strong> auf dem Gesetz basiert.",
+      "feedback_incorrect": "❌ Falsch. Es ist richtig, dass ein <strong>freiwilliges Rückgaberecht</strong> und ein <strong>gesetzliches Widerrufsrecht</strong> unterschiedliche Dinge sind."
+    }
+  ]
+}

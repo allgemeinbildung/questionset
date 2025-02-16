@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen 10.000 Euro",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/SRF-4-News/2024/04/BARGELD.mp3",
+    "source": "https://www.srf.ch/audio/srf-4-news/10-000-euro-die-neue-obergrenze-fuer-bargeldzahlungen-in-der-eu?uuid=d99d5a35-30d3-45ac-a756-9450ca898902"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie hoch ist die neue Obergrenze für Bargeldzahlungen, die vom EU-Parlament beschlossen wurde?</p>",
+      "options": [
+        {
+          "text": "5.000 Euro",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Obergrenze liegt bei <strong>10.000 Euro</strong>, nicht bei 5.000 Euro."
+        },
+        {
+          "text": "10.000 Euro",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die neue Obergrenze für Bargeldzahlungen in der EU beträgt <strong>10.000 Euro</strong>."
+        },
+        {
+          "text": "20.000 Euro",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Obergrenze liegt bei <strong>10.000 Euro</strong> und nicht bei 20.000 Euro."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer hat das neue Gesetz zur Bargeldobergrenze in der EU angenommen?</p>",
+      "options": [
+        {
+          "text": "Der Europäische Rat",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Gesetz wurde vom <strong>EU-Parlament</strong> angenommen, nicht vom Europäischen Rat."
+        },
+        {
+          "text": "Das EU-Parlament",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das <strong>EU-Parlament</strong> hat das Gesetz zur Bargeldobergrenze angenommen."
+        },
+        {
+          "text": "Die Europäische Zentralbank",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Europäische Zentralbank</strong> war nicht direkt an der Annahme des Gesetzes beteiligt. Es war das EU-Parlament."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist das Hauptziel der EU mit der Einführung der Bargeldobergrenze?</p>",
+      "options": [
+        {
+          "text": "Die Förderung des digitalen Zahlungsverkehrs",
+          "is_correct": false,
+          "feedback": "❌ Nicht primär. Obwohl es den digitalen Zahlungsverkehr fördert, ist das Hauptziel die <strong>Bekämpfung der Geldwäscherei</strong>."
+        },
+        {
+          "text": "Die Bekämpfung der Geldwäscherei",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Hauptziel der Massnahme ist die <strong>Bekämpfung der Geldwäscherei</strong>."
+        },
+        {
+          "text": "Die Erhöhung der Steuereinnahmen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Hauptziel ist die <strong>Bekämpfung der Geldwäscherei</strong>, nicht primär die Erhöhung der Steuereinnahmen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Land der EU liegt die Bargeldobergrenze bereits bei 1.000 Euro?</p>",
+      "options": [
+        {
+          "text": "Italien",
+          "is_correct": false,
+          "feedback": "❌ Falsch. In <strong>Frankreich</strong> liegt die Obergrenze bei 1.000 Euro, in Italien bei 5.000 Euro."
+        },
+        {
+          "text": "Deutschland",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Deutschland</strong> hatte bisher keine Obergrenze. Frankreich hat eine Obergrenze von 1.000 Euro."
+        },
+        {
+          "text": "Frankreich",
+          "is_correct": true,
+          "feedback": "✅ Richtig! In <strong>Frankreich</strong> liegt die Bargeldobergrenze bereits bei <strong>1.000 Euro</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Bis zu welchem Betrag dürfen Edelmetalle in der Schweiz bar gekauft werden, bevor Einschränkungen gelten?</p>",
+      "options": [
+        {
+          "text": "Etwa 15.000 CHF",
+          "is_correct": true,
+          "feedback": "✅ Richtig! In der Schweiz gibt es Einschränkungen beim Barkauf von Edelmetallen ab etwa <strong>15.000 CHF</strong>."
+        },
+        {
+          "text": "Etwa 5.000 CHF",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Grenze für den Barkauf von Edelmetallen in der Schweiz liegt bei etwa <strong>15.000 CHF</strong>, nicht bei 5.000 CHF."
+        },
+        {
+          "text": "Etwa 25.000 CHF",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Grenze für den Barkauf von Edelmetallen in der Schweiz liegt bei etwa <strong>15.000 CHF</strong>, nicht bei 25.000 CHF."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum argumentiert die EU, dass Personen, die grössere Beträge bar bezahlen, möglicherweise etwas zu verbergen haben?</p>",
+      "options": [
+        {
+          "text": "Weil grössere Beträge heute üblicherweise bargeldlos bezahlt werden und Barzahlungen in dieser Höhe ungewöhnlich sind.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die EU argumentiert, dass grössere Beträge üblicherweise <strong>bargeldlos</strong> bezahlt werden und Barzahlungen in dieser Höhe deshalb <strong>Verdacht</strong> erregen."
+        },
+        {
+          "text": "Weil Barzahlungen generell illegal sind und vermieden werden sollten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Barzahlungen sind nicht illegal</strong>, aber die EU vermutet bei grossen Barzahlungen eher <strong>Geldwäscherei</strong>."
+        },
+        {
+          "text": "Weil die EU den Bargeldverkehr vollständig abschaffen möchte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die EU möchte den <strong>Bargeldverkehr kontrollieren</strong>, aber nicht vollständig abschaffen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Branchen sind laut Text besonders von der neuen Bargeldobergrenze in der EU betroffen?</p>",
+      "options": [
+        {
+          "text": "Supermärkte und Tankstellen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Obergrenze betrifft eher Branchen mit <strong>grossen Transaktionen</strong> wie Autokäufe, Kunst und Immobilien."
+        },
+        {
+          "text": "Autokäufe, Luxusgüter, Kunst und Immobilien",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Bargeldobergrenze betrifft vor allem Branchen wie <strong>Autokäufe</strong>, <strong>Luxusgüter</strong>, <strong>Kunst</strong> und die <strong>Immobilienbranche</strong>, wo oft grosse Bargeldbeträge fliessen."
+        },
+        {
+          "text": "Restaurants und kleine Einzelhandelsgeschäfte",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Obergrenze zielt auf <strong>grössere Transaktionen</strong> ab, nicht auf alltägliche Geschäfte wie Restaurants oder kleine Einzelhandelsgeschäfte."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum gibt es in einigen EU-Ländern und in der Schweiz Bestrebungen, Bargeld in der Verfassung zu verankern?</p>",
+      "options": [
+        {
+          "text": "Um die vollständige Abschaffung des Bargelds zu verhindern und die Freiheit der Bürger zu schützen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Diese Bestrebungen zielen darauf ab, <strong>Bargeld zu schützen</strong> und die <strong>Freiheit der Bürger</strong> im Umgang mit ihrem Geld zu gewährleisten."
+        },
+        {
+          "text": "Um die Akzeptanz von Bargeld im Einzelhandel zu erhöhen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht primär um den <strong>Schutz des Bargelds</strong> als Zahlungsmittel und weniger um die Akzeptanz im Handel."
+        },
+        {
+          "text": "Um die Kontrolle über Bargeldtransaktionen zu erleichtern.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Verankerung in der Verfassung zielt eher auf den <strong>Schutz des Bargelds vor staatlicher Kontrolle</strong> ab."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet die Aussage, dass EU-Bürger und Bürgerinnen durch die Bargeldobergrenze 'gläserner' werden?</p>",
+      "options": [
+        {
+          "text": "Dass ihre Bargeldtransaktionen stärker überwacht und nachverfolgt werden können.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! 'Gläserner' bedeutet in diesem Zusammenhang, dass <strong>Geldzahlungen besser überwacht</strong> und die <strong>Transparenz erhöht</strong> wird."
+        },
+        {
+          "text": "Dass sie mehr Bargeld als zuvor verwenden werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 'Gläserner' bezieht sich auf die <strong>erhöhte Überwachung</strong>, nicht auf eine vermehrte Nutzung von Bargeld."
+        },
+        {
+          "text": "Dass sie weniger Datenschutzrechte haben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl es Datenschutzaspekte gibt, bezieht sich 'gläserner' primär auf die <strong>Transparenz von Finanztransaktionen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Schlussfolgerung zieht der Sprecher bezüglich des Drucks auf die Schweiz durch die neue EU-Regelung?</p>",
+      "options": [
+        {
+          "text": "Die Schweiz wird wahrscheinlich dem Beispiel der EU folgen müssen, um nicht auf eine 'schwarze Liste' zu geraten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Sprecher vermutet, dass der <strong>Druck auf die Schweiz steigen wird</strong>, sich der EU-Regelung anzupassen, um negative Konsequenzen zu vermeiden."
+        },
+        {
+          "text": "Die Schweiz kann die EU-Regelung ignorieren, da sie nicht Mitglied der EU ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Sprecher deutet an, dass die Schweiz <strong>nicht unbeeinflusst</strong> bleiben wird und sich dem Druck möglicherweise anpassen muss."
+        },
+        {
+          "text": "Die Schweiz wird eine noch strengere Bargeldobergrenze einführen als die EU.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wird eher erwartet, dass die Schweiz sich <strong>an die EU-Regelung anpasst</strong>, nicht dass sie diese übertrifft."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die neue Bargeldobergrenze der EU gilt auch für private Schenkungen zwischen Familienmitgliedern.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! <strong>Private Schenkungen</strong>, wie z.B. von einem Grossvater an seine Enkelin, sind <strong>nicht von der Obergrenze betroffen</strong>.",
+      "feedback_incorrect": "❌ Falsch. <strong>Private Schenkungen</strong> sind <strong>ausgenommen</strong>, die Obergrenze gilt hauptsächlich für Zahlungen im Geschäftsverkehr."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>In Italien wurde die Bargeldobergrenze kürzlich von 1.000 Euro auf 5.000 Euro gesenkt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Bargeldobergrenze in Italien wurde <strong>von 1.000 Euro auf 5.000 Euro angehoben</strong>, nicht gesenkt.",
+      "feedback_incorrect": "❌ Falsch. Die Grenze wurde <strong>angehoben</strong>, um Bargeldzahlungen zu erleichtern, nicht gesenkt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>In der Schweiz muss man an der Grenze Auskunft geben, wenn man mehr als 10.000 CHF Bargeld mit sich führt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! In der Schweiz besteht eine <strong>Auskunftspflicht an der Grenze</strong>, wenn man mehr als <strong>10.000 CHF Bargeld</strong> dabei hat.",
+      "feedback_incorrect": "❌ Falsch. Es gibt tatsächlich eine <strong>Auskunftspflicht</strong> in der Schweiz für Bargeldbeträge über 10.000 CHF an der Grenze."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Bargeldobergrenze in der EU soll hauptsächlich den Konsum ankurbeln.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Das Hauptziel ist die <strong>Bekämpfung der Geldwäscherei</strong> und nicht die Ankurbelung des Konsums.",
+      "feedback_incorrect": "❌ Falsch. Das Hauptziel der Bargeldobergrenze ist die <strong>Bekämpfung der Geldwäscherei</strong>, nicht die Förderung des Konsums."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Einführung von Bargeldobergrenzen wird von allen EU-Bürgern und Bürgerinnen positiv aufgenommen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Es gibt <strong>Gegenbewegungen</strong> und Kritik an der Bargeldobergrenze, da viele Bargeld als <strong>Symbol der Freiheit</strong> sehen.",
+      "feedback_incorrect": "❌ Falsch. Es gibt auch <strong>kritische Stimmen</strong> und <strong>Gegenbewegungen</strong>, die Bargeld schützen wollen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Schweiz hat staatlich verordnete Einschränkungen bei der Bargeldannahme in Geschäften, ähnlich wie die neue EU-Regelung.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! In der Schweiz gibt es <strong>keine staatlich verordneten Bargeldobergrenzen</strong> im Geschäftsverkehr, aber es gibt <strong>freiwillige Einschränkungen</strong> durch Geschäfte und Banken.",
+      "feedback_incorrect": "❌ Falsch. Die Einschränkungen in der Schweiz sind <strong>nicht staatlich verordnet</strong>, sondern basieren auf Entscheidungen von Geschäften und Banken."
+    }
+  ]
+}

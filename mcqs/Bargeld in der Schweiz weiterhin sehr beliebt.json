@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Bargeld in der Schweiz weiterhin sehr beliebt",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/SRF-4-News/2024/10/bargeld.mp3",
+    "source": "https://www.srf.ch/audio/srf-4-news/bargeld-in-der-schweiz-weiterhin-sehr-beliebt?uuid=5aed3c69-b783-43a5-b9ef-b0a10d174e5c"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Beratungsunternehmen hat eine Studie zur Beliebtheit von Bargeld in der Schweiz veröffentlicht?</p>",
+      "options": [
+        {
+          "text": "KPMG",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Studie wurde nicht von KPMG veröffentlicht, sondern von der <strong>Boston Consulting Group</strong>."
+        },
+        {
+          "text": "Deloitte",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Deloitte war nicht für diese Studie verantwortlich. Es war die <strong>Boston Consulting Group</strong>."
+        },
+        {
+          "text": "Boston Consulting Group",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Studie stammt von der <strong>Boston Consulting Group</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele elektronische Zahlungen tätigten die Menschen in der Schweiz im Durchschnitt im vergangenen Jahr?</p>",
+      "options": [
+        {
+          "text": "Rund 800",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 800 elektronische Zahlungen tätigten die <strong>Norweger</strong>. Die Schweizer tätigten <strong>405</strong> elektronische Zahlungen."
+        },
+        {
+          "text": "Rund 405",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Schweizer tätigten im Schnitt <strong>405 elektronische Zahlungen</strong> im vergangenen Jahr."
+        },
+        {
+          "text": "Rund 194",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 194 elektronische Zahlungen tätigten die <strong>Italiener</strong>. Die Schweizer tätigten <strong>405</strong> elektronische Zahlungen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Land in Europa tätigte im Jahr 2023 die wenigsten elektronischen Zahlungen im Durchschnitt?</p>",
+      "options": [
+        {
+          "text": "Deutschland",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Deutschen tätigten mehr elektronische Zahlungen als die <strong>Italiener</strong>, welche am wenigsten elektronisch zahlten."
+        },
+        {
+          "text": "Schweiz",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schweiz liegt im europäischen Vergleich im hinteren Drittel, aber die wenigsten elektronischen Zahlungen tätigten die <strong>Italiener</strong>."
+        },
+        {
+          "text": "Italien",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Italien</strong> hatte im Jahr 2023 die wenigsten elektronischen Zahlungen im europäischen Vergleich."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Um wie viel Prozent ist die Nutzung digitaler Zahlungsmittel in der Schweiz im Vergleich zu 2022 gestiegen?</p>",
+      "options": [
+        {
+          "text": "Um 5%",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Nutzung digitaler Zahlungsmittel ist um mehr als 5% gestiegen, nämlich um <strong>9%</strong>."
+        },
+        {
+          "text": "Um 9%",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Nutzung digitaler Zahlungsmittel ist in der Schweiz um <strong>9%</strong> gestiegen."
+        },
+        {
+          "text": "Um 15%",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Steigerung betrug <strong>9%</strong>, nicht 15%."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Institution hat eine Erhebung bei Detailhändlern, Cafés und Restaurants in der Schweiz durchgeführt?</p>",
+      "options": [
+        {
+          "text": "Die Schweizerische Nationalbank",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Erhebung wurde von der <strong>Schweizerischen Nationalbank</strong> durchgeführt."
+        },
+        {
+          "text": "Das Bundesamt für Statistik",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Bundesamt für Statistik war nicht für diese Erhebung verantwortlich, sondern die <strong>Schweizerische Nationalbank</strong>."
+        },
+        {
+          "text": "Die Boston Consulting Group",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Boston Consulting Group hat eine Studie veröffentlicht, aber die Erhebung stammt von der <strong>Schweizerischen Nationalbank</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum schätzen viele Menschen in der Schweiz Bargeld laut der Erhebung der Nationalbank?</p>",
+      "options": [
+        {
+          "text": "Weil sie digitale Zahlungsmittel nicht verstehen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Gründe sind nicht mangelndes Verständnis, sondern eher die empfundene <strong>Sicherheit</strong>, <strong>Krisenfestigkeit</strong> und <strong>Kosten</strong> von Bargeld."
+        },
+        {
+          "text": "Weil sie Bargeld als sicherer, krisenfester und kostengünstiger empfinden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Viele schätzen Bargeld, weil sie es als <strong>sicherer</strong>, <strong>krisenfester</strong> und <strong>kostengünstiger</strong> wahrnehmen."
+        },
+        {
+          "text": "Weil es in der Schweiz keine Gebühren für Kartenzahlungen gibt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt Gebühren für Kartenzahlungen, und dies ist einer der Gründe, warum Bargeld als <strong>kostengünstiger</strong> wahrgenommen wird."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet die hohe Bargeldquote in der Schweiz für Digitaldienstleister laut den Studienautoren?</p>",
+      "options": [
+        {
+          "text": "Dass der Markt für digitale Zahlungen in der Schweiz bereits gesättigt ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die hohe Bargeldquote bedeutet das Gegenteil: Der Markt ist <strong>nicht gesättigt</strong> und bietet noch viel <strong>Potenzial</strong>."
+        },
+        {
+          "text": "Dass es in der Schweiz noch viel Potenzial für digitale Zahlungsdienste gibt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Studienautoren sehen in der hohen Bargeldquote ein Zeichen dafür, dass es noch viel <strong>Potenzial für Digitaldienstleister</strong> in der Schweiz gibt."
+        },
+        {
+          "text": "Dass Schweizer Konsumenten generell wenig Interesse an neuen Technologien haben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Präferenz für Bargeld ist nicht unbedingt ein Zeichen für mangelndes Interesse an Technologie, sondern eher für <strong>Sicherheitsbedenken</strong> und <strong>Kostenwahrnehmung</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wie schneidet die Schweiz im europäischen Vergleich bei der Nutzung elektronischer Zahlungsmittel ab?</p>",
+      "options": [
+        {
+          "text": "Sie liegt im europäischen Spitzenfeld.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schweiz liegt nicht im Spitzenfeld, sondern eher im <strong>hinteren Drittel</strong> des europäischen Vergleichs."
+        },
+        {
+          "text": "Sie liegt im europäischen Mittelfeld.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schweiz liegt eher im <strong>hinteren Drittel</strong>, nicht im Mittelfeld."
+        },
+        {
+          "text": "Sie liegt im europäischen hinteren Drittel.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Im europäischen Vergleich liegt die Schweiz bei der Nutzung elektronischer Zahlungsmittel im <strong>hinteren Drittel</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Aussage beschreibt die Entwicklung der Nutzung digitaler Zahlungsmittel in der Schweiz?</p>",
+      "options": [
+        {
+          "text": "Sie ist rückläufig im Vergleich zum Vorjahr.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Nutzung digitaler Zahlungsmittel ist nicht rückläufig, sondern <strong>gestiegen</strong>."
+        },
+        {
+          "text": "Sie ist gestiegen, aber im europäischen Vergleich immer noch vergleichsweise niedrig.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Nutzung digitaler Zahlungsmittel ist <strong>gestiegen</strong>, aber die Bargeldquote ist im europäischen Vergleich immer noch <strong>hoch</strong>."
+        },
+        {
+          "text": "Sie ist konstant geblieben im Vergleich zum Vorjahr.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gab eine Veränderung, nämlich eine <strong>Steigerung</strong> der Nutzung digitaler Zahlungsmittel."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist ein möglicher Grund dafür, dass die Deutschen seltener digital bezahlen als die Schweizer?</p>",
+      "options": [
+        {
+          "text": "Die Deutschen sind technikfeindlicher als die Schweizer.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt keine Hinweise im Text, dass <strong>Technikfeindlichkeit</strong> der Hauptgrund ist. Es könnten andere kulturelle oder wirtschaftliche Faktoren eine Rolle spielen."
+        },
+        {
+          "text": "Der Text macht keine Aussage darüber, ob Deutsche seltener digital bezahlen als Schweizer.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Text sagt explizit, dass die <strong>Deutschen es seltener tun als die Schweizer</strong>, aber seltener als die Schweizer, nicht häufiger."
+        },
+        {
+          "text": "Der Text sagt, dass die Deutschen es seltener tun als die Schweizer, aber nennt keine Gründe dafür.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Text erwähnt, dass die Deutschen seltener digital bezahlen als die Schweizer, gibt aber <strong>keine spezifischen Gründe</strong> dafür an."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Norwegen ist das europäische Land mit den meisten elektronischen Zahlungen pro Kopf.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! <strong>Norwegen</strong> führt den europäischen Vergleich mit den meisten elektronischen Zahlungen an.",
+      "feedback_incorrect": "❌ Falsch. <strong>Norwegen</strong> und nicht Italien ist das Land mit den meisten elektronischen Zahlungen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Studie der Boston Consulting Group zeigt, dass die Bargeldnutzung in der Schweiz abnimmt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Studie zeigt, dass die <strong>Bargeldnutzung in der Schweiz weiterhin hoch</strong> ist, auch wenn die Nutzung digitaler Zahlungsmittel steigt.",
+      "feedback_incorrect": "❌ Falsch. Die Studie zeigt, dass die <strong>Bargeldnutzung weiterhin hoch</strong> ist, auch wenn digitale Zahlungen zunehmen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Bargeld wird von vielen als weniger krisenfest als digitale Zahlungsmittel angesehen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Viele Menschen in der Schweiz sehen Bargeld als <strong>krisenfester</strong> an als digitale Zahlungsmittel.",
+      "feedback_incorrect": "❌ Falsch. Viele sehen Bargeld gerade als <strong>krisenfester</strong> im Vergleich zu digitalen Zahlungsmitteln."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine hohe Bargeldquote in einem Land deutet auf ein geringes Potenzial für Digitaldienstleister hin.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Eine hohe Bargeldquote deutet eher auf ein <strong>hohes Potenzial</strong> für Digitaldienstleister hin, da noch viele Menschen Bargeld nutzen.",
+      "feedback_incorrect": "❌ Falsch. Eine hohe Bargeldquote deutet auf ein <strong>Potenzial</strong> für Digitaldienstleister hin, da es noch Raum für Wachstum gibt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Wahrnehmung, dass Barzahlen günstiger ist als mit Karte zu zahlen, basiert auf der Annahme, dass keine direkten Gebühren anfallen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Wahrnehmung der Kostengünstigkeit von Bargeld basiert auf der Annahme, dass beim Barzahlen <strong>keine direkten Gebühren</strong> für den Konsumenten anfallen.",
+      "feedback_incorrect": "❌ Falsch. Diese Wahrnehmung basiert tatsächlich auf der Annahme, dass beim Barzahlen <strong>keine direkten Gebühren</strong> anfallen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die steigende Nutzung digitaler Zahlungsmittel in der Schweiz bedeutet, dass die Präferenz für Bargeld in der Bevölkerung abnimmt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Obwohl die Nutzung digitaler Zahlungsmittel steigt, bedeutet dies nicht zwangsläufig, dass die <strong>Präferenz für Bargeld abnimmt</strong>. Beides kann parallel existieren.",
+      "feedback_incorrect": "❌ Falsch. Die steigende Nutzung digitaler Zahlungsmittel schliesst eine <strong>anhaltende Präferenz für Bargeld</strong> nicht aus."
+    }
+  ]
+}

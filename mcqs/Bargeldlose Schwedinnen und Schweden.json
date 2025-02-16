@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Bargeldlose Schwedinnen und Schweden",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Echo-der-Zeit-radio/2023/06/Echo-der-Zeit_08-06-2023-1809.mp3",
+    "source": "https://www.srf.ch/audio/echo-der-zeit/bargeldlose-schwedinnen-und-schweden?partId=9c0e2def-bf11-4583-bf3f-84d7b5035949#autoplay"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welchen Prozentsatz der Zahlungen in schwedischen Geschäften machen bargeldlose Transaktionen ungefähr aus?</p>",
+      "options": [
+        {
+          "text": "95%",
+          "is_correct": true,
+          "feedback": "✅ Richtig! In Schweden werden etwa <strong>95%</strong> der Zahlungen in Läden <strong>bargeldlos</strong> abgewickelt."
+        },
+        {
+          "text": "75%",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Anteil bargeldloser Zahlungen liegt in Schweden sogar noch höher, nämlich bei etwa <strong>95%</strong>."
+        },
+        {
+          "text": "50%",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>50%</strong> ist zu niedrig. Der Anteil bargeldloser Zahlungen in Schweden ist deutlich höher und liegt bei etwa <strong>95%</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Um wie viel Prozent hat die Anzahl der Bankomaten in Schweden in den letzten zehn Jahren ungefähr abgenommen?</p>",
+      "options": [
+        {
+          "text": "Um etwa 75%",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Es wird geschätzt, dass etwa <strong>75%</strong> der Bankomaten in Schweden in den letzten zehn Jahren <strong>verschwunden</strong> sind."
+        },
+        {
+          "text": "Um etwa 50%",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Rückgang ist noch stärker. Es wird von einem <strong>Rückgang um etwa 75%</strong> der Bankomaten gesprochen."
+        },
+        {
+          "text": "Um etwa 25%",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>25%</strong> ist zu niedrig. Der Rückgang der Bankomaten in Schweden ist deutlicher und wird auf etwa <strong>75%</strong> geschätzt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Jahr wurde der erste Bankomat in Schweden eröffnet?</p>",
+      "options": [
+        {
+          "text": "1968",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der erste Bankomat in Schweden wurde im Jahr <strong>1968</strong> eröffnet."
+        },
+        {
+          "text": "1978",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der erste Bankomat in Schweden wurde früher eröffnet, nämlich im Jahr <strong>1968</strong>."
+        },
+        {
+          "text": "1958",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der erste Bankomat in Schweden wurde im Jahr <strong>1968</strong> eröffnet, also später als 1958."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Technologie wurde in Schweden im Jahr 2003 eingeführt, die digitale Abläufe vereinfacht?</p>",
+      "options": [
+        {
+          "text": "eID (elektronische Identifikation)",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>eID</strong>, die elektronische Identifikation, wurde 2003 in Schweden eingeführt und vereinfachte digitale Prozesse."
+        },
+        {
+          "text": "Mobile Payment Apps",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Mobile Payment Apps</strong> wurden zwar auch in Schweden populär, aber die <strong>eID</strong> wurde bereits 2003 eingeführt."
+        },
+        {
+          "text": "Kreditkarten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Kreditkarten</strong> sind älter. Im Jahr 2003 wurde die <strong>eID</strong> eingeführt, um digitale Abläufe zu vereinfachen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Banküberfälle gab es im letzten Jahr in Schweden laut dem Beitrag?</p>",
+      "options": [
+        {
+          "text": "Keinen",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Im letzten Jahr gab es in Schweden <strong>keinen einzigen Banküberfall</strong>."
+        },
+        {
+          "text": "Einen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gab im letzten Jahr sogar <strong>keinen</strong> Banküberfall in Schweden."
+        },
+        {
+          "text": "Fünf",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Zahl der Banküberfälle ist in Schweden stark zurückgegangen. Im letzten Jahr gab es sogar <strong>keinen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Hauptkritik wird von Seniorenverbänden bezüglich des bargeldlosen Schwedens geäussert?</p>",
+      "options": [
+        {
+          "text": "Viele ältere Menschen haben keinen Zugang zu digitalen Zahlungsmitteln.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Seniorenverbände kritisieren, dass viele ältere Menschen <strong>keinen Zugang zu digitalen Zahlungsmitteln</strong> haben und dadurch benachteiligt werden."
+        },
+        {
+          "text": "Bargeldloses Bezahlen ist für Senioren zu kompliziert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hauptkritik ist der mangelnde <strong>Zugang zu digitalen Zahlungsmitteln</strong>, nicht unbedingt die Komplexität."
+        },
+        {
+          "text": "Senioren bevorzugen Bargeld aus nostalgischen Gründen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Kritik der Seniorenverbände bezieht sich primär auf den fehlenden <strong>Zugang zu digitalen Zahlungsmitteln</strong> und die daraus resultierende Exklusion."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist das Teilen von Rechnungen in Schweden mit digitalen Bezahl-Apps besonders einfach?</p>",
+      "options": [
+        {
+          "text": "Weil Apps es ermöglichen, Beträge direkt und genau aufzuteilen und zu überweisen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Digitale Bezahl-Apps erlauben es, Beträge <strong>direkt und genau aufzuteilen</strong> und den jeweiligen Anteil zu <strong>überweisen</strong>, was das Teilen von Rechnungen vereinfacht."
+        },
+        {
+          "text": "Weil schwedische Restaurants spezielle Apps zum Rechnungsteilen anbieten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es liegt an der Funktionalität der <strong>Bezahl-Apps</strong> selbst, die das <strong>Aufteilen und Überweisen</strong> erleichtern, nicht an speziellen Restaurant-Apps."
+        },
+        {
+          "text": "Weil in Schweden Trinkgeld unüblich ist und Rechnungen daher immer genau geteilt werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Auch wenn Trinkgeld eine Rolle spielen mag, der Hauptgrund ist die <strong>Funktionalität der Apps</strong>, die das <strong>genaue Aufteilen und Überweisen</strong> von Beträgen ermöglichen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen Vorteil des bargeldlosen Bezahlens betonen Befürworter hinsichtlich des ökologischen Fussabdrucks?</p>",
+      "options": [
+        {
+          "text": "Reduzierung von Transporten und des physischen Handlings von Bargeld.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Befürworter betonen, dass bargeldloses Bezahlen den <strong>Transport und das physische Handling von Bargeld reduziert</strong>, was den ökologischen Fussabdruck verringert."
+        },
+        {
+          "text": "Digitale Transaktionen verbrauchen weniger Energie als Bargeldtransaktionen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hauptvorteil liegt in der <strong>Reduzierung von Transporten und physischem Handling</strong>, nicht primär im Energieverbrauch der Transaktionen selbst."
+        },
+        {
+          "text": "Bargeldlose Zahlungen fördern umweltfreundlichere Konsumgewohnheiten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der ökologische Vorteil wird vor allem in der <strong>Reduzierung von Transporten und physischem Handling</strong> gesehen, nicht in einer direkten Änderung der Konsumgewohnheiten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist das 'Besondere' an der schwedischen Bevölkerung in Bezug auf digitale Spuren bei Zahlungen?</p>",
+      "options": [
+        {
+          "text": "Ein grosser Teil der Bevölkerung hat kein Problem mit der Nachverfolgbarkeit digitaler Zahlungen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Besondere ist, dass ein grosser Teil der schwedischen Bevölkerung, etwa <strong>90%</strong>, <strong>kein Problem mit der Nachverfolgbarkeit</strong> digitaler Zahlungen hat."
+        },
+        {
+          "text": "Die schwedische Bevölkerung ist sich der digitalen Spuren nicht bewusst.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Akzeptanz digitaler Spuren ist bewusst und hängt mit der <strong>schwedischen Tradition der Transparenz</strong> zusammen."
+        },
+        {
+          "text": "Die schwedische Regierung garantiert den Schutz der persönlichen Daten bei digitalen Zahlungen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl Datenschutz wichtig ist, liegt das 'Besondere' in der <strong>hohen Akzeptanz der Bevölkerung</strong> gegenüber der Transparenz digitaler Transaktionen, historisch bedingt durch das Öffentlichkeitsprinzip."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welches historische Gesetz in Schweden trägt zur Akzeptanz von Transparenz, auch bei digitalen Zahlungen, bei?</p>",
+      "options": [
+        {
+          "text": "Das Öffentlichkeitsprinzip aus dem 18. Jahrhundert.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das <strong>Öffentlichkeitsprinzip</strong> aus dem <strong>18. Jahrhundert</strong>, ein Transparenzgesetz, hat die Grundlage für die schwedische Akzeptanz von Transparenz geschaffen."
+        },
+        {
+          "text": "Das Datenschutzgesetz von 1970.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist das <strong>Öffentlichkeitsprinzip</strong> aus dem <strong>18. Jahrhundert</strong>, das die historische Grundlage für Transparenz in Schweden bildet."
+        },
+        {
+          "text": "Das Bankengesetz von 1900.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>Öffentlichkeitsprinzip</strong>, ein Gesetz aus dem <strong>18. Jahrhundert</strong>, ist der historische Grund für die schwedische Transparenztradition."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>In Schweden gibt es mehr Bankomaten als noch vor zehn Jahren.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Es gibt <strong>weniger</strong> Bankomaten als vor zehn Jahren. Etwa 75% der Bankomaten sind verschwunden.",
+      "feedback_incorrect": "❌ Falsch. Es gibt tatsächlich <strong>weniger</strong> Bankomaten als vor zehn Jahren."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Kinder in Schweden bekommen ihr Taschengeld traditionell in bar ausgezahlt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Taschengeld wird in Schweden schon seit langem <strong>elektronisch</strong> auf Mobiltelefone überwiesen.",
+      "feedback_incorrect": "❌ Falsch. Taschengeld wird in Schweden üblicherweise <strong>nicht bar</strong> ausgezahlt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der erste Bankomat weltweit wurde in Schweden eröffnet.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der erste Bankomat wurde <strong>nicht</strong> in Schweden, sondern in <strong>London</strong> eröffnet, wenn auch Schweden kurz darauf folgte.",
+      "feedback_incorrect": "❌ Falsch. Der erste Bankomat war <strong>nicht</strong> in Schweden, sondern in London."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die bargeldlose Entwicklung in Schweden wird von allen Bevölkerungsgruppen uneingeschränkt positiv gesehen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Es gibt Kritik, insbesondere von <strong>Seniorenverbänden</strong>, die auf die Probleme für Menschen ohne digitale Mittel hinweisen.",
+      "feedback_incorrect": "❌ Falsch. Es gibt durchaus <strong>Kritik</strong> an der bargeldlosen Entwicklung, vor allem von Seniorenverbänden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein Grund für die starke Verbreitung des bargeldlosen Bezahlens in Schweden ist die dortige Kultur der Einfachheit und Bequemlichkeit beim Bezahlen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die schwedische Vorliebe für <strong>einfaches und bequemes Bezahlen</strong> ist ein wichtiger Grund für die Akzeptanz bargeldloser Methoden.",
+      "feedback_incorrect": "❌ Falsch. Die Kultur der <strong>Einfachheit und Bequemlichkeit</strong> beim Bezahlen spielt eine wesentliche Rolle in Schweden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Anonymität von Bargeldtransaktionen ist für die meisten Schwedinnen und Schweden ein wichtiger Vorteil gegenüber digitalen Zahlungen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Für die meisten Schwedinnen und Schweden ist die <strong>Anonymität von Bargeld kein wichtiger Vorteil</strong>. Viele haben kein Problem mit der Transparenz digitaler Zahlungen, was historisch bedingt ist.",
+      "feedback_incorrect": "❌ Falsch. Die <strong>Transparenz</strong> digitaler Zahlungen wird in Schweden von vielen akzeptiert, die Anonymität von Bargeld ist kein prioritärer Vorteil für die Mehrheit."
+    }
+  ]
+}

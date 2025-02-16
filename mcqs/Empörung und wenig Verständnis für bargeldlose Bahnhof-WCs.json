@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Empörung und wenig Verständnis für bargeldlose Bahnhof-WCs",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2022/09/Espresso_05-09-2022-818.mp3",
+    "source": "https://www.srf.ch/audio/espresso/empoerung-und-wenig-verstaendnis-fuer-bargeldlose-bahnhof-wcs?id=93cda8a6-332e-4e0d-986e-3354f158f06c#autoplay"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welcher Schweizer Stadt wurde die bargeldlose Bezahlung auf den Bahnhof-WCs eingeführt, was zu Kritik führte?</p>",
+      "options": [
+        {
+          "text": "Zürich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die bargeldlose Bezahlung wurde nicht in Zürich, sondern in <strong>Luzern</strong> eingeführt."
+        },
+        {
+          "text": "Bern",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es war nicht Bern, sondern <strong>Luzern</strong>, wo die bargeldlose Bezahlung eingeführt wurde."
+        },
+        {
+          "text": "Luzern",
+          "is_correct": true,
+          "feedback": "✅ Richtig! In <strong>Luzern</strong> wurden die bargeldlosen Zahlungen auf den Bahnhof-WCs eingeführt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Organisation für ältere Menschen hat sich nach dem Radiobeitrag zu den bargeldlosen WCs gemeldet?</p>",
+      "options": [
+        {
+          "text": " বয়স +60",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es war nicht ' বয়স +60', sondern <strong>Pro Senectute</strong>, die sich gemeldet hat."
+        },
+        {
+          "text": "Pro Senectute",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Pro Senectute</strong> hat sich nach dem Radiobeitrag zu Wort gemeldet."
+        },
+        {
+          "text": "Schweizerischer Seniorenrat",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der 'Schweizerische Seniorenrat' hat sich in diesem Fall nicht gemeldet, sondern <strong>Pro Senectute</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Rückmeldungen erhielt die Radiosendung 'Espresso' ungefähr zu dem Thema der bargeldlosen WCs?</p>",
+      "options": [
+        {
+          "text": "Etwa 30",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es waren deutlich mehr als 30 Rückmeldungen, nämlich etwa <strong>300</strong>."
+        },
+        {
+          "text": "Etwa 300",
+          "is_correct": true,
+          "feedback": "✅ Richtig! 'Espresso' erhielt ungefähr <strong>300 Rückmeldungen</strong> zu diesem Thema."
+        },
+        {
+          "text": "Über 1000",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es waren nicht über 1000, sondern etwa <strong>300 Rückmeldungen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie beschreibt die SBB die Anzahl der Kundenreaktionen zu den bargeldlosen WCs im Vergleich zu den täglichen Kundenmeldungen?</p>",
+      "options": [
+        {
+          "text": "Als überwältigend viele",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die SBB beschreibt die Reaktionen nicht als überwältigend, sondern als <strong>wenige Dutzende</strong> im Vergleich zu den täglichen Meldungen."
+        },
+        {
+          "text": "Als wenige Dutzende",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die SBB bezeichnet die Kundenreaktionen als <strong>wenige Dutzende</strong> im Vergleich zu den über 1000 täglichen Meldungen."
+        },
+        {
+          "text": "Als mehr als die täglichen Meldungen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Reaktionen waren <strong>weniger</strong> als die täglichen Meldungen, nämlich wenige Dutzende im Vergleich zu über 1000."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Hörerin von 'Espresso' bezeichnete die SBB als 'ignorant, arrogant, intolerant, diskriminierend und separierend' im Zusammenhang mit den bargeldlosen WCs?</p>",
+      "options": [
+        {
+          "text": "Maggie Lussi",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Maggie Lussi kritisierte die SBB zwar, aber die genannten Begriffe stammen von <strong>Brigitte Egger</strong>."
+        },
+        {
+          "text": "Brigitte Egger",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Brigitte Egger</strong> verwendete diese starken Begriffe, um die SBB zu kritisieren."
+        },
+        {
+          "text": "Angelika Ferroni",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Angelika Ferroni kritisierte die SBB ebenfalls, aber die genannten Begriffe wurden von <strong>Brigitte Egger</strong> verwendet."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist das Hauptargument der Kritiker gegen die bargeldlose Bezahlung auf öffentlichen WCs, wie im Beitrag dargestellt?</p>",
+      "options": [
+        {
+          "text": "Die Technologie ist zu kompliziert für junge Leute.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Kritik richtet sich nicht primär gegen die Komplexität für junge Leute, sondern gegen den <strong>Ausschluss bestimmter Bevölkerungsgruppen</strong>."
+        },
+        {
+          "text": "Sie führt zum Ausschluss von Menschen ohne bargeldlose Zahlungsmittel.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Hauptargument ist der <strong>Ausschluss von Personen</strong>, die keine bargeldlosen Zahlungsmittel besitzen oder nutzen möchten."
+        },
+        {
+          "text": "Bargeldlose Zahlungen sind unsicher.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Sicherheit bargeldloser Zahlungen ist nicht das Hauptargument, sondern der <strong>Ausschluss von Personengruppen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Befürchtung hinsichtlich des 'gläsernen Bürgers' wird im Kontext der bargeldlosen WCs im Beitrag erwähnt?</p>",
+      "options": [
+        {
+          "text": "Die SBB könnte Bewegungsprofile der WC-Nutzer erstellen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht nicht primär um Bewegungsprofile, sondern darum, dass <strong>digitale Spuren beim Toilettengang</strong> hinterlassen werden."
+        },
+        {
+          "text": "Dass durch Kartenzahlung digitale Spuren beim Toilettengang hinterlassen werden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Befürchtung ist, dass man durch die Kartenzahlung <strong>digitale Spuren hinterlässt</strong>, selbst beim Benutzen einer Toilette."
+        },
+        {
+          "text": "Der Staat könnte die WC-Nutzung überwachen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Kritik richtet sich nicht direkt gegen staatliche Überwachung, sondern gegen das Hinterlassen von <strong>digitalen Spuren durch Kartenzahlung</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum kritisiert Pro Senectute das Vorgehen der SBB bezüglich der bargeldlosen WCs?</p>",
+      "options": [
+        {
+          "text": "Weil ältere Menschen generell gegen neue Technologien sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht nicht um eine generelle Ablehnung von Technologie, sondern um das Fehlen von <strong>Alternativen für Bargeldzahler</strong>."
+        },
+        {
+          "text": "Weil keine alternativen Zahlungsmöglichkeiten für Bargeldnutzer angeboten werden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Pro Senectute kritisiert, dass es <strong>keine Alternativen für Menschen gibt, die bar bezahlen</strong> möchten oder müssen."
+        },
+        {
+          "text": "Weil die WCs dadurch teurer werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Preiserhöhung ist nicht der Hauptkritikpunkt, sondern das Fehlen von <strong>Bargeld-Alternativen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was erwartet das Bundesamt für Verkehr von der SBB bei derartigen Digitalisierungsschritten, besonders im Hinblick auf ältere Menschen?</p>",
+      "options": [
+        {
+          "text": "Dass ältere Menschen sich schneller an neue Technologien anpassen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Bundesamt erwartet nicht nur Anpassung, sondern vor allem <strong>Rücksichtnahme und das Anbieten von Alternativen</strong>."
+        },
+        {
+          "text": "Dass grösstmögliche Rücksichtnahme gezeigt und Alternativen angeboten werden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Bundesamt erwartet <strong>grösstmögliche Rücksichtnahme</strong>, besonders auf ältere Menschen, und das Anbieten von <strong>Alternativen</strong>."
+        },
+        {
+          "text": "Dass die Digitalisierung so schnell wie möglich vorangetrieben wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Bundesamt betont nicht die Geschwindigkeit der Digitalisierung, sondern die <strong>Rücksichtnahme und das Angebot von Alternativen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welches Argument wird im Beitrag zugunsten der bargeldlosen WCs genannt, das die Situation relativiert?</p>",
+      "options": [
+        {
+          "text": "Bargeldlose Zahlungen sind hygienischer.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Hygiene ist in diesem Kontext kein genanntes Argument. Es wird eher darauf hingewiesen, dass es auch <strong>umgekehrt mühsam sein kann, kein Kleingeld zu haben</strong>."
+        },
+        {
+          "text": "Manche Leute finden es umgekehrt auch mühsam, immer Kleingeld dabei haben zu müssen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Es wird erwähnt, dass es <strong>umgekehrt auch mühsam sein kann</strong>, wenn man gerade kein passendes Kleingeld für WCs hat."
+        },
+        {
+          "text": "Bargeldlose WCs sind billiger im Unterhalt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Unterhaltskosten sind kein Argument, sondern die Relativierung durch den Hinweis, dass <strong>Kleingeldmangel auch ein Problem sein kann</strong>."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die SBB plant, an allen Bahnhöfen weiterhin Münzautomaten für die WC-Benutzung anzubieten.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Das ist <strong>falsch</strong>. Die SBB scheint eher auf bargeldlose Systeme umzustellen und bietet in Luzern <strong>keine Münzautomaten</strong> mehr an.",
+      "feedback_incorrect": "❌ Falsch. Die Aussage ist <strong>falsch</strong>. Die SBB stellt in Luzern auf bargeldlose Zahlung um und plant <strong>nicht</strong>, Münzautomaten beizubehalten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine Seniorin im Radiobeitrag berichtete, dass sie extra Schweizer Münzen für die WC-Benutzung dabeihatte, aber nicht bezahlen konnte.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Das ist <strong>richtig</strong>. Die Seniorin hatte <strong>Schweizer Münzen</strong>, konnte aber wegen des bargeldlosen Systems nicht bezahlen.",
+      "feedback_incorrect": "❌ Falsch. Die Aussage ist <strong>richtig</strong>. Die Seniorin hatte <strong>Schweizer Münzen</strong> dabei und konnte trotzdem nicht zahlen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Aurel Specker äussert im Beitrag, dass bargeldlose WCs grundsätzlich eine schlechte Idee sind.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Das ist <strong>falsch</strong>. Aurel Specker findet es sinnvoll, wenn die <strong>Funktionsweise erklärt wird</strong> und man die 'Kröte schlucken' muss, wenn man keine Karte will.",
+      "feedback_incorrect": "❌ Falsch. Die Aussage ist <strong>falsch</strong>. Aurel Specker ist <strong>nicht grundsätzlich gegen bargeldlose WCs</strong>, sondern befürwortet eine gute Erklärung der Systeme."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Kritik an den bargeldlosen WCs betrifft hauptsächlich ältere Menschen, die nicht mit moderner Technologie vertraut sind.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Das ist <strong>falsch</strong>. Die Kritik betrifft zwar auch ältere Menschen, aber ebenso <strong>alle, die kein Bargeldlos wollen oder können</strong>, unabhängig vom Alter.",
+      "feedback_incorrect": "❌ Falsch. Die Aussage ist <strong>falsch</strong>. Die Kritik ist breiter gefächert und betrifft <strong>nicht nur ältere Menschen</strong>, sondern alle ohne bargeldlose Zahlungsmittel."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Bundesrat und Parlament unterstützen die bargeldlose Bezahlung auf öffentlichen WCs uneingeschränkt als fortschrittliche Entwicklung.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Das ist <strong>falsch</strong>. Das Bundesamt für Verkehr erwartet von der SBB <strong>Rücksichtnahme und Alternativen</strong>, was keine uneingeschränkte Unterstützung darstellt.",
+      "feedback_incorrect": "❌ Falsch. Die Aussage ist <strong>falsch</strong>. Das Bundesamt für Verkehr erwartet <strong>Rücksichtnahme und Alternativen</strong>, was gegen eine uneingeschränkte Unterstützung spricht."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Konsumentenschützerin Sarah Stalder meint, die Schweiz sei bereits so weit, dass eine vollständige Umstellung auf bargeldlose Zahlungssysteme im Alltag problemlos möglich ist.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Das ist <strong>falsch</strong>. Sarah Stalder sagt, die Schweiz sei <strong>noch nicht so weit</strong> für eine vollständige Umstellung und alle Leute sollten Zugang zu grundlegenden Dienstleistungen haben.",
+      "feedback_incorrect": "❌ Falsch. Die Aussage ist <strong>falsch</strong>. Sarah Stalder betont, dass die Schweiz <strong>noch nicht bereit</strong> für eine vollständige Bargeldlosigkeit ist und alle Zugang haben sollten."
+    }
+  ]
+}

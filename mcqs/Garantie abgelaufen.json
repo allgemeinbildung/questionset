@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Garantie abgelaufen",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2021/09/Espresso_09-09-2021-0813.mp3",
+    "source": "https://www.srf.ch/sendungen/kassensturz-espresso/rechtsfragen/kaufrecht/garantie-abgelaufen-weder-reparatur-noch-ersatzgeraet-muss-ich-das-akzeptieren"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange nach dem Kauf eines Radios begann es bei Willi Bollinger zu spinnen?</p>",
+      "options": [
+        {
+          "text": "Sofort nach dem Kauf.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Radio begann erst <strong>ein paar Monate</strong> nach dem Kauf zu spinnen."
+        },
+        {
+          "text": "Nach etwa zwei Monaten.",
+          "is_correct": false,
+          "feedback": "❌ Nicht ganz. Es dauerte <strong>ein paar Monate</strong>, bis die Probleme auftraten, aber nicht genau zwei."
+        },
+        {
+          "text": "Nach ein paar Monaten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Willi Bollingers Radio begann <strong>ein paar Monate</strong> nach dem Kauf zu spinnen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was teilte der Laden Willi Bollinger bezüglich der Reparatur seines Radios mit?</p>",
+      "options": [
+        {
+          "text": "Das Radio wird repariert, aber es dauert einige Wochen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Laden sagte, dass sie das Radio <strong>nicht mehr flicken</strong> würden."
+        },
+        {
+          "text": "Eine Reparatur sei nicht mehr möglich, da es keine Ersatzteile mehr gäbe.",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! Der Laden teilte mit, dass sie es <strong>nicht mehr flicken</strong>, da es <strong>keine Ersatzteile</strong> mehr gäbe."
+        },
+        {
+          "text": "Das Radio könne gegen eine Gebühr repariert werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Laden lehnte eine Reparatur generell ab und erwähnte <strong>keine Gebühr</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange war die Garantie von Willi Bollingers Radio abgelaufen, als er den Laden aufsuchte?</p>",
+      "options": [
+        {
+          "text": "Gerade eine Woche.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Garantie war nicht nur eine Woche, sondern <strong>zwei Monate</strong> abgelaufen."
+        },
+        {
+          "text": "Etwa zwei Monate.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Garantie war <strong>zwei Monate</strong> abgelaufen, als Herr Bollinger den Laden aufsuchte."
+        },
+        {
+          "text": "Ein halbes Jahr.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es waren <strong>zwei Monate</strong>, nicht ein halbes Jahr, seit dem Ablauf der Garantie."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist gemäss Gabriela Baumgartner kein Anspruch mehr, wenn die Garantiefrist abgelaufen ist?</p>",
+      "options": [
+        {
+          "text": "Ein Anspruch auf Kulanz.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kulanz ist zwar freiwillig, aber kein direkter Anspruch. Gemeint ist ein <strong>Anspruch auf Leistung</strong>."
+        },
+        {
+          "text": "Ein Anspruch auf prompte Reparatur.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nach Garantieablauf gibt es keinen generellen Anspruch auf Reparatur, gemeint ist der <strong>Anspruch auf Leistung</strong>."
+        },
+        {
+          "text": "Ein Anspruch auf Leistung.",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! Nach Ablauf der Garantie hat man <strong>keinen Anspruch auf Leistung</strong> mehr, wie z.B. Reparatur oder Ersatz."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sollte man laut Gabriela Baumgartner tun, wenn ein gekauftes Gerät nicht richtig funktioniert?</p>",
+      "options": [
+        {
+          "text": "Sofort den Hersteller kontaktieren.",
+          "is_correct": false,
+          "feedback": "❌ Nicht unbedingt. Wichtig ist, <strong>so rasch wie möglich zu reklamieren</strong>, meistens beim Verkäufer."
+        },
+        {
+          "text": "So rasch wie möglich reklamieren.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Man muss <strong>so rasch wie möglich reklamieren</strong>, wenn ein Gerät nicht richtig funktioniert."
+        },
+        {
+          "text": "Einige Wochen zuwarten, ob sich das Problem von selbst löst.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Zuwarten ist keine gute Idee</strong>, da man sonst Garantierechte verlieren kann."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es wichtig, ein Produkt sofort nach dem Kauf zu prüfen und Mängel zu reklamieren?</p>",
+      "options": [
+        {
+          "text": "Weil man sonst den Mangel akzeptiert und Garantierechte verlieren kann.",
+          "is_correct": true,
+          "feedback": "✅ Genau! Wenn man Mängel nicht sofort reklamiert, akzeptiert man sie unter Umständen und <strong>verliert Garantierechte</strong>."
+        },
+        {
+          "text": "Weil der Laden sonst keine Zeit hat, sich um die Reparatur zu kümmern.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die sofortige Prüfung und Reklamation dient dem <strong>Erhalt der Garantierechte</strong>, nicht der Zeitplanung des Ladens."
+        },
+        {
+          "text": "Weil die Garantiezeit sonst automatisch verkürzt wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Garantiezeit wird nicht automatisch verkürzt, aber man kann durch <strong>verzögerte Reklamation Rechte verlieren</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was passiert mit der Garantiefrist, wenn ein Gerät kurz vor Ablauf der Frist zur Reparatur in den Laden gebracht wird?</p>",
+      "options": [
+        {
+          "text": "Die Garantiefrist wird automatisch verlängert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Garantiefrist wird <strong>nicht automatisch verlängert</strong>, nur weil das Gerät in Reparatur ist."
+        },
+        {
+          "text": "Die Garantiefrist läuft normal weiter und kann ablaufen, während das Gerät in Reparatur ist.",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! Die Garantiefrist <strong>läuft normal weiter</strong> und steht während der Reparatur nicht still."
+        },
+        {
+          "text": "Die Garantiefrist wird ausgesetzt, bis das Gerät repariert ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Garantiefrist wird <strong>nicht ausgesetzt</strong>, sondern läuft ununterbrochen weiter."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Möglichkeit gibt es, die Garantiefrist zu verlängern, wenn eine Reparatur kurz vor Ablauf der Frist absehbar länger dauert?</p>",
+      "options": [
+        {
+          "text": "Man kann automatisch eine Verlängerung der Garantiefrist erwarten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine automatische Verlängerung gibt es nicht. Man muss aktiv werden, um eine <strong>Verlängerung zu erreichen</strong>."
+        },
+        {
+          "text": "Man kann eine schriftliche Bestätigung vom Laden verlangen, dass die Garantie verlängert wird.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Man kann im Laden eine <strong>schriftliche Bestätigung</strong> verlangen, dass die Garantie verlängert wird."
+        },
+        {
+          "text": "Man kann den Hersteller direkt kontaktieren und eine Verlängerung fordern.",
+          "is_correct": false,
+          "feedback": "❌ Nicht unbedingt. Der erste Schritt ist, mit dem <strong>Laden eine Vereinbarung</strong> über eine Garantieverlängerung zu treffen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>In welchen Fällen lohnt sich eine Betreibung des Ladens, um die Garantiefrist zu unterbrechen?</p>",
+      "options": [
+        {
+          "text": "Immer, wenn man mit der Garantie nicht einverstanden ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Betreibung ist ein aufwendiger Schritt und lohnt sich <strong>nicht immer</strong>."
+        },
+        {
+          "text": "Vor allem bei sehr teuren Sachen und in Streitfällen.",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! Eine Betreibung lohnt sich <strong>vor allem bei sehr teuren Sachen</strong> und in komplizierten Streitfällen."
+        },
+        {
+          "text": "Bei jedem kleinen Mangel, um sicherzustellen, dass die Garantie nicht abläuft.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Für <strong>kleine Mängel ist eine Betreibung unverhältnismässig</strong> und nicht empfehlenswert."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bewirkt eine Betreibung bezüglich der Garantiefrist?</p>",
+      "options": [
+        {
+          "text": "Sie setzt die Garantiefrist aus.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Betreibung <strong>setzt die Frist nicht aus</strong>, sondern unterbricht sie und lässt sie neu starten."
+        },
+        {
+          "text": "Sie unterbricht die Garantiefrist und lässt sie ab der Betreibung neu starten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Eine Betreibung <strong>unterbricht die Garantiefrist</strong> und lässt sie ab diesem Zeitpunkt neu beginnen."
+        },
+        {
+          "text": "Sie verlängert die Garantiefrist automatisch um ein Jahr.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Betreibung <strong>verlängert die Frist nicht automatisch um ein Jahr</strong>, sondern startet sie neu."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Willi Bollinger kaufte sein Radio vor einem Jahr.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Willi Bollinger kaufte sein Radio vor <strong>zwei Jahren</strong>.",
+      "feedback_incorrect": "❌ Falsch. Willi Bollinger kaufte das Radio vor <strong>zwei Jahren</strong>, nicht vor einem."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Laden bot Willi Bollinger ein Ersatzgerät an.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Laden bot <strong>kein Ersatzgerät</strong> an.",
+      "feedback_incorrect": "❌ Falsch. Der Laden bot <strong>kein Ersatzgerät</strong> an, sondern lehnte dies ab."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Gabriela Baumgartner ist Rechtsexpertin.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Gabriela Baumgartner wird als <strong>Rechtsexpertin</strong> vorgestellt.",
+      "feedback_incorrect": "❌ Falsch. Gabriela Baumgartner ist tatsächlich eine <strong>Rechtsexpertin</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Auch nach Ablauf der Garantiefrist hat man in der Schweiz immer einen rechtlichen Anspruch auf Reparatur eines defekten Produkts.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Nach Ablauf der Garantiefrist hat man <strong>keinen rechtlichen Anspruch</strong> auf Reparatur, es sei denn, es gibt Kulanz.",
+      "feedback_incorrect": "❌ Falsch. Nach Ablauf der Garantiefrist besteht in der Regel <strong>kein rechtlicher Anspruch</strong> mehr auf Reparatur."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wenn man ein defektes Gerät sofort reklamiert, kann man in jedem Fall seine vollen Garantierechte behalten.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Sofortiges Reklamieren ist wichtig, um die <strong>vollen Garantierechte zu behalten</strong>.",
+      "feedback_incorrect": "❌ Falsch. Sofortiges Reklamieren ist entscheidend, um die <strong>Garantierechte nicht zu verlieren</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine Betreibung ist eine einfache und unkomplizierte Methode, um in jedem Fall die Garantie zu verlängern.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Eine Betreibung ist <strong>nicht einfach oder unkompliziert</strong> und sollte nur in bestimmten Fällen eingesetzt werden.",
+      "feedback_incorrect": "❌ Falsch. Eine Betreibung ist ein <strong>aufwendiger Schritt</strong> und nicht immer die beste Lösung."
+    }
+  ]
+}
