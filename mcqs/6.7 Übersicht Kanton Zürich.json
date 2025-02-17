@@ -1,0 +1,546 @@
+{
+  "title": "Verständnisfragen zu Politischen Organen im Kanton Zürich",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Mitglieder hat der Zürcher Regierungsrat?</p>",
+      "options": [
+        {
+          "text": "5",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Zürcher Regierungsrat besteht aus <strong>sieben Mitgliedern</strong>."
+        },
+        {
+          "text": "7",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Zürcher Regierungsrat hat <strong>sieben Mitglieder</strong>."
+        },
+        {
+          "text": "9",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Zürcher Regierungsrat besteht aus <strong>sieben Mitgliedern</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchen Zeitabständen wird der Zürcher Regierungsrat vom Volk gewählt?</p>",
+      "options": [
+        {
+          "text": "Alle 2 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Regierungsrat wird alle <strong>vier Jahre</strong> gewählt."
+        },
+        {
+          "text": "Alle 4 Jahre",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Wahl des Regierungsrats findet alle <strong>vier Jahre</strong> statt."
+        },
+        {
+          "text": "Alle 6 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Regierungsrat wird alle <strong>vier Jahre</strong> gewählt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Nationalratssitze hat der Kanton Zürich?</p>",
+      "options": [
+        {
+          "text": "30",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Kanton Zürich hat <strong>35 Nationalratssitze</strong>."
+        },
+        {
+          "text": "35",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Kanton Zürich stellt <strong>35 Nationalräte</strong>."
+        },
+        {
+          "text": "40",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Kanton Zürich hat <strong>35 Nationalratssitze</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Ständeratssitze hat der Kanton Zürich?</p>",
+      "options": [
+        {
+          "text": "1",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Kanton Zürich hat <strong>zwei Ständeratssitze</strong>, da er ein Ganzkanton ist."
+        },
+        {
+          "text": "2",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Kanton Zürich hat als Ganzkanton <strong>zwei Ständeratssitze</strong>."
+        },
+        {
+          "text": "3",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Kanton Zürich hat <strong>zwei Ständeratssitze</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Nennen Sie einen der aktuellen Ständeräte des Kantons Zürich (Stand 2023).</p>",
+      "options": [
+        {
+          "text": "Andri Silberschmidt",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Andri Silberschmidt ist <strong>Nationalrat</strong>, nicht Ständerat."
+        },
+        {
+          "text": "Daniel Jositsch",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Daniel Jositsch</strong> ist einer der beiden Ständeräte des Kantons Zürich."
+        },
+        {
+          "text": "Natalie Rickli",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Natalie Rickli ist <strong>Regierungsrätin</strong>, nicht Ständerätin."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Nennen Sie eine Direktion des Zürcher Regierungsrats.</p>",
+      "options": [
+        {
+          "text": "Bundesratsdirektion",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt keine 'Bundesratsdirektion' im Kanton Zürich. Gemeint sind die <strong>kantonalen Direktionen</strong>."
+        },
+        {
+          "text": "Gesundheitsdirektion",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Gesundheitsdirektion</strong> ist eine der sieben Direktionen des Zürcher Regierungsrats."
+        },
+        {
+          "text": "Eidgenössische Direktion",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt keine 'Eidgenössische Direktion' im Kanton Zürich. Gemeint sind die <strong>kantonalen Direktionen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Wahlsystem wird für die Nationalratswahlen im Kanton Zürich angewendet?</p>",
+      "options": [
+        {
+          "text": "Majorzverfahren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>Majorzverfahren</strong> wird für die Ständeratswahlen verwendet."
+        },
+        {
+          "text": "Proporzverfahren",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Für die Nationalratswahlen im Kanton Zürich gilt das <strong>Proporzverfahren</strong>."
+        },
+        {
+          "text": "Mehrheitswahlverfahren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 'Mehrheitswahlverfahren' ist ein anderer Begriff für das <strong>Majorzverfahren</strong>, das für die Ständeratswahlen gilt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Wahlsystem wird für die Ständeratswahlen im Kanton Zürich angewendet?</p>",
+      "options": [
+        {
+          "text": "Proporzverfahren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>Proporzverfahren</strong> wird für die Nationalratswahlen verwendet."
+        },
+        {
+          "text": "Majorzverfahren",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Für die Ständeratswahlen im Kanton Zürich gilt das <strong>Majorzverfahren</strong>."
+        },
+        {
+          "text": "Verhältniswahlverfahren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 'Verhältniswahlverfahren' ist ein anderer Begriff für das <strong>Proporzverfahren</strong>, das für die Nationalratswahlen gilt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist die Hauptaufgabe des Kantonsrats von Zürich?</p>",
+      "options": [
+        {
+          "text": "Gesetze ausführen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gesetze ausführen ist die Aufgabe des <strong>Regierungsrats</strong>, der Exekutive."
+        },
+        {
+          "text": "Gesetze erlassen",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Kantonsrat ist die <strong>Legislative</strong> und erlässt die <strong>kantonalen Gesetze</strong>."
+        },
+        {
+          "text": "Gerichtsurteile fällen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gerichtsurteile fällen ist die Aufgabe der <strong>Gerichte</strong>, der Judikative."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist die Hauptaufgabe des Regierungsrats von Zürich?</p>",
+      "options": [
+        {
+          "text": "Gesetze erlassen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gesetze erlassen ist die Aufgabe des <strong>Kantonsrats</strong>, der Legislative."
+        },
+        {
+          "text": "Gesetze ausführen",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Regierungsrat ist die <strong>Exekutive</strong> und <strong>führt die Gesetze aus</strong>."
+        },
+        {
+          "text": "Volksinitiativen prüfen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Volksinitiativen prüfen ist eine Aufgabe, die <strong>Kantonsrat und Regierungsrat gemeinsam</strong> wahrnehmen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Worin liegt der Hauptunterschied in der Vertretung zwischen Nationalrat und Ständerat?</p>",
+      "options": [
+        {
+          "text": "Der Nationalrat vertritt die Kantone, der Ständerat das Volk.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist genau umgekehrt: Der <strong>Nationalrat vertritt das Volk</strong>, der <strong>Ständerat die Kantone</strong>."
+        },
+        {
+          "text": "Der Nationalrat vertritt das Volk, der Ständerat die Kantone.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der <strong>Nationalrat repräsentiert die Bevölkerung</strong> der Schweiz, während der <strong>Ständerat die Kantone vertritt</strong>."
+        },
+        {
+          "text": "Beide Räte vertreten ausschliesslich die Regierung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Beide Räte vertreten <strong>entweder das Volk oder die Kantone</strong>, aber nicht ausschliesslich die Regierung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es wichtig, das Parteienspektrum im Kantonsrat zu kennen?</p>",
+      "options": [
+        {
+          "text": "Um die Namen aller Kantonsräte auswendig zu lernen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht nicht darum, Namen auswendig zu lernen, sondern die <strong>politischen Kräfteverhältnisse</strong> zu verstehen."
+        },
+        {
+          "text": "Um die politischen Kräfteverhältnisse und Mehrheiten im Parlament zu verstehen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Parteienspektrum zeigt die <strong>politischen Kräfteverhältnisse</strong> und <strong>Mehrheiten im Kantonsrat</strong>."
+        },
+        {
+          "text": "Weil es im Gesetz so vorgeschrieben ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist <strong>nicht gesetzlich vorgeschrieben</strong>, das Parteienspektrum zu kennen, aber es ist für das <strong>politische Verständnis wichtig</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was zeigt die Grafik auf Seite 181 im Lehrmittel?</p>",
+      "options": [
+        {
+          "text": "Die Mitglieder des Regierungsrats.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Grafik zeigt die <strong>Sitzverteilung im Kantonsrat</strong>, nicht den Regierungsrat."
+        },
+        {
+          "text": "Die Sitzverteilung im Kantonsrat seit 2003.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Grafik veranschaulicht die <strong>Sitzverteilung der Parteien im Kantonsrat seit 2003</strong>."
+        },
+        {
+          "text": "Die Anzahl Nationalratssitze des Kantons Zürich.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Grafik zeigt die <strong>Sitzverteilung im Kantonsrat</strong>, nicht die Nationalratssitze."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Rolle spielen die Direktionen im Regierungsrat?</p>",
+      "options": [
+        {
+          "text": "Sie kontrollieren den Kantonsrat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Kontrolle des Kantonsrats ist nicht die Aufgabe der Direktionen. Die <strong>Gewaltenteilung</strong> sieht andere Kontrollmechanismen vor."
+        },
+        {
+          "text": "Jedes Regierungsratsmitglied steht einer Direktion vor und leitet einen bestimmten Aufgabenbereich der Kantonsverwaltung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Jedes Regierungsratsmitglied <strong>leitet eine Direktion</strong> und ist für einen <strong>speziellen Verwaltungsbereich</strong> zuständig."
+        },
+        {
+          "text": "Sie sind für die Gesetzgebung zuständig.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Gesetzgebung</strong> ist die Aufgabe des <strong>Kantonsrats</strong>, nicht der Direktionen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet das 'Majorzwahlverfahren' bei den Ständeratswahlen?</p>",
+      "options": [
+        {
+          "text": "Jede Partei erhält Sitze proportional zu ihrem Wähleranteil.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dies beschreibt das <strong>Proporzverfahren</strong>, nicht das Majorzverfahren."
+        },
+        {
+          "text": "Gewählt ist, wer am meisten Stimmen erhält und das absolute Mehr erreicht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Beim <strong>Majorzverfahren</strong> ist gewählt, wer die <strong>meisten Stimmen</strong> und das <strong>absolute Mehr</strong> erreicht."
+        },
+        {
+          "text": "Es werden nur Kandidaten der stärksten Partei gewählt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Auch Kandidaten <strong>anderer Parteien</strong> können gewählt werden, wenn sie die Mehrheit erreichen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet das 'Proporzwahlverfahren' bei den Nationalratswahlen?</p>",
+      "options": [
+        {
+          "text": "Gewählt ist, wer am meisten Stimmen erhält.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dies beschreibt das <strong>Majorzverfahren</strong>, nicht das Proporzverfahren."
+        },
+        {
+          "text": "Die Sitze werden im Verhältnis zum Wähleranteil der Parteien verteilt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Beim <strong>Proporzverfahren</strong> werden die Sitze <strong>entsprechend dem Wähleranteil der Parteien</strong> verteilt."
+        },
+        {
+          "text": "Nur Kandidaten mit Parteizugehörigkeit können gewählt werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Auch <strong>unabhängige Kandidaten</strong> können gewählt werden, obwohl das Proporzverfahren primär auf Parteien ausgerichtet ist."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was kann man aus der Veränderung der Sitzverteilung im Kantonsrat seit 2003 ableiten?</p>",
+      "options": [
+        {
+          "text": "Die Anzahl der Ständeratssitze hat sich verändert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Grafik bezieht sich auf den <strong>Kantonsrat</strong>, nicht den Ständerat. Die Anzahl der Ständeratssitze ist konstant."
+        },
+        {
+          "text": "Es gibt Veränderungen in den Wähleranteilen und politischen Präferenzen im Kanton Zürich.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Veränderungen in der Sitzverteilung deuten auf <strong>Verschiebungen in den Wähleranteilen</strong> und <strong>politischen Präferenzen</strong> hin."
+        },
+        {
+          "text": "Der Regierungsrat hat mehr oder weniger Mitglieder.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Grafik zeigt die <strong>Sitzverteilung im Kantonsrat</strong>, nicht die Zusammensetzung des Regierungsrats. Die Anzahl der Regierungsratsmitglieder ist konstant."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist der Kanton Zürich im Nationalrat stark vertreten?</p>",
+      "options": [
+        {
+          "text": "Weil er der flächenmässig grösste Kanton der Schweiz ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Grösse des Kantons ist nicht entscheidend. Die Vertretung im Nationalrat basiert auf der <strong>Bevölkerungszahl</strong>."
+        },
+        {
+          "text": "Weil er der bevölkerungsreichste Kanton der Schweiz ist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Kanton Zürich hat die <strong>grösste Bevölkerung</strong> der Schweiz und stellt daher die <strong>meisten Nationalräte</strong>."
+        },
+        {
+          "text": "Weil er die älteste politische Tradition hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die politische Tradition ist nicht der Grund. Die Vertretung basiert auf der <strong>Bevölkerungszahl</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wie ist das Verhältnis zwischen Kantonsrat und Regierungsrat?</p>",
+      "options": [
+        {
+          "text": "Der Regierungsrat ist dem Kantonsrat untergeordnet und führt dessen Beschlüsse aus.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Regierungsrat ist die <strong>Exekutive</strong> und <strong>führt die Gesetze und Beschlüsse des Kantonsrats (Legislative) aus</strong>."
+        },
+        {
+          "text": "Der Kantonsrat ist dem Regierungsrat untergeordnet und kontrolliert diesen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Kantonsrat <strong>kontrolliert den Regierungsrat</strong>, ist ihm aber <strong>nicht untergeordnet</strong>. Beide sind eigenständige Organe."
+        },
+        {
+          "text": "Beide Organe sind gleichgestellt und haben keine hierarchische Beziehung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt eine <strong>Gewaltenteilung</strong>, bei der der Kantonsrat (Legislative) die Gesetze macht und der Regierungsrat (Exekutive) sie ausführt, was eine Art <strong>hierarchische Beziehung</strong> impliziert."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Funktion hat der Ständerat im nationalen Parlament?</p>",
+      "options": [
+        {
+          "text": "Er vertritt direkt die Bevölkerung der Kantone.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Nationalrat</strong> vertritt die Bevölkerung, der Ständerat die <strong>Kantone</strong>."
+        },
+        {
+          "text": "Er vertritt die Interessen der Kantone auf Bundesebene.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Ständerat ist die <strong>Kantonsvertretung</strong> und setzt sich für die <strong>Interessen der Kantone</strong> auf Bundesebene ein."
+        },
+        {
+          "text": "Er ist vor allem für die Aussenpolitik zuständig.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Aussenpolitik</strong> ist ein gemeinsamer Aufgabenbereich von <strong>National- und Ständerat</strong>."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Zürcher Regierungsrat hat 5 Mitglieder.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Der Zürcher Regierungsrat besteht aus sieben Mitgliedern.",
+      "feedback_incorrect": "Richtig. Der Zürcher Regierungsrat hat sieben Mitglieder."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Zürcher Kantonsrat ist die exekutive Behörde des Kantons.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Der Zürcher Kantonsrat ist die Legislative, das Parlament. Die Exekutive ist der Regierungsrat.",
+      "feedback_incorrect": "Richtig. Der Regierungsrat ist die Exekutive."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Kanton Zürich hat mehr Nationalratssitze als jeder andere Kanton.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Aufgrund seiner Bevölkerungsgrösse stellt der Kanton Zürich die meisten Nationalräte.",
+      "feedback_incorrect": "Falsch. Der Kanton Zürich hat die höchste Anzahl Nationalratssitze."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Andri Silberschmidt ist das jüngste Mitglied des Nationalrats und kommt aus dem Kanton Zürich.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Andri Silberschmidt, FDP, ist das jüngste Mitglied des Nationalrats und vertritt den Kanton Zürich.",
+      "feedback_incorrect": "Falsch. Andri Silberschmidt ist tatsächlich das jüngste Mitglied des Nationalrats aus Zürich."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ständeräte werden im Kanton Zürich nach dem Proporzwahlverfahren gewählt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Ständeräte werden nach dem Majorzwahlverfahren gewählt. Das Proporzwahlverfahren gilt für den Nationalrat.",
+      "feedback_incorrect": "Richtig. Ständeräte werden nach dem Majorzwahlverfahren gewählt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die SVP hat die meisten Sitze im Nationalrat aus dem Kanton Zürich (Stand 2023).</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Gemäss den Angaben im Lehrmittel stellt die SVP die grösste Fraktion der Zürcher Nationalräte.",
+      "feedback_incorrect": "Falsch. Die SVP stellt tatsächlich die grösste Fraktion."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Veränderungen in der Sitzverteilung des Kantonsrats spiegeln Veränderungen in den Wählerpräferenzen wider.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Die Sitzverteilung im Kantonsrat basiert auf Wahlergebnissen und zeigt somit Veränderungen in den Wählerstimmen.",
+      "feedback_incorrect": "Falsch. Veränderungen in der Sitzverteilung zeigen tatsächlich veränderte Wählerpräferenzen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Der Regierungsrat führt nur Gesetze des Bundes aus.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Der Regierungsrat führt kantonale und eidgenössische Gesetze aus, soweit sie den Kanton betreffen.",
+      "feedback_incorrect": "Richtig. Der Regierungsrat führt auch kantonale Gesetze aus."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Das Majorzwahlverfahren garantiert eine faire Vertretung kleinerer Parteien im Ständerat.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Das Majorzwahlverfahren begünstigt tendenziell grössere Parteien, da es um die Mehrheit der Stimmen geht. Das Proporzverfahren würde kleinere Parteien besser repräsentieren.",
+      "feedback_incorrect": "Richtig. Das Majorzwahlverfahren ist nicht ideal für die Vertretung kleinerer Parteien."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Der Nationalrat repräsentiert die Kantone, während der Ständerat das Volk repräsentiert.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Es ist umgekehrt: Der Nationalrat vertritt das Volk, der Ständerat die Kantone.",
+      "feedback_incorrect": "Richtig. Der Nationalrat vertritt das Volk, der Ständerat die Kantone."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Es ist für Bürger unwichtig, die Mitglieder des Regierungsrats zu kennen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Es ist wichtig, die Mitglieder des Regierungsrats zu kennen, da sie die Exekutive bilden und wichtige Entscheidungen für den Kanton treffen.",
+      "feedback_incorrect": "Richtig. Es ist wichtig, die Mitglieder des Regierungsrats zu kennen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Anzahl der Nationalratssitze für den Kanton Zürich ist fix und ändert sich nie.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Anzahl der Nationalratssitze kann sich ändern, abhängig von der Bevölkerungsentwicklung des Kantons im Verhältnis zu anderen Kantonen.",
+      "feedback_incorrect": "Richtig. Die Anzahl der Nationalratssitze kann sich ändern."
+    }
+  ]
+}

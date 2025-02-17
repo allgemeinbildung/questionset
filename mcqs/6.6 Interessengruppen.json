@@ -1,0 +1,569 @@
+{
+  "title": "Verständnisfragen zu Interessengruppen",
+  "media": {
+      "type": "",
+      "url": "",
+      "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden Optionen beschreibt am besten, was Parteien im politischen System sind?</p>",
+      "options": [
+        {
+          "text": "Unabhängige Organisationen ohne politische Ziele.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Parteien sind **politische Vereine** mit klaren **politischen Zielen**."
+        },
+        {
+          "text": "Politische Vereine, die versuchen, ihre Wertvorstellungen in Gesetze umzusetzen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Parteien sind **politische Vereine**, die durch **Wahlen** und **parlamentarische Arbeit** ihre **Wertvorstellungen** durchsetzen wollen."
+        },
+        {
+          "text": "Zweckvereinigungen zur Vertretung wirtschaftlicher Interessen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dies beschreibt eher **Verbände**, nicht Parteien."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden politischen Grundhaltungen betont die grösste Wirtschaftsfreiheit ohne staatliche Einschränkungen?</p>",
+      "options": [
+        {
+          "text": "Links",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Linke** Politik betont eher **staatliche Intervention** und **soziale Umverteilung**."
+        },
+        {
+          "text": "Rechts",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Rechte** Politik betont **Eigenverantwortung** und **Recht und Ordnung**."
+        },
+        {
+          "text": "Liberal",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Liberale** Politik setzt sich für **grosse Wirtschaftsfreiheit** und **wenig staatliche Eingriffe** ein."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Gründungsjahr hat die Schweizerische Volkspartei (SVP) gemäss Lehrmittel?</p>",
+      "options": [
+        {
+          "text": "1983",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 1983 ist das Gründungsjahr der **Grünen Partei**."
+        },
+        {
+          "text": "2021",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 2021 ist das Gründungsjahr der Partei **Die Mitte**."
+        },
+        {
+          "text": "1936",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die **SVP** wurde im Jahr **1936** gegründet."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was sind Verbände im politischen Kontext?</p>",
+      "options": [
+        {
+          "text": "Politische Parteien, die im Parlament vertreten sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dies beschreibt **Parteien**, nicht Verbände."
+        },
+        {
+          "text": "Zweckvereinigungen, die Interessen ihrer Mitglieder vertreten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Verbände** sind **Zweckvereinigungen** zur **Interessenvertretung** ihrer Mitglieder."
+        },
+        {
+          "text": "Nichtregierungsorganisationen, die global agieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dies beschreibt **NGOs**, nicht Verbände."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der genannten NGOs setzt sich hauptsächlich für Menschenrechte ein?</p>",
+      "options": [
+        {
+          "text": "WWF",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der **WWF** setzt sich für **Natur- und Umweltschutz** ein."
+        },
+        {
+          "text": "Greenpeace",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Greenpeace** fokussiert auf **Umweltschutz** und **ökologische Probleme**."
+        },
+        {
+          "text": "Amnesty International",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Amnesty International** ist bekannt für ihren Einsatz für **Menschenrechte** weltweit."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welchen Begriff verwendet man für Interessengruppierungen, die Einfluss auf die Gesetzgebung ausüben?</p>",
+      "options": [
+        {
+          "text": "Fraktionen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Fraktionen** sind **Gruppen innerhalb des Parlaments**."
+        },
+        {
+          "text": "Lobbys",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Lobbys** ist der Begriff für **Interessengruppierungen**, die **Einfluss auf die Gesetzgebung** nehmen."
+        },
+        {
+          "text": "Direktoren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Direktoren** bezieht sich auf **leitende Angestellte** in Unternehmen oder Organisationen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Partei entstand 2021 durch den Zusammenschluss von CVP und BDP?</p>",
+      "options": [
+        {
+          "text": "FDP",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **FDP** entstand durch eine **Fusion im Jahr 2009**, nicht 2021."
+        },
+        {
+          "text": "Die Mitte",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Die Mitte** ist die Partei, die **2021** aus dem **Zusammenschluss von CVP und BDP** hervorging."
+        },
+        {
+          "text": "GLP",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **GLP** wurde **2007 gegründet**, nicht 2021 und nicht durch den Zusammenschluss von CVP und BDP."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden Organisationen ist ein Beispiel für einen Arbeitgeberverband?</p>",
+      "options": [
+        {
+          "text": "Schweizerischer Gewerkschaftsbund",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der **Schweizerische Gewerkschaftsbund** ist ein **Arbeitnehmerverband**."
+        },
+        {
+          "text": "economiesuisse",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **economiesuisse** ist ein **Arbeitgeberverband**, der die **Schweizer Wirtschaft** vertritt."
+        },
+        {
+          "text": "Greenpeace Schweiz",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Greenpeace** ist eine **NGO**, die sich für **Umweltschutz** einsetzt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet die Aussage, dass in der Politik ein 'dauernder Kampf um Macht und Einfluss' stattfindet?</p>",
+      "options": [
+        {
+          "text": "Politiker einigen sich immer schnell und ohne Konflikte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Aussage beschreibt das **Gegenteil**: Politik ist oft von **Konflikten** und **unterschiedlichen Interessen** geprägt."
+        },
+        {
+          "text": "Verschiedene Interessengruppen konkurrieren darum, ihre Vorstellungen durchzusetzen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Es bedeutet, dass **verschiedene Gruppen** mit **unterschiedlichen Interessen** um **politischen Einfluss** ringen."
+        },
+        {
+          "text": "Nur Parteien sind am politischen Entscheidungsprozess beteiligt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Auch **Verbände** und **NGOs** sind wichtige **Interessenträger** im politischen Prozess."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum sind politische Grundhaltungen wie 'Links' und 'Rechts' nützlich, um Parteien zu verstehen?</p>",
+      "options": [
+        {
+          "text": "Sie beschreiben detailliert jedes einzelne politische Ziel einer Partei.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Grundhaltungen** sind **allgemeiner** und geben eine **Richtung** vor, aber nicht jedes Detail."
+        },
+        {
+          "text": "Sie bieten eine vereinfachte Orientierungshilfe im politischen Spektrum.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Grundhaltungen** dienen als **Orientierungshilfe**, um die **grundsätzliche Ausrichtung** einer Partei zu verstehen."
+        },
+        {
+          "text": "Sie sind rechtlich bindende Vorgaben für das Handeln von Politikern.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Grundhaltungen** sind **ideologische Ausrichtungen**, aber **keine Gesetze**."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Inwiefern unterscheiden sich Arbeitgeber- und Arbeitnehmerverbände in ihren Zielen?</p>",
+      "options": [
+        {
+          "text": "Arbeitgeberverbände setzen sich für die Interessen der Arbeitnehmer ein, Arbeitnehmerverbände für die der Arbeitgeber.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist **genau umgekehrt**: **Arbeitgeberverbände** vertreten **Arbeitgeber**, **Arbeitnehmerverbände** vertreten **Arbeitnehmer**."
+        },
+        {
+          "text": "Arbeitgeberverbände fokussieren auf wirtschaftliche Interessen der Unternehmen, Arbeitnehmerverbände auf die Rechte und Bedingungen der Beschäftigten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Arbeitgeberverbände** konzentrieren sich auf **Unternehmensinteressen**, während **Arbeitnehmerverbände** die **Rechte der Arbeitnehmer** schützen."
+        },
+        {
+          "text": "Es gibt keinen wesentlichen Unterschied in ihren Zielen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt **klare Unterschiede** in den **Interessen**, die sie vertreten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Rolle spielen NGOs im System der 'Global Governance'?</p>",
+      "options": [
+        {
+          "text": "Sie sind hauptsächlich in der nationalen Politik einzelner Staaten aktiv.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **NGOs** agieren oft **international** und sind Teil der **globalen Politik**."
+        },
+        {
+          "text": "Sie setzen sich für die Durchsetzung globaler Werte und Standards ein, oft unabhängig von Regierungen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **NGOs** sind wichtige Akteure in der **Global Governance**, da sie **globale Werte** vertreten und **unabhängig** von Regierungen agieren."
+        },
+        {
+          "text": "Sie sind direkt an Regierungsentscheidungen beteiligt und setzen diese um.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **NGOs** sind **nicht Teil der Regierung**, sondern **unabhängige Organisationen**."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist Lobbying ein wichtiger Bestandteil der politischen Willensbildung?</p>",
+      "options": [
+        {
+          "text": "Weil es den Einfluss einzelner Politiker übermässig stärkt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Lobbying ist **nicht dazu da**, einzelne Politiker zu stärken, sondern **Interessen zu vertreten**."
+        },
+        {
+          "text": "Weil es Interessengruppen ermöglicht, ihre Expertise und Anliegen in den Gesetzgebungsprozess einzubringen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Lobbying** ermöglicht es **Interessengruppen**, ihre **Expertise** einzubringen und **Einfluss auf Gesetze** zu nehmen."
+        },
+        {
+          "text": "Weil es die politische Entscheidungsfindung vereinfacht und beschleunigt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Lobbying** kann den Prozess **komplexer** machen, da **viele Interessen** berücksichtigt werden müssen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist ein Hauptunterschied zwischen Parteien und Verbänden hinsichtlich ihrer Einflussnahme?</p>",
+      "options": [
+        {
+          "text": "Parteien nehmen nur über Lobbying Einfluss, Verbände nur über Wahlen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Parteien** nehmen an **Wahlen** teil und sind im **Parlament**, **Verbände** nutzen **Lobbying**, aber auch andere Mittel."
+        },
+        {
+          "text": "Parteien streben nach politischer Macht im Parlament, Verbände fokussieren auf die Vertretung spezifischer Mitgliederinteressen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Parteien** wollen **Regierungsmacht**, **Verbände** wollen **spezifische Interessen** ihrer Mitglieder durchsetzen."
+        },
+        {
+          "text": "Es gibt keinen wesentlichen Unterschied in ihrer Art der Einflussnahme.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt **deutliche Unterschiede** in ihren **Methoden** und **Zielen** der Einflussnahme."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wie trägt das Links-Rechts-Schema zum Verständnis der Schweizer Parteienlandschaft bei?</p>",
+      "options": [
+        {
+          "text": "Es ermöglicht eine detaillierte Analyse der komplexen Parteiprogramme.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Schema ist **vereinfachend** und **nicht detailliert genug** für komplexe Programme."
+        },
+        {
+          "text": "Es hilft, die Parteien grob nach ihren politischen Grundhaltungen zu ordnen und zu vergleichen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Schema dient als **vereinfachte Orientierung**, um **Parteien nach Grundhaltungen** einzuordnen."
+        },
+        {
+          "text": "Es bestimmt direkt die Wahlergebnisse und die politische Machtverteilung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Schema ist eine **Orientierungshilfe**, aber **nicht der einzige Faktor** für Wahlergebnisse."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist die Vernehmlassung ein wichtiges Instrument für Verbände im Gesetzgebungsprozess?</p>",
+      "options": [
+        {
+          "text": "Sie ermöglicht es Verbänden, Gesetze direkt zu beschliessen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gesetze werden vom **Parlament** beschlossen, nicht von Verbänden."
+        },
+        {
+          "text": "Sie gibt Verbänden die Möglichkeit, frühzeitig Stellung zu Gesetzesentwürfen zu nehmen und ihre Expertise einzubringen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die **Vernehmlassung** erlaubt es **Verbänden**, ihre **Meinung** und **Expertise** zu Gesetzesentwürfen zu äussern."
+        },
+        {
+          "text": "Sie verpflichtet Parteien, die Meinungen der Verbände vollständig zu übernehmen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Meinungen der Verbände** werden **berücksichtigt**, sind aber **nicht bindend** für Parteien."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen Vorteil haben Verbände gegenüber einzelnen Bürgern, wenn es darum geht, politische Interessen zu vertreten?</p>",
+      "options": [
+        {
+          "text": "Verbände haben weniger finanzielle Mittel zur Verfügung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Verbände** verfügen oft über **erhebliche finanzielle Mittel** durch ihre Mitglieder."
+        },
+        {
+          "text": "Verbände können durch ihre Mitgliederstärke und Organisation mehr Gewicht und Einfluss in der Politik erlangen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Verbände** haben durch ihre **Mitgliederzahl**, **Finanzkraft** und **Organisation** mehr **politischen Einfluss** als Einzelpersonen."
+        },
+        {
+          "text": "Einzelne Bürger haben mehr Einfluss, da sie direkter wählen können.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Wahlen** sind wichtig, aber **Verbände** können **kontinuierlichen Einfluss** ausüben, der über Wahlen hinausgeht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist die Unabhängigkeit von NGOs wichtig für ihre Glaubwürdigkeit?</p>",
+      "options": [
+        {
+          "text": "Weil sie dadurch direkten Einfluss auf Regierungsentscheidungen nehmen können.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Unabhängigkeit** bedeutet, dass sie **eben nicht direkt von Regierungen gesteuert** werden."
+        },
+        {
+          "text": "Weil sie so ihre eigenen Werte und Ziele verfolgen können, ohne von staatlichen oder wirtschaftlichen Interessen beeinflusst zu sein.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Unabhängigkeit** sichert die **Glaubwürdigkeit** von NGOs, da sie **eigene Werte** vertreten können, **unabhängig** von anderen Interessen."
+        },
+        {
+          "text": "Weil staatliche Organisationen grundsätzlich glaubwürdiger sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Staatliche Organisationen** haben **andere Aufgaben** und **nicht automatisch mehr Glaubwürdigkeit** in allen Bereichen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Herausforderung ergibt sich aus der Vielfalt der Interessengruppen in der Politik?</p>",
+      "options": [
+        {
+          "text": "Politische Entscheidungen werden schneller und effizienter getroffen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Vielfalt** kann **Entscheidungsprozesse** eher **verlangsamen** und **komplizieren**."
+        },
+        {
+          "text": "Es ist schwieriger, einen Konsens zu finden und politische Kompromisse zu erzielen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die **Vielfalt der Interessen** macht es **schwieriger**, **Konsens** und **Kompromisse** zu finden."
+        },
+        {
+          "text": "Die politische Stabilität wird durch die Vielfalt gestärkt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Vielfalt** kann auch zu **Instabilität** führen, wenn **Interessen unvereinbar** sind."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wie können Bürgerinnen und Bürger die Arbeit von Interessengruppen kritisch beurteilen?</p>",
+      "options": [
+        {
+          "text": "Indem sie nur die Positionen der Regierungsparteien berücksichtigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine **kritische Beurteilung** erfordert die **Berücksichtigung verschiedener Perspektiven**, nicht nur der Regierung."
+        },
+        {
+          "text": "Indem sie sich informieren, welche Interessen vertreten werden und welche Methoden der Einflussnahme genutzt werden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Kritische Beurteilung** erfordert **Information** über **Interessen** und **Methoden der Einflussnahme**."
+        },
+        {
+          "text": "Indem sie sich ausschliesslich auf die Informationen in den Mainstream-Medien verlassen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Mainstream-Medien** sind wichtig, aber **zusätzliche Informationsquellen** sind für eine **umfassende Beurteilung** notwendig."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche langfristige Auswirkung könnte Lobbying auf die Demokratie haben, wenn es nicht transparent und reguliert ist?</p>",
+      "options": [
+        {
+          "text": "Es stärkt die Gleichheit aller Bürger vor dem Gesetz.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Intransparentes Lobbying** kann die **Gleichheit** eher **untergraben**."
+        },
+        {
+          "text": "Es kann zu einer unfairen Bevorzugung bestimmter Interessengruppen führen und die demokratische Willensbildung untergraben.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Intransparentes Lobbying** kann zu **unfairer Bevorzugung** und **Untergrabung der Demokratie** führen."
+        },
+        {
+          "text": "Es führt automatisch zu gerechteren Gesetzen, da viele Perspektiven berücksichtigt werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Ungeregeltes Lobbying** garantiert **keine Gerechtigkeit**, sondern kann **Ungleichgewichte verstärken**."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Parteien sind in erster Linie Zweckvereinigungen zur Vertretung wirtschaftlicher Interessen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Parteien sind politische Vereine, die ein breiteres Spektrum an politischen Zielen verfolgen, nicht nur wirtschaftliche Interessen."
+      ,
+      "feedback_incorrect": "Richtig. Parteien sind in erster Linie politische Vereine, nicht Zweckvereinigungen für wirtschaftliche Interessen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die politische Grundhaltung 'Links' betont die Eigenverantwortung und private Vorsorge.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die politische Grundhaltung 'Rechts' betont Eigenverantwortung und private Vorsorge. 'Links' betont soziale Umverteilung und staatliches Engagement.",
+      "feedback_incorrect": "Richtig. Die politische Grundhaltung 'Links' betont soziale Umverteilung und staatliches Engagement, nicht Eigenverantwortung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die FDP gehört zu den vier Regierungsparteien der Schweiz.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Die FDP ist eine der vier Regierungsparteien der Schweiz.",
+      "feedback_incorrect": "Falsch. Die FDP ist tatsächlich eine der vier Regierungsparteien."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Gewerkschaften sind Beispiele für Arbeitgeberverbände.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Gewerkschaften sind Arbeitnehmerverbände, die die Interessen der Arbeitnehmer vertreten.",
+      "feedback_incorrect": "Richtig. Gewerkschaften sind Arbeitnehmerverbände, keine Arbeitgeberverbände."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der WWF wurde in Amsterdam gegründet.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Der WWF wurde 1961 in der Schweiz gegründet, mit Hauptsitz in Gland.",
+      "feedback_incorrect": "Richtig. Der WWF wurde in der Schweiz gegründet, nicht in Amsterdam."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Lobbying findet hauptsächlich im Geheimen statt und ist illegal.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Lobbying ist ein legitimer Teil der Politik und findet oft öffentlich statt, auch wenn es kritisch betrachtet wird.",
+      "feedback_incorrect": "Richtig. Lobbying ist nicht illegal und findet oft auch öffentlich statt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Das Links-Rechts-Schema erfasst die gesamte politische Vielfalt in der Schweiz vollständig.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Das Links-Rechts-Schema ist eine Vereinfachung und kann die komplexe politische Landschaft nicht vollständig abbilden.",
+      "feedback_incorrect": "Richtig. Das Links-Rechts-Schema ist eine Vereinfachung und erfasst nicht die gesamte politische Vielfalt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Parteien und Verbände verfolgen im Grunde die gleichen Ziele, nutzen aber unterschiedliche Methoden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Parteien und Verbände haben unterschiedliche Hauptziele: Parteien streben nach Regierungsmacht, Verbände nach der Vertretung spezifischer Interessen.",
+      "feedback_incorrect": "Richtig. Parteien und Verbände haben unterschiedliche Hauptziele."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>NGOs sind in erster Linie auf Gewinnmaximierung ausgerichtet.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. NGOs sind Nichtregierungsorganisationen und verfolgen in der Regel gemeinnützige Ziele, nicht Gewinnmaximierung.",
+      "feedback_incorrect": "Richtig. NGOs verfolgen gemeinnützige Ziele, nicht Gewinnmaximierung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Lobbying ist in einer Demokratie grundsätzlich unerwünscht und sollte abgeschafft werden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Lobbying ist ein legitimer Bestandteil der Demokratie, um Interessen zu vertreten, sollte aber transparent und reguliert sein.",
+      "feedback_incorrect": "Richtig. Lobbying ist ein legitimer Bestandteil der Demokratie, sollte aber reguliert sein."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine hohe Anzahl von Interessengruppen in der Politik ist immer ein Zeichen für eine gesunde Demokratie.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Eine hohe Anzahl ist zwar ein Merkmal, aber die Qualität der Demokratie hängt auch davon ab, wie diese Gruppen agieren und wie transparent der Einfluss ist.",
+      "feedback_incorrect": "Richtig. Die Qualität der Demokratie hängt auch von der Art und Weise ab, wie Interessengruppen agieren."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die politische Grundhaltung 'Konservativ' befürwortetReformen in politischen und gesellschaftlichen Fragen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die politische Grundhaltung 'Konservativ' betont eher das Festhalten am Bestehenden und eine zurückhaltende Haltung gegenüber Reformen.",
+      "feedback_incorrect": "Richtig. Die politische Grundhaltung 'Konservativ' betont das Bewahren und nicht Reformen."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "title": "Interessengruppen - Drag the words",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "text",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "correct_sentence": "In der Politik versuchen verschiedene Interessengruppen, das öffentliche Leben nach ihren Vorstellungen und Werten zu gestalten.",
+      "wrong_alternatives": [
+        "In der Wirtschaft versuchen nur wenige Gruppen, das private Leben nach ihren Wünschen zu verändern.",
+        "In der Kunst versuchen homogene Gruppen, das individuelle Leben nach ihren Launen zu unterdrücken."
+      ]
+    },
+    {
+      "correct_sentence": "Parteien sind politische Vereine, die im Parlament und Bundesrat vertreten sind und am Gesetzgebungsprozess teilnehmen.",
+      "wrong_alternatives": [
+        "Parteien sind private Unternehmen, die nur in der Wirtschaft und im Handel aktiv sind und am Produktionsprozess teilnehmen.",
+        "Parteien sind religiöse Gemeinschaften, die in Kirchen und Klöstern vertreten sind und am Gebetsprozess teilnehmen."
+      ]
+    },
+    {
+      "correct_sentence": "Politische Grundhaltungen wie liberal, links, rechts und konservativ basieren auf unterschiedlichen Weltanschauungen.",
+      "wrong_alternatives": [
+        "Musikalische Grundhaltungen wie Klassik, Rock, Pop und Jazz basieren auf ähnlichen Melodien.",
+        "Sportliche Grundhaltungen wie fair, schnell, hoch und stark basieren auf identischen Regeln."
+      ]
+    },
+    {
+      "correct_sentence": "Liberale Politik steht für grosse Wirtschaftsfreiheit und internationale Zusammenarbeit ohne staatliche Einschränkungen.",
+      "wrong_alternatives": [
+        "Autoritäre Politik steht für geringe Meinungsfreiheit und nationale Abschottung mit starken staatlichen Eingriffen.",
+        "Anarchistische Politik steht für absolute Regellosigkeit und individuelle Isolation ohne gesellschaftliche Strukturen."
+      ]
+    },
+    {
+      "correct_sentence": "Linke Politik setzt sich für soziale Umverteilung und einen Ausbau des Sozialstaats durch stärkeres staatliches Engagement ein.",
+      "wrong_alternatives": [
+        "Rechte Politik setzt sich für soziale Gleichverteilung und einen Abbau des Sozialstaats durch geringeres staatliches Engagement ein.",
+        "Zentrums-Politik setzt sich für soziale Neutralverteilung und einen Umbau des Sozialstaats durch moderates staatliches Engagement ein."
+      ]
+    },
+    {
+      "correct_sentence": "Rechte Politik betont Eigenverantwortung, private Vorsorge und eine starke Betonung von Recht und Ordnung.",
+      "wrong_alternatives": [
+        "Linke Politik betont Fremdverantwortung, staatliche Fürsorge und eine schwache Betonung von Recht und Ordnung.",
+        "Grüne Politik betont Kollektivverantwortung, ökologische Kernsorge und eine flexible Betonung von Recht und Ordnung."
+      ]
+    },
+    {
+      "correct_sentence": "Konservative Politik konzentriert sich auf nationale Unabhängigkeit, zurückhaltende Migration und das Festhalten am Bestehenden.",
+      "wrong_alternatives": [
+        "Progressive Politik konzentriert sich auf globale Abhängigkeit, offene Migration und das Ablehnen des Bestehenden.",
+        "Revolutionäre Politik konzentriert sich auf internationale Brüderlichkeit, unkontrollierte Migration und das Zerstören des Bestehenden."
+      ]
+    },
+    {
+      "correct_sentence": "Verbände sind Zweckvereinigungen, die die Interessen ihrer Mitglieder in Wirtschaft und Gesellschaft vertreten.",
+      "wrong_alternatives": [
+        "Parteien sind Interessensvereinigungen, die die Zwecke ihrer Wähler in Kultur und Bildung vertreten.",
+        "NGOs sind Wertevereinigungen, die die Ziele ihrer Spender in Umwelt und Entwicklung vertreten."
+      ]
+    },
+    {
+      "correct_sentence": "Arbeitgeberverbände vertreten die Interessen von Unternehmen und Gewerbe, während Arbeitnehmerverbände Gewerkschaften sind.",
+      "wrong_alternatives": [
+        "Arbeitnehmerverbände vertreten die Interessen von Unternehmen und Gewerbe, während Arbeitgeberverbände Konsumvereine sind.",
+        "Konsumentenverbände vertreten die Interessen von Unternehmen und Gewerbe, während Produzentenverbände Berufsgenossenschaften sind."
+      ]
+    },
+    {
+      "correct_sentence": "NGOs wie Amnesty International und WWF setzen sich für Menschenrechte und Umweltschutz ein.",
+      "wrong_alternatives": [
+        "Wirtschaftsunternehmen wie Nestlé und Novartis setzen sich für Menschenrechte und Umweltschutz ein.",
+        "Regierungsorganisationen wie UNO und NATO setzen sich für Menschenrechte und Umweltschutz ein."
+      ]
+    },
+    {
+      "correct_sentence": "Amnesty International wurde 1961 gegründet und setzt sich weltweit für politische Gefangene und gegen Menschenrechtsverletzungen ein.",
+      "wrong_alternatives": [
+        "Ärzte ohne Grenzen wurde 1861 gegründet und setzt sich weltweit für medizinische Versorgung und gegen Epidemien ein.",
+        "Ingenieure ohne Grenzen wurde 2001 gegründet und setzt sich weltweit für technische Lösungen und gegen Naturkatastrophen ein."
+      ]
+    },
+    {
+      "correct_sentence": "Der WWF, gegründet 1961 in der Schweiz, engagiert sich für Naturschutz, biologische Vielfalt und nachhaltige Ressourcennutzung.",
+      "wrong_alternatives": [
+        "Der WEF, gegründet 1971 in Deutschland, engagiert sich für Wirtschaftswachstum, finanzielle Stabilität und kurzfristige Gewinnmaximierung.",
+        "Der WHO, gegründet 1951 in Frankreich, engagiert sich für Gesundheitsförderung, medizinische Innovation und unbegrenzte Lebenserwartung."
+      ]
+    },
+    {
+      "correct_sentence": "Greenpeace, gegründet 1971, ist bekannt für Kampagnen gegen Walfang, Atomkraft und Gentechnik zum Schutz der Umwelt.",
+      "wrong_alternatives": [
+        "Greenpeace, gegründet 1991, ist bekannt für Spendenaktionen für Armut, Hunger und Krankheiten zur Linderung des Leids.",
+        "Greenpeace, gegründet 1951, ist bekannt für Friedensdemonstrationen gegen Krieg, Gewalt und Terror zur Förderung der Sicherheit."
+      ]
+    },
+    {
+      "correct_sentence": "Public Eye, früher Erklärung von Bern, setzt sich für eine gerechtere Globalisierung und solidarische Beziehungen ein.",
+      "wrong_alternatives": [
+        "Private Eye, später Spiegel Online, setzt sich für eine sensationslüsterne Berichterstattung und reisserische Schlagzeilen ein.",
+        "Secret Eye, früher Wiki Leaks, setzt sich für eine geheime Informationsbeschaffung und anonyme Datenveröffentlichung ein."
+      ]
+    },
+    {
+      "correct_sentence": "Attac wehrt sich gegen private Bereicherung und fordert demokratische Kontrolle der Finanzmärkte und fairen Handel.",
+      "wrong_alternatives": [
+        "Adac befürwortet private Autobahnen und fordert uneingeschränkte Nutzung der Verkehrswege und freien Autohandel.",
+        "Apec unterstützt private Monopole und fordert unkontrollierte Deregulierung der Gütermärkte und freien Welthandel."
+      ]
+    },
+    {
+      "correct_sentence": "Verbände üben grossen Einfluss auf politische Entscheide aus durch Mitgliederzahl, Finanzkraft und Kontakte zu Parteien.",
+      "wrong_alternatives": [
+        "Einzelpersonen üben grossen Einfluss auf wirtschaftliche Entscheide aus durch Individualität, Innovationskraft und Distanz zu Unternehmen.",
+        "Regierungen üben grossen Einfluss auf militärische Entscheide aus durch Staatsgewalt, Militärmacht und Isolation von Bevölkerung."
+      ]
+    },
+    {
+      "correct_sentence": "Lobbys sind Interessengruppierungen, deren Vertreter in Parlamenten sitzen und die Interessen ihrer Verbände wahrnehmen.",
+      "wrong_alternatives": [
+        "Agenten sind Geheimorganisationen, deren Mitglieder in Regierungen sitzen und die Ziele ihrer Auftraggeber verheimlichen.",
+        "Spione sind Nachrichtendienste, deren Informanten in Firmen sitzen und die Daten ihrer Konkurrenten beschaffen."
+      ]
+    },
+    {
+      "correct_sentence": "Verbände nehmen an Vernehmlassungen teil, arbeiten in Kommissionen mit und lobbyieren bei Diskussionen in den Räten.",
+      "wrong_alternatives": [
+        "Parteien nehmen an Demonstrationen teil, boykottieren Wahlen und agitieren bei Kundgebungen auf den Strassen.",
+        "NGOs nehmen an Guerilla-Aktionen teil, sabotieren Projekte und terrorisieren bei Anschlägen in den Städten."
+      ]
+    },
+    {
+      "correct_sentence": "Der politische Einfluss von Verbänden und Lobbys auf die Gesetzgebung ist ein wichtiger Aspekt der Schweizer Politik.",
+      "wrong_alternatives": [
+        "Der wirtschaftliche Einfluss von Banken und Konzernen auf die Medien ist ein unwichtiger Aspekt der globalen Wirtschaft.",
+        "Der kulturelle Einfluss von Künstlern und Intellektuellen auf die Gesellschaft ist ein nebensächlicher Aspekt der persönlichen Freiheit."
+      ]
+    },
+    {
+      "correct_sentence": "Interessengruppen, einschliesslich Parteien, Verbände und NGOs, prägen massgeblich die politische Landschaft der Schweiz.",
+      "wrong_alternatives": [
+        "Einzelpersonen, ausschliesslich Bürger und Wähler, bestimmen vollständig die politische Landschaft der Schweiz.",
+        "Regierung, vor allem Bundesrat und Parlament, kontrollieren allein die politische Landschaft der Schweiz."
+      ]
+    }
+  ]
+}

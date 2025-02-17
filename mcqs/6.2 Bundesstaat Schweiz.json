@@ -1,0 +1,546 @@
+{
+  "title": "Verständnisfragen zu Staatsformen und Demokratie",
+  "media": {
+      "type": "",
+      "url": "",
+      "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Staatsform beschreibt einen Zusammenschluss von Teilstaaten zu einem Gesamtstaat?</p>",
+      "options": [
+        {
+          "text": "Einheitsstaat",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein **Einheitsstaat** hat eine zentrale Regierung."
+        },
+        {
+          "text": "Staatenbund",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein **Staatenbund** ist ein Zusammenschluss souveräner Staaten, nicht von Teilstaaten."
+        },
+        {
+          "text": "Bundesstaat",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein **Bundesstaat** entsteht durch den Zusammenschluss von Teilstaaten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Land ist ein Beispiel für einen Einheitsstaat?</p>",
+      "options": [
+        {
+          "text": "Deutschland",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Deutschland ist ein **Bundesstaat**."
+        },
+        {
+          "text": "Frankreich",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Frankreich** ist ein Beispiel für einen Einheitsstaat."
+        },
+        {
+          "text": "USA",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die USA sind ein **Bundesstaat**."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Bis wann war die Schweiz ein Staatenbund?</p>",
+      "options": [
+        {
+          "text": "Bis 1848",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schweiz wurde **1848** zum Bundesstaat."
+        },
+        {
+          "text": "Bis 1798",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Eidgenossenschaft war bis **1798** ein Staatenbund."
+        },
+        {
+          "text": "Bis 1900",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Umwandlung zum Bundesstaat erfolgte **früher**."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Aufgaben gehören typischerweise zu Gemeindeaufgaben in der Schweiz?</p>",
+      "options": [
+        {
+          "text": "Aussenpolitik",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Aussenpolitik** ist eine Bundesaufgabe."
+        },
+        {
+          "text": "Schulwesen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Schulwesen** ist primär eine Kantonsaufgabe."
+        },
+        {
+          "text": "Kehrichtabfuhr",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Kehrichtabfuhr** ist eine typische Gemeindeaufgabe."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Demokratieform basiert auf direkter Mitsprache aller Bürger?</p>",
+      "options": [
+        {
+          "text": "Repräsentative Demokratie",
+          "is_correct": false,
+          "feedback": "❌ Falsch. In der **repräsentativen Demokratie** wählen Bürger Vertreter."
+        },
+        {
+          "text": "Direkte Demokratie",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die **direkte Demokratie** ermöglicht direkte Mitsprache."
+        },
+        {
+          "text": "Parlamentarische Demokratie",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **parlamentarische Demokratie** ist eine Form der repräsentativen Demokratie."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchen Kantonen der Schweiz gibt es noch Landsgemeinden?</p>",
+      "options": [
+        {
+          "text": "Zürich und Bern",
+          "is_correct": false,
+          "feedback": "❌ Falsch. In **Zürich und Bern** gibt es keine Landsgemeinden."
+        },
+        {
+          "text": "Appenzell Innerrhoden und Glarus",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Appenzell Innerrhoden und Glarus** kennen noch die Landsgemeinde."
+        },
+        {
+          "text": "Waadt und Genf",
+          "is_correct": false,
+          "feedback": "❌ Falsch. In der **Waadt und Genf** gibt es keine Landsgemeinden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Merkmal ist typisch für eine Konkordanzdemokratie?</p>",
+      "options": [
+        {
+          "text": "Starke Opposition",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine **Konkordanzdemokratie** zielt auf Konsens ab, nicht auf starke Opposition."
+        },
+        {
+          "text": "Regierung aus Wahlsiegern",
+          "is_correct": false,
+          "feedback": "❌ Falsch. In der **Konkordanzdemokratie** werden alle massgeblichen Parteien eingebunden."
+        },
+        {
+          "text": "Einbindung aller massgeblichen Parteien in der Regierung",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die **Einbindung aller massgeblichen Parteien** ist typisch für die Konkordanzdemokratie."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Element ist ein wichtiges Unterscheidungsmerkmal zwischen Demokratie und Diktatur?</p>",
+      "options": [
+        {
+          "text": "Gewaltenteilung",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Gewaltenteilung** ist ein zentrales Merkmal der Demokratie, das in der Diktatur fehlt."
+        },
+        {
+          "text": "Parteienwettbewerb",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Parteienwettbewerb** findet in beiden Systemen statt, aber in Demokratien ist er frei."
+        },
+        {
+          "text": "Wirtschaftssystem",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das **Wirtschaftssystem** ist kein primäres Unterscheidungsmerkmal."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum wird die Schweiz als halbdirekte Demokratie bezeichnet?</p>",
+      "options": [
+        {
+          "text": "Weil das Parlament die Gesetze direkt vom Volk erhält.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das **Parlament** bereitet die Gesetze vor, das Volk stimmt ab."
+        },
+        {
+          "text": "Weil sie Elemente der direkten und repräsentativen Demokratie kombiniert.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die **Kombination** beider Elemente macht sie zur halbdirekten Demokratie."
+        },
+        {
+          "text": "Weil nur ein Teil der Kantone demokratisch ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Alle Kantone** der Schweiz sind demokratisch."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet Föderalismus für die Aufgabenteilung in der Schweiz?</p>",
+      "options": [
+        {
+          "text": "Alle Aufgaben werden zentral vom Bund wahrgenommen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der **Föderalismus** teilt Aufgaben auf verschiedene Ebenen auf."
+        },
+        {
+          "text": "Die Aufgaben sind zwischen Bund, Kantonen und Gemeinden aufgeteilt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der **Föderalismus** basiert auf der Aufteilung der Aufgaben."
+        },
+        {
+          "text": "Nur die Kantone sind für alle staatlichen Aufgaben zuständig.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Auch der **Bund und die Gemeinden** haben eigene Aufgaben."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen Vorteil bietet die Konkordanzdemokratie im Vergleich zur Konkurrenzdemokratie?</p>",
+      "options": [
+        {
+          "text": "Schnellere Entscheidungsfindung durch eine starke Regierungspartei.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Konkurrenzdemokratien** könnten schneller sein, Konkordanzdemokratien sind eher auf Konsens ausgerichtet."
+        },
+        {
+          "text": "Grössere politische Stabilität durch Einbindung aller wichtigen Parteien.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Stabilität** ist ein grosser Vorteil der Konkordanzdemokratie."
+        },
+        {
+          "text": "Klare Trennung zwischen Regierung und Opposition zur besseren Kontrolle.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Konkordanzdemokratien** verwischen eher die Grenzen zwischen Regierung und Opposition."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wie unterscheidet sich ein Bundesstaat von einem Staatenbund hinsichtlich der Souveränität?</p>",
+      "options": [
+        {
+          "text": "Im Bundesstaat sind die Teilstaaten vollständig souverän, im Staatenbund nicht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im **Staatenbund** sind die Staaten souverän, im Bundesstaat geben sie Souveränität ab."
+        },
+        {
+          "text": "Im Bundesstaat geben die Teilstaaten einen Teil ihrer Souveränität ab, im Staatenbund bleiben sie souverän.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Dies ist der **zentrale Unterschied** in Bezug auf Souveränität."
+        },
+        {
+          "text": "Es gibt keinen Unterschied in der Souveränität zwischen Bundesstaat und Staatenbund.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt einen **klaren Unterschied** in der Souveränitätsfrage."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist Gewaltenteilung ein wichtiges Merkmal einer Demokratie?</p>",
+      "options": [
+        {
+          "text": "Um die Macht auf eine Person zu konzentrieren und schnelle Entscheidungen zu ermöglichen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Gewaltenteilung** verhindert Machtkonzentration."
+        },
+        {
+          "text": "Um die gegenseitige Kontrolle der Staatsgewalten zu gewährleisten und Machtmissbrauch zu verhindern.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Kontrolle und Machtbegrenzung** sind die Ziele der Gewaltenteilung."
+        },
+        {
+          "text": "Um die Effizienz der Regierung zu steigern, indem Aufgaben klar verteilt werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Effizienzsteigerung** ist nicht der Hauptzweck, sondern Machtkontrolle."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Inwiefern beeinflusst die Existenz von freien Medien die Demokratie?</p>",
+      "options": [
+        {
+          "text": "Sie ermöglichen die freie Meinungsbildung und Information der Bürger.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Freie Medien** sind essenziell für die Demokratie, da sie Information und Meinungsbildung ermöglichen."
+        },
+        {
+          "text": "Sie führen zu politischer Instabilität und Desinformation.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Freie Medien** sollen Desinformation verhindern, staatlich kontrollierte Medien fördern Desinformation."
+        },
+        {
+          "text": "Sie sind in Demokratien irrelevant, da das Volk direkt entscheidet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Auch in **direkten Demokratien** sind Medien wichtig für Information."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist die Rolle des Referendums in der Schweizer Konkordanzdemokratie?</p>",
+      "options": [
+        {
+          "text": "Das Referendum schwächt die Position der Regierungsparteien.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das **Referendum** ist ein Instrument des Volkes, nicht gegen Regierungsparteien gerichtet."
+        },
+        {
+          "text": "Das Referendum ermöglicht dem Volk, korrigierend in politische Entscheidungen einzugreifen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das **Referendum** ist ein wichtiges Korrektiv in der Konkordanzdemokratie."
+        },
+        {
+          "text": "Das Referendum wird nur in Konkurrenzdemokratien eingesetzt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das **Referendum** ist gerade in der Schweizer Konkordanzdemokratie wichtig."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Befürchtung haben Bundesrat und Parlament bezüglich einer zu starken Auslegung des Föderalismus?</p>",
+      "options": [
+        {
+          "text": "Eine Stärkung der nationalen Einheit der Schweiz.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine **Stärkung der nationalen Einheit** ist eher ein Ziel, keine Befürchtung."
+        },
+        {
+          "text": "Eine Schwächung der Handlungsfähigkeit des Bundes und Zersplitterung des Landes.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Schwächung des Bundes und Zersplitterung** sind typische Befürchtungen."
+        },
+        {
+          "text": "Eine zu starke Zentralisierung der Macht beim Bund.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Zentralisierung** ist das Gegenteil von Föderalismus."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wie beeinflusst die historische Entwicklung der Schweiz die heutige Staatsform?</p>",
+      "options": [
+        {
+          "text": "Die Schweiz ist heute noch ein Staatenbund wie im Mittelalter.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schweiz hat sich **weiterentwickelt**."
+        },
+        {
+          "text": "Die Entwicklung vom Staatenbund zum Bundesstaat prägt den heutigen Föderalismus.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die **historische Entwicklung** ist entscheidend für das Verständnis des Föderalismus."
+        },
+        {
+          "text": "Die Schweiz war immer schon ein Einheitsstaat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schweiz war **nie ein Einheitsstaat** in ihrer heutigen Form."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist die Meinungs- und Pressefreiheit so wichtig in einer Demokratie?</p>",
+      "options": [
+        {
+          "text": "Weil sie die Regierung in ihrer Machtausübung unkontrolliert lässt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Meinungs- und Pressefreiheit** kontrollieren die Regierung, nicht umgekehrt."
+        },
+        {
+          "text": "Weil sie den Bürgern ermöglicht, sich zu informieren und ihre Meinung frei zu äußern und zu bilden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Information, freie Meinungsbildung und -äusserung** sind zentral."
+        },
+        {
+          "text": "Weil sie zu einer einheitlichen öffentlichen Meinung führt und Konflikte vermeidet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Meinungsfreiheit** führt zu Meinungsvielfalt, nicht zu Einheitlichkeit."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was wäre ein Nachteil der direkten Demokratie im Vergleich zur repräsentativen Demokratie?</p>",
+      "options": [
+        {
+          "text": "Direkte Demokratie führt immer zu schnelleren Entscheidungen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Direkte Demokratie** kann langwieriger sein."
+        },
+        {
+          "text": "Direkte Demokratie kann zu komplexen und langwierigen Entscheidungsprozessen führen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Komplexe und langwierige Prozesse** sind ein möglicher Nachteil."
+        },
+        {
+          "text": "Direkte Demokratie ermöglicht keine Berücksichtigung von Minderheitenmeinungen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Direkte Demokratie** kann Minderheitenmeinungen berücksichtigen, aber Entscheidungen basieren auf Mehrheit."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist Kompromissbereitschaft so wichtig in einer Konkordanzdemokratie?</p>",
+      "options": [
+        {
+          "text": "Weil es in der Konkordanzdemokratie keine unterschiedlichen politischen Ansichten gibt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Unterschiedliche Ansichten** sind vorhanden, Kompromiss ist nötig, um diese zu überbrücken."
+        },
+        {
+          "text": "Weil die Regierung aus verschiedenen Parteien besteht und gemeinsame Lösungen finden muss.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Gemeinsame Lösungen** erfordern Kompromissbereitschaft."
+        },
+        {
+          "text": "Weil die Opposition in der Konkordanzdemokratie besonders stark ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Opposition** ist in der Konkordanzdemokratie weniger stark ausgeprägt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Schweiz hat sich direkt vom Einheitsstaat zum Bundesstaat entwickelt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Schweiz entwickelte sich vom Staatenbund über den Einheitsstaat zum Bundesstaat.",
+      "feedback_incorrect": "Richtig. Die Schweiz durchlief eine Entwicklung vom Staatenbund über den Einheitsstaat zum Bundesstaat."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>In einem Einheitsstaat gelten nicht in allen Teilen des Staates die gleichen Gesetze.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. In einem Einheitsstaat gelten im ganzen Staat die gleichen Gesetze.",
+      "feedback_incorrect": "Richtig. In einem Einheitsstaat ist es charakteristisch, dass einheitliche Gesetze gelten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die NATO ist ein Beispiel für einen Bundesstaat.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die NATO ist ein Staatenbund.",
+      "feedback_incorrect": "Richtig. Die NATO ist ein Zusammenschluss souveräner Staaten, also ein Staatenbund."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Schulwesen ist in der Schweiz eine Bundesaufgabe.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Schulwesen ist primär eine Kantonsaufgabe.",
+      "feedback_incorrect": "Richtig. Das Schulwesen fällt hauptsächlich in die Zuständigkeit der Kantone."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>In einer repräsentativen Demokratie wählt das Volk seine Abgeordneten.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Das Wählen von Abgeordneten ist das Kernmerkmal der repräsentativen Demokratie.",
+      "feedback_incorrect": "Falsch. In der repräsentativen Demokratie ist die Wahl von Vertretern durch das Volk zentral."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Schweiz ist eine reine Form der direkten Demokratie.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Schweiz ist eine halbdirekte Demokratie, eine Mischform.",
+      "feedback_incorrect": "Richtig. Die Schweiz kombiniert Elemente direkter und repräsentativer Demokratie."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein Einheitsstaat ist besser geeignet für grosse und heterogene Länder als ein Bundesstaat.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Bundesstaaten können besser auf die Bedürfnisse heterogener Regionen eingehen.",
+      "feedback_incorrect": "Richtig. Bundesstaaten sind oft besser geeignet, die Vielfalt in grossen Ländern zu berücksichtigen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Föderalismus führt tendenziell zu einer stärkeren Zentralregierung.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Föderalismus zielt auf die Dezentralisierung und Aufteilung der Macht ab.",
+      "feedback_incorrect": "Richtig. Föderalismus ist das Gegenteil von Zentralisierung, er verteilt Macht auf verschiedene Ebenen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>In einer Konkurrenzdemokratie sind alle Parteien an der Regierung beteiligt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. In der Konkurrenzdemokratie gibt es eine Regierungspartei und eine Opposition.",
+      "feedback_incorrect": "Richtig. Die Konkurrenzdemokratie zeichnet sich durch eine Trennung von Regierung und Opposition aus."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Demokratie und Diktatur unterscheiden sich hauptsächlich in der Art des Wirtschaftssystems.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Der Hauptunterschied liegt in den politischen Strukturen und Rechten, nicht im Wirtschaftssystem.",
+      "feedback_incorrect": "Richtig. Der Unterschied zwischen Demokratie und Diktatur ist primär politischer Natur."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die direkte Demokratie in der Schweiz ist ein Relikt aus alten Zeiten und nicht mehr zeitgemäss.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Viele sehen die direkte Demokratie als wichtigen Bestandteil der modernen Schweizer Politik.",
+      "feedback_incorrect": "Richtig. Die direkte Demokratie wird in der Schweiz weiterhin als relevant und zeitgemäss betrachtet."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine starke Opposition ist ein Zeichen für eine funktionierende Konkordanzdemokratie.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Eine Konkordanzdemokratie zielt eher auf Konsens ab, eine starke Opposition ist typischer für Konkurrenzdemokratien.",
+      "feedback_incorrect": "Richtig. Eine starke Opposition ist eher ein Merkmal der Konkurrenzdemokratie, nicht der Konkordanzdemokratie."
+    }
+  ]
+}

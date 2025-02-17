@@ -1,0 +1,151 @@
+{
+  "title": "Staatsformen und Demokratie - Zusammenfassung",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "text",
+    "url": "",
+    "source": "Lehrmittel"
+  },
+  "questions": [
+    {
+      "correct_sentence": "Die Schweiz entwickelte sich historisch vom Staatenbund über den Einheitsstaat zum heutigen Bundesstaat.",
+      "wrong_alternatives": [
+        "Die Schweiz war schon immer ein Bundesstaat und hat ihre Struktur seit der Gründung nicht wesentlich verändert.",
+        "Die Schweiz begann als Einheitsstaat und entwickelte sich dann direkt zu einem Staatenbund, bevor sie zum Bundesstaat wurde."
+      ]
+    },
+    {
+      "correct_sentence": "Ein Bundesstaat entsteht, wenn sich Teilstaaten zusammenschliessen und einen gemeinsamen Gesamtstaat bilden.",
+      "wrong_alternatives": [
+        "Ein Bundesstaat wird durch die zentrale Regierung eines Einheitsstaates gebildet, die beschliesst, sich in Teilstaaten aufzulösen.",
+        "Ein Bundesstaat ist eine Vereinigung von unabhängigen Staaten, die nur lose durch gemeinsame Interessen verbunden sind, ohne eine zentrale Regierung."
+      ]
+    },
+    {
+      "correct_sentence": "Deutschland, Österreich und die USA sind Beispiele für Bundesstaaten.",
+      "wrong_alternatives": [
+        "Frankreich, Grossbritannien und Italien sind typische Beispiele für Bundesstaaten mit starker regionaler Autonomie.",
+        "Die UNO, NATO und OPEC sind Beispiele für Bundesstaaten, da sie aus verschiedenen Nationen zusammengesetzt sind."
+      ]
+    },
+    {
+      "correct_sentence": "In einem Einheitsstaat gibt es nur eine zentrale Regierung, die das Land einheitlich regiert.",
+      "wrong_alternatives": [
+        "In einem Einheitsstaat existieren mehrere gleichberechtigte Regierungen, die sich die Macht teilen und regionale Autonomie gewährleisten.",
+        "Ein Einheitsstaat zeichnet sich durch das Fehlen einer zentralen Regierung aus, wobei lokale Gemeinschaften vollständig autonom sind."
+      ]
+    },
+    {
+      "correct_sentence": "Frankreich, Grossbritannien und Italien sind Beispiele für Einheitsstaaten.",
+      "wrong_alternatives": [
+        "Die Schweiz, Kanada und Australien sind Beispiele für Einheitsstaaten, die durch ihre zentralistische Regierungsform gekennzeichnet sind.",
+        "Deutschland, Österreich und Belgien sind Beispiele für Einheitsstaaten, da sie von einer einzigen Hauptstadt aus regiert werden."
+      ]
+    },
+    {
+      "correct_sentence": "Ein Staatenbund ist ein Zusammenschluss selbstständiger Staaten zur Lösung gemeinsamer Aufgaben.",
+      "wrong_alternatives": [
+        "Ein Staatenbund ist ein zentralisierter Staat, in dem die Regierung alleinig über die Souveränität verfügt und die Teilstaaten regiert.",
+        "Ein Staatenbund entsteht, wenn ein Einheitsstaat sich in unabhängige Staaten aufteilt, die jedoch weiterhin eine gemeinsame Regierung haben."
+      ]
+    },
+    {
+      "correct_sentence": "UNO, NATO und OPEC sind Beispiele für Staatenbünde.",
+      "wrong_alternatives": [
+        "Die Europäische Union, die Vereinten Nationen und die G20 sind Beispiele für Bundesstaaten mit supranationalen Regierungen.",
+        "Deutschland, Frankreich und die USA bilden zusammen einen Staatenbund, um ihre aussenpolitischen Interessen zu koordinieren."
+      ]
+    },
+    {
+      "correct_sentence": "Föderalismus im Bundesstaat Schweiz bedeutet Aufgabenteilung zwischen Bund, Kantonen und Gemeinden.",
+      "wrong_alternatives": [
+        "Föderalismus in der Schweiz bedeutet, dass alle Aufgaben zentral vom Bund wahrgenommen werden, um Einheitlichkeit zu gewährleisten.",
+        "Föderalismus in der Schweiz beschreibt die vollständige Unabhängigkeit der Kantone, ohne zentrale Koordination durch den Bund."
+      ]
+    },
+    {
+      "correct_sentence": "Bundesaufgaben in der Schweiz sind beispielsweise Aussenpolitik, Strassenverkehr und Militär.",
+      "wrong_alternatives": [
+        "Zu den Bundesaufgaben in der Schweiz gehören primär das Schulwesen, das Gesundheitswesen und die kantonale Polizeiarbeit.",
+        "Bundesaufgaben in der Schweiz umfassen vor allem die kommunale Kehrichtabfuhr, Wasser- und Elektrizitätsversorgung sowie den Bau von Schulhäusern."
+      ]
+    },
+    {
+      "correct_sentence": "Kantonsaufgaben in der Schweiz sind beispielsweise Schule, Gesundheitswesen und Polizei.",
+      "wrong_alternatives": [
+        "Kantonsaufgaben in der Schweiz konzentrieren sich hauptsächlich auf die Aussenpolitik, den Strassenverkehr und das Militärwesen.",
+        "Zu den typischen Kantonsaufgaben in der Schweiz zählen die Kehrichtabfuhr, die Wasser- und Elektrizitätsversorgung sowie die Feuerwehr."
+      ]
+    },
+    {
+      "correct_sentence": "Gemeindeaufgaben in der Schweiz sind beispielsweise Kehrichtabfuhr, Feuerwehr und Wasserversorgung.",
+      "wrong_alternatives": [
+        "Gemeindeaufgaben in der Schweiz umfassen vor allem das Schulwesen, das Gesundheitswesen und die kantonale Bauplanung.",
+        "Typische Gemeindeaufgaben in der Schweiz sind die Aussenpolitik, der Betrieb des Militärs und die nationale Berufsbildung."
+      ]
+    },
+    {
+      "correct_sentence": "Demokratie zielt darauf ab, den Willen des Volkes zu ermitteln und die Staatstätigkeit danach auszurichten.",
+      "wrong_alternatives": [
+        "Demokratie konzentriert sich primär darauf, die Macht in den Händen einer kleinen Elite zu konzentrieren, um effiziente Entscheidungen zu gewährleisten.",
+        "In einer Demokratie ist es das Hauptziel, die traditionellen Hierarchien zu bewahren und die bestehende soziale Ordnung zu festigen."
+      ]
+    },
+    {
+      "correct_sentence": "Direkte Demokratie ermöglicht die unmittelbare Mitsprache jedes Bürgers.",
+      "wrong_alternatives": [
+        "Direkte Demokratie bedeutet, dass das Volk seine Regierung nur indirekt über gewählte Repräsentanten beeinflusst.",
+        "Direkte Demokratie beschreibt ein System, in dem nur bestimmte Bevölkerungsgruppen, wie z.B. Akademiker, direkt an Entscheidungen beteiligt sind."
+      ]
+    },
+    {
+      "correct_sentence": "Repräsentative Demokratie basiert auf gewählten Vertretern des Volkes.",
+      "wrong_alternatives": [
+        "Repräsentative Demokratie verzichtet vollständig auf Wahlen und setzt stattdessen auf zufällig ausgewählte Bürger.",
+        "In einer rein repräsentativen Demokratie hat das Volk keine Möglichkeit, direkt in politische Prozesse einzugreifen."
+      ]
+    },
+    {
+      "correct_sentence": "Die Schweiz ist eine halbdirekte Demokratie, eine Mischform aus direkter und repräsentativer Demokratie.",
+      "wrong_alternatives": [
+        "Die Schweiz ist eine rein direkte Demokratie, in der alle Entscheidungen ausschliesslich vom Volk getroffen werden.",
+        "Die Schweiz ist eine rein repräsentative Demokratie, in der das Volk keinerlei direkte Einflussmöglichkeiten auf die Politik hat."
+      ]
+    },
+    {
+      "correct_sentence": "In einer Konkordanzdemokratie sind alle massgeblichen Parteien in der Regierung vertreten.",
+      "wrong_alternatives": [
+        "In einer Konkordanzdemokratie regiert nur die stärkste Partei allein, um klare Mehrheitsverhältnisse zu schaffen.",
+        "Eine Konkordanzdemokratie zeichnet sich durch eine Regierung aus, die sich ausschliesslich aus Experten und Fachleuten zusammensetzt, ohne Parteienbeteiligung."
+      ]
+    },
+    {
+      "correct_sentence": "Konkordanzdemokratie in der Schweiz führt zu grosser politischer Stabilität.",
+      "wrong_alternatives": [
+        "Konkordanzdemokratie in der Schweiz führt tendenziell zu politischer Instabilität durch ständige Kompromissfindung und langsame Entscheidungen.",
+        "Konkordanzdemokratie in der Schweiz begünstigt politische Polarisierung, da unterschiedliche Parteien in der Regierung ständig konkurrieren."
+      ]
+    },
+    {
+      "correct_sentence": "In einer Konkurrenzdemokratie gibt es eine Regierungspartei und eine Opposition.",
+      "wrong_alternatives": [
+        "In einer Konkurrenzdemokratie sind Regierung und Opposition bestrebt, in allen Fragen einen Konsens zu erzielen und gemeinsam zu regieren.",
+        "Eine Konkurrenzdemokratie kennt keine Opposition, da alle Parteien bestrebt sind, Teil der Regierung zu sein und Verantwortung zu übernehmen."
+      ]
+    },
+    {
+      "correct_sentence": "Demokratie zeichnet sich durch Gewaltenteilung, Menschenrechte und freie Wahlen aus.",
+      "wrong_alternatives": [
+        "Demokratie konzentriert die gesamte Staatsgewalt in einer einzigen Institution, um Effizienz und schnelle Entscheidungen zu gewährleisten.",
+        "In einer Demokratie sind Menschenrechte und freie Wahlen irrelevant, da der Fokus auf der kollektiven Wohlfahrt und staatlichen Steuerung liegt."
+      ]
+    },
+    {
+      "correct_sentence": "Diktatur ist durch die Missachtung von Menschenrechten und das Fehlen freier Wahlen gekennzeichnet.",
+      "wrong_alternatives": [
+        "Diktaturen respektieren die Menschenrechte und garantieren freie Wahlen, um die Legitimität ihrer Herrschaft zu demonstrieren.",
+        "In einer Diktatur sind Menschenrechte und freie Wahlen von zentraler Bedeutung, um die Bürger aktiv in den politischen Prozess einzubinden."
+      ]
+    }
+  ]
+}

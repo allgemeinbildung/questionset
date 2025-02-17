@@ -1,0 +1,151 @@
+{
+  "title": "Gesetzgebungsprozess –  Wahr oder Falsch?",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "text",
+    "url": "",
+    "source": "Lehrmittel"
+  },
+  "questions": [
+    {
+      "correct_sentence": "Der Gesetzgebungsprozess in der Schweiz zeigt, wie verschiedene politische Akteure bei der Entstehung von Gesetzen zusammenarbeiten.",
+      "wrong_alternatives": [
+        "Im schweizerischen Gesetzgebungsprozess sind nur der Bundesrat und das Parlament massgeblich beteiligt, während Kantone und Volk keine direkte Rolle spielen.",
+        "Der Gesetzgebungsprozess in der Schweiz ist ein rein formaler Akt ohne die Beteiligung verschiedener politischer Akteure oder die Notwendigkeit breiter Zustimmung."
+      ]
+    },
+    {
+      "correct_sentence": "Neue Gesetze in der Schweiz treten in Kraft, weil sie eine breite Akzeptanz und Unterstützung von verschiedenen Seiten geniessen müssen.",
+      "wrong_alternatives": [
+        "In der Schweiz können neue Gesetze auch ohne breite gesellschaftliche oder politische Unterstützung in Kraft treten, solange das Parlament zustimmt.",
+        "Die breite Abstützung neuer Gesetze in der Schweiz ist zwar wünschenswert, aber keine zwingende Voraussetzung für deren Inkrafttreten."
+      ]
+    },
+    {
+      "correct_sentence": "Der Anstoss für ein neues Gesetz kann vom Bundesrat selbst oder durch eine Motion des Parlaments erfolgen.",
+      "wrong_alternatives": [
+        "Einzig der Bundesrat kann in der Schweiz den Anstoss für ein neues Gesetz geben, während das Parlament hierbei keine Initiativrolle besitzt.",
+        "Gesetzesanstösse in der Schweiz können ausschliesslich vom Volk über Volksinitiativen ausgehen, nicht aber vom Bundesrat oder Parlament."
+      ]
+    },
+    {
+      "correct_sentence": "Eine Expertenkommission, eingesetzt vom Bundesrat, formuliert den ersten Entwurf eines Gesetzes, den Vorentwurf.",
+      "wrong_alternatives": [
+        "Der Vorentwurf eines Gesetzes in der Schweiz wird direkt vom Parlament ohne Beteiligung von Expertenkommissionen oder des Bundesrates formuliert.",
+        "Expertenkommissionen im Gesetzgebungsprozess der Schweiz werden nicht vom Bundesrat eingesetzt, sondern von unabhängigen juristischen Vereinigungen."
+      ]
+    },
+    {
+      "correct_sentence": "Im Rahmen der Vernehmlassung wird der Vorentwurf an Kantone, Parteien, Verbände und weitere interessierte Kreise zur Stellungnahme geschickt.",
+      "wrong_alternatives": [
+        "Die Vernehmlassung in der Schweiz beschränkt sich ausschliesslich auf die Kantone, andere Organisationen oder interessierte Kreise werden nicht konsultiert.",
+        "Im Schweizer Gesetzgebungsprozess gibt es keine formelle Vernehmlassung, bei der externe Stellungnahmen zum Gesetzesentwurf eingeholt werden."
+      ]
+    },
+    {
+      "correct_sentence": "Die Bundesverwaltung überarbeitet den Gesetzesentwurf basierend auf den Rückmeldungen aus der Vernehmlassung und erstellt den definitiven Entwurf mit Botschaft.",
+      "wrong_alternatives": [
+        "Nach der Vernehmlassung wird der Gesetzesentwurf nicht von der Bundesverwaltung überarbeitet, sondern direkt dem Parlament zur Behandlung vorgelegt.",
+        "Die Botschaft zum definitiven Gesetzesentwurf wird nicht von der Bundesverwaltung, sondern von der Expertenkommission verfasst, die den Vorentwurf erstellt hat."
+      ]
+    },
+    {
+      "correct_sentence": "National- und Ständerat behandeln den definitiven Entwurf zu unterschiedlichen Zeiten, beginnend mit der vorberatenden Kommission.",
+      "wrong_alternatives": [
+        "National- und Ständerat behandeln den Gesetzesentwurf stets gleichzeitig in gemeinsamen Sitzungen, um den Prozess zu beschleunigen.",
+        "Die Behandlung des Gesetzesentwurfs in National- und Ständerat beginnt nicht mit Kommissionen, sondern direkt in den Plenarsitzungen der Räte."
+      ]
+    },
+    {
+      "correct_sentence": "Bei abweichenden Beschlüssen der Räte in den Schlussabstimmungen kommt es zum Differenzbereinigungsverfahren.",
+      "wrong_alternatives": [
+        "Bei Differenzen zwischen National- und Ständerat wird der Gesetzesentwurf automatisch abgelehnt, ohne dass ein Differenzbereinigungsverfahren stattfindet.",
+        "Das Differenzbereinigungsverfahren wird nur bei geringfügigen Meinungsverschiedenheiten eingesetzt, nicht bei substanziellen Abweichungen in den Beschlüssen."
+      ]
+    },
+    {
+      "correct_sentence": "Ein neues Gesetz kommt nicht zustande, wenn im Differenzbereinigungsverfahren keine Einigung erzielt wird.",
+      "wrong_alternatives": [
+        "Auch wenn im Differenzbereinigungsverfahren keine Einigung erreicht wird, kann ein Gesetz in der Schweiz durch eine Entscheidung des Bundesrates in Kraft treten.",
+        "Das Scheitern des Differenzbereinigungsverfahrens führt nicht zum endgültigen Aus des Gesetzes, sondern zu einer obligatorischen Volksabstimmung."
+      ]
+    },
+    {
+      "correct_sentence": "Nach der Veröffentlichung im Bundesblatt beginnt die Referendumsfrist von 100 Tagen.",
+      "wrong_alternatives": [
+        "Die Referendumsfrist in der Schweiz beträgt nicht 100 Tage, sondern ist abhängig von der Dringlichkeit des Gesetzes und kann variieren.",
+        "Die Referendumsfrist beginnt nicht mit der Veröffentlichung im Bundesblatt, sondern bereits mit der Verabschiedung des Gesetzes durch das Parlament."
+      ]
+    },
+    {
+      "correct_sentence": "Eine Volksabstimmung findet statt, wenn innerhalb von 100 Tagen das Referendum ergriffen wird (50'000 Unterschriften oder 8 Kantone).",
+      "wrong_alternatives": [
+        "Eine Volksabstimmung findet in der Schweiz automatisch zu jedem neuen Gesetz statt, unabhängig davon, ob ein Referendum ergriffen wurde oder nicht.",
+        "Um ein Referendum zu ergreifen, sind in der Schweiz 100'000 Unterschriften oder 12 Kantone notwendig, nicht 50'000 Unterschriften oder 8 Kantone."
+      ]
+    },
+    {
+      "correct_sentence": "Der Bundesrat setzt ein neues Gesetz in Kraft, wenn kein Referendum ergriffen wird oder das Volk dem Gesetz zustimmt.",
+      "wrong_alternatives": [
+        "Auch wenn ein Referendum nicht ergriffen wird oder das Volk zustimmt, entscheidet abschliessend das Parlament über das Inkrafttreten eines neuen Gesetzes.",
+        "Das Inkrafttreten eines neuen Gesetzes erfolgt in der Schweiz nicht durch den Bundesrat, sondern durch eine gemeinsame Erklärung von National- und Ständerat."
+      ]
+    },
+    {
+      "correct_sentence": "Der Gesetzgebungsprozess verdeutlicht das Zusammenspiel politischer Akteure in der Schweiz.",
+      "wrong_alternatives": [
+        "Der Gesetzgebungsprozess in der Schweiz ist primär ein Werk der Verwaltung, politische Akteure spielen eine untergeordnete Rolle.",
+        "Das Zusammenspiel politischer Akteure ist im Gesetzgebungsprozess der Schweiz irrelevant, da es sich um einen rein bürokratischen Vorgang handelt."
+      ]
+    },
+    {
+      "correct_sentence": "Kantone, Parteien, Verbände und das Volk können bei der Ausgestaltung von Gesetzen mitwirken.",
+      "wrong_alternatives": [
+        "Lediglich Parteien und Verbände haben im Schweizer Gesetzgebungsprozess ein Mitspracherecht, Kantone und das Volk sind von der Mitwirkung ausgeschlossen.",
+        "Die Mitwirkung von Kantonen, Parteien, Verbänden und Volk im Gesetzgebungsprozess ist in der Schweiz nur eine formelle Geste ohne tatsächlichen Einfluss."
+      ]
+    },
+    {
+      "correct_sentence": "Breit abgestützte Gesetze sind ein Kennzeichen des schweizerischen politischen Systems.",
+      "wrong_alternatives": [
+        "Breit abgestützte Gesetze sind in der Schweiz eher die Ausnahme, da politische Entscheidungen meist von einzelnen Interessengruppen dominiert werden.",
+        "Die breite Abstützung von Gesetzen ist für das schweizerische politische System untypisch, da schnelle Entscheidungen im Vordergrund stehen."
+      ]
+    },
+    {
+      "correct_sentence": "Die Expertenkommission trägt zur fachlichen Fundierung des Gesetzesentwurfs bei.",
+      "wrong_alternatives": [
+        "Die Expertenkommission im Gesetzgebungsprozess dient nicht der fachlichen Fundierung, sondern primär der politischen Legitimation des Gesetzes.",
+        "Die fachliche Fundierung von Gesetzesentwürfen in der Schweiz erfolgt nicht durch Expertenkommissionen, sondern durch interne juristische Abteilungen der Verwaltung."
+      ]
+    },
+    {
+      "correct_sentence": "Die Vernehmlassung ermöglicht die Berücksichtigung verschiedener Perspektiven und Änderungsvorschläge.",
+      "wrong_alternatives": [
+        "Die Vernehmlassung dient lediglich der Information der betroffenen Gruppen, tatsächliche Änderungen des Gesetzesentwurfs sind nicht vorgesehen.",
+        "Änderungsvorschläge aus der Vernehmlassung werden im weiteren Gesetzgebungsprozess in der Schweiz grundsätzlich nicht berücksichtigt."
+      ]
+    },
+    {
+      "correct_sentence": "Das Differenzbereinigungsverfahren dient der Findung eines Kompromisses zwischen National- und Ständerat.",
+      "wrong_alternatives": [
+        "Das Differenzbereinigungsverfahren ist kein Instrument zur Kompromissfindung, sondern ein Mechanismus zur Durchsetzung des Willens des Nationalrates gegenüber dem Ständerat.",
+        "Im Differenzbereinigungsverfahren geht es nicht um Kompromisse, sondern um die klare Feststellung, welcher Rat in der Sache Recht hat."
+      ]
+    },
+    {
+      "correct_sentence": "Das Referendum ist ein wichtiges Instrument der direkten Demokratie im Gesetzgebungsprozess.",
+      "wrong_alternatives": [
+        "Das Referendum ist im schweizerischen Gesetzgebungsprozess ein eher unbedeutendes Instrument ohne wesentlichen Einfluss auf die Gesetzgebung.",
+        "Das Referendum dient in der Schweiz nicht der direkten Demokratie, sondern primär der politischen Blockade unliebsamer Gesetze."
+      ]
+    },
+    {
+      "correct_sentence": "Das Inkrafttreten eines Gesetzes markiert den Abschluss des Gesetzgebungsprozesses.",
+      "wrong_alternatives": [
+        "Das Inkrafttreten eines Gesetzes ist nicht der Abschluss des Gesetzgebungsprozesses, sondern der Beginn einer Phase der ständigen Überprüfung und Anpassung.",
+        "Mit dem Inkrafttreten eines Gesetzes beginnt in der Schweiz der eigentliche Gesetzgebungsprozess von Neuem, da Gesetze regelmässig durch Volksinitiativen ersetzt werden."
+      ]
+    }
+  ]
+}

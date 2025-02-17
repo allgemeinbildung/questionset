@@ -1,0 +1,502 @@
+{
+  "title": "Verständnisfragen: Die wichtigsten Aufgaben des Staates",
+  "media": {
+      "type": "",
+      "url": "",
+      "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche grundlegende Voraussetzung wird im Text für ein zivilisiertes Zusammenleben genannt?</p>",
+      "options": [
+        {
+          "text": "Freie Marktwirtschaft",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl eine freie Marktwirtschaft in manchen Gesellschaften eine Rolle spielen mag, betont der Text die Notwendigkeit von **Regeln und Gesetzen** für ein zivilisiertes Zusammenleben, nicht die freie Marktwirtschaft."
+        },
+        {
+          "text": "Klare Regeln (Gesetze)",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Text besagt, dass ein zivilisiertes Zusammenleben nur möglich ist, wenn **klare Regeln (Gesetze)** existieren."
+        },
+        {
+          "text": "Absolute Freiheit des Einzelnen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Text argumentiert, dass **absolute Freiheit** ohne Regeln zu Lasten Schwächerer gehen würde. Zivilisiertes Zusammenleben erfordert **Regeln**, die die Freiheit begrenzen, um andere zu schützen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist laut Text die Hauptaufgabe des Staates?</p>",
+      "options": [
+        {
+          "text": "Die Wirtschaft maximal zu fördern",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl Wirtschaftsförderung eine staatliche Aufgabe sein kann, liegt der Fokus des Textes auf der **Gewährleistung von Würde und Freiheit** für alle Menschen, nicht primär auf Wirtschaftsförderung."
+        },
+        {
+          "text": "Für Sicherheit und Ordnung zu sorgen",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Sicherheit und Ordnung sind wichtige Aspekte, aber die Hauptaufgabe wird im Text umfassender definiert als die **Sicherstellung von Würde und Freiheit** für alle."
+        },
+        {
+          "text": "Dafür zu sorgen, dass alle Menschen in Würde und Freiheit leben können",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Text definiert die Hauptaufgabe des Staates darin, dafür zu sorgen, dass alle Menschen in seinem Gebiet in **Würde und Freiheit** leben können."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Dokument sind die Aufgaben des modernen Staates in der Schweiz definiert?</p>",
+      "options": [
+        {
+          "text": "Im Strafgesetzbuch (StGB)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Strafgesetzbuch (StGB) befasst sich mit strafbaren Handlungen, nicht mit den grundlegenden Aufgaben des Staates. Diese sind in der **Bundesverfassung** definiert."
+        },
+        {
+          "text": "Im Obligationenrecht (OR)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Obligationenrecht (OR) regelt hauptsächlich vertragliche und wirtschaftliche Beziehungen, nicht die Staatsaufgaben. Diese sind in der **Bundesverfassung** definiert."
+        },
+        {
+          "text": "In der Bundesverfassung (BV)",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Aufgaben des modernen Staates in der Schweiz sind in der **Bundesverfassung (BV)**, Artikel 2, definiert."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Artikel der Bundesverfassung (BV) thematisiert die Aufgaben des Staates?</p>",
+      "options": [
+        {
+          "text": "Artikel 1",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Artikel 1 der BV behandelt andere grundlegende Aspekte der Schweizerischen Eidgenossenschaft, aber die **Staatsaufgaben** sind in Artikel 2 definiert."
+        },
+        {
+          "text": "Artikel 2",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Artikel 2 der Bundesverfassung (BV)** definiert die Aufgaben des Staates."
+        },
+        {
+          "text": "Artikel 3",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Artikel 3 der BV behandelt die Kantone, aber die **Staatsaufgaben** auf Bundesebene sind in Artikel 2 definiert."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Nennen Sie eine der vier Hauptaufgaben des Staates gemäss Bundesverfassung (BV 2).</p>",
+      "options": [
+        {
+          "text": "Förderung des Individualverkehrs",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Förderung des Individualverkehrs ist keine der in BV 2 genannten Hauptaufgaben.  Die Aufgaben umfassen **Schutz, Wohlfahrt, Chancengleichheit und internationale Ordnung**."
+        },
+        {
+          "text": "Schutz der Freiheit und der Rechte des Volkes",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der **Schutz der Freiheit und der Rechte des Volkes** ist eine der vier Hauptaufgaben des Staates gemäss BV 2."
+        },
+        {
+          "text": "Maximierung der Staatsverschuldung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Maximierung der Staatsverschuldung ist keine Staatsaufgabe, sondern im Gegenteil oft ein Problem. Die Aufgaben umfassen **Schutz, Wohlfahrt, Chancengleichheit und internationale Ordnung**."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welchen Aspekt der staatlichen Förderung betont die Bundesverfassung (BV 2) besonders?</p>",
+      "options": [
+        {
+          "text": "Wirtschaftliches Wachstum um jeden Preis",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Die BV 2 betont **nachhaltige Entwicklung**, was Wirtschaftswachstum um jeden Preis ausschliesst. Es geht um ein Gleichgewicht zwischen Wirtschaft, Umwelt und Gesellschaft."
+        },
+        {
+          "text": "Nachhaltige Entwicklung",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Bundesverfassung (BV 2) betont die **Förderung der Wohlfahrt** und die **nachhaltige Entwicklung** des Landes."
+        },
+        {
+          "text": "Förderung von Ungleichheit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die BV 2 betont im Gegenteil die **Chancengleichheit** und den **inneren Zusammenhalt**, nicht die Förderung von Ungleichheit."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Für welches Ziel setzt sich der Staat gemäss BV 2 im internationalen Kontext ein?</p>",
+      "options": [
+        {
+          "text": "Für eine aggressive Handelspolitik",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Eine aggressive Handelspolitik ist nicht das Ziel. Die BV 2 betont den Einsatz für eine **friedliche und gerechte internationale Ordnung**."
+        },
+        {
+          "text": "Für eine friedliche und gerechte internationale Ordnung",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Staat setzt sich gemäss BV 2 für eine **friedliche und gerechte internationale Ordnung** ein."
+        },
+        {
+          "text": "Für die Ausbeutung natürlicher Ressourcen weltweit",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Die Ausbeutung natürlicher Ressourcen ist nicht das Ziel. Die BV 2 betont die **Erhaltung der natürlichen Lebensgrundlagen** und eine **gerechte internationale Ordnung**."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer entscheidet darüber, wie die Aufgaben des Staates konkret umgesetzt werden?</p>",
+      "options": [
+        {
+          "text": "Die Bürgerinnen und Bürger direkt",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Bürgerbeteiligung ist wichtig, aber die **Politik** als System von Prozessen und Institutionen entscheidet über die konkrete Umsetzung, in der die Bürger indirekt über Wahlen und Abstimmungen teilnehmen."
+        },
+        {
+          "text": "Die Politik",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die **Politik** entscheidet darüber, wie die Aufgaben des Staates umgesetzt werden."
+        },
+        {
+          "text": "Die Verwaltung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Verwaltung setzt die politischen Entscheidungen um, aber die **grundsätzlichen Entscheidungen** über die Umsetzung der Staatsaufgaben werden in der **Politik** getroffen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum sind klare Regeln (Gesetze) notwendig für ein zivilisiertes Zusammenleben?</p>",
+      "options": [
+        {
+          "text": "Um die Wirtschaft zu kontrollieren",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Obwohl Gesetze auch wirtschaftliche Aspekte regeln können, ist der primäre Grund für ihre Notwendigkeit, ein **friedliches und gerechtes Zusammenleben** zu ermöglichen, indem sie die Freiheit der Einzelnen begrenzen, um andere zu schützen."
+        },
+        {
+          "text": "Um zu verhindern, dass Stärkere ihre Freiheit auf Kosten Schwächerer ausleben",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Klare Regeln (Gesetze) sind notwendig, um zu verhindern, dass **Stärkere ihre Freiheit auf Kosten der Schwächeren ausleben** und somit ein gerechtes Zusammenleben zu ermöglichen."
+        },
+        {
+          "text": "Um den Staat zu vergrössern",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Gesetze dienen nicht primär dazu, den Staat zu vergrössern, sondern das **Zusammenleben zu ordnen** und **Rechte und Pflichten** festzulegen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet es, wenn der Staat die 'Wohlfahrt' fördert?</p>",
+      "options": [
+        {
+          "text": "Er sorgt nur für reiche Bürger",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Die Förderung der Wohlfahrt zielt darauf ab, das **Wohlergehen aller Bürger** zu verbessern, nicht nur der Reichen. Es geht um soziale Gerechtigkeit und Lebensqualität für alle."
+        },
+        {
+          "text": "Er verbessert die Lebensqualität und das Wohlergehen aller Bürger",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Förderung der 'Wohlfahrt' bedeutet, dass der Staat Massnahmen ergreift, um die **Lebensqualität und das Wohlergehen aller Bürger** zu verbessern."
+        },
+        {
+          "text": "Er mischt sich nicht in die Wirtschaft ein",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Die Förderung der Wohlfahrt kann durchaus staatliche Eingriffe in die Wirtschaft beinhalten, z.B. durch **Sozialleistungen, Regulierungen oder Infrastrukturmassnahmen**, um das Wohlergehen zu verbessern."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist mit 'Chancengleichheit' im Kontext der Staatsaufgaben gemeint?</p>",
+      "options": [
+        {
+          "text": "Alle Bürger müssen genau das Gleiche bekommen",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Chancengleichheit bedeutet nicht, dass alle Bürger genau das Gleiche bekommen, sondern dass **alle die gleichen Möglichkeiten haben**, unabhängig von ihrer Herkunft oder persönlichen Umständen."
+        },
+        {
+          "text": "Alle Bürger sollen die gleichen Möglichkeiten haben, unabhängig von ihrer Herkunft",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Chancengleichheit** bedeutet, dass der Staat dafür sorgt, dass alle Bürgerinnen und Bürger die gleichen Möglichkeiten im Leben haben, unabhängig von ihrer Herkunft, ihrem Geschlecht oder anderen persönlichen Merkmalen."
+        },
+        {
+          "text": "Nur Bürger mit gleichen Fähigkeiten werden gefördert",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Chancengleichheit zielt darauf ab, **allen Bürgern gleiche Möglichkeiten zu bieten**, unabhängig von ihren individuellen Fähigkeiten. Es geht darum, Benachteiligungen abzubauen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist die Umsetzung der Staatsaufgaben eine 'politische' Frage?</p>",
+      "options": [
+        {
+          "text": "Weil nur Politiker die Kompetenz dazu haben",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Es geht nicht nur um die Kompetenz von Politikern, sondern darum, dass die Umsetzung der Staatsaufgaben **unterschiedliche Wertvorstellungen und Prioritäten** beinhaltet, über die in der Politik diskutiert und entschieden wird."
+        },
+        {
+          "text": "Weil es verschiedene Meinungen und Prioritäten gibt, wie diese Aufgaben am besten erfüllt werden",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Umsetzung der Staatsaufgaben ist politisch, weil es **verschiedene Meinungen und Prioritäten** in der Gesellschaft gibt, wie diese Aufgaben am besten erfüllt werden sollen.  Politik ist der Raum, in dem diese unterschiedlichen Ansichten verhandelt werden."
+        },
+        {
+          "text": "Weil es in der Verfassung so steht",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Die Verfassung legt die Aufgaben fest, aber nicht explizit, dass deren Umsetzung 'politisch' ist.  Die politische Natur ergibt sich aus der **gesellschaftlichen Debatte und den unterschiedlichen Interessen** bei der Umsetzung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet 'aktive Teilnahme am politischen Leben' im Zusammenhang mit den Staatsaufgaben?</p>",
+      "options": [
+        {
+          "text": "Nur wählen gehen",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Wählen gehen ist *eine* Form der politischen Teilnahme, aber 'aktive Teilnahme' umfasst **mehrere Möglichkeiten**, wie z.B. sich informieren, diskutieren, in Parteien engagieren, demonstrieren etc."
+        },
+        {
+          "text": "Dass Bürgerinnen und Bürger die Möglichkeit haben, die Entwicklung des Staates mitzubestimmen",
+          "is_correct": true,
+          "feedback": "✅ Richtig! 'Aktive Teilnahme am politischen Leben' bedeutet, dass Bürgerinnen und Bürger **Möglichkeiten haben, die Entwicklung des Staates mitzubestimmen**, z.B. durch Wahlen, Abstimmungen, Engagement in Parteien oder Organisationen."
+        },
+        {
+          "text": "Dass man Politiker werden muss",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  'Aktive Teilnahme' bedeutet nicht, dass jeder Politiker werden muss. Es gibt **viele Wege der Beteiligung**, die nicht direkt mit dem Politikerberuf verbunden sind."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Rolle spielen 'wir' (die Bürger) im Verhältnis zum Staat laut Text?</p>",
+      "options": [
+        {
+          "text": "Wir sind nur Konsumenten staatlicher Leistungen",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Der Text betont eine aktivere Rolle der Bürger. Wir sind nicht nur Konsumenten, sondern **gestalten den Staat mit** durch politische Teilhabe."
+        },
+        {
+          "text": "Wir sind 'der Staat' und bestimmen durch Teilnahme mit, wie er sich entwickelt",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Text sagt, dass 'wir' durch aktive Teilnahme am politischen Leben 'der Staat' sind und **mitbestimmen, in welche Richtung er sich entwickelt**."
+        },
+        {
+          "text": "Wir sind dem Staat untergeordnet und haben keinen Einfluss",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Der Text betont die **Bedeutung der Bürgerbeteiligung** und impliziert, dass wir eben *nicht* machtlos dem Staat untergeordnet sind."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was wäre ein Beispiel für eine politische Frage im Zusammenhang mit der Staatsaufgabe 'Sicherheit des Landes'?</p>",
+      "options": [
+        {
+          "text": "Wie viele Sprachen in der Schweiz gesprochen werden",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Die Anzahl der Sprachen in der Schweiz hat primär mit **kultureller Vielfalt** zu tun, nicht direkt mit der Sicherheit des Landes."
+        },
+        {
+          "text": "Wie gross die Armee sein muss",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Frage, **wie gross die Armee sein muss**, ist ein Beispiel für eine politische Frage im Zusammenhang mit der Staatsaufgabe 'Sicherheit des Landes'."
+        },
+        {
+          "text": "Wie hoch die Mehrwertsteuer sein soll",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Die Höhe der Mehrwertsteuer betrifft primär die **Finanzierung des Staates** und die **Wirtschaftspolitik**, nicht direkt die Sicherheit des Landes."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Frage thematisiert die politische Dimension der 'Chancengleichheit'?</p>",
+      "options": [
+        {
+          "text": "Wie viel Polizei es braucht",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Die Frage nach der Polizei betrifft die **Sicherheit**, nicht direkt die Chancengleichheit."
+        },
+        {
+          "text": "Wie der Staat die Gleichstellung von Mann und Frau garantiert",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Frage, **wie der Staat die Gleichstellung von Mann und Frau garantiert**, ist ein Beispiel für eine politische Frage im Bereich der Chancengleichheit."
+        },
+        {
+          "text": "Wie viel uns die Umwelt wert ist",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Die Frage nach dem Wert der Umwelt betrifft den **Naturschutz**, nicht direkt die Chancengleichheit."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was verdeutlichen die 'wichtigen politischen Fragen' im Text?</p>",
+      "options": [
+        {
+          "text": "Dass die Staatsaufgaben einfach und unumstritten umzusetzen sind",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Die politischen Fragen verdeutlichen das **Gegenteil**: dass die Umsetzung der Staatsaufgaben eben *nicht* einfach und unumstritten ist, sondern politische Entscheidungen und Abwägungsprozesse erfordert."
+        },
+        {
+          "text": "Dass die Umsetzung der Staatsaufgaben politische Entscheidungen und Abwägungsprozesse erfordert",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die 'wichtigen politischen Fragen' verdeutlichen, dass die Umsetzung der Staatsaufgaben **politische Entscheidungen und Abwägungsprozesse** erfordert, da es unterschiedliche Wege und Prioritäten gibt."
+        },
+        {
+          "text": "Dass die Bundesverfassung unklar formuliert ist",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Die politischen Fragen entstehen nicht primär durch Unklarheit der Verfassung, sondern durch die **komplexe Realität** und die **unterschiedlichen gesellschaftlichen Vorstellungen** darüber, wie die Staatsaufgaben konkret umgesetzt werden sollen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist das übergeordnete Ziel aller Staatsaufgaben, wie es im ersten Absatz des Textes formuliert ist?</p>",
+      "options": [
+        {
+          "text": "Machtausübung des Staates zu sichern",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Das Ziel ist nicht Machtausübung, sondern **Dienst am Bürger**. Der Fokus liegt auf einem guten Zusammenleben und dem Schutz der Schwächeren."
+        },
+        {
+          "text": "Ein zivilisiertes Zusammenleben zu ermöglichen, in dem Würde und Freiheit für alle gewährleistet sind",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das übergeordnete Ziel ist, ein **zivilisiertes Zusammenleben** zu ermöglichen, in dem **Würde und Freiheit für alle** gewährleistet sind. Dies wird durch Gesetze und staatliches Handeln erreicht."
+        },
+        {
+          "text": "Den Staatshaushalt zu optimieren",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Haushaltsoptimierung ist ein Instrument, aber nicht das Hauptziel. Der Fokus liegt auf **gesellschaftlichen Werten** wie Würde, Freiheit und einem guten Zusammenleben."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein zivilisiertes Zusammenleben ist laut Text auch ohne staatliche Regeln möglich.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Der Text argumentiert, dass klare Regeln (Gesetze) notwendig sind für ein zivilisiertes Zusammenleben.",
+      "feedback_incorrect": "Richtig. Der Text besagt, dass klare Regeln (Gesetze) notwendig sind für ein zivilisiertes Zusammenleben."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Bundesverfassung (BV) definiert vier Aufgaben des modernen Staates.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Artikel 2 der Bundesverfassung (BV) definiert vier Aufgaben des modernen Staates.",
+      "feedback_incorrect": "Falsch. Artikel 2 der Bundesverfassung (BV) definiert tatsächlich vier Aufgaben des modernen Staates."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hauptaufgabe des Staates ist es, die Stärkeren in der Gesellschaft zu schützen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Hauptaufgabe des Staates ist es, die Schwächeren zu schützen und sicherzustellen, dass die Stärkeren ihre Freiheit nicht auf Kosten der Schwächeren ausleben.",
+      "feedback_incorrect": "Richtig. Die Hauptaufgabe des Staates ist es, die Schwächeren zu schützen, nicht die Stärkeren."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Artikel 2 der Bundesverfassung (BV 2) nennt explizit die Förderung der kulturellen Vielfalt als Staatsaufgabe.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Die Förderung der kulturellen Vielfalt ist eine der vier Aufgaben, die in BV 2 genannt werden.",
+      "feedback_incorrect": "Falsch. Die Förderung der kulturellen Vielfalt ist tatsächlich eine der vier Aufgaben, die in BV 2 genannt werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Umsetzung der Staatsaufgaben ist ein rein administrativer Prozess und hat nichts mit Politik zu tun.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Umsetzung der Staatsaufgaben ist ein politischer Prozess, da sie politische Entscheidungen und Prioritäten erfordert.",
+      "feedback_incorrect": "Richtig. Die Umsetzung der Staatsaufgaben ist ein politischer Prozess, nicht nur administrativ."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Durch aktive Teilnahme am politischen Leben können Bürgerinnen und Bürger die Entwicklung des Staates mitbestimmen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Aktive Teilnahme am politischen Leben ermöglicht es den Bürgern, die Entwicklung des Staates mitzubestimmen.",
+      "feedback_incorrect": "Falsch. Aktive politische Teilnahme gibt den Bürgern tatsächlich die Möglichkeit zur Mitbestimmung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Gesetze sind nur dazu da, die Freiheit der Bürger einzuschränken.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Gesetze schränken zwar die Freiheit in gewisser Weise ein, dienen aber primär dazu, die Freiheit *aller* zu schützen und ein geordnetes Zusammenleben zu ermöglichen.",
+      "feedback_incorrect": "Richtig. Gesetze dienen nicht nur der Einschränkung, sondern auch dem Schutz der Freiheit aller."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wenn der Staat die 'Unabhängigkeit des Landes wahrt', bedeutet das, dass er sich von anderen Ländern isoliert.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Wahrung der Unabhängigkeit bedeutet nicht Isolation, sondern die Fähigkeit, eigene Entscheidungen zu treffen und die Souveränität zu bewahren, während man gleichzeitig international kooperieren kann.",
+      "feedback_incorrect": "Richtig. Unabhängigkeit bedeutet nicht Isolation, sondern Souveränität und Handlungsfähigkeit."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Förderung des 'inneren Zusammenhalts' durch den Staat zielt darauf ab, Konflikte in der Gesellschaft zu vermeiden.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Die Förderung des inneren Zusammenhalts zielt darauf ab, das Miteinander zu stärken und Konflikte in der Gesellschaft zu minimieren.",
+      "feedback_incorrect": "Falsch. Die Stärkung des Zusammenhalts dient tatsächlich der Konfliktvermeidung und einem besseren Miteinander."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Chancengleichheit bedeutet, dass der Staat sicherstellt, dass alle Menschen die gleichen Startbedingungen im Leben haben.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Chancengleichheit zielt darauf ab, dass alle Menschen, unabhängig von ihrer Herkunft, faire Startbedingungen und Entwicklungsmöglichkeiten haben.",
+      "feedback_incorrect": "Falsch. Chancengleichheit bezieht sich tatsächlich auf faire Startbedingungen und Möglichkeiten für alle."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Frage 'Wie viel Sozialstaat wollen wir?' ist eine politische Frage, weil es dabei um unterschiedliche Wertvorstellungen geht.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Die Frage nach dem Umfang des Sozialstaates ist politisch, weil sie grundlegende Wertvorstellungen darüber berührt, wie viel soziale Sicherheit und Umverteilung der Staat gewährleisten soll.",
+      "feedback_incorrect": "Falsch. Die Frage nach dem Sozialstaat ist politisch, weil sie tatsächlich unterschiedliche Wertvorstellungen widerspiegelt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wenn Bürgerinnen und Bürger 'der Staat' sind, bedeutet das, dass sie keine Pflichten gegenüber dem Staat haben.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Auch wenn Bürger 'der Staat' sind, bedeutet dies nicht, dass sie keine Pflichten haben. Im Gegenteil, es impliziert eine Verantwortung, sich aktiv und konstruktiv am Gemeinwesen zu beteiligen und die Gesetze zu respektieren.",
+      "feedback_incorrect": "Richtig. Auch als Teil des Staates haben Bürger Pflichten und Verantwortung."
+    }
+  ]
+}

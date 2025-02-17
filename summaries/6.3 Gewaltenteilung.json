@@ -1,0 +1,151 @@
+{
+  "title": "Das Wichtigste zur Gewaltenteilung",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "text",
+    "url": "",
+    "source": "Lehrmitteltext"
+  },
+  "questions": [
+    {
+      "correct_sentence": "Die Gewaltenteilung in der Schweiz umfasst drei Gewalten: Legislative, Exekutive und Judikative.",
+      "wrong_alternatives": [
+        "In der Schweiz gibt es eine Gewaltenteilung, die sich in Legislative und Exekutive unterteilt, wobei die Judikative eine Unterabteilung der Exekutive darstellt.",
+        "Die Gewaltenteilung in der Schweiz beinhaltet vier Gewalten: Legislative, Exekutive, Judikative und eine vierte Gewalt, die als Kontrollorgan der Bürger dient."
+      ],
+    },
+    {
+      "correct_sentence": "Das Parlament, die Legislative, besteht aus Nationalrat und Ständerat.",
+      "wrong_alternatives": [
+        "Das Parlament der Schweiz, bekannt als Legislative, setzt sich aus dem Bundesrat und dem Bundesgericht zusammen.",
+        "Die Legislative in der Schweiz, auch Parlament genannt, besteht aus dem Nationalrat und dem Volk, welche gemeinsam Gesetze erlassen."
+      ],
+    },
+    {
+      "correct_sentence": "Der Nationalrat repräsentiert das Volk, während der Ständerat die Kantone vertritt.",
+      "wrong_alternatives": [
+        "Sowohl der Nationalrat als auch der Ständerat repräsentieren ausschliesslich das Schweizer Volk in unterschiedlichen Wahlkreisen.",
+        "Der Nationalrat vertritt die Kantone, während der Ständerat die Interessen der grossen Städte und urbanen Zentren der Schweiz repräsentiert."
+      ],
+    },
+    {
+      "correct_sentence": "Der Bundesrat, die Exekutive, besteht aus sieben Mitgliedern und ist die Regierung der Schweiz.",
+      "wrong_alternatives": [
+        "Der Bundesrat, als Exekutive bekannt, besteht aus 200 Mitgliedern, die direkt vom Nationalrat gewählt werden und die Regierung bilden.",
+        "Die Exekutive der Schweiz, der Bundesrat, setzt sich aus gewählten Vertretern aller Kantone zusammen, wobei jeder Kanton ein Mitglied stellt."
+      ],
+    },
+    {
+      "correct_sentence": "Das Bundesgericht in Lausanne ist die oberste richterliche Instanz, die Judikative.",
+      "wrong_alternatives": [
+        "Das oberste Gericht der Schweiz, die Judikative, ist der Europäische Gerichtshof für Menschenrechte in Strassburg, an den Schweizer Urteile weitergezogen werden können.",
+        "Die höchste richterliche Instanz der Schweiz, bekannt als Judikative, ist der Nationalrat, der in Rechtsfragen das letzte Wort hat."
+      ],
+    },
+    {
+      "correct_sentence": "Das Parlament macht Gesetze, wählt den Bundesrat und kontrolliert die Verwaltung.",
+      "wrong_alternatives": [
+        "Das Parlament hat die Aufgabe, Gesetze zu vollziehen, den Bundesrat zu beraten und die Verwaltung zu unterstützen, aber nicht zu kontrollieren.",
+        "Das Parlament in der Schweiz ist hauptsächlich für repräsentative Aufgaben zuständig und hat keinen direkten Einfluss auf die Gesetzgebung oder die Kontrolle der Verwaltung."
+      ],
+    },
+    {
+      "correct_sentence": "Nationalräte werden nach Proporz gewählt, Ständeräte meist nach Majorz.",
+      "wrong_alternatives": [
+        "Sowohl Nationalräte als auch Ständeräte werden schweizweit nach dem gleichen Majorzverfahren gewählt, um eine einheitliche Vertretung zu gewährleisten.",
+        "Nationalräte werden durch Los bestimmt, während Ständeräte in direkter Volkswahl nach dem Proporzsystem gewählt werden."
+      ],
+    },
+    {
+      "correct_sentence": "Das Parlament trifft sich mehrmals jährlich zu öffentlichen Sessionen.",
+      "wrong_alternatives": [
+        "Das Parlament tagt nur einmal jährlich in geheimer Session, um die Staatsgeheimnisse zu wahren und ungestört arbeiten zu können.",
+        "Parlamentssitzungen finden täglich statt und sind ausschliesslich für Mitglieder des Parlaments und geladene Gäste zugänglich."
+      ],
+    },
+    {
+      "correct_sentence": "Fraktionen im Parlament beraten Ratsgeschäfte vor und geben Wahlempfehlungen ab.",
+      "wrong_alternatives": [
+        "Fraktionen im Parlament sind reine Diskussionsklubs ohne formelle Funktion in der Gesetzgebung oder bei Wahlen.",
+        "Fraktionen im Parlament entscheiden endgültig über Gesetzesentwürfe und bestimmen direkt die Wahlergebnisse ohne Abstimmung im Rat."
+      ],
+    },
+    {
+      "correct_sentence": "Parlamentarische Kommissionen bereiten Ratsgeschäfte detailliert vor.",
+      "wrong_alternatives": [
+        "Parlamentarische Kommissionen haben nur eine beratende Funktion und sind nicht an der detaillierten Vorbereitung von Ratsgeschäften beteiligt.",
+        "Parlamentarische Kommissionen entscheiden autonom über Ratsgeschäfte und umgehen damit die Notwendigkeit der Beratung im gesamten Parlament."
+      ],
+    },
+    {
+      "correct_sentence": "National- und Ständerat sind gleichberechtigte Kammern.",
+      "wrong_alternatives": [
+        "Der Nationalrat ist die dominierende Kammer, während der Ständerat eine untergeordnete Rolle in der Gesetzgebung spielt.",
+        "Der Ständerat hat in allen Gesetzesfragen das letzte Wort, während der Nationalrat nur eine beratende Funktion ausübt."
+      ],
+    },
+    {
+      "correct_sentence": "Für Beschlüsse des Parlaments ist die Übereinstimmung beider Räte nötig.",
+      "wrong_alternatives": [
+        "Für die Gültigkeit eines Parlamentsbeschlusses reicht die Zustimmung einer der beiden Kammern, entweder National- oder Ständerat, aus.",
+        "Parlamentsbeschlüsse werden durch eine einfache Mehrheit im Nationalrat gefasst, ohne dass die Zustimmung des Ständerates erforderlich ist."
+      ],
+    },
+    {
+      "correct_sentence": "Die Vereinigte Bundesversammlung wählt den Bundesrat und die Bundesrichter.",
+      "wrong_alternatives": [
+        "Der Bundesrat und die Bundesrichter werden direkt vom Volk in separaten nationalen Wahlen bestimmt.",
+        "Die Wahl des Bundesrates und der Bundesrichter erfolgt ausschliesslich durch den Nationalrat, ohne Beteiligung des Ständerates."
+      ],
+    },
+    {
+      "correct_sentence": "Der Bundesrat ist eine Konkordanzregierung, zusammengesetzt aus den wichtigsten Parteien.",
+      "wrong_alternatives": [
+        "Der Bundesrat ist eine Einparteienregierung, die immer von der Partei mit der absoluten Mehrheit im Parlament gestellt wird.",
+        "Die Zusammensetzung des Bundesrates basiert auf dem Rotationsprinzip, bei dem jährlich eine andere Partei die Regierung stellt."
+      ],
+    },
+    {
+      "correct_sentence": "Bundesratsentscheide werden nach aussen als Kollegialentscheide vertreten.",
+      "wrong_alternatives": [
+        "Jedes Bundesratsmitglied vertritt nach aussen ausschliesslich seine eigene Meinung und die Position seines Departements.",
+        "Bundesratsmitglieder dürfen ihre persönliche Meinung zu Entscheiden öffentlich äussern, auch wenn sie von der Mehrheitsmeinung abweicht."
+      ],
+    },
+    {
+      "correct_sentence": "Der Bundespräsident leitet die Bundesratssitzungen und repräsentiert die Schweiz nach aussen.",
+      "wrong_alternatives": [
+        "Der Bundespräsident hat die alleinige Entscheidungsgewalt im Bundesrat und kann Regierungsentscheide ohne Zustimmung der anderen Mitglieder fällen.",
+        "Die Rolle des Bundespräsidenten ist rein zeremoniell ohne tatsächliche politische Macht oder Repräsentationsaufgaben."
+      ],
+    },
+    {
+      "correct_sentence": "Die Bundeskanzlei unterstützt den Bundesrat und koordiniert Regierungsgeschäfte.",
+      "wrong_alternatives": [
+        "Die Bundeskanzlei ist ein unabhängiges Kontrollorgan, das die Arbeit des Bundesrates überwacht und gegebenenfalls korrigierend eingreift.",
+        "Die Bundeskanzlei hat keine operative Funktion, sondern ist lediglich für die Archivierung und Protokollierung der Bundesratssitzungen zuständig."
+      ],
+    },
+    {
+      "correct_sentence": "Die Bundesverwaltung ist in sieben Departemente unterteilt, die von Bundesräten geleitet werden.",
+      "wrong_alternatives": [
+        "Die Bundesverwaltung besteht aus 26 kantonalen Abteilungen, die direkt den Kantonsregierungen unterstellt sind und keine zentrale Leitung haben.",
+        "Die Bundesverwaltung ist in 15 Direktionen aufgeteilt, die jeweils von externen Experten und nicht von gewählten Bundesräten geführt werden."
+      ],
+    },
+    {
+      "correct_sentence": "Das Bundesgericht ist die letzte Instanz im richterlichen Instanzenweg.",
+      "wrong_alternatives": [
+        "Nach dem Urteil des Bundesgerichts können Rechtsmittel direkt an den Internationalen Gerichtshof in Den Haag eingelegt werden.",
+        "Das Bundesgericht ist nur in Strafsachen die letzte Instanz; in Zivil- und Verwaltungssachen gibt es weitere übergeordnete Gerichte."
+      ],
+    },
+    {
+      "correct_sentence": "Prozesse werden in der Regel in drei Instanzen behandelt: Amts-, Kantons- und Bundesgericht.",
+      "wrong_alternatives": [
+        "In der Schweiz werden Prozesse grundsätzlich nur in zwei Instanzen verhandelt: zuerst vor dem Kantonsgericht und abschliessend vor dem Bundesgericht.",
+        "Der richterliche Instanzenweg beginnt immer direkt beim Bundesgericht, das als erste und letzte Instanz in allen Rechtsstreitigkeiten fungiert."
+      ],
+    }
+  ]
+}

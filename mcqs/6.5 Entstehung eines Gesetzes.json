@@ -1,0 +1,562 @@
+{
+  "title": "Verständnisfragen zum Gesetzgebungsprozess",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer kann den Anstoss für ein neues Bundesgesetz geben?</p>",
+      "options": [
+        {
+          "text": "Nur der Bundesrat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der **Bundesrat** kann zwar einen Anstoss geben, aber auch das **Parlament**."
+        },
+        {
+          "text": "Nur das Parlament.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das **Parlament** kann zwar einen Anstoss geben (via Motion), aber auch der **Bundesrat**."
+        },
+        {
+          "text": "Der Bundesrat oder das Parlament.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Sowohl der **Bundesrat** als auch das **Parlament** können den Anstoss für ein neues Gesetz geben."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie wird das Verlangen des Parlaments nach einem neuen Gesetz genannt, das an den Bundesrat gerichtet ist?</p>",
+      "options": [
+        {
+          "text": "Petition",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine **Petition** ist ein allgemeines Anliegen, eine **Motion** ist ein spezifisches Verlangen des Parlaments an den Bundesrat."
+        },
+        {
+          "text": "Motion",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Eine **Motion** ist der Auftrag des Parlaments an den Bundesrat, ein neues Gesetz auszuarbeiten."
+        },
+        {
+          "text": "Interpellation",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine **Interpellation** ist eine Anfrage des Parlaments an den Bundesrat, nicht ein Auftrag zur Gesetzesausarbeitung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer formuliert den ersten Gesetzesentwurf, den Vorentwurf?</p>",
+      "options": [
+        {
+          "text": "Der Bundesrat persönlich.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der **Bundesrat** setzt eine **Expertenkommission** ein."
+        },
+        {
+          "text": "Eine Expertenkommission im Auftrag des Bundesrates.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Eine **Expertenkommission**, die vom Bundesrat eingesetzt wird, formuliert den Vorentwurf."
+        },
+        {
+          "text": "Die Bundesverwaltung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Bundesverwaltung** überarbeitet den Entwurf später, die **Expertenkommission** erstellt den Vorentwurf."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>An wen wird der Vorentwurf zur Stellungnahme geschickt?</p>",
+      "options": [
+        {
+          "text": "Nur an die Kantone.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Kantone** sind Teil der Vernehmlassung, aber nicht die einzigen."
+        },
+        {
+          "text": "Nur an die Parteien.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Parteien** sind Teil der Vernehmlassung, aber nicht die einzigen."
+        },
+        {
+          "text": "An Kantone, Parteien, Verbände und weitere interessierte Kreise.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Vorentwurf geht an einen breiten Kreis zur **Vernehmlassung**."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Dokument begleitet den definitiven Gesetzesentwurf ans Parlament?</p>",
+      "options": [
+        {
+          "text": "Ein Begleitschreiben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist mehr als nur ein Begleitschreiben, es ist eine ausführliche **Botschaft**."
+        },
+        {
+          "text": "Eine Botschaft ans Parlament.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der definitive Entwurf wird mit einer **Botschaft ans Parlament** übermittelt."
+        },
+        {
+          "text": "Ein Protokoll der Vernehmlassung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das **Protokoll der Vernehmlassung** ist Teil der Grundlage, aber nicht das Begleitdokument zum Parlament."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchen beiden Räten wird der definitive Gesetzesentwurf behandelt?</p>",
+      "options": [
+        {
+          "text": "Nationalrat und Bundesrat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der **Bundesrat** ist Teil der Exekutive, nicht der Legislative (Parlament)."
+        },
+        {
+          "text": "Nationalrat und Ständerat.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der **Nationalrat** und der **Ständerat** bilden zusammen das Parlament."
+        },
+        {
+          "text": "Ständerat und Bundesgericht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das **Bundesgericht** ist die höchste richterliche Instanz, nicht Teil des Gesetzgebungsprozesses im Parlament."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange dauert die Referendumsfrist nach der Veröffentlichung eines Gesetzes im Bundesblatt?</p>",
+      "options": [
+        {
+          "text": "30 Tage",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Referendumsfrist** ist länger als 30 Tage."
+        },
+        {
+          "text": "100 Tage",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die **Referendumsfrist** beträgt **100 Tage**."
+        },
+        {
+          "text": "365 Tage",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Referendumsfrist** ist kürzer als 365 Tage."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer setzt ein neues Gesetz in Kraft, wenn es vom Volk angenommen oder kein Referendum ergriffen wurde?</p>",
+      "options": [
+        {
+          "text": "Das Parlament.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das **Parlament** beschliesst das Gesetz, aber der **Bundesrat** setzt es in Kraft."
+        },
+        {
+          "text": "Der Bundesrat.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der **Bundesrat** ist zuständig für das **Inkrafttreten** der Gesetze."
+        },
+        {
+          "text": "Das Bundesgericht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das **Bundesgericht** ist für die Rechtsprechung zuständig, nicht für das Inkrafttreten von Gesetzen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist die Vernehmlassung ein wichtiger Schritt im Gesetzgebungsprozess?</p>",
+      "options": [
+        {
+          "text": "Um den Prozess zu beschleunigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Vernehmlassung** kann den Prozess verlängern, aber das ist nicht ihr Hauptzweck."
+        },
+        {
+          "text": "Um die breite Abstützung und Akzeptanz des Gesetzes zu fördern.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die **Vernehmlassung** dient dazu, verschiedene Meinungen einzuholen und eine **breite Akzeptanz** zu erreichen."
+        },
+        {
+          "text": "Um die Kosten des Gesetzgebungsprozesses zu senken.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Kosten** sind nicht der Hauptgrund für die **Vernehmlassung**."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet das Differenzbereinigungsverfahren im Parlament?</p>",
+      "options": [
+        {
+          "text": "Die Ablehnung des Gesetzesentwurfes.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das **Differenzbereinigungsverfahren** ist ein Schritt zur **Einigung**, nicht zur Ablehnung."
+        },
+        {
+          "text": "Ein Verfahren zur Einigung zwischen National- und Ständerat bei unterschiedlichen Beschlüssen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das **Differenzbereinigungsverfahren** dient dazu, **Differenzen** zwischen den Räten zu **überwinden**."
+        },
+        {
+          "text": "Eine erneute Vernehmlassung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Vernehmlassung** findet vor der parlamentarischen Behandlung statt, nicht währenddessen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Rolle spielt das Volk im Gesetzgebungsprozess durch das Referendum?</p>",
+      "options": [
+        {
+          "text": "Das Volk kann Gesetze direkt initiieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das **Volk** kann Gesetze nicht direkt initiieren im Rahmen des **Referendums**, aber über **Initiativen**."
+        },
+        {
+          "text": "Das Volk kann ein vom Parlament beschlossenes Gesetz verhindern oder bestätigen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das **Referendum** gibt dem **Volk** die Möglichkeit, ein Gesetz zu **stoppen** oder zu **bestätigen**."
+        },
+        {
+          "text": "Das Volk ändert Gesetze im Parlament.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das **Volk** ändert keine Gesetze im **Parlament**, sondern stimmt über **fertige Gesetze** ab."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum müssen neue Gesetze in der Schweiz breit abgestützt sein?</p>",
+      "options": [
+        {
+          "text": "Weil es das Gesetz so vorschreibt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt kein formelles Gesetz, das eine breite Abstützung vorschreibt, aber es ist ein **demokratisches Prinzip**."
+        },
+        {
+          "text": "Um die Akzeptanz und Legitimität der Gesetze in der Bevölkerung zu gewährleisten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Eine **breite Abstützung** erhöht die **Akzeptanz** und **Legitimität** der Gesetze in der Bevölkerung."
+        },
+        {
+          "text": "Um den Bundesrat zu entlasten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Entlastung des Bundesrates** ist nicht der Hauptgrund für die **breite Abstützung**."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Unterschied zwischen dem Vorentwurf und dem definitiven Entwurf eines Gesetzes?</p>",
+      "options": [
+        {
+          "text": "Der Vorentwurf wird vom Parlament, der definitive Entwurf vom Bundesrat erstellt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Beide Entwürfe werden von **Organen des Bundesrates** vorbereitet."
+        },
+        {
+          "text": "Der Vorentwurf ist der erste Entwurf einer Expertenkommission, der definitive Entwurf ist die überarbeitete Version nach der Vernehmlassung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der **Vorentwurf** ist der **erste Entwurf**, der **definitive Entwurf** ist die **überarbeitete Version** nach der **Vernehmlassung**."
+        },
+        {
+          "text": "Es gibt keinen Unterschied, es sind nur verschiedene Bezeichnungen für dasselbe Dokument.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt einen klaren **Unterschied** im **Stadium** und der **Bearbeitung** der Entwürfe."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum wird ein Gesetzesentwurf in zwei Räten (National- und Ständerat) behandelt?</p>",
+      "options": [
+        {
+          "text": "Um den Prozess zu verdoppeln und zu verlangsamen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Zweikammerstruktur** dient nicht primär der **Verlangsamung**."
+        },
+        {
+          "text": "Um unterschiedliche Perspektiven (Volksvertretung und Kantonsvertretung) zu berücksichtigen und die Qualität des Gesetzes zu verbessern.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die **Zweikammerstruktur** soll **unterschiedliche Perspektiven** einbringen und die **Qualität** sichern."
+        },
+        {
+          "text": "Weil es weniger Arbeit für jeden einzelnen Rat bedeutet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Arbeitsbelastung** ist nicht der Hauptgrund für die **Zweikammerstruktur**."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Aufgabe hat die vorberatende Kommission in National- und Ständerat?</p>",
+      "options": [
+        {
+          "text": "Das Gesetz direkt zu beschliessen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Kommission** bereitet die Beratung vor, die **Beschlussfassung** erfolgt im **Rat**."
+        },
+        {
+          "text": "Den Gesetzesentwurf im Detail zu prüfen und Anträge an den Rat zu stellen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die **Kommission** **prüft** den Entwurf und **stellt Anträge** für die Ratsberatung."
+        },
+        {
+          "text": "Die Vernehmlassung durchzuführen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Vernehmlassung** findet vor der **parlamentarischen Behandlung** statt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was bedeutet 'Nichteintreten' im parlamentarischen Kontext?</p>",
+      "options": [
+        {
+          "text": "Das Parlament beginnt mit der Detailberatung des Gesetzes.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Eintreten** bedeutet, dass die **Detailberatung** beginnt."
+        },
+        {
+          "text": "Das Parlament lehnt es ab, das Geschäft überhaupt zu behandeln.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Nichteintreten** bedeutet, dass das **Parlament** die **Beratung ablehnt**."
+        },
+        {
+          "text": "Das Parlament weist den Entwurf an den Bundesrat zurück.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Rückweisung an den Bundesrat** ist eine andere Option als **Nichteintreten**."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>In welcher Phase des Gesetzgebungsprozesses findet die Volksabstimmung statt?</p>",
+      "options": [
+        {
+          "text": "Vor der Behandlung im Parlament.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Volksabstimmung** findet nach der **parlamentarischen Behandlung** statt."
+        },
+        {
+          "text": "Nach der Verabschiedung des Gesetzes durch das Parlament und nach Ablauf der Referendumsfrist, falls ein Referendum ergriffen wurde.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die **Volksabstimmung** findet statt, wenn ein **Referendum** ergriffen wird."
+        },
+        {
+          "text": "Gleichzeitig mit der Vernehmlassung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Vernehmlassung** ist ein ** vorgelagerter Schritt** ohne direkte Beteiligung des Volkes in einer Abstimmung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was sind die Konsequenzen, wenn im Differenzbereinigungsverfahren keine Einigung zwischen National- und Ständerat erzielt wird?</p>",
+      "options": [
+        {
+          "text": "Das Gesetz wird automatisch in Kraft gesetzt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Keine Einigung** führt nicht zum Inkrafttreten."
+        },
+        {
+          "text": "Es kommt kein neues Gesetz zustande.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Keine Einigung** im **Differenzbereinigungsverfahren** bedeutet, dass **kein neues Gesetz** entsteht."
+        },
+        {
+          "text": "Das Volk entscheidet in einer obligatorischen Volksabstimmung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine **obligatorische Volksabstimmung** ist in diesem Fall **nicht vorgesehen**."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welches Ziel verfolgt die Veröffentlichung eines Gesetzes im Bundesblatt mit anschliessender Referendumsfrist?</p>",
+      "options": [
+        {
+          "text": "Die Bevölkerung über das neue Gesetz zu informieren und ihr die Möglichkeit zu geben, das Referendum zu ergreifen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die **Veröffentlichung** dient der **Information** und der **Ermöglichung des Referendums**."
+        },
+        {
+          "text": "Den Gesetzgebungsprozess abzuschliessen und das Gesetz sofort in Kraft zu setzen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Referendumsfrist** beginnt erst nach der **Veröffentlichung**."
+        },
+        {
+          "text": "Die Meinung der Kantone zum Gesetz ein zweites Mal einzuholen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Kantone** sind in der **Vernehmlassung** beteiligt, nicht in der **Referendumsphase**."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was sind die minimalen Bedingungen, damit ein fakultatives Referendum zustande kommt?</p>",
+      "options": [
+        {
+          "text": "30'000 Unterschriften oder 6 Kantone.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Zahlen** sind **höher**."
+        },
+        {
+          "text": "50'000 Unterschriften oder 8 Kantone.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **50'000 Unterschriften** oder **8 Kantone** sind die Bedingungen für ein **fakultatives Referendum**."
+        },
+        {
+          "text": "100'000 Unterschriften oder 12 Kantone.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Zahlen** sind **niedriger**."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Bundesrat ist die einzige Institution, die Gesetzesinitiativen in der Schweiz starten kann.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Auch das Parlament kann mittels einer Motion Gesetzesinitiativen starten.",
+      "feedback_incorrect": "Richtig. Das Parlament kann ebenfalls Gesetzesinitiativen starten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Expertenkommission wird vom Parlament gewählt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Expertenkommission wird vom Bundesrat eingesetzt.",
+      "feedback_incorrect": "Richtig. Der Bundesrat setzt die Expertenkommission ein."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Vernehmlassung ist ein obligatorischer Schritt im Gesetzgebungsprozess.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Die Vernehmlassung ist ein fester Bestandteil des Gesetzgebungsprozesses.",
+      "feedback_incorrect": "Falsch. Die Vernehmlassung ist ein obligatorischer Schritt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Botschaft ans Parlament enthält nur den definitiven Gesetzesentwurf.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Botschaft erläutert auch die Ziele und Hintergründe des Gesetzes.",
+      "feedback_incorrect": "Richtig. Die Botschaft enthält mehr als nur den Gesetzesentwurf."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>National- und Ständerat behandeln den Gesetzesentwurf immer gleichzeitig.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Behandlung erfolgt zeitlich versetzt, zuerst im Erstrat, dann im Zweitrat.",
+      "feedback_incorrect": "Richtig. Die Behandlung erfolgt nicht gleichzeitig."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Differenzbereinigungsverfahren findet nach der Volksabstimmung statt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Das Differenzbereinigungsverfahren findet zwischen den Räten statt, vor dem Referendum.",
+      "feedback_incorrect": "Richtig. Das Differenzbereinigungsverfahren ist vor der Volksabstimmung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Referendumsfrist beträgt 100 Werktage.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Referendumsfrist beträgt 100 Kalendertage, nicht Werktage.",
+      "feedback_incorrect": "Richtig. Es sind 100 Kalendertage."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Bundesrat setzt jedes vom Parlament verabschiedete Gesetz automatisch in Kraft.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Dies gilt nur, wenn kein Referendum ergriffen wird oder das Volk dem Gesetz zustimmt.",
+      "feedback_incorrect": "Richtig. Es gibt Bedingungen für das Inkrafttreten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein Gesetzgebungsprozess in der Schweiz zielt darauf ab, Gesetze schnell und unbürokratisch zu erlassen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Der Prozess ist bewusst mehrstufig und aufwändig, um eine breite Abstützung zu gewährleisten.",
+      "feedback_incorrect": "Richtig. Der Prozess ist nicht auf Schnelligkeit ausgelegt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Vernehmlassung dient hauptsächlich dazu, die formale Korrektheit eines Gesetzesentwurfes zu prüfen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Vernehmlassung dient vor allem dazu, inhaltliche Rückmeldungen und Änderungsvorschläge von verschiedenen Akteuren einzuholen.",
+      "feedback_incorrect": "Richtig. Es geht nicht primär um formale Korrektheit."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Das Differenzbereinigungsverfahren ist ein Zeichen für das Scheitern des Gesetzgebungsprozesses.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Das Differenzbereinigungsverfahren ist ein normaler Bestandteil des Prozesses, um Uneinigkeiten zu überwinden.",
+      "feedback_incorrect": "Richtig. Es ist kein Zeichen des Scheiterns, sondern ein Lösungsmechanismus."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein Referendum ist nur dann erfolgreich, wenn die Mehrheit der Schweizer Bevölkerung gegen ein Gesetz stimmt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Ein Referendum zielt darauf ab, ein Gesetz zu Fall zu bringen, was eine Mehrheit der Nein-Stimmen erfordert.",
+      "feedback_incorrect": "Falsch. Eine Mehrheit der Nein-Stimmen ist notwendig für den Erfolg des Referendums."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Breit abgestützte Gesetze sind in der Schweiz weniger wirksam, da sie viele Kompromisse enthalten.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Breit abgestützte Gesetze sind tendenziell wirksamer, da sie eine höhere Akzeptanz und Legitimität geniessen.",
+      "feedback_incorrect": "Richtig. Breite Abstützung erhöht die Wirksamkeit, nicht vermindert sie."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Der lange Gesetzgebungsprozess in der Schweiz ist ein Zeichen für eine ineffiziente Demokratie.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Der lange Prozess ist ein Zeichen für die sorgfältige Abwägung und die Einbindung verschiedener Akteure in der direkten Demokratie.",
+      "feedback_incorrect": "Richtig. Der lange Prozess ist Ausdruck der direkten Demokratie, nicht Ineffizienz."
+    }
+  ]
+}

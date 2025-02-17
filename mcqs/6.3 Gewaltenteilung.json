@@ -1,0 +1,568 @@
+{
+  "title": "Verständnisfragen: Gewaltenteilung in der Schweiz",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Kammern hat das Schweizer Parlament?</p>",
+      "options": [
+        {
+          "text": "Eine",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das Schweizer Parlament besteht aus <strong>zwei Kammern</strong>."
+        },
+        {
+          "text": "Zwei",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Das Schweizer Parlament besteht aus <strong>Nationalrat</strong> und <strong>Ständerat</strong>."
+        },
+        {
+          "text": "Drei",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das Schweizer Parlament besteht aus <strong>zwei Kammern</strong>, nicht drei."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie heissen die zwei Kammern des Schweizer Parlaments?</p>",
+      "options": [
+        {
+          "text": "Bundesrat und Bundesgericht",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>Bundesrat</strong> und <strong>Bundesgericht</strong> sind andere Staatsgewalten, nicht Parlamentskammern."
+        },
+        {
+          "text": "Nationalrat und Ständerat",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die zwei Kammern sind der <strong>Nationalrat</strong> und der <strong>Ständerat</strong>."
+        },
+        {
+          "text": "Legislative und Exekutive",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>Legislative</strong> und <strong>Exekutive</strong> sind Bezeichnungen für Staatsgewalten, nicht für Parlamentskammern."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Mitglieder hat der Nationalrat?</p>",
+      "options": [
+        {
+          "text": "46",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>46 Mitglieder</strong> hat der <strong>Ständerat</strong>."
+        },
+        {
+          "text": "200",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Der <strong>Nationalrat</strong> hat <strong>200 Mitglieder</strong>."
+        },
+        {
+          "text": "7",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>7 Mitglieder</strong> hat der <strong>Bundesrat</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Staatsgewalt ist der Bundesrat?</p>",
+      "options": [
+        {
+          "text": "Legislative",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Legislative</strong> ist das <strong>Parlament</strong>."
+        },
+        {
+          "text": "Exekutive",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Der <strong>Bundesrat</strong> ist die <strong>Exekutive</strong>."
+        },
+        {
+          "text": "Judikative",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Judikative</strong> ist das <strong>Bundesgericht</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Departemente hat die Bundesverwaltung?</p>",
+      "options": [
+        {
+          "text": "5",
+          "is_correct": false,
+          "feedback": "❌ Falsch, es sind <strong>mehr als fünf Departemente</strong>."
+        },
+        {
+          "text": "7",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die Bundesverwaltung hat <strong>sieben Departemente</strong>."
+        },
+        {
+          "text": "9",
+          "is_correct": false,
+          "feedback": "❌ Falsch, es sind <strong>weniger als neun Departemente</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo hat das Bundesgericht seinen Sitz?</p>",
+      "options": [
+        {
+          "text": "Bern",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das <strong>Bundeshaus</strong> ist in <strong>Bern</strong>, aber das Bundesgericht nicht."
+        },
+        {
+          "text": "Zürich",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das <strong>Bundesgericht</strong> ist nicht in <strong>Zürich</strong>."
+        },
+        {
+          "text": "Lausanne",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Das <strong>Bundesgericht</strong> hat seinen Sitz in <strong>Lausanne</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer wählt den Bundesrat?</p>",
+      "options": [
+        {
+          "text": "Das Volk",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das <strong>Volk</strong> wählt das <strong>Parlament</strong>, nicht den Bundesrat direkt."
+        },
+        {
+          "text": "Die Vereinigte Bundesversammlung",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Der <strong>Bundesrat</strong> wird von der <strong>Vereinigten Bundesversammlung</strong> gewählt."
+        },
+        {
+          "text": "Der Nationalrat",
+          "is_correct": false,
+          "feedback": "❌ Falsch, der <strong>Nationalrat</strong> alleine wählt den Bundesrat <strong>nicht</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange ist die Amtsdauer des Bundesrates?</p>",
+      "options": [
+        {
+          "text": "2 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die Amtsdauer ist <strong>länger als zwei Jahre</strong>."
+        },
+        {
+          "text": "4 Jahre",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die Amtsdauer des Bundesrates beträgt <strong>vier Jahre</strong>."
+        },
+        {
+          "text": "6 Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die Amtsdauer ist <strong>kürzer als sechs Jahre</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist das Hauptziel der Gewaltenteilung?</p>",
+      "options": [
+        {
+          "text": "Die Effizienz der Regierung zu steigern",
+          "is_correct": false,
+          "feedback": "❌ Falsch, obwohl Effizienz wichtig ist, ist das <strong>Hauptziel ein anderes</strong>."
+        },
+        {
+          "text": "Machtmissbrauch zu verhindern",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Das Hauptziel ist, <strong>Machtmissbrauch zu verhindern</strong> und die <strong>Freiheit zu schützen</strong>."
+        },
+        {
+          "text": "Die Gesetzgebung zu vereinfachen",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die Gewaltenteilung <strong>vereinfacht die Gesetzgebung nicht unbedingt</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum gibt es zwei Kammern im Parlament (Nationalrat und Ständerat)?</p>",
+      "options": [
+        {
+          "text": "Um die Kosten zu verdoppeln",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die zwei Kammern dienen <strong>nicht der Kostenverdopplung</strong>."
+        },
+        {
+          "text": "Um unterschiedliche Interessen (Volk und Kantone) zu vertreten",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Der <strong>Nationalrat</strong> vertritt das <strong>Volk</strong>, der <strong>Ständerat</strong> die <strong>Kantone</strong>."
+        },
+        {
+          "text": "Um die Arbeit zu verlangsamen",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die zwei Kammern sollen die Arbeit <strong>nicht verlangsamen</strong>, sondern <strong>ergänzen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet das Konkordanzprinzip im Bundesrat?</p>",
+      "options": [
+        {
+          "text": "Dass alle Bundesratsmitglieder aus der gleichen Partei stammen",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das <strong>Konkordanzprinzip</strong> bedeutet <strong>nicht</strong>, dass alle aus der gleichen Partei sind."
+        },
+        {
+          "text": "Dass die wichtigsten Parteien in der Regierung vertreten sind",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Das <strong>Konkordanzprinzip</strong> bedeutet, dass die <strong>wichtigsten Parteien</strong> in der Regierung vertreten sind."
+        },
+        {
+          "text": "Dass der Bundesrat immer einstimmig entscheiden muss",
+          "is_correct": false,
+          "feedback": "❌ Falsch, der Bundesrat muss <strong>nicht immer einstimmig</strong> entscheiden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Rolle spielen parlamentarische Kommissionen?</p>",
+      "options": [
+        {
+          "text": "Sie führen die Regierungsgeschäfte aus",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Regierungsgeschäfte</strong> führt die <strong>Exekutive</strong> aus."
+        },
+        {
+          "text": "Sie bereiten die Ratsgeschäfte vor",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! <strong>Parlamentarische Kommissionen</strong> bereiten die <strong>Ratsgeschäfte vor</strong>."
+        },
+        {
+          "text": "Sie sprechen Recht",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>Recht sprechen</strong> ist Aufgabe der <strong>Judikative</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist die Vereinigte Bundesversammlung?</p>",
+      "options": [
+        {
+          "text": "Eine gemeinsame Sitzung von National- und Ständerat",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die <strong>Vereinigte Bundesversammlung</strong> ist die <strong>gemeinsame Sitzung</strong> beider Räte."
+        },
+        {
+          "text": "Der Zusammenschluss aller Departemente",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Departemente</strong> bilden die <strong>Bundesverwaltung</strong>, nicht die Vereinigte Bundesversammlung."
+        },
+        {
+          "text": "Ein Treffen der Kantonsregierungen",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Kantonsregierungen</strong> treffen sich in anderen Gremien."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet das Kollegialitätsprinzip im Bundesrat?</p>",
+      "options": [
+        {
+          "text": "Bundesräte dürfen nur miteinander befreundet sein",
+          "is_correct": false,
+          "feedback": "❌ Falsch, es geht <strong>nicht um Freundschaften</strong>."
+        },
+        {
+          "text": "Bundesratsentscheide werden nach aussen als Beschlüsse des Kollegiums vertreten",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Das <strong>Kollegialitätsprinzip</strong> bedeutet, dass <strong>Entscheide gemeinsam vertreten</strong> werden."
+        },
+        {
+          "text": "Bundesräte müssen immer im Kollegium arbeiten, nie alleine",
+          "is_correct": false,
+          "feedback": "❌ Falsch, Bundesräte arbeiten auch <strong>selbstständig in ihren Departementen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist die Öffentlichkeit von Parlamentssessionen wichtig?</p>",
+      "options": [
+        {
+          "text": "Um die Parlamentarier zu unterhalten",
+          "is_correct": false,
+          "feedback": "❌ Falsch, es geht <strong>nicht um Unterhaltung</strong>."
+        },
+        {
+          "text": "Um Transparenz und Kontrolle durch die Bevölkerung zu ermöglichen",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die Öffentlichkeit dient der <strong>Transparenz</strong> und <strong>Kontrolle</strong> durch die Bevölkerung."
+        },
+        {
+          "text": "Um mehr Touristen anzulocken",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>Tourismus</strong> ist <strong>nicht der Hauptgrund</strong> für die Öffentlichkeit."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist die Hauptaufgabe der Judikative?</p>",
+      "options": [
+        {
+          "text": "Gesetze erlassen",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>Gesetze erlassen</strong> ist Aufgabe der <strong>Legislative</strong>."
+        },
+        {
+          "text": "Gesetze ausführen",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>Gesetze ausführen</strong> ist Aufgabe der <strong>Exekutive</strong>."
+        },
+        {
+          "text": "Recht sprechen und Gesetze auslegen",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die <strong>Judikative</strong> spricht <strong>Recht</strong> und legt <strong>Gesetze aus</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was repräsentiert der Ständerat?</p>",
+      "options": [
+        {
+          "text": "Das Volk",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das <strong>Volk</strong> wird vom <strong>Nationalrat</strong> repräsentiert."
+        },
+        {
+          "text": "Die Kantone",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Der <strong>Ständerat</strong> repräsentiert die <strong>Kantone</strong>."
+        },
+        {
+          "text": "Die Gemeinden",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Gemeinden</strong> werden <strong>nicht direkt</strong> im Ständerat repräsentiert."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welches Wahlsystem wird in der Regel für den Nationalrat verwendet?</p>",
+      "options": [
+        {
+          "text": "Majorzwahl",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Majorzwahl</strong> wird in der Regel für den <strong>Ständerat</strong> verwendet."
+        },
+        {
+          "text": "Proporzwahl",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die <strong>Proporzwahl</strong> wird in der Regel für den <strong>Nationalrat</strong> verwendet."
+        },
+        {
+          "text": "Freie Wahl",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>"Freie Wahl"</strong> ist <strong>kein gängiges Wahlsystem</strong> in diesem Kontext."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Aufgabe hat die Bundeskanzlei?</p>",
+      "options": [
+        {
+          "text": "Recht sprechen",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>Recht sprechen</strong> ist Aufgabe der <strong>Judikative</strong>."
+        },
+        {
+          "text": "Die Regierungspolitik umsetzen",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Regierungspolitik umsetzen</strong> ist Aufgabe der <strong>Departemente</strong>."
+        },
+        {
+          "text": "Den Bundesrat unterstützen und Regierungsgeschäfte koordinieren",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die <strong>Bundeskanzlei</strong> unterstützt den <strong>Bundesrat</strong> und <strong>koordiniert Regierungsgeschäfte</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet 'primus inter pares' im Zusammenhang mit dem Bundespräsidenten?</p>",
+      "options": [
+        {
+          "text": "Der Bundespräsident hat mehr Macht als die anderen Bundesräte",
+          "is_correct": false,
+          "feedback": "❌ Falsch, der Bundespräsident hat <strong>nicht mehr Macht</strong>."
+        },
+        {
+          "text": "Der Bundespräsident ist 'Erster unter Gleichen' und leitet die Bundesratssitzungen",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! '<strong>Primus inter pares</strong>' bedeutet '<strong>Erster unter Gleichen</strong>'."
+        },
+        {
+          "text": "Der Bundespräsident wird vom Volk direkt gewählt",
+          "is_correct": false,
+          "feedback": "❌ Falsch, der Bundespräsident wird <strong>nicht vom Volk direkt gewählt</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der richterliche Instanzenweg?</p>",
+      "options": [
+        {
+          "text": "Der Weg eines Gesetzes durch das Parlament",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das beschreibt den <strong>Gesetzgebungsprozess</strong>, nicht den richterlichen Instanzenweg."
+        },
+        {
+          "text": "Die Reihenfolge der Gerichte, die ein Fall durchlaufen kann",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Der <strong>richterliche Instanzenweg</strong> beschreibt die <strong>Reihenfolge der Gerichte</strong>."
+        },
+        {
+          "text": "Der Weg eines Bürgers zur Verwaltung",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das beschreibt den <strong>Verwaltungsweg</strong>, nicht den richterlichen Instanzenweg."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Schweizer Parlament besteht aus drei Räten.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Das Schweizer Parlament besteht aus zwei Räten: dem Nationalrat und dem Ständerat.",
+      "feedback_incorrect": "Richtig. Das Schweizer Parlament besteht nicht aus drei Räten, sondern aus zwei."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Bundesrat wird vom Volk gewählt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Der Bundesrat wird von der Vereinigten Bundesversammlung gewählt, nicht direkt vom Volk.",
+      "feedback_incorrect": "Richtig. Der Bundesrat wird nicht vom Volk gewählt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Bundesgericht ist die höchste richterliche Instanz in der Schweiz.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Das Bundesgericht ist die oberste richterliche Instanz der Schweiz.",
+      "feedback_incorrect": "Falsch. Das Bundesgericht ist tatsächlich die höchste richterliche Instanz."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Sessionen des Parlaments sind in der Regel geheim.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Sessionen des Parlaments sind in der Regel öffentlich.",
+      "feedback_incorrect": "Richtig. Die Sessionen des Parlaments sind nicht geheim, sondern öffentlich."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Bundesverwaltung hat fünf Departemente.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Bundesverwaltung hat sieben Departemente.",
+      "feedback_incorrect": "Richtig. Die Bundesverwaltung hat nicht fünf, sondern sieben Departemente."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Bundespräsident oder die Bundespräsidentin hat besondere Machtbefugnisse.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Das Amt des Bundespräsidenten beinhaltet keine besonderen Machtbefugnisse.",
+      "feedback_incorrect": "Richtig. Der Bundespräsident hat keine besonderen Machtbefugnisse."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Gewaltenteilung dient dazu, die Macht im Staat zu konzentrieren.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Gewaltenteilung dient dazu, die Macht aufzuteilen und Machtmissbrauch zu verhindern.",
+      "feedback_incorrect": "Richtig. Gewaltenteilung dient nicht der Machtkonzentration, sondern der Machtverteilung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Das Konkordanzprinzip führt zu einer starken Opposition im Parlament.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Das Konkordanzprinzip führt eher zu Stabilität, da eine eigentliche Opposition im Parlament fehlt.",
+      "feedback_incorrect": "Richtig. Das Konkordanzprinzip führt nicht zu einer starken Opposition, sondern eher zu deren Fehlen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Parlamentarische Kommissionen sind unwichtig für die Vorbereitung von Ratsgeschäften.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Parlamentarische Kommissionen sind sehr wichtig, da sie die Ratsgeschäfte vorbereiten.",
+      "feedback_incorrect": "Richtig. Parlamentarische Kommissionen sind nicht unwichtig, sondern zentral für die Vorbereitung der Ratsgeschäfte."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Vereinigte Bundesversammlung tritt regelmässig zu Sessionen zusammen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Vereinigte Bundesversammlung tritt nur in besonderen Fällen zusammen, nicht regelmässig zu Sessionen.",
+      "feedback_incorrect": "Richtig. Die Vereinigte Bundesversammlung tritt nicht regelmässig, sondern nur in besonderen Fällen zusammen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Das Kollegialitätsprinzip bedeutet, dass Bundesräte immer einer Meinung sein müssen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Das Kollegialitätsprinzip bedeutet, dass Entscheide nach aussen als Beschlüsse des Kollegiums vertreten werden, auch wenn es unterschiedliche Meinungen gab.",
+      "feedback_incorrect": "Richtig. Das Kollegialitätsprinzip bedeutet nicht, dass alle Bundesräte immer einer Meinung sein müssen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Der richterliche Instanzenweg beginnt immer beim Bundesgericht.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Der richterliche Instanzenweg beginnt in der Regel bei den unteren Instanzen wie dem Amts- oder Bezirksgericht und führt zum Bundesgericht als letzter Instanz.",
+      "feedback_incorrect": "Richtig. Der richterliche Instanzenweg beginnt nicht beim Bundesgericht, sondern bei unteren Instanzen."
+    }
+  ]
+}

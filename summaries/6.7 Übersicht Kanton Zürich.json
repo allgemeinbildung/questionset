@@ -1,0 +1,151 @@
+{
+  "title": "Zusammenfassung: Politische Organe im Kanton Zürich",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "text",
+    "url": "",
+    "source": "Lehrmitteltext"
+  },
+  "questions": [
+    {
+      "correct_sentence": "Der Kantonsrat Zürich ist das Parlament des Kantons und besteht aus Vertretern verschiedener politischer Parteien.",
+      "wrong_alternatives": [
+        "Der Kantonsrat Zürich ist die Regierung des Kantons und setzt sich ausschliesslich aus parteilosen Experten zusammen, die vom Volk direkt gewählt werden.",
+        "Der Kantonsrat Zürich ist das oberste Gericht des Kantons und wird von den Gemeinden entsandt, um regionale Interessen zu vertreten."
+      ],
+    },
+    {
+      "correct_sentence": "Die Sitzverteilung im Kantonsrat zeigt die Wählerstärke der Parteien und deren Veränderungen seit 2003.",
+      "wrong_alternatives": [
+        "Die Sitzverteilung im Kantonsrat wird jährlich neu durch Losentscheid bestimmt und hat keinen Bezug zu Wahlen oder Parteienstärken.",
+        "Die Sitzverteilung im Kantonsrat bleibt seit 2003 unverändert und spiegelt die politische Landschaft der frühen 2000er Jahre wider."
+      ],
+    },
+    {
+      "correct_sentence": "Der Regierungsrat Zürich ist die oberste leitende und vollziehende Behörde des Kantons.",
+      "wrong_alternatives": [
+        "Der Regierungsrat Zürich ist ein beratendes Gremium ohne Exekutivbefugnisse und wird vom Kantonsrat in Sachfragen konsultiert.",
+        "Der Regierungsrat Zürich ist die unterste Gerichtsinstanz des Kantons und entscheidet über Beschwerden gegen kommunale Entscheide."
+      ],
+    },
+    {
+      "correct_sentence": "Der Regierungsrat wahrt die Verfassung und setzt kantonale Gesetze und Beschlüsse um.",
+      "wrong_alternatives": [
+        "Der Regierungsrat ist für die Änderung der Kantonsverfassung zuständig und kann Gesetze ohne Zustimmung des Kantonsrats erlassen.",
+        "Der Regierungsrat kontrolliert die Einhaltung der Bundesverfassung durch andere Kantone und greift bei Verstössen direkt ein."
+      ],
+    },
+    {
+      "correct_sentence": "Der Zürcher Regierungsrat besteht aus sieben Mitgliedern, die alle vier Jahre vom Volk gewählt werden.",
+      "wrong_alternatives": [
+        "Der Zürcher Regierungsrat besteht aus fünf Mitgliedern, die vom Kantonsrat für eine Amtszeit von sechs Jahren gewählt werden.",
+        "Die Mitglieder des Zürcher Regierungsrats werden durch ein komplexes Wahlverfahren von den Gemeinden und Städten des Kantons bestimmt."
+      ],
+    },
+    {
+      "correct_sentence": "Jedes Mitglied des Regierungsrats steht einer Direktion vor und leitet einen bestimmten Aufgabenbereich.",
+      "wrong_alternatives": [
+        "Die Regierungsräte wechseln jährlich ihre Direktionen, um eine Spezialisierung zu vermeiden und die Flexibilität zu erhöhen.",
+        "Die Direktionen des Regierungsrats werden nicht von Regierungsräten geleitet, sondern von externen Experten, die vom Kantonsrat ernannt werden."
+      ],
+    },
+    {
+      "correct_sentence": "Der Kanton Zürich stellt mit 35 Mitgliedern die meisten Nationalräte aller Kantone.",
+      "wrong_alternatives": [
+        "Der Kanton Zürich stellt aufgrund seiner geringen Bevölkerungszahl nur 15 Nationalräte und gehört damit zu den kleinsten Vertretungen.",
+        "Der Kanton Zürich teilt sich die Anzahl der Nationalratssitze mit dem Kanton Bern und stellt somit gleich viele Abgeordnete wie dieser."
+      ],
+    },
+    {
+      "correct_sentence": "Der Nationalrat des Kantons Zürich umfasst bekannte politische Persönlichkeiten und das jüngste Nationalratsmitglied.",
+      "wrong_alternatives": [
+        "Der Nationalrat des Kantons Zürich besteht ausschliesslich aus unbekannten Nachwuchspolitikern ohne vorherige politische Erfahrung.",
+        "Der Nationalrat des Kantons Zürich ist bekannt für sein hohes Durchschnittsalter und den Mangel an jungen politischen Talenten."
+      ],
+    },
+    {
+      "correct_sentence": "Die Nationalratssitze des Kantons Zürich verteilen sich auf verschiedene Parteien wie SVP, SP, FDP, Grüne und GLP.",
+      "wrong_alternatives": [
+        "Die Nationalratssitze des Kantons Zürich werden ausschliesslich von der SVP dominiert, die alle 35 Sitze besetzt.",
+        "Im Nationalrat des Kantons Zürich sind nur zwei Parteien vertreten: die FDP und die SP, die sich die Sitze hälftig aufteilen."
+      ],
+    },
+    {
+      "correct_sentence": "Der Kanton Zürich erhält für die Legislaturperiode 2023-2027 einen zusätzlichen Nationalratssitz.",
+      "wrong_alternatives": [
+        "Der Kanton Zürich verliert für die kommende Legislaturperiode aufgrund von Bevölkerungsrückgangs einen Nationalratssitz an Graubünden.",
+        "Die Anzahl der Nationalratssitze für den Kanton Zürich bleibt für die Legislaturperiode 2023-2027 unverändert bei 35 Sitzen."
+      ],
+    },
+    {
+      "correct_sentence": "Der Kanton Zürich ist ein Ganzkanton und entsendet zwei Ständeräte ins Bundeshaus.",
+      "wrong_alternatives": [
+        "Der Kanton Zürich ist ein Halbkanton und hat daher nur Anspruch auf einen einzigen Ständeratssitz im Bundeshaus.",
+        "Der Kanton Zürich entsendet aufgrund seiner Grösse und Bedeutung drei Ständeräte, einen mehr als die meisten anderen Kantone."
+      ],
+    },
+    {
+      "correct_sentence": "Die Ständeräte des Kantons Zürich werden nach dem Mehrheitswahlverfahren gewählt.",
+      "wrong_alternatives": [
+        "Die Ständeräte des Kantons Zürich werden durch ein Losverfahren bestimmt, um die Chancengleichheit aller Kandidaten zu gewährleisten.",
+        "Die Ständeräte des Kantons Zürich werden vom Kantonsrat gewählt und nicht direkt vom Volk, wie in anderen Kantonen."
+      ],
+    },
+    {
+      "correct_sentence": "Gewählt in den Ständerat sind Kandidierende, die das absolute Mehr erreichen und die meisten Stimmen erhalten.",
+      "wrong_alternatives": [
+        "Im Ständeratswahlverfahren reicht das relative Mehr aus, um gewählt zu werden, ein absolutes Mehr ist nicht erforderlich.",
+        "Um in den Ständerat gewählt zu werden, müssen Kandidierende nicht nur Stimmen erhalten, sondern auch eine spezielle Prüfung vor dem Kantonsrat bestehen."
+      ],
+    },
+    {
+      "correct_sentence": "Aktuelle Ständeräte des Kantons Zürich sind Daniel Jositsch und Ruedi Noser.",
+      "wrong_alternatives": [
+        "Die aktuellen Ständeräte des Kantons Zürich sind Tiana Angelina Moser und Mattea Meyer, beide bekannte Nationalrätinnen.",
+        "Die Ständeratssitze des Kantons Zürich sind derzeit unbesetzt, da es zu Unregelmässigkeiten bei den letzten Wahlen kam."
+      ],
+    },
+    {
+      "correct_sentence": "Der Kantonsrat ist die Legislative des Kantons Zürich und zuständig für die Gesetzgebung.",
+      "wrong_alternatives": [
+        "Der Kantonsrat ist die Exekutive des Kantons Zürich und setzt die Gesetze und Verordnungen des Bundes um.",
+        "Der Kantonsrat ist die Judikative des Kantons Zürich und fällt Urteile in kantonalen Rechtsstreitigkeiten."
+      ],
+    },
+    {
+      "correct_sentence": "Der Regierungsrat ist die Exekutive des Kantons Zürich und setzt die Gesetze des Kantons um.",
+      "wrong_alternatives": [
+        "Der Regierungsrat ist die Legislative des Kantons Zürich und entwirft neue Gesetze und Verfassungsänderungen.",
+        "Der Regierungsrat ist die Judikative des Kantons Zürich und überwacht die Einhaltung der Gesetze durch die Bürger."
+      ],
+    },
+    {
+      "correct_sentence": "National- und Ständerat vertreten den Kanton Zürich auf Bundesebene im Parlament.",
+      "wrong_alternatives": [
+        "National- und Ständerat vertreten den Kanton Zürich ausschliesslich in internationalen Organisationen wie der UNO und der EU.",
+        "National- und Ständerat haben keine direkte Verbindung zum Kanton Zürich und vertreten die Interessen der gesamten Schweiz als Einheit."
+      ],
+    },
+    {
+      "correct_sentence": "Das Parteienspektrum im Kantonsrat zeigt die Verteilung der politischen Kräfte im Kanton Zürich.",
+      "wrong_alternatives": [
+        "Das Parteienspektrum im Kantonsrat ist irrelevant, da Entscheidungen immer im Konsens und parteiübergreifend getroffen werden.",
+        "Das Parteienspektrum im Kantonsrat spiegelt nur die Meinung der Regierungsräte wider, nicht die der Bevölkerung."
+      ],
+    },
+    {
+      "correct_sentence": "Die Grafik zur Sitzverteilung des Kantonsrats visualisiert die Veränderungen der Parteienstärken seit 2003.",
+      "wrong_alternatives": [
+        "Die Grafik zur Sitzverteilung des Kantonsrats zeigt die aktuelle Zusammensetzung des Regierungsrats und seiner Direktionen.",
+        "Die Grafik zur Sitzverteilung des Kantonsrats ist eine Prognose für die zukünftigen Wahlergebnisse und nicht eine Darstellung der Vergangenheit."
+      ],
+    },
+    {
+      "correct_sentence": "Die Kenntnis der politischen Organe des Kantons Zürich ist wichtig für mündige Bürger und politisches Engagement.",
+      "wrong_alternatives": [
+        "Die politischen Organe des Kantons Zürich sind für den Alltag der Bürger irrelevant und nur für Experten von Bedeutung.",
+        "Politisches Engagement im Kanton Zürich ist nur über direkte Aktionen und Demonstrationen möglich, Kenntnisse der Organe sind unnötig."
+      ],
+    }
+  ]
+}

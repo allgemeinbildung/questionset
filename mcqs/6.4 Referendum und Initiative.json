@@ -1,0 +1,546 @@
+{
+  "title": "Verständnisfragen zu Referendum und Initiative",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist die grundlegende Definition eines Referendums in der Schweiz?</p>",
+      "options": [
+        {
+          "text": "Das Recht des Parlaments, Gesetze zu erlassen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Referendum ist **nicht** das Recht des Parlaments, sondern das **Recht der Bürgerinnen und Bürger**."
+        },
+        {
+          "text": "Das Recht der Bürgerinnen und Bürger, über bestimmte Parlamentsbeschlüsse an der Urne endgültig zu entscheiden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Referendum ist das **Recht der Bürger**, über **Parlamentsbeschlüsse** an der **Urne** zu entscheiden."
+        },
+        {
+          "text": "Die Pflicht der Bürgerinnen und Bürger, an allen Parlamentssitzungen teilzunehmen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Referendum ist ein **Recht**, keine **Pflicht** zur Teilnahme an Parlamentssitzungen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Art von Referendum ist bei Verfassungsänderungen in der Schweiz vorgeschrieben?</p>",
+      "options": [
+        {
+          "text": "Fakultatives Referendum",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das fakultative Referendum ist **nicht zwingend** vorgeschrieben."
+        },
+        {
+          "text": "Obligatorisches Referendum",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Bei **Verfassungsänderungen** ist ein **obligatorisches Referendum** vorgeschrieben."
+        },
+        {
+          "text": "Gesetzesreferendum",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Gesetzesreferendum ist eine andere Bezeichnung für das **fakultative Referendum**, nicht für das obligatorische."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Mehr ist für die Annahme eines obligatorischen Referendums erforderlich?</p>",
+      "options": [
+        {
+          "text": "Volksmehr",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Volksmehr genügt **nicht** für das obligatorische Referendum."
+        },
+        {
+          "text": "Ständemehr",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Ständemehr alleine genügt **nicht** für das obligatorische Referendum."
+        },
+        {
+          "text": "Doppeltes Mehr (Volks- und Ständemehr)",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Für das obligatorische Referendum ist das **doppelte Mehr** erforderlich."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Unterschriften sind für ein fakultatives Referendum auf Bundesebene notwendig?</p>",
+      "options": [
+        {
+          "text": "100'000 Unterschriften",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 100'000 Unterschriften sind für die **Volksinitiative** erforderlich, nicht für das fakultative Referendum."
+        },
+        {
+          "text": "50'000 Unterschriften",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Für ein fakultatives Referendum sind **50'000 Unterschriften** erforderlich."
+        },
+        {
+          "text": "25'000 Unterschriften",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 25'000 Unterschriften sind **nicht ausreichend** für ein fakultatives Referendum."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Innerhalb welcher Frist müssen die Unterschriften für ein fakultatives Referendum gesammelt werden?</p>",
+      "options": [
+        {
+          "text": "18 Monate",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 18 Monate ist die Frist für die **Volksinitiative**, nicht für das fakultative Referendum."
+        },
+        {
+          "text": "100 Tage",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Frist für das fakultative Referendum beträgt **100 Tage**."
+        },
+        {
+          "text": "Ein Jahr",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Jahr ist **nicht die korrekte Frist** für das fakultative Referendum."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Mehr ist für die Annahme eines fakultativen Referendums erforderlich?</p>",
+      "options": [
+        {
+          "text": "Doppeltes Mehr",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das doppelte Mehr ist für das **obligatorische Referendum** und die **Volksinitiative** erforderlich, nicht für das fakultative Referendum."
+        },
+        {
+          "text": "Volksmehr",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Für das fakultative Referendum genügt das **Volksmehr**."
+        },
+        {
+          "text": "Ständemehr",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Ständemehr alleine genügt **nicht** für das fakultative Referendum."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist das Ziel einer Volksinitiative?</p>",
+      "options": [
+        {
+          "text": "Eine Volksabstimmung über ein Gesetz zu erzwingen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das ist das Ziel des **fakultativen Referendums**, nicht der Volksinitiative."
+        },
+        {
+          "text": "Eine Abstimmung über eine Verfassungsänderung zu verlangen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Volksinitiative zielt darauf ab, eine **Abstimmung über eine Verfassungsänderung** zu verlangen."
+        },
+        {
+          "text": "Den Bundesrat zu kontrollieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Volksinitiative ist **nicht direkt** zur Kontrolle des Bundesrates gedacht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Unterschriften sind für eine Volksinitiative auf Bundesebene notwendig?</p>",
+      "options": [
+        {
+          "text": "50'000 Unterschriften",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 50'000 Unterschriften sind für das **fakultative Referendum** erforderlich, nicht für die Volksinitiative."
+        },
+        {
+          "text": "100'000 Unterschriften",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Für eine Volksinitiative sind **100'000 Unterschriften** notwendig."
+        },
+        {
+          "text": "200'000 Unterschriften",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 200'000 Unterschriften sind **nicht erforderlich** für eine Volksinitiative."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet der Begriff 'Referendumsdemokratie' im Zusammenhang mit der Schweiz?</p>",
+      "options": [
+        {
+          "text": "Dass die Regierung durch Referenden direkt vom Volk gewählt wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. In der Schweiz wird die Regierung **nicht direkt** durch Referenden gewählt."
+        },
+        {
+          "text": "Dass das Volk durch Referenden und Initiativen direkten Einfluss auf die Gesetzgebung und Verfassung hat.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! 'Referendumsdemokratie' bedeutet, dass das Volk durch **Referenden** und **Initiativen** direkten Einfluss hat."
+        },
+        {
+          "text": "Dass Referenden nur zu unbedeutenden Themen abgehalten werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Referenden werden auch zu **bedeutenden Themen** abgehalten, die die **Grundlagen des Staates** betreffen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wie beeinflusst die Androhung eines Referendums die Ausgestaltung von Gesetzen durch das Parlament?</p>",
+      "options": [
+        {
+          "text": "Das Parlament ignoriert die Androhung und beschliesst Gesetze ohne Rücksicht auf mögliche Referenden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Parlament **ignoriert die Androhung nicht**, da ein Referendum Gesetze verhindern kann."
+        },
+        {
+          "text": "Das Parlament sucht mehrheitsfähige Kompromisse, um einem möglichen Volksnein zuvorzukommen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Androhung führt dazu, dass das Parlament **Kompromisse** sucht, um ein **Volksnein** zu vermeiden."
+        },
+        {
+          "text": "Das Parlament löst sich bei Androhung eines Referendums automatisch auf.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Androhung eines Referendums führt **nicht zur automatischen Auflösung** des Parlaments."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Unterschied zwischen einer Volksinitiative und einem fakultativen Referendum bezüglich des Gegenstands?</p>",
+      "options": [
+        {
+          "text": "Die Volksinitiative betrifft Gesetze, das fakultative Referendum Verfassungsänderungen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist **genau umgekehrt**: Das Referendum betrifft Gesetze, die Initiative Verfassungsänderungen."
+        },
+        {
+          "text": "Die Volksinitiative betrifft Verfassungsänderungen, das fakultative Referendum Gesetze.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die **Volksinitiative** zielt auf **Verfassungsänderungen**, das **fakultative Referendum** auf **Gesetze**."
+        },
+        {
+          "text": "Es gibt keinen Unterschied im Gegenstand; beide Instrumente können für Gesetze und Verfassungsänderungen genutzt werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt einen **klaren Unterschied** im Gegenstand der beiden Instrumente."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum benötigt eine Volksinitiative das doppelte Mehr für die Annahme?</p>",
+      "options": [
+        {
+          "text": "Weil es sich um besonders wichtige Entscheide handelt, die die Verfassung betreffen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Verfassungsänderungen** sind **grundlegende Entscheide**, die das doppelte Mehr erfordern."
+        },
+        {
+          "text": "Um die Hürde für die Annahme möglichst niedrig zu halten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das doppelte Mehr macht die **Hürde höher**, nicht niedriger."
+        },
+        {
+          "text": "Weil das fakultative Referendum ebenfalls das doppelte Mehr benötigt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das **fakultative Referendum** benötigt **kein** doppeltes Mehr, sondern das Volksmehr."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Rolle spielt das Petitionsrecht im Vergleich zu Referendum und Initiative?</p>",
+      "options": [
+        {
+          "text": "Es ist ein gleichwertiges Instrument der direkten Demokratie mit ähnlicher Wirkung wie Referendum und Initiative.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Petitionsrecht ist **weniger wirkungsvoll** als Referendum und Initiative."
+        },
+        {
+          "text": "Es ist ein niederschwelligeres Mittel der politischen Teilhabe, das nicht direkt zu einer Abstimmung führt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Petitionsrecht ist ein **niederschwelliges Mittel** und führt **nicht direkt** zu einer Abstimmung."
+        },
+        {
+          "text": "Es ersetzt Referendum und Initiative in Kantonen mit Gesetzesinitiativen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Petitionsrecht **ersetzt Referendum und Initiative nicht**, auch nicht in Kantonen mit Gesetzesinitiativen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet es, dass die Schweiz eine 'Referendumsdemokratie' ist im Hinblick auf die Machtverteilung?</p>",
+      "options": [
+        {
+          "text": "Die Macht liegt ausschliesslich beim Volk, das Parlament hat keine Bedeutung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Parlament hat **weiterhin eine wichtige Rolle**, die Macht ist **nicht ausschliesslich** beim Volk."
+        },
+        {
+          "text": "Die Macht ist zwischen Parlament und Volk aufgeteilt, wobei das Volk ein Korrektiv gegenüber dem Parlament darstellt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Macht ist **aufgeteilt**, und das Volk dient als **Korrektiv**."
+        },
+        {
+          "text": "Das Parlament hat die uneingeschränkte Macht, Referenden sind nur eine formale Bestätigung der Parlamentsentscheide.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Referenden sind **keine formale Bestätigung**, sondern können **Parlamentsentscheide verhindern**."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen Vorteil bietet das fakultative Referendum für die Bürgerbeteiligung im Vergleich zum obligatorischen Referendum?</p>",
+      "options": [
+        {
+          "text": "Es ermöglicht dem Volk, auch über weniger grundlegende Gesetze abzustimmen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das fakultative Referendum ermöglicht die Abstimmung auch über **weniger grundlegende Gesetze**."
+        },
+        {
+          "text": "Es ist einfacher zu ergreifen, da es keine Unterschriftensammlung benötigt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das fakultative Referendum benötigt eine **Unterschriftensammlung**, das obligatorische nicht."
+        },
+        {
+          "text": "Es benötigt das doppelte Mehr, was die Legitimität der Entscheidung erhöht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das fakultative Referendum benötigt **kein** doppeltes Mehr, sondern das Volksmehr."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden Organisationen kann *keine* Volksinitiative starten?</p>",
+      "options": [
+        {
+          "text": "Eine Bürgerinitiative",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Bürgerinitiativen** können Volksinitiativen starten."
+        },
+        {
+          "text": "Eine kantonale Regierung",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Kantonale Regierungen** starten **keine** Volksinitiativen auf Bundesebene."
+        },
+        {
+          "text": "Eine politische Partei",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Politische Parteien** können Volksinitiativen starten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden Themen unterliegt *nicht* dem obligatorischen Referendum?</p>",
+      "options": [
+        {
+          "text": "Der Beitritt der Schweiz zur NATO",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der **Beitritt zu wichtigen internationalen Organisationen** unterliegt dem obligatorischen Referendum."
+        },
+        {
+          "text": "Eine Änderung des Strafgesetzbuches",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Eine **Änderung des Strafgesetzbuches** unterliegt **nicht** dem obligatorischen Referendum."
+        },
+        {
+          "text": "Eine Totalrevision der Bundesverfassung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Verfassungsänderungen** unterliegen dem obligatorischen Referendum."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Gesetz regelt die politischen Rechte in der Schweiz, einschliesslich Referendum und Initiative?</p>",
+      "options": [
+        {
+          "text": "Bundesgesetz über die Bundesversammlung (ParlG)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das ParlG regelt die **Organisation der Bundesversammlung**, nicht die politischen Rechte."
+        },
+        {
+          "text": "Bundesgesetz über die politischen Rechte (BPR)",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das **Bundesgesetz über die politischen Rechte (BPR)** regelt Referendum und Initiative."
+        },
+        {
+          "text": "Bundesgesetz über die Bundeskanzlei (BKGe)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das BKGe regelt die **Aufgaben der Bundeskanzlei**, nicht die politischen Rechte."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Inwiefern kann das Petitionsrecht als 'niederschwellig' bezeichnet werden?</p>",
+      "options": [
+        {
+          "text": "Weil es nur von Personen mit geringem Einkommen genutzt werden kann.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Petitionsrecht ist **nicht auf bestimmte Einkommensgruppen** beschränkt."
+        },
+        {
+          "text": "Weil es von allen urteilsfähigen Personen ausgeübt werden kann, unabhängig vom Stimmrechtsalter.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Es ist **niederschwellig**, weil es **von allen urteilsfähigen Personen** genutzt werden kann, auch von Jugendlichen."
+        },
+        {
+          "text": "Weil Petitionen automatisch zu einer Volksabstimmung führen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Petitionen führen **nicht automatisch** zu einer Volksabstimmung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist die 'Androhung eines Referendums' und welche Auswirkung hat sie?</p>",
+      "options": [
+        {
+          "text": "Die formelle Ankündigung einer Volksabstimmung, die automatisch stattfindet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Androhung ist **nicht die formelle Ankündigung**, sondern eher die **Möglichkeit** oder **Wahrscheinlichkeit**."
+        },
+        {
+          "text": "Die Möglichkeit, dass Bürgerinnen und Bürger ein Referendum ergreifen könnten, was das Parlament bei der Gesetzesausarbeitung beeinflusst.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die 'Androhung' ist die **Möglichkeit**, die das Parlament **bei der Gesetzesausarbeitung beeinflusst**."
+        },
+        {
+          "text": "Eine verbindliche Zusage des Parlaments, ein Gesetz dem Volk zur Abstimmung vorzulegen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Androhung ist **keine verbindliche Zusage** des Parlaments."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein obligatorisches Referendum ist zwingend bei jedem neuen Bundesgesetz vorgeschrieben.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Ein obligatorisches Referendum ist nur bei bestimmten, besonders wichtigen Parlamentsentscheiden vorgeschrieben, wie Verfassungsänderungen.",
+      "feedback_incorrect": "Richtig. Ein obligatorisches Referendum ist nicht bei jedem neuen Bundesgesetz zwingend."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Für ein fakultatives Referendum genügt das Ständemehr.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Für ein fakultatives Referendum genügt das Volksmehr.",
+      "feedback_incorrect": "Richtig. Für ein fakultatives Referendum ist das Ständemehr nicht ausreichend."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Unterschriftensammlung für eine Volksinitiative muss innerhalb von 12 Monaten abgeschlossen sein.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Frist für die Unterschriftensammlung einer Volksinitiative beträgt 18 Monate.",
+      "feedback_incorrect": "Richtig. Die Frist für die Unterschriftensammlung einer Volksinitiative ist länger als 12 Monate."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Petitionsrecht steht nur Schweizer Bürgerinnen und Bürgern mit Stimmrecht zu.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Das Petitionsrecht steht allen urteilsfähigen Personen zu, unabhängig von der Nationalität oder dem Stimmrechtsalter.",
+      "feedback_incorrect": "Richtig. Das Petitionsrecht ist nicht auf stimmberechtigte Schweizer Bürger beschränkt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine Petition an die Behörden muss immer schriftlich erfolgen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Das Petitionsrecht sieht vor, dass Bitten, Anregungen und Beschwerden schriftlich an die Behörden gerichtet werden.",
+      "feedback_incorrect": "Falsch. Petitionen müssen in schriftlicher Form eingereicht werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Für die Annahme einer Volksinitiative ist das Volksmehr ausreichend.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Für die Annahme einer Volksinitiative ist das doppelte Mehr (Volks- und Ständemehr) erforderlich.",
+      "feedback_incorrect": "Richtig. Für eine Volksinitiative ist das Volksmehr alleine nicht ausreichend."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Das fakultative Referendum dient dazu, Gesetze zu verhindern, die nicht dem Mehrheitswillen des Volkes entsprechen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Das fakultative Referendum ermöglicht es dem Volk, Gesetze abzulehnen, die es nicht unterstützt.",
+      "feedback_incorrect": "Falsch. Das fakultative Referendum ist ein Instrument, um Gesetze, die nicht dem Mehrheitswillen entsprechen, zu korrigieren."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Androhung eines Referendums kann die Kompromissbereitschaft im Parlament erhöhen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Die Angst vor einem Referendum kann das Parlament dazu bewegen, mehrheitsfähige Kompromisse zu suchen.",
+      "feedback_incorrect": "Falsch. Die Androhung eines Referendums wirkt sich tatsächlich auf die Kompromissfindung im Parlament aus."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine erfolgreiche Volksinitiative ändert immer direkt die Bundesverfassung.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Das Ziel einer Volksinitiative ist die Verfassungsänderung, und eine erfolgreiche Initiative führt zu einer solchen Änderung.",
+      "feedback_incorrect": "Falsch. Eine erfolgreiche Volksinitiative bewirkt eine Änderung der Bundesverfassung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Das Petitionsrecht garantiert, dass die Behörden auf jede Petition antworten müssen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Das Petitionsrecht verpflichtet die Behörden zwar zur Kenntnisnahme, aber nicht zwingend zur Beantwortung jeder Petition.",
+      "feedback_incorrect": "Richtig. Es gibt keine formelle Antwortpflicht auf Petitionen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Schweiz wäre auch ohne Referendum und Initiative eine repräsentative Demokratie.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Auch ohne Referendum und Initiative wäre die Schweiz eine Demokratie, aber eben keine 'Referendumsdemokratie' mit so ausgeprägten direktdemokratischen Elementen.",
+      "feedback_incorrect": "Falsch. Die Schweiz wäre auch ohne diese Instrumente eine Demokratie, aber mit einem anderen Charakter."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Das doppelte Mehr beim obligatorischen Referendum soll sicherstellen, dass grundlegende Entscheide von einer breiten Mehrheit getragen werden.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Das doppelte Mehr stellt sicher, dass nicht nur die Mehrheit des Volkes, sondern auch die Mehrheit der Kantone zustimmt, was die Akzeptanz grundlegender Entscheide erhöhen soll.",
+      "feedback_incorrect": "Falsch. Das doppelte Mehr dient dazu, eine breite Akzeptanz für grundlegende Entscheide zu gewährleisten."
+    }
+  ]
+}

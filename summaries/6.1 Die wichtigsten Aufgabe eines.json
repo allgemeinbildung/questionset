@@ -1,0 +1,151 @@
+{
+  "title": "Wichtigste Aufgaben des Staates - Drag the Words",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "text",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "correct_sentence": "Ein zivilisiertes Zusammenleben erfordert klare Regeln, die sicherstellen, dass Freiheit nicht auf Kosten Schwächerer ausgelebt wird.",
+      "wrong_alternatives": [
+        "Ein zivilisiertes Zusammenleben benötigt keine Regeln, da individuelle Freiheit automatisch zu Harmonie führt und Konflikte minimiert werden.",
+        "Für ein zivilisiertes Zusammenleben sind vage Richtlinien ausreichend, da detaillierte Gesetze die persönliche Entfaltung unnötig einschränken."
+      ]
+    },
+    {
+      "correct_sentence": "Die Hauptaufgabe des Staates ist es, Würde und Freiheit aller Menschen im Staatsgebiet zu gewährleisten.",
+      "wrong_alternatives": [
+        "Die primäre Aufgabe des Staates beschränkt sich darauf, wirtschaftliche Stabilität zu sichern und das Bruttoinlandsprodukt kontinuierlich zu steigern.",
+        "Der Staat hat hauptsächlich die Funktion, kulturelle Veranstaltungen zu organisieren und das nationale Brauchtum zu pflegen."
+      ]
+    },
+    {
+      "correct_sentence": "Die Bundesverfassung der Schweiz definiert die Aufgaben eines modernen Staates in Artikel 2.",
+      "wrong_alternatives": [
+        "Die Aufgaben des modernen Schweizer Staates sind detailliert im Obligationenrecht (OR) festgelegt und werden jährlich angepasst.",
+        "Die grundlegenden Aufgaben des Schweizer Staates sind im Strafgesetzbuch (StGB) verankert und definieren primär Verbote."
+      ]
+    },
+    {
+      "correct_sentence": "Gemäss BV 2 schützt der Staat Freiheit und Rechte des Volkes sowie die Unabhängigkeit und Sicherheit des Landes.",
+      "wrong_alternatives": [
+        "Laut BV 2 ist die wichtigste Aufgabe des Staates die Förderung des Exports und die internationale Wettbewerbsfähigkeit der nationalen Wirtschaft.",
+        "Nach BV 2 konzentriert sich der Staat hauptsächlich auf die Gewährleistung der inneren Ordnung durch Überwachung und strenge Strafgesetze."
+      ]
+    },
+    {
+      "correct_sentence": "Der Staat fördert Wohlfahrt, nachhaltige Entwicklung, Zusammenhalt und kulturelle Vielfalt des Landes.",
+      "wrong_alternatives": [
+        "Der Staat steuert primär die Bevölkerungsentwicklung und optimiert die demografische Struktur des Landes durch gezielte Massnahmen.",
+        "Der Staat fokussiert sich vorrangig auf die Durchsetzung traditioneller Werte und Normen, um die gesellschaftliche Homogenität zu bewahren."
+      ]
+    },
+    {
+      "correct_sentence": "Ein weiteres Ziel des Staates ist die grösstmögliche Chancengleichheit unter den Bürgerinnen und Bürgern.",
+      "wrong_alternatives": [
+        "Der Staat strebt eine absolute Gleichheit der Bürger an, indem er individuelle Unterschiede und Talente weitgehend ignoriert.",
+        "Der Staat konzentriert sich darauf, die Chancengleichheit nur für bestimmte Bevölkerungsgruppen zu maximieren, um spezifische Ziele zu erreichen."
+      ]
+    },
+    {
+      "correct_sentence": "Der Staat setzt sich für die Erhaltung der natürlichen Lebensgrundlagen und eine friedliche Weltordnung ein.",
+      "wrong_alternatives": [
+        "Der Staat priorisiert die kurzfristige wirtschaftliche Nutzung natürlicher Ressourcen und vernachlässigt langfristige Umweltaspekte konsequent.",
+        "Der Staat verfolgt primär nationale Interessen in der internationalen Politik und setzt sich kaum für globale Gerechtigkeit ein."
+      ]
+    },
+    {
+      "correct_sentence": "Die Politik entscheidet darüber, wie die vier Aufgaben des Staates konkret umgesetzt werden.",
+      "wrong_alternatives": [
+        "Die Umsetzung der Staatsaufgaben wird ausschliesslich von Experten und Beamten in der Verwaltungsebene ohne politische Einflussnahme bestimmt.",
+        "Die konkrete Umsetzung der Staatsaufgaben erfolgt direkt durch Volksabstimmungen, ohne dass politische Gremien Entscheidungen treffen."
+      ]
+    },
+    {
+      "correct_sentence": "Politische Fragen umfassen die Garantie der Sicherheit des Landes und jedes Einzelnen.",
+      "wrong_alternatives": [
+        "Politische Fragen beschränken sich auf kulturelle Förderprogramme und die Organisation von nationalen Feiertagen und Festivitäten.",
+        "Politische Fragen umfassen vor allem die Festlegung von Parkgebühren und die Regulierung des öffentlichen Nahverkehrs in Städten."
+      ]
+    },
+    {
+      "correct_sentence": "Die Grösse der Armee und der Bedarf an Polizei sind politische Entscheidungen im Bereich Sicherheit.",
+      "wrong_alternatives": [
+        "Die optimale Grösse der Armee und der Polizeibedarf werden ausschliesslich durch technologische Entwicklungen und demografische Veränderungen determiniert.",
+        "Die Dimensionierung von Armee und Polizei wird primär durch historische Traditionen und militärische Doktrinen ohne aktuelle politische Bewertung festgelegt."
+      ]
+    },
+    {
+      "correct_sentence": "Auch die Notwendigkeit bestimmter Gesetze ist eine Frage der politischen Willensbildung.",
+      "wrong_alternatives": [
+        "Die Notwendigkeit von Gesetzen ergibt sich allein aus naturwissenschaftlichen Erkenntnissen und ethischen Grundprinzipien, ohne politische Abwägung.",
+        "Gesetze werden ausschliesslich von Juristen und Rechtsexperten formuliert und ihre Notwendigkeit wird nicht politisch diskutiert."
+      ]
+    },
+    {
+      "correct_sentence": "Das gewünschte Ausmass des Sozialstaates ist eine zentrale politische Frage.",
+      "wrong_alternatives": [
+        "Die Definition und Ausgestaltung des Sozialstaates sind rein ökonomische und finanztechnische Fragen, die keine politische Dimension besitzen.",
+        "Die Form des Sozialstaates wird ausschliesslich durch religiöse und philosophische Überzeugungen ohne Bezug zur politischen Debatte bestimmt."
+      ]
+    },
+    {
+      "correct_sentence": "Der Umgang mit Flüchtlingen und ausländischen Arbeitskräften wird politisch entschieden.",
+      "wrong_alternatives": [
+        "Die Migrationspolitik und der Umgang mit Flüchtlingen werden allein durch völkerrechtliche Verträge und humanitäre Imperative ohne politische Gestaltungsfreiheit determiniert.",
+        "Asyl- und Migrationsfragen werden ausschliesslich von internationalen Organisationen und NGOs ohne nationale politische Entscheidungsprozesse geregelt."
+      ]
+    },
+    {
+      "correct_sentence": "Die Gleichstellung von Mann und Frau ist ein politisches Ziel und Gegenstand politischer Massnahmen.",
+      "wrong_alternatives": [
+        "Die Gleichstellung der Geschlechter ist ein rein biologisches und naturgegebenes Faktum, das keine politischen Interventionen erfordert.",
+        "Die Geschlechtergleichheit wird ausschliesslich durch kulturelle Normen und soziale Konventionen ohne staatliche oder politische Einflussnahme erreicht."
+      ]
+    },
+    {
+      "correct_sentence": "Auch die Sorge des Staates um die Schwächsten der Gesellschaft ist politisch motiviert.",
+      "wrong_alternatives": [
+        "Die Unterstützung der Schwächsten in der Gesellschaft ist eine rein private und karitative Angelegenheit, die keine staatliche oder politische Relevanz besitzt.",
+        "Die Fürsorge für sozial Benachteiligte wird ausschliesslich durch traditionelle Familienstrukturen und lokale Gemeinschaften ohne staatliche Intervention gewährleistet."
+      ]
+    },
+    {
+      "correct_sentence": "Der Wert, den die Gesellschaft der Umwelt beimisst, ist eine politische Priorität.",
+      "wrong_alternatives": [
+        "Der Wert der Umwelt wird ausschliesslich durch objektive wissenschaftliche Messungen und ökonomische Berechnungen ohne subjektive politische Wertsetzungen bestimmt.",
+        "Umweltfragen sind primär technische und technologische Herausforderungen, die keine politischen Entscheidungen oder gesellschaftliche Wertdebatten erfordern."
+      ]
+    },
+    {
+      "correct_sentence": "Der Einsatz für eine friedliche und gerechte Weltordnung ist ein politisches Engagement.",
+      "wrong_alternatives": [
+        "Internationale Beziehungen und Friedensbemühungen werden ausschliesslich durch diplomatische Protokolle und völkerrechtliche Abkommen ohne politische Visionen gestaltet.",
+        "Globale Gerechtigkeit und Friedenssicherung sind primär religiöse und ethische Ideale, die keine konkrete politische Umsetzung oder staatliche Massnahmen erfordern."
+      ]
+    },
+    {
+      "correct_sentence": "Durch aktive Teilnahme am politischen Leben gestalten Bürger den Staat mit.",
+      "wrong_alternatives": [
+        "Die politische Partizipation der Bürger beschränkt sich auf die passive Rezeption von Medienberichten und die gelegentliche Teilnahme an Demonstrationen ohne direkten Einfluss.",
+        "Bürgerliche Mitwirkung im politischen System ist irrelevant, da politische Entscheidungen ausschliesslich von gewählten Repräsentanten und Eliten getroffen werden."
+      ]
+    },
+    {
+      "correct_sentence": "«Der Staat» sind wir alle zusammen, die aktiv am politischen Leben teilnehmen.",
+      "wrong_alternatives": [
+        "«Der Staat» ist eine abstrakte, von den Bürgern losgelöste Institution, die unabhängig von individueller Partizipation existiert und agiert.",
+        "«Der Staat» besteht ausschliesslich aus gewählten Amtsträgern und Beamten, während die Bevölkerung eine passive Rolle als Empfänger staatlicher Anordnungen einnimmt."
+      ]
+    },
+    {
+      "correct_sentence": "Wir bestimmen mit, in welche Richtung sich der Staat entwickelt, durch unsere politische Beteiligung.",
+      "wrong_alternatives": [
+        "Die Entwicklung des Staates folgt unumstösslichen historischen Gesetzen und ökonomischen Sachzwängen, die durch individuelle Bürgerbeteiligung unbeeinflusst bleiben.",
+        "Die zukünftige Ausrichtung des Staates wird allein durch globale Trends und internationale Machtverhältnisse ohne nationalen politischen Gestaltungsspielraum determiniert."
+      ]
+    }
+  ]
+}

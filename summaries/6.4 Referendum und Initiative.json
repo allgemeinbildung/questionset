@@ -1,0 +1,151 @@
+{
+  "title": "Zusammenfassung zu Referendum und Initiative",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "text",
+    "url": "",
+    "source": "Lehrmittel Seite 168-170"
+  },
+  "questions": [
+    {
+      "correct_sentence": "Das Referendum in der Schweiz gibt Bürgern das Recht, über bestimmte Parlamentsbeschlüsse an der Urne zu entscheiden.",
+      "wrong_alternatives": [
+        "Das Referendum in der Schweiz verpflichtet Bürger, an allen Parlamentsdebatten teilzunehmen und dort abzustimmen.",
+        "Das Referendum in der Schweiz ist ein Instrument, das es dem Parlament ermöglicht, die Meinung der Bürger zu Gesetzesentwürfen einzuholen, bevor diese in Kraft treten."
+      ],
+    },
+    {
+      "correct_sentence": "Beim obligatorischen Referendum müssen Bürger automatisch über Verfassungsänderungen und Beitritte zu internationalen Organisationen abstimmen.",
+      "wrong_alternatives": [
+        "Beim obligatorischen Referendum können Bürger freiwillig entscheiden, ob sie an Abstimmungen über Gesetzesänderungen teilnehmen möchten.",
+        "Beim obligatorischen Referendum werden nur Kantone, nicht aber einzelne Bürger, automatisch zu Abstimmungen über grundlegende Staatsverträge aufgefordert."
+      ],
+    },
+    {
+      "correct_sentence": "Für die Annahme eines obligatorischen Referendums ist das doppelte Mehr erforderlich, also Volks- und Ständemehr.",
+      "wrong_alternatives": [
+        "Für die Annahme eines obligatorischen Referendums reicht ein einfaches Mehr der Bevölkerung aus, das Ständemehr ist optional.",
+        "Für die Annahme eines obligatorischen Referendums ist ausschliesslich das Ständemehr massgebend, das Volksmehr spielt keine Rolle."
+      ],
+    },
+    {
+      "correct_sentence": "Das fakultative Referendum ermöglicht es Bürgern oder Kantonen, eine Volksabstimmung über ein vom Parlament beschlossenes Gesetz zu erzwingen.",
+      "wrong_alternatives": [
+        "Das fakultative Referendum erlaubt es dem Parlament, Bürger zu einer Abstimmung über ein Gesetz zu zwingen, das vom Volk initiiert wurde.",
+        "Das fakultative Referendum ist ein Instrument, mit dem das Parlament eine Volksabstimmung über ein Gesetz verhindern kann, das von den Kantonen abgelehnt wird."
+      ],
+    },
+    {
+      "correct_sentence": "Ein fakultatives Referendum benötigt 50'000 Unterschriften von Bürgern oder die Unterstützung von acht Kantonen innerhalb von 100 Tagen.",
+      "wrong_alternatives": [
+        "Für ein fakultatives Referendum sind 100'000 Unterschriften von Bürgern oder die Unterstützung von zwölf Kantonen innerhalb von 18 Monaten erforderlich.",
+        "Ein fakultatives Referendum kommt automatisch zustande, sobald eine bestimmte Anzahl von Petitionen gegen ein Gesetz eingereicht wurde, unabhängig von Unterschriften oder Kantonen."
+      ],
+    },
+    {
+      "correct_sentence": "Beim fakultativen Referendum genügt für die Annahme das Volksmehr.",
+      "wrong_alternatives": [
+        "Beim fakultativen Referendum ist für die Annahme das doppelte Mehr aus Volks- und Ständemehr erforderlich, um eine breite Zustimmung zu gewährleisten.",
+        "Beim fakultativen Referendum entscheidet ausschliesslich das Ständemehr über die Annahme, das Volksmehr dient nur als beratende Stimme."
+      ],
+    },
+    {
+      "correct_sentence": "Die Schweiz wird aufgrund ihrer Mitentscheidungsrechte als Referendumsdemokratie bezeichnet.",
+      "wrong_alternatives": [
+        "Die Schweiz wird als repräsentative Demokratie bezeichnet, da Referenden nur eine untergeordnete Rolle im politischen System spielen.",
+        "Die Schweiz wird als direkte Demokratie bezeichnet, weil alle Gesetze und Verfassungsänderungen ausschliesslich durch Volksabstimmungen entschieden werden, ohne Beteiligung des Parlaments."
+      ],
+    },
+    {
+      "correct_sentence": "Schon die Androhung eines Referendums kann die Ausgestaltung eines Gesetzes durch das Parlament beeinflussen.",
+      "wrong_alternatives": [
+        "Die Androhung eines Referendums hat keinen Einfluss auf die Ausgestaltung von Gesetzen, da das Parlament unabhängig entscheidet.",
+        "Die Androhung eines Referendums führt automatisch zur Ablehnung eines Gesetzes, ohne dass es zu einer Volksabstimmung kommen muss."
+      ],
+    },
+    {
+      "correct_sentence": "Die Initiative ist das Recht des Volkes, mittels Unterschriftensammlung eine Abstimmung über eine Verfassungsänderung zu verlangen.",
+      "wrong_alternatives": [
+        "Die Initiative ist das Recht des Parlaments, Verfassungsänderungen ohne Zustimmung des Volkes zu beschliessen.",
+        "Die Initiative ist das Recht des Bundesrates, Gesetze zu erlassen, die direkt vom Volk genehmigt werden müssen."
+      ],
+    },
+    {
+      "correct_sentence": "Für eine Volksinitiative sind 100'000 Unterschriften von Bürgern innerhalb von 18 Monaten erforderlich.",
+      "wrong_alternatives": [
+        "Für eine Volksinitiative genügen 50'000 Unterschriften innerhalb von 12 Monaten, um eine Verfassungsänderung zu verlangen.",
+        "Eine Volksinitiative benötigt 200'000 Unterschriften von Bürgern innerhalb eines Jahres, um eine Abstimmung zu erzwingen."
+      ],
+    },
+    {
+      "correct_sentence": "Auch für die Annahme einer Volksinitiative ist das doppelte Mehr notwendig.",
+      "wrong_alternatives": [
+        "Für die Annahme einer Volksinitiative reicht das einfache Volksmehr aus, da es sich um eine Initiative des Volkes handelt.",
+        "Für die Annahme einer Volksinitiative ist ausschliesslich das Ständemehr entscheidend, da es die Interessen der Kantone repräsentiert."
+      ],
+    },
+    {
+      "correct_sentence": "Neben der Verfassungsinitiative gibt es in Kantonen auch Gesetzesinitiativen.",
+      "wrong_alternatives": [
+        "Gesetzesinitiativen gibt es nur auf Bundesebene, in den Kantonen sind nur Verfassungsinitiativen möglich.",
+        "Gesetzesinitiativen sind in der Schweiz generell abgeschafft worden und existieren weder auf Bundes- noch auf Kantonsebene."
+      ],
+    },
+    {
+      "correct_sentence": "Alle urteilsfähigen Personen haben das Recht, Petitionen an Behörden zu richten.",
+      "wrong_alternatives": [
+        "Das Petitionsrecht steht nur stimmberechtigten Schweizer Bürgern über 18 Jahren zu.",
+        "Das Petitionsrecht ist ausschliesslich Organisationen und Verbänden vorbehalten, nicht aber Einzelpersonen."
+      ],
+    },
+    {
+      "correct_sentence": "Behörden sind verpflichtet, Petitionen zur Kenntnis zu nehmen, aber nicht zwingend zu beantworten.",
+      "wrong_alternatives": [
+        "Behörden sind gesetzlich verpflichtet, jede Petition detailliert zu beantworten und innerhalb von 30 Tagen eine Rückmeldung zu geben.",
+        "Behörden können Petitionen ignorieren, da es sich nur um unverbindliche Meinungsäusserungen handelt und keine rechtliche Verpflichtung zur Reaktion besteht."
+      ],
+    },
+    {
+      "correct_sentence": "Gegenstand einer Petition kann jede staatliche Tätigkeit sein.",
+      "wrong_alternatives": [
+        "Petitionen dürfen sich nur auf kommunale Angelegenheiten beziehen, staatliche Tätigkeiten auf Bundesebene sind ausgeschlossen.",
+        "Petitionen sind nur zulässig, wenn sie sich auf persönliche Anliegen beziehen, allgemeine staatliche Tätigkeiten dürfen nicht Gegenstand sein."
+      ],
+    },
+    {
+      "correct_sentence": "Eingereichte Unterschriftenbögen für Initiativen werden zunächst von den Gemeinden auf Gültigkeit überprüft.",
+      "wrong_alternatives": [
+        "Die Gültigkeitsprüfung von Unterschriftenbögen für Initiativen erfolgt ausschliesslich durch die Bundeskanzlei in Bern.",
+        "Die Gültigkeit der Unterschriftenbögen wird vom Initiativkomitee selbst überprüft, um den Prozess zu beschleunigen."
+      ],
+    },
+    {
+      "correct_sentence": "Bundesrat und Parlament empfehlen in der Regel Annahme oder Ablehnung einer Initiative und können einen Gegenvorschlag ausarbeiten.",
+      "wrong_alternatives": [
+        "Bundesrat und Parlament dürfen keine Empfehlung zur Annahme oder Ablehnung einer Initiative abgeben, um die freie Meinungsbildung des Volkes nicht zu beeinflussen.",
+        "Bundesrat und Parlament sind verpflichtet, jede Volksinitiative automatisch anzunehmen, da diese den direkten Willen des Volkes repräsentiert."
+      ],
+    },
+    {
+      "correct_sentence": "Für die Annahme einer Initiative ist das doppelte Mehr erforderlich.",
+      "wrong_alternatives": [
+        "Für die Annahme einer Initiative genügt das einfache Volksmehr, da es sich um eine Initiative des Volkes handelt.",
+        "Für die Annahme einer Initiative ist ausschliesslich das Ständemehr entscheidend, da es die Interessen der Kantone repräsentiert."
+      ],
+    },
+    {
+      "correct_sentence": "Die Schweiz kennt sowohl Verfassungsinitiativen auf Bundesebene als auch Gesetzesinitiativen auf Kantonsebene.",
+      "wrong_alternatives": [
+        "In der Schweiz gibt es nur Verfassungsinitiativen auf Bundesebene, Gesetzesinitiativen sind in allen Kantonen abgeschafft.",
+        "In der Schweiz existieren nur Gesetzesinitiativen auf Kantonsebene, Verfassungsinitiativen sind ausschliesslich dem Bund vorbehalten."
+      ],
+    },
+    {
+      "correct_sentence": "Das Petitionsrecht ermöglicht es auch Nicht-Stimmberechtigten, sich politisch zu äussern.",
+      "wrong_alternatives": [
+        "Das Petitionsrecht ist ausschliesslich Stimmberechtigten vorbehalten, um die politische Willensbildung nicht durch Nicht-Stimmberechtigte zu verwässern.",
+        "Nicht-Stimmberechtigte haben in der Schweiz keine Möglichkeit, sich politisch zu äussern, da politische Rechte ausschliesslich an die Staatsbürgerschaft gebunden sind."
+      ]
+    }
+  ]
+}
