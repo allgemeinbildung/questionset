@@ -1,0 +1,278 @@
+{
+    "title": "Verständnisfragen Staatsaufgaben",
+    "media": {
+      "type": "youtube",
+      "url": "https://www.youtube.com/embed/AmIvOn1JioI",
+      "source": "https://www.youtube.com"
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche der folgenden Optionen wird im Gespräch als eine der Hauptaufgaben des Staates genannt?</p>",
+        "options": [
+          {
+            "text": "Die Wirtschaft maximal fördern.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Obwohl Wirtschaftsförderung wichtig sein kann, liegt der Fokus hier auf den **Kernaufgaben** des Staates gemäss Gespräch."
+          },
+          {
+            "text": "Schutz und Freiheit der Bürger gewährleisten.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! **Schutz und Freiheit** werden im Gespräch explizit als Hauptaufgabe des Staates hervorgehoben."
+          },
+          {
+            "text": "Die Kultur des Landes vereinheitlichen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die **kulturelle Vereinheitlichung** ist keine primäre Staatsaufgabe im Sinne des Gesprächs."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welches Beispiel wird im Gespräch genannt, um zu veranschaulichen, wie der Staat durch Gesetze die Freiheit schützt?</p>",
+        "options": [
+          {
+            "text": "Die Regelung von Bankgeschäften.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. **Bankgeschäfte** werden im Gespräch nicht als direktes Beispiel für Freiheitsschutz genannt."
+          },
+          {
+            "text": "Die Einführung von Ampeln und Verkehrsregeln.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! **Ampeln und Verkehrsregeln** werden als Beispiel genannt, um zu zeigen, wie Gesetze im **Straßenverkehr** für Ordnung und Sicherheit sorgen."
+          },
+          {
+            "text": "Die Förderung von Innovationen in der Technologiebranche.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. **Technologie-Förderung** ist kein Beispiel, das im Gespräch in diesem Kontext verwendet wird."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welches Dokument definiert laut Gespräch die vier Hauptaufgaben des Schweizer Staates?</p>",
+        "options": [
+          {
+            "text": "Das Schweizer Strafgesetzbuch.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das **Strafgesetzbuch** regelt strafrechtliche Aspekte, aber nicht die **Hauptaufgaben** des Staates."
+          },
+          {
+            "text": "Die Bundesverfassung (BV II).",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die **Bundesverfassung (BV II)** wird im Gespräch als das Dokument genannt, das die **vier Hauptaufgaben** des Staates definiert."
+          },
+          {
+            "text": "Das Obligationenrecht.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das **Obligationenrecht** regelt vor allem **Vertragsverhältnisse** und ist nicht der definierende Text für Staatsaufgaben."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche der folgenden Sozialversicherungen wird im Gespräch als Beispiel für staatliche Wohlfahrt genannt?</p>",
+        "options": [
+          {
+            "text": "Die Arbeitslosenversicherung (ALV).",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die **ALV** ist zwar eine wichtige Sozialversicherung, aber im Gespräch wird explizit die **AHV** als Beispiel genannt."
+          },
+          {
+            "text": "Die Alters- und Hinterlassenenversicherung (AHV).",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die **AHV** wird im Gespräch als konkretes Beispiel für **staatliche Wohlfahrt und sozialen Schutz** angeführt."
+          },
+          {
+            "text": "Die Krankenversicherung (KVG).",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die **KVG** ist zwar Teil des Sozialsystems, aber im Gespräch wird die **AHV** als Beispiel für Wohlfahrt hervorgehoben."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Bereiche werden im Gespräch als konkrete Beispiele genannt, in denen der Staat Wohlfahrt und Chancengleichheit fördert?</p>",
+        "options": [
+          {
+            "text": "Militär und Landesverteidigung.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. **Militär und Landesverteidigung** sind primär Aufgaben des **Schutzes**, nicht der Wohlfahrt im Sinne von **Bildung und Gesundheit**."
+          },
+          {
+            "text": "Gesundheit, Bildung und soziale Sicherheit.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! **Gesundheit, Bildung und soziale Sicherheit** werden im Gespräch explizit als Bereiche genannt, in denen der Staat **Wohlfahrt und Chancengleichheit** fördert."
+          },
+          {
+            "text": "Wirtschaftsförderung und Handelspolitik.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. **Wirtschaftsförderung und Handelspolitik** sind andere wichtige Staatsaufgaben, aber nicht die im Gespräch genannten Beispiele für **Wohlfahrt und Chancengleichheit**."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum erlässt der Staat laut Gespräch Gesetze?</p>",
+        "options": [
+          {
+            "text": "Um die Bürger zu kontrollieren und zu überwachen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Fokus von Gesetzen liegt nicht auf **Kontrolle und Überwachung**, sondern auf der **Sicherung eines friedlichen und gerechten Zusammenlebens**."
+          },
+          {
+            "text": "Um sicherzustellen, dass alle in Würde und Freiheit leben können und die Schwächeren zu schützen.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Gesetze dienen dazu, ein **zivilisiertes Zusammenleben** zu ermöglichen, **Würde und Freiheit** zu gewährleisten und besonders die **Schwächeren zu schützen**."
+          },
+          {
+            "text": "Um die Wirtschaft zu regulieren und Steuereinnahmen zu maximieren.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Obwohl **Wirtschaftsregulation und Steuereinnahmen** wichtige Aspekte sind, ist der primäre Zweck von Gesetzen laut Gespräch der **Schutz und die Freiheit der Bürger**."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was bedeutet das im Gespräch erwähnte 'Gleichgewicht zwischen individuellen Freiheiten und dem Wohlergehen aller'?</p>",
+        "options": [
+          {
+            "text": "Dass der Staat die individuellen Freiheiten immer über das Wohlergehen aller stellt.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Es geht gerade um ein **Gleichgewicht**, nicht um die **Priorisierung individueller Freiheiten** über alles andere."
+          },
+          {
+            "text": "Dass der Staat manchmal individuelle Freiheiten einschränken muss, um die Freiheit und das Wohlergehen aller zu gewährleisten.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Das **Gleichgewicht** bedeutet, dass **Einschränkungen** notwendig sein können, damit die **Freiheit der Mehrheit** nicht durch Einzelne gefährdet wird."
+          },
+          {
+            "text": "Dass das Wohlergehen aller immer wichtiger ist als die individuellen Freiheiten.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Es geht um ein **Gleichgewicht**, nicht um die **absolute Priorisierung des Wohlergehens** über die individuellen Freiheiten."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was ist das Hauptziel des Sozialstaates, wie im Gespräch beschrieben?</p>",
+        "options": [
+          {
+            "text": "Die vollständige Gleichheit aller Bürger in Bezug auf Einkommen und Vermögen zu erreichen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Sozialstaat zielt nicht auf **vollständige Gleichheit** in Einkommen und Vermögen ab, sondern auf **Chancengleichheit** und soziale Sicherheit."
+          },
+          {
+            "text": "Allen Bürgern die gleichen Chancen zu ermöglichen, sich zu bilden und gesund zu leben.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Der Sozialstaat soll **Chancengleichheit** in Bereichen wie **Bildung und Gesundheit** sicherstellen und **soziale Sicherheit** bieten."
+          },
+          {
+            "text": "Die Wirtschaft des Landes maximal zu fördern, unabhängig von sozialen Aspekten.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Sozialstaat berücksichtigt **soziale Aspekte** und zielt nicht nur auf **maximale Wirtschaftsförderung** ab."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum ist die Umsetzung von Staatsaufgaben laut Gespräch oft Gegenstand politischer Diskussionen?</p>",
+        "options": [
+          {
+            "text": "Weil es in der Bevölkerung kaum Interesse an Staatsaufgaben gibt.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das **Interesse der Bevölkerung** an Staatsaufgaben ist gross, aber die **Meinungen** über deren Umsetzung gehen auseinander."
+          },
+          {
+            "text": "Weil es unterschiedliche Meinungen darüber gibt, welche Prioritäten bei der Umsetzung gesetzt werden sollen.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! **Politische Diskussionen** entstehen, weil es verschiedene Ansichten darüber gibt, welche **Prioritäten** bei der Verwendung von Ressourcen gesetzt werden sollen (z.B. Militär vs. Sozialhilfe)."
+          },
+          {
+            "text": "Weil die Staatsaufgaben in der Bundesverfassung nicht klar definiert sind.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die **Staatsaufgaben** sind in der **Bundesverfassung** definiert, aber die **Umsetzung** und **Priorisierung** sind politisch umstritten."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Welche Möglichkeiten haben junge Leute laut Gespräch, um bei der Umsetzung von Staatsaufgaben mitzumischen und Einfluss zu nehmen?</p>",
+        "options": [
+          {
+            "text": "Nur durch Demonstrationen und Protestaktionen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. **Demonstrationen und Protestaktionen** sind eine Möglichkeit, aber es gibt auch andere, **konstruktivere** Wege der Beteiligung."
+          },
+          {
+            "text": "Durch Teilnahme an Wahlen und Abstimmungen, Engagement in sozialen Projekten und Online-Petitionen.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! **Wahlen, Abstimmungen, soziale Projekte und Online-Petitionen** werden als konkrete Beispiele für **Bürgerbeteiligung** genannt."
+          },
+          {
+            "text": "Gar keine, da politische Entscheidungen nur von gewählten Politikern getroffen werden.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. **Bürgerbeteiligung** ist ein wichtiger Bestandteil der Demokratie, und junge Leute haben durchaus **Einflussmöglichkeiten**."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Der Staat erlässt Gesetze, um die Stärkeren vor den Schwächeren zu schützen.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Falsch. Der Staat erlässt Gesetze, um die Schwächeren vor den Stärkeren zu schützen, wie im Gespräch erklärt wird.",
+        "feedback_incorrect": "Richtig. Der Staat hat die Aufgabe, die Schwächeren zu schützen, nicht die Stärkeren."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Die Bundesverfassung definiert fünf Hauptaufgaben des Staates.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Falsch. Die Bundesverfassung definiert vier Hauptaufgaben des Staates, nicht fünf.",
+        "feedback_incorrect": "Richtig. Es sind vier Hauptaufgaben, wie im Gespräch erwähnt."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Die AHV ist ein Beispiel für staatliche Bemühungen im Bereich der Chancengleichheit.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Falsch. Die AHV wird im Gespräch als Beispiel für staatliche Wohlfahrt und sozialen Schutz genannt, nicht primär für Chancengleichheit.",
+        "feedback_incorrect": "Richtig. Die AHV ist ein Beispiel für Wohlfahrt, während Chancengleichheit eher durch Bildungssystem und Stipendien gefördert wird."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Staatliche Eingriffe in die individuellen Freiheiten sind immer negativ und sollten vermieden werden.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Falsch. Staatliche Eingriffe können notwendig sein, um die Freiheit und das Wohlergehen aller zu gewährleisten, wie im Gespräch erläutert.",
+        "feedback_incorrect": "Richtig. Manchmal sind Einschränkungen notwendig, um die Freiheit der Mehrheit zu schützen."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Der Sozialstaat hat das Ziel, die wirtschaftliche Ungleichheit in der Gesellschaft vollständig zu beseitigen.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Falsch. Das Ziel des Sozialstaates ist es, Chancengleichheit und soziale Sicherheit zu fördern, nicht die wirtschaftliche Ungleichheit vollständig zu beseitigen.",
+        "feedback_incorrect": "Richtig. Der Sozialstaat fokussiert auf Chancengleichheit und soziale Sicherheit, nicht auf absolute wirtschaftliche Gleichheit."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Bürgerbeteiligung spielt keine wesentliche Rolle bei der Umsetzung von Staatsaufgaben.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Falsch. Bürgerbeteiligung ist entscheidend, um mitzubestimmen, wie Staatsaufgaben umgesetzt werden und welche Prioritäten gesetzt werden sollen.",
+        "feedback_incorrect": "Richtig. Bürgerbeteiligung ist wichtig, damit die Umsetzung der Staatsaufgaben den Bedürfnissen der Bevölkerung entspricht."
+      }
+    ]
+  }
