@@ -1,0 +1,145 @@
+{
+    "title": "Schweizer Staatsform und Demokratie",
+    "media": {
+      "type": "youtube",
+      "url": "https://www.youtube.com/embed/Od2Q98WoF70",
+      "source": "https://www.youtube.com/watch?v=Od2Q98WoF70"
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche drei Staatsformen wurden im Video erklärt?</p>",
+        "options": [
+          {
+            "text": "Bundesstaat, Einheitsstaat, Staatenbund",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Diese drei Staatsformen wurden besprochen und ihre Unterschiede erklärt."
+          },
+          {
+            "text": "Diktatur, Monarchie, Republik",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Diese Begriffe beschreiben Regierungsformen, nicht Staatsformen."
+          },
+          {
+            "text": "Föderalismus, Demokratie, Sozialstaat",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das sind keine Staatsformen, sondern andere politische Konzepte."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Warum wird die Schweiz als Bundesstaat bezeichnet?</p>",
+        "options": [
+          {
+            "text": "Weil sie aus mehreren Kantonen besteht, die eigene Souveränität haben.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die Schweiz besteht aus Kantonen, die teilweise eigenständig sind, aber auch Kompetenzen an den Bund abgeben."
+          },
+          {
+            "text": "Weil die Schweiz eine einzige zentrale Regierung hat.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das wäre ein Einheitsstaat, nicht ein Bundesstaat."
+          },
+          {
+            "text": "Weil die Schweiz Teil der UNO ist.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Zugehörigkeit zur UNO hat nichts mit der Staatsform der Schweiz zu tun."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was ist ein Einheitsstaat?</p>",
+        "options": [
+          {
+            "text": "Ein Staat mit einer zentralen Regierung, die alle Entscheidungen trifft.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! In einem Einheitsstaat gibt es keine eigenständigen Teilstaaten, sondern eine zentrale Regierung."
+          },
+          {
+            "text": "Ein Staat, der aus mehreren souveränen Staaten besteht.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das beschreibt eher einen Staatenbund."
+          },
+          {
+            "text": "Ein Staat, in dem alle Bürger direkt mitbestimmen können.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das beschreibt eine direkte Demokratie, aber nicht die Staatsform."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum wird der Föderalismus in der Schweiz manchmal als ineffizient angesehen?</p>",
+        "options": [
+          {
+            "text": "Weil Entscheidungen oft länger dauern, da viele Ebenen mitreden.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Durch die Mitbestimmung der Kantone und Gemeinden können Prozesse länger dauern."
+          },
+          {
+            "text": "Weil die zentrale Regierung alle Macht besitzt.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Gerade der Föderalismus sorgt dafür, dass nicht alle Macht zentralisiert ist."
+          },
+          {
+            "text": "Weil die Kantone keine eigenen Kompetenzen haben.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Im Gegenteil, die Kantone haben viele eigene Zuständigkeiten."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum wird die Schweiz als halbdirekte Demokratie bezeichnet?</p>",
+        "options": [
+          {
+            "text": "Weil das Volk durch Referenden und Initiativen direkt mitbestimmen kann.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Neben der parlamentarischen Gesetzgebung hat das Volk direkte Einflussmöglichkeiten."
+          },
+          {
+            "text": "Weil es in der Schweiz keine Wahlen gibt.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Es gibt regelmäßige Wahlen, aber zusätzlich auch direkte Mitsprachemöglichkeiten."
+          },
+          {
+            "text": "Weil das Parlament die Gesetze ohne Volksbeteiligung entscheidet.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. In der halbdirekten Demokratie kann das Volk über Referenden und Initiativen Gesetze beeinflussen."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>In einem Bundesstaat behalten die Teilstaaten keine eigenen Kompetenzen.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! In einem Bundesstaat behalten die Teilstaaten einige ihrer Kompetenzen und geben nur bestimmte an die zentrale Regierung ab.",
+        "feedback_incorrect": "Falsch. In einem Bundesstaat haben die Teilstaaten eigene Kompetenzen, wie es in der Schweiz bei den Kantonen der Fall ist."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Die Schweiz hat sich historisch von einem Staatenbund zu einem Bundesstaat entwickelt.</p>",
+        "correct_answer": true,
+        "feedback_correct": "Richtig! Die Schweiz war früher ein lockerer Staatenbund und wurde mit der Bundesverfassung von 1848 zu einem Bundesstaat.",
+        "feedback_incorrect": "Falsch. Die Schweiz war früher ein Staatenbund, bevor sie sich zu einem Bundesstaat entwickelte."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>In einer halbdirekten Demokratie entscheidet ausschließlich das Volk über Gesetze.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! In der halbdirekten Demokratie gibt es sowohl parlamentarische Gesetzgebung als auch Volksentscheide.",
+        "feedback_incorrect": "Falsch. In der halbdirekten Demokratie gibt es eine Mischung aus parlamentarischer Entscheidungsfindung und direkter Mitsprache des Volkes."
+      }
+    ]
+  }
+  
