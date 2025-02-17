@@ -1,0 +1,145 @@
+{
+    "title": "Gewaltenteilung in der Schweiz",
+    "media": {
+      "type": "youtube",
+      "url": "https://www.youtube.com/embed/Hu7gGTVcnWw",
+      "source": "https://www.youtube.com/watch?v=Hu7gGTVcnWw"
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Aus welchen beiden Kammern besteht das Schweizer Parlament?</p>",
+        "options": [
+          {
+            "text": "Nationalrat und Ständerat",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Das Schweizer Parlament setzt sich aus Nationalrat und Ständerat zusammen."
+          },
+          {
+            "text": "Bundesrat und Nationalrat",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Bundesrat gehört zur Exekutive, nicht zum Parlament."
+          },
+          {
+            "text": "Nationalrat und Bundesgericht",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das Bundesgericht gehört zur Judikative, nicht zur Legislative."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Hauptaufgabe hat das Parlament?</p>",
+        "options": [
+          {
+            "text": "Gesetzgebung",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die wichtigste Aufgabe des Parlaments ist die Gesetzgebung."
+          },
+          {
+            "text": "Durchsetzung der Gesetze",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Durchsetzung der Gesetze ist Aufgabe des Bundesrats (Exekutive)."
+          },
+          {
+            "text": "Gerichtsentscheidungen treffen",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Gerichtsentscheidungen fallen in den Bereich der Judikative, also des Bundesgerichts."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Institution wählt die Mitglieder des Bundesrats?</p>",
+        "options": [
+          {
+            "text": "Vereinigte Bundesversammlung",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die Vereinigte Bundesversammlung wählt den Bundesrat."
+          },
+          {
+            "text": "Nationalrat",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Nationalrat allein kann den Bundesrat nicht wählen."
+          },
+          {
+            "text": "Ständerat",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Ständerat allein kann den Bundesrat nicht wählen."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum ist es wichtig, dass sowohl der Nationalrat als auch der Ständerat an der Gesetzgebung beteiligt sind?</p>",
+        "options": [
+          {
+            "text": "Damit sowohl die Bevölkerung als auch die Kantone vertreten sind.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Der Nationalrat vertritt das Volk, während der Ständerat die Kantone repräsentiert."
+          },
+          {
+            "text": "Damit Gesetze schneller beschlossen werden können.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Tatsächlich kann der Prozess dadurch länger dauern, aber er sorgt für eine ausgewogene Gesetzgebung."
+          },
+          {
+            "text": "Weil beide Kammern unterschiedliche Gesetze machen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Beide Kammern arbeiten gemeinsam an denselben Gesetzen."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Welche Aufgabe haben parlamentarische Kommissionen?</p>",
+        "options": [
+          {
+            "text": "Sie bereiten Geschäfte der Räte vor.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Kommissionen bearbeiten Themen detailliert und bereiten sie für die Räte vor."
+          },
+          {
+            "text": "Sie entscheiden über Gesetze.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die endgültige Entscheidung über Gesetze liegt bei den Räten, nicht bei den Kommissionen."
+          },
+          {
+            "text": "Sie führen Gesetze aus.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Exekutive (Bundesrat) ist für die Umsetzung von Gesetzen zuständig."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Der Bundesrat besteht aus sieben Mitgliedern.</p>",
+        "correct_answer": true,
+        "feedback_correct": "Richtig! Der Bundesrat hat sieben Mitglieder, die je ein Departement leiten.",
+        "feedback_incorrect": "Falsch. Der Bundesrat besteht aus sieben Mitgliedern, nicht mehr oder weniger."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Der Bundespräsident hat mehr Macht als die anderen Bundesratsmitglieder.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Der Bundespräsident ist nur primus inter pares (Erster unter Gleichen) und hat keine zusätzlichen Befugnisse.",
+        "feedback_incorrect": "Falsch. Der Bundespräsident hat keine zusätzliche Macht gegenüber den anderen Bundesratsmitgliedern."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Das Bundesgericht entscheidet nur über Strafsachen.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Das Bundesgericht ist für alle Rechtsbereiche zuständig, nicht nur für Strafsachen.",
+        "feedback_incorrect": "Falsch. Das Bundesgericht behandelt nicht nur Strafsachen, sondern alle Arten von Rechtsstreitigkeiten."
+      }
+    ]
+  }
+  
