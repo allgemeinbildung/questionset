@@ -8,140 +8,140 @@
   },
   "questions": [
     {
-      "correct_sentence": "Ein Budget hilft, die eigenen Geldmittel gezielt einzusetzen, indem es einen Überblick über Einnahmen und Ausgaben verschafft.",
+      "correct_sentence": "Ein Budget hilft, die eigenen **Geldmittel** gezielt einzusetzen, indem es einen Überblick über Einnahmen und Ausgaben verschafft.",
       "wrong_alternatives": [
         "Ein Budget dient dazu, möglichst viel Geld auszugeben, ohne auf die Einnahmen zu achten.",
         "Ein Budget ist unnötig, solange man genügend Geld auf dem Konto hat."
       ]
     },
     {
-      "correct_sentence": "Ehrlichkeit und Disziplin sind Grundvoraussetzungen für eine erfolgreiche Budgeterstellung und -führung.",
+      "correct_sentence": "**Ehrlichkeit** und **Disziplin** sind Grundvoraussetzungen für eine erfolgreiche Budgeterstellung und -führung.",
       "wrong_alternatives": [
         "Für ein Budget benötigt man vor allem finanzielle Vorkenntnisse und komplizierte Software.",
         "Ein Budget funktioniert auch ohne Ehrlichkeit, solange man die Zahlen schön darstellt."
       ]
     },
     {
-      "correct_sentence": "Bei der Budgeterstellung werden zuerst die Einnahmen und dann die festen und veränderlichen Kosten notiert.",
+      "correct_sentence": "Bei der Budgeterstellung werden zuerst die **Einnahmen** und dann die **festen** und **veränderlichen Kosten** notiert.",
       "wrong_alternatives": [
         "Zuerst notiert man die variablen Kosten, dann die Einnahmen und am Schluss die fixen Kosten.",
         "Die Reihenfolge der Budgetposten spielt keine Rolle, Hauptsache, man notiert alles."
       ]
     },
     {
-      "correct_sentence": "Fixe Kosten, wie Mietzins und Krankenkasse, bleiben in der Regel gleich und sind schwer beeinflussbar.",
+      "correct_sentence": "**Fixe Kosten**, wie Mietzins und Krankenkasse, bleiben in der Regel gleich und sind schwer beeinflussbar.",
       "wrong_alternatives": [
         "Fixe Kosten sind monatlich unterschiedlich und können leicht reduziert werden.",
         "Fixe Kosten fallen nur einmal im Jahr an und sind daher im Budget unwichtig."
       ]
     },
     {
-      "correct_sentence": "Variable Kosten, wie Ausgaben für Essen und Freizeit, können durch persönliche Verhaltensänderungen beeinflusst werden.",
+      "correct_sentence": "**Variable Kosten**, wie Ausgaben für Essen und Freizeit, können durch persönliche Verhaltensänderungen beeinflusst werden.",
       "wrong_alternatives": [
         "Variable Kosten sind festgelegt und können nicht durch das eigene Verhalten geändert werden.",
         "Variable Kosten sind immer höher als fixe Kosten und daher nicht relevant für die Budgetplanung."
       ]
     },
     {
-      "correct_sentence": "Ohne Kontrolle ist ein Budget nutzlos, da die Ausgaben regelmässig mit dem Budget verglichen werden müssen.",
+      "correct_sentence": "Ohne **Kontrolle** ist ein Budget nutzlos, da die Ausgaben regelmässig mit dem Budget verglichen werden müssen.",
       "wrong_alternatives": [
         "Ein Budget ist auch ohne Kontrolle nützlich, da es eine grobe Richtung für die Finanzen vorgibt.",
         "Die Kontrolle des Budgets ist nur am Anfang wichtig, später läuft alles automatisch."
       ]
     },
     {
-      "correct_sentence": "Ein Budget hilft, eine Schuldenspirale zu vermeiden, indem es frühzeitig aufzeigt, wenn die Ausgaben die Einnahmen übersteigen.",
+      "correct_sentence": "Ein Budget hilft, eine **Schuldenspirale** zu vermeiden, indem es frühzeitig aufzeigt, wenn die Ausgaben die Einnahmen übersteigen.",
       "wrong_alternatives": [
         "Ein Budget kann eine Schuldenspirale nicht verhindern, sondern nur verzögern.",
         "Eine Schuldenspirale ist nur ein Problem für ältere Menschen, Jugendliche sind davon nicht betroffen."
       ]
     },
     {
-      "correct_sentence": "Wenn die Finanzsituation angespannt ist, sollte man zuerst einen Überblick verschaffen und dann ein Budget erstellen.",
+      "correct_sentence": "Wenn die **Finanzsituation** angespannt ist, sollte man zuerst einen Überblick verschaffen und dann ein Budget erstellen.",
       "wrong_alternatives": [
         "Bei finanziellen Problemen sollte man sofort einen neuen Kredit aufnehmen, um liquide zu bleiben.",
         "In einer angespannten Finanzsituation ist es am besten, die Situation zu ignorieren und auf bessere Zeiten zu hoffen."
       ]
     },
     {
-      "correct_sentence": "Ein Budget ist individuell zu erstellen, da jeder Mensch unterschiedliche Bedürfnisse und finanzielle Verhältnisse hat.",
+      "correct_sentence": "Ein Budget ist **individuell** zu erstellen, da jeder Mensch unterschiedliche Bedürfnisse und finanzielle Verhältnisse hat.",
       "wrong_alternatives": [
         "Es gibt Standardbudgets, die für alle Menschen gleichermassen gut geeignet sind.",
         "Ein Budget muss nur von Fachleuten erstellt werden, Laien können das nicht."
       ]
     },
     {
-      "correct_sentence": "Zu den Einnahmen im Budget gehören beispielsweise Nettolohn, Alimente und Geldgeschenke.",
+      "correct_sentence": "Zu den **Einnahmen** im Budget gehören beispielsweise Nettolohn, Alimente und Geldgeschenke.",
       "wrong_alternatives": [
         "Zu den Einnahmen im Budget zählen nur der Nettolohn, alle anderen Einkünfte sind irrelevant.",
         "Geldgeschenke und Alimente sind keine richtigen Einnahmen und gehören nicht ins Budget."
       ]
     },
     {
-      "correct_sentence": "Ausgaben im Budget werden in fixe Kosten, variable Kosten und Rückstellungen unterteilt.",
+      "correct_sentence": "**Ausgaben** im Budget werden in fixe Kosten, variable Kosten und Rückstellungen unterteilt.",
       "wrong_alternatives": [
         "Ausgaben im Budget werden nur in fixe und variable Kosten unterteilt, Rückstellungen sind unnötig.",
         "Die Einteilung der Ausgaben in verschiedene Kategorien ist kompliziert und bringt keinen Vorteil."
       ]
     },
     {
-      "correct_sentence": "Rückstellungen im Budget sind wichtig, um unerwartete oder unregelmässige Ausgaben wie Zahnarzt oder Ferien zu planen.",
+      "correct_sentence": "**Rückstellungen** im Budget sind wichtig, um unerwartete oder unregelmässige Ausgaben wie Zahnarzt oder Ferien zu planen.",
       "wrong_alternatives": [
         "Rückstellungen sind unnötig, da unerwartete Ausgaben sowieso nicht planbar sind.",
         "Rückstellungen machen das Budget unnötig kompliziert und sollten vermieden werden."
       ]
     },
     {
-      "correct_sentence": "Ein Budget hilft, Prioritäten bei den Ausgaben zu setzen und bewusste finanzielle Entscheidungen zu treffen.",
+      "correct_sentence": "Ein Budget hilft, **Prioritäten** bei den Ausgaben zu setzen und bewusste finanzielle Entscheidungen zu treffen.",
       "wrong_alternatives": [
         "Ein Budget schränkt die persönliche Freiheit ein und verhindert spontane Ausgaben.",
         "Mit einem Budget muss man auf alle schönen Dinge im Leben verzichten und nur noch sparen."
       ]
     },
     {
-      "correct_sentence": "Durch den monatlichen Budgetvergleich erkennt man, ob man im Rahmen des Budgets geblieben ist oder Anpassungen nötig sind.",
+      "correct_sentence": "Durch den monatlichen **Budgetvergleich** erkennt man, ob man im Rahmen des Budgets geblieben ist oder Anpassungen nötig sind.",
       "wrong_alternatives": [
         "Der Budgetvergleich ist nur Zeitverschwendung, da sich die finanzielle Situation sowieso ständig ändert.",
         "Ein Budget muss nur einmal im Jahr erstellt werden, monatliche Vergleiche sind übertrieben."
       ]
     },
     {
-      "correct_sentence": "Bei Schuldenproblemen ist es ratsam, sich frühzeitig an Beratungsstellen wie budgetberatung.ch oder schulden.ch zu wenden.",
+      "correct_sentence": "Bei **Schuldenproblemen** ist es ratsam, sich frühzeitig an Beratungsstellen wie budgetberatung.ch oder schulden.ch zu wenden.",
       "wrong_alternatives": [
         "Schuldenberatungsstellen sind teuer und bringen meistens auch keine Lösung.",
         "Schuldenprobleme sollte man am besten mit Freunden oder Familie besprechen, professionelle Hilfe ist unnötig."
       ]
     },
     {
-      "correct_sentence": "Die Merkpunkte der Budgeterstellung umfassen Realismus, individuelle Anpassung und die Berücksichtigung eigener Zahlen.",
+      "correct_sentence": "Die **Merkpunkte der Budgeterstellung** umfassen Realismus, individuelle Anpassung und die Berücksichtigung eigener Zahlen.",
       "wrong_alternatives": [
         "Die wichtigsten Merkpunkte der Budgeterstellung sind Optimismus und das Setzen unrealistisch hoher Sparziele.",
         "Für die Budgeterstellung sollte man sich an Vorlagen aus dem Internet halten und diese nicht individuell anpassen."
       ]
     },
     {
-      "correct_sentence": "Ein Budget dient nicht nur der Kontrolle, sondern auch der Planung zukünftiger finanzieller Ziele, wie Sparen oder grössere Anschaffungen.",
+      "correct_sentence": "Ein Budget dient nicht nur der **Kontrolle**, sondern auch der **Planung** zukünftiger finanzieller Ziele, wie Sparen oder grössere Anschaffungen.",
       "wrong_alternatives": [
         "Ein Budget ist nur zur kurzfristigen Ausgabenkontrolle gedacht, für langfristige Ziele ist es ungeeignet.",
         "Mit einem Budget kann man keine finanziellen Ziele erreichen, da es nur die aktuelle Situation abbildet."
       ]
     },
     {
-      "correct_sentence": "Durch ein Budget lernt man, verantwortungsbewusst mit Geld umzugehen und finanzielle Selbstständigkeit zu entwickeln.",
+      "correct_sentence": "Durch ein Budget lernt man, **verantwortungsbewusst** mit Geld umzugehen und finanzielle **Selbstständigkeit** zu entwickeln.",
       "wrong_alternatives": [
         "Ein Budget macht unfrei und hindert daran, das Leben in vollen Zügen zu geniessen.",
         "Finanzielle Selbstständigkeit erreicht man am besten ohne Budget, indem man einfach risikobereit investiert."
       ]
     },
     {
-      "correct_sentence": "Die Liste der möglichen Budgetpositionen für Lernende auf Seite 49 bietet eine gute Grundlage für die eigene Budgeterstellung.",
+      "correct_sentence": "Die **Liste der möglichen Budgetpositionen** für Lernende auf Seite 49 bietet eine gute Grundlage für die eigene Budgeterstellung.",
       "wrong_alternatives": [
         "Die Budgetpositionen auf Seite 49 sind veraltet und nicht mehr relevant für heutige Jugendliche.",
         "Man sollte sich nicht an vorgegebenen Listen orientieren, sondern das Budget komplett frei gestalten."
       ]
     },
     {
-      "correct_sentence": "Ein gut geführtes Budget ist ein wichtiges Werkzeug für ein sorgenfreieres und finanziell stabileres Leben.",
+      "correct_sentence": "Ein gut geführtes Budget ist ein **wichtiges Werkzeug** für ein **sorgenfreieres** und **finanziell stabileres Leben**.",
       "wrong_alternatives": [
         "Ein Budget ist nur etwas für Leute, die ständig finanzielle Sorgen haben, für alle anderen ist es überflüssig.",
         "Ein Budget garantiert keinen finanziellen Erfolg und ist daher eine unnötige Belastung."

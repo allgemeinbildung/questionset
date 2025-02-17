@@ -1,0 +1,546 @@
+{
+  "title": "Verständnisfragen Zahlungsarten",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden Zahlungsarten ist im Detailhandel in der Schweiz noch immer die meistgenutzte?</p>",
+      "options": [
+        {
+          "text": "Debitkarte",
+          "is_correct": false,
+          "feedback": "❌ Nicht ganz. Debitkarten sind zwar verbreitet, aber **Barzahlung** ist laut Text noch häufiger im Detailhandel."
+        },
+        {
+          "text": "Kreditkarte",
+          "is_correct": false,
+          "feedback": "❌ Kreditkarten werden häufiger, sind aber nicht die **meistgenutzte** im Detailhandel."
+        },
+        {
+          "text": "Barzahlung",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Text sagt, dass **Barzahlung** noch immer die **meistgenutzte Zahlungsmöglichkeit** im Detailhandel ist."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Kartenart belastet das Bankkonto des Kunden fortlaufend und direkt bei jeder Transaktion?</p>",
+      "options": [
+        {
+          "text": "Kreditkarte",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bei der **Kreditkarte** erfolgt die Belastung **nicht fortlaufend**, sondern meist gesammelt am Monatsende."
+        },
+        {
+          "text": "Debitkarte",
+          "is_correct": true,
+          "feedback": "✅ Genau! **Debitkarten** belasten das Konto **laufend** und **direkt** bei jeder Zahlung oder Bargeldbezug."
+        },
+        {
+          "text": "Prepaid-Kreditkarte",
+          "is_correct": false,
+          "feedback": "❌ Prepaid-Kreditkarten funktionieren auf Guthabenbasis, aber der Text bezieht sich hier primär auf den Unterschied zwischen **Debit- und klassischer Kreditkarte**."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der genannten Online-Zahlungssysteme ist eine Schweizer Branchenlösung der Banken und primär in der Schweiz einsetzbar?</p>",
+      "options": [
+        {
+          "text": "PayPal",
+          "is_correct": false,
+          "feedback": "❌ PayPal ist ein **internationaler** Zahlungsdienstleister, aber keine Schweizer Branchenlösung."
+        },
+        {
+          "text": "Twint",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Twint** ist eine **Schweizer Branchenlösung** der Banken und primär für den Einsatz in der Schweiz gedacht."
+        },
+        {
+          "text": "Apple Pay",
+          "is_correct": false,
+          "feedback": "❌ Apple Pay ist ein **weltweit** einsetzbares System und keine spezifisch schweizerische Lösung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Bis zu welchem Betrag ist in der Regel das kontaktlose Bezahlen mit Kreditkarte ohne PIN-Eingabe möglich?</p>",
+      "options": [
+        {
+          "text": "Fr. 50.–",
+          "is_correct": false,
+          "feedback": "❌ Nein, der Betrag ist etwas höher."
+        },
+        {
+          "text": "Fr. 80.–",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! Beim kontaktlosen Zahlen ist bis zu einem Betrag von **Fr. 80.–** meist keine PIN-Eingabe nötig."
+        },
+        {
+          "text": "Fr. 100.–",
+          "is_correct": false,
+          "feedback": "❌ Dieser Betrag ist zu hoch. Die Grenze liegt tiefer."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Information wird primär für die Einrichtung eines PayPal-Kontos benötigt?</p>",
+      "options": [
+        {
+          "text": "Bankkontonummer",
+          "is_correct": false,
+          "feedback": "❌ Die **Bankkontonummer** wird später für die Verknüpfung benötigt, aber nicht primär für die Einrichtung."
+        },
+        {
+          "text": "Kreditkartennummer",
+          "is_correct": false,
+          "feedback": "❌ Ähnlich wie bei der Bankkontonummer, die **Kreditkartennummer** ist nicht die primäre Information zur Kontoeröffnung."
+        },
+        {
+          "text": "E-Mail-Adresse",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Für ein PayPal-Konto wird in erster Linie die **E-Mail-Adresse** des Nutzers benötigt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Karten müssen in der Regel in einer App hinterlegt werden, um Bezahldienste wie Apple Pay, Samsung Pay oder Google Pay nutzen zu können?</p>",
+      "options": [
+        {
+          "text": "Debitkarten oder Postkarten",
+          "is_correct": false,
+          "feedback": "❌ **Debitkarten** sind möglich, aber es gibt noch eine andere, wichtigere Kartenart."
+        },
+        {
+          "text": "Kredit- oder Prepaidkarten",
+          "is_correct": true,
+          "feedback": "✅ Genau! Für Apple Pay, Samsung Pay und Google Pay benötigt man meist eine **Kredit- oder Prepaidkarte**, die in der App hinterlegt wird."
+        },
+        {
+          "text": "Kundenkarten",
+          "is_correct": false,
+          "feedback": "❌ **Kundenkarten** sind in der Regel nicht für diese Bezahldienste vorgesehen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Gebühr wird im Text für Bargeldbezüge im Ausland mit Debitkarten genannt (ungefähre Angabe)?</p>",
+      "options": [
+        {
+          "text": "Ca. Fr. 2.– pro Bezug",
+          "is_correct": false,
+          "feedback": "❌ Die Gebühr ist etwas höher."
+        },
+        {
+          "text": "Ca. Fr. 5.– pro Bezug",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Im Text werden **Fr. 5.– pro Bargeldbezug** im Ausland für Debitkarten genannt."
+        },
+        {
+          "text": "Ca. Fr. 10.– pro Bezug",
+          "is_correct": false,
+          "feedback": "❌ Diese Gebühr ist eher für andere Karten oder spezielle Fälle zutreffend."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden Karten hat typischerweise keine direkte Verbindung zu einem Bankkonto, sondern wird mit Guthaben aufgeladen?</p>",
+      "options": [
+        {
+          "text": "Debitkarte",
+          "is_correct": false,
+          "feedback": "❌ **Debitkarten** sind **direkt** mit einem Bankkonto verbunden."
+        },
+        {
+          "text": "Kreditkarte",
+          "is_correct": false,
+          "feedback": "❌ **Kreditkarten** sind zwar nicht direkt mit dem Konto verbunden im Sinne von sofortiger Abbuchung, aber auch keine reinen Guthabenkarten."
+        },
+        {
+          "text": "Travel-Prepaid-Karte",
+          "is_correct": true,
+          "feedback": "✅ Genau! **Travel-Prepaid-Karten** sind **aufladbare Guthabenkarten** und haben keine direkte Bankkontoverbindung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum werden bargeldlose Zahlungsmethoden im Vergleich zur Barzahlung immer häufiger verwendet?</p>",
+      "options": [
+        {
+          "text": "Weil sie generell kostengünstiger für die Kunden sind.",
+          "is_correct": false,
+          "feedback": "❌ Nicht immer. Bargeldlose Zahlungen können auch **Gebühren** verursachen, z.B. bei Kreditkarten oder Bargeldbezügen im Ausland."
+        },
+        {
+          "text": "Weil sie je nach Situation und Einsatzbereich Vorteile gegenüber Bargeld bieten können.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Situationsabhängige Vorteile** wie **Bequemlichkeit, Schnelligkeit, Online-Einsatz** sind Hauptgründe für die zunehmende Nutzung."
+        },
+        {
+          "text": "Weil der Gesetzgeber die Barzahlung zunehmend einschränkt.",
+          "is_correct": false,
+          "feedback": "❌ Es gibt **keine generelle Einschränkung** der Barzahlung durch den Gesetzgeber im Text."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Hauptunterschied in Bezug auf die Kontobelastung zwischen einer Debitkarte und einer Kreditkarte?</p>",
+      "options": [
+        {
+          "text": "Debitkarten belasten das Konto erst am Monatsende, Kreditkarten direkt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch herum. Es ist **genau umgekehrt**."
+        },
+        {
+          "text": "Debitkarten belasten das Konto direkt, Kreditkarten gewähren einen Kredit und belasten später.",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! **Debitkarten** buchen **direkt** ab, während **Kreditkarten** einen **Kredit** gewähren und später abrechnen."
+        },
+        {
+          "text": "Es gibt keinen wesentlichen Unterschied in der Kontobelastung.",
+          "is_correct": false,
+          "feedback": "❌ Es gibt einen **deutlichen Unterschied** in der Art und Weise, wie und wann das Konto belastet wird."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen wesentlichen Vorteil bieten Travel-Prepaid-Karten im Vergleich zu Debit- oder Kreditkarten?</p>",
+      "options": [
+        {
+          "text": "Sie sind weltweit gebührenfrei einsetzbar.",
+          "is_correct": false,
+          "feedback": "❌ **Gebühren** können auch bei Travel-Prepaid-Karten anfallen, z.B. für Bargeldbezüge."
+        },
+        {
+          "text": "Sie haben keine direkte Verbindung zu einem Bankkonto, was das Risiko bei Missbrauch begrenzt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die **fehlende direkte Bankkontoverbindung** ist ein wesentlicher **Sicherheitsvorteil**."
+        },
+        {
+          "text": "Sie bieten höhere Rabatte und Bonusprogramme.",
+          "is_correct": false,
+          "feedback": "❌ **Bonusprogramme** sind eher typisch für **Kreditkarten**, nicht für Prepaid-Karten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welcher Nachteil ist typisch für Kundenkarten, der im Text besonders hervorgehoben wird?</p>",
+      "options": [
+        {
+          "text": "Hohe Jahresgebühren",
+          "is_correct": false,
+          "feedback": "❌ **Jahresgebühren** sind bei Kundenkarten **nicht der Hauptnachteil**."
+        },
+        {
+          "text": "Die Preisgabe von persönlichen Daten im Verhältnis zu den geringen Rabatten.",
+          "is_correct": true,
+          "feedback": "✅ Genau! Der Text kritisiert, dass die **Preisnachlässe** oft **bescheiden** sind im Vergleich zur **Datenmenge**, die Kunden preisgeben."
+        },
+        {
+          "text": "Eingeschränkte Akzeptanzstellen",
+          "is_correct": false,
+          "feedback": "❌ **Akzeptanzstellen** sind bei Kundenkarten **nicht das Hauptproblem**, da sie meist im eigenen Geschäft genutzt werden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist die Nutzung von PayPal für Käuferinnen und Käufer in der Regel kostenlos?</p>",
+      "options": [
+        {
+          "text": "Weil PayPal eine gemeinnützige Organisation ist.",
+          "is_correct": false,
+          "feedback": "❌ **PayPal** ist ein **gewinnorientiertes Unternehmen**, keine gemeinnützige Organisation."
+        },
+        {
+          "text": "Weil PayPal als Dienstleister für den Geldtransfer Gebühren von den Verkäufern erhebt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **PayPal finanziert sich durch Gebühren**, die **hauptsächlich von den Verkäufern** getragen werden."
+        },
+        {
+          "text": "Weil die Kosten durch staatliche Subventionen gedeckt werden.",
+          "is_correct": false,
+          "feedback": "❌ **Staatliche Subventionen** spielen **keine Rolle** bei der Finanzierung von PayPal."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen Vorteil bieten Apple Pay, Samsung Pay und Google Pay im Vergleich zu Twint?</p>",
+      "options": [
+        {
+          "text": "Sie sind in der Regel günstiger in der Nutzung.",
+          "is_correct": false,
+          "feedback": "❌ **Kosten** sind **nicht der Hauptunterschied** und Twint kann in der Schweiz sogar günstiger sein."
+        },
+        {
+          "text": "Sie sind weltweit als Zahlungsmittel einsetzbar.",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! **Weltweite Einsetzbarkeit** ist ein **entscheidender Vorteil** von Apple Pay, Samsung Pay und Google Pay gegenüber dem schweiz-spezifischen Twint."
+        },
+        {
+          "text": "Sie bieten eine bessere Kontrolle über die Ausgaben.",
+          "is_correct": false,
+          "feedback": "❌ **Ausgabenkontrolle** ist **kein spezifischer Vorteil** dieser Systeme im Vergleich zu Twint."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet der Begriff „kontaktloses Zahlen“ im Zusammenhang mit Kreditkarten konkret?</p>",
+      "options": [
+        {
+          "text": "Dass man beim Bezahlen keinen physischen Kontakt zum Kassenpersonal hat.",
+          "is_correct": false,
+          "feedback": "❌ **Physischer Kontakt zum Personal** ist **nicht der entscheidende Punkt**."
+        },
+        {
+          "text": "Dass man die Kreditkarte nicht in das Zahlterminal einschieben oder den PIN-Code eingeben muss (bis zu einem bestimmten Betrag).",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Nicht einschieben** und **keine PIN-Eingabe** bis Fr. 80.– sind die Merkmale des kontaktlosen Zahlens."
+        },
+        {
+          "text": "Dass die Zahlung komplett anonym und ohne Rückverfolgung erfolgt.",
+          "is_correct": false,
+          "feedback": "❌ **Anonymität** ist **nicht gegeben**, da die Transaktionen weiterhin registriert werden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welches Hauptziel verfolgt der Finanzplatz Schweiz mit der Digitalisierung des Zahlungsverkehrs durch QR-Rechnung und eBill?</p>",
+      "options": [
+        {
+          "text": "Die Abschaffung des Bargelds in der Schweiz.",
+          "is_correct": false,
+          "feedback": "❌ **Abschaffung des Bargelds** ist **nicht das primäre Ziel** der Digitalisierung."
+        },
+        {
+          "text": "Die Erhöhung der Effizienz, die Einhaltung von Sicherheitsbestimmungen (Compliance) und die Unterstützung von Automatisierungsprozessen.",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! **Effizienzsteigerung, Compliance und Automatisierung** sind die Hauptziele der Digitalisierung im Zahlungsverkehr."
+        },
+        {
+          "text": "Die Senkung der Gebühren für alle Zahlungsarten.",
+          "is_correct": false,
+          "feedback": "❌ **Gebührensenkung** ist **nicht das Hauptziel**, auch wenn Digitalisierung langfristig Kosten senken kann."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden bargeldlosen Zahlungsmethoden wird im Text NICHT explizit genannt?</p>",
+      "options": [
+        {
+          "text": "Rechnung",
+          "is_correct": false,
+          "feedback": "❌ Die **Rechnung** wird als bargeldlose Zahlungsmethode im Überblick genannt."
+        },
+        {
+          "text": "Kryptowährung",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Kryptowährungen** wie Bitcoin werden im Text **nicht erwähnt**."
+        },
+        {
+          "text": "Online-Zahlung",
+          "is_correct": false,
+          "feedback": "❌ **Online-Zahlung** ist eine der Hauptkategorien bargeldloser Zahlungen im Text."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Aussage zu Kundenkarten ist FALSCH?</p>",
+      "options": [
+        {
+          "text": "Kundenkarten können Rabatte und spezielle Aktionen bieten.",
+          "is_correct": false,
+          "feedback": "❌ Diese Aussage ist **RICHTIG**. Kundenkarten bieten oft Rabatte."
+        },
+        {
+          "text": "Kundenkarten lohnen sich für fast alle Kunden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Diese Aussage ist **FALSCH**. Der Text sagt, nur **ganz wenige** Kundenkarten lohnen sich."
+        },
+        {
+          "text": "Mit Kundenkarten geben Kunden Daten über ihr Konsumverhalten preis.",
+          "is_correct": false,
+          "feedback": "❌ Diese Aussage ist **RICHTIG**. Die **Datenpreisgabe** ist ein Nachteil von Kundenkarten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Aussage zu Travel-Prepaid-Karten ist RICHTIG?</p>",
+      "options": [
+        {
+          "text": "Für Travel-Prepaid-Karten fällt immer eine Jahresgebühr an.",
+          "is_correct": false,
+          "feedback": "❌ Diese Aussage ist **FALSCH**. Travel-Prepaid-Karten haben **keine Jahresgebühr**."
+        },
+        {
+          "text": "Bei Verlust oder Diebstahl wird die Travel-Prepaid-Karte inklusive Restwert ersetzt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Ersatz bei Verlust oder Diebstahl** inklusive Restwert ist ein Vorteil der Travel-Prepaid-Karte."
+        },
+        {
+          "text": "Travel-Prepaid-Karten sind immer direkt mit einem Bankkonto verbunden.",
+          "is_correct": false,
+          "feedback": "❌ Diese Aussage ist **FALSCH**. Travel-Prepaid-Karten haben **keine direkte Verbindung** zum Bankkonto."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Aussage zu Smartphone-Zahlungen (Apple Pay/Samsung Pay/Google Pay) ist FALSCH?</p>",
+      "options": [
+        {
+          "text": "Smartphone-Zahlungen sind weltweit einsetzbar.",
+          "is_correct": false,
+          "feedback": "❌ Diese Aussage ist **RICHTIG**. Apple Pay/Samsung Pay/Google Pay sind **weltweit** einsetzbar."
+        },
+        {
+          "text": "Smartphone-Zahlungen funktionieren auch bei leerem Akku.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Diese Aussage ist **FALSCH**. **Leerer Akku** ist ein Nachteil von Smartphone-Zahlungen."
+        },
+        {
+          "text": "Für Smartphone-Zahlungen benötigt man eine Kredit- oder Prepaidkarte.",
+          "is_correct": false,
+          "feedback": "❌ Diese Aussage ist **RICHTIG**. Eine **Kredit- oder Prepaidkarte** muss in der App hinterlegt sein."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Barzahlung ist im Detailhandel heutzutage kaum noch möglich.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Barzahlung ist im Detailhandel nach wie vor weit verbreitet und praktisch überall möglich.",
+      "feedback_incorrect": "Richtig. Barzahlung ist im Detailhandel nach wie vor die meistgenutzte Zahlungsmöglichkeit."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Mit einer Debitkarte kann man im In- und Ausland Bargeld beziehen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Debitkarten ermöglichen Bargeldbezüge rund um die Uhr im In- und Ausland.",
+      "feedback_incorrect": "Falsch. Debitkarten sind für Bargeldbezüge im In- und Ausland nutzbar."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Kreditkarten sind immer mit einer jährlichen Gebühr verbunden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Zunehmend sind Kreditkarten auch gratis erhältlich, z.B. bei Migros oder Coop.",
+      "feedback_incorrect": "Richtig. Es gibt auch Kreditkarten, die kostenlos angeboten werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Twint ist ein weltweit einsetzbares Zahlungsmittel.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Twint ist eine Schweizer Branchenlösung und somit im Ausland nicht einsetzbar.",
+      "feedback_incorrect": "Richtig. Twint ist primär für den Schweizer Markt konzipiert."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Für Bargeldbezüge im Inland mit Debitkarte fallen immer Gebühren an.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Gebühren für Bargeldbezüge im Inland mit Debitkarte sind abhängig vom Anbieter und nicht immer gegeben.",
+      "feedback_incorrect": "Richtig. Die Gebühren sind nicht pauschal und hängen vom jeweiligen Anbieter ab."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Beim kontaktlosen Zahlen mit Kreditkarte ist immer eine PIN-Eingabe erforderlich.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Beim kontaktlosen Zahlen ist bis zu einem Betrag von Fr. 80.– keine PIN-Eingabe notwendig.",
+      "feedback_incorrect": "Richtig. Bis zu einem bestimmten Betrag entfällt die PIN-Eingabe beim kontaktlosen Bezahlen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Bargeldloses Bezahlen ist grundsätzlich sicherer als Barzahlung, da man kein Bargeld verlieren kann.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Bargeldloses Bezahlen birgt andere Sicherheitsrisiken, wie z.B. Missbrauch bei Verlust der Karte oder des Smartphones.",
+      "feedback_incorrect": "Richtig. Bargeldlose Zahlungsmittel haben eigene Sicherheitsrisiken, die nicht unterschätzt werden sollten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine Kreditkarte ist immer die günstigste Option für Zahlungen im Ausland, da Fremdwährungsgebühren entfallen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Kreditkarten erheben oft Fremdwährungsgebühren und Bearbeitungsgebühren, die Zahlungen im Ausland verteuern können.",
+      "feedback_incorrect": "Richtig. Bei Kreditkartenzahlungen im Ausland können zusätzliche Kosten durch Gebühren entstehen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Mit Twint kann man nur an Ladenkassen bezahlen, aber keine Geldtransaktionen an Privatpersonen durchführen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Twint ermöglicht auch Transaktionen mit anderen Twint-Nutzern, z.B. für Geldüberweisungen unter Freunden.",
+      "feedback_incorrect": "Richtig. Twint ist vielseitiger und ermöglicht auch private Geldtransaktionen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Kundenkarten sind für die meisten Kunden finanziell lohnenswert, da die Rabatte die Nachteile überwiegen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Der Text deutet an, dass sich Kundenkarten nur für wenige Kunden wirklich lohnen, da die Rabatte oft gering sind im Vergleich zur Datenpreisgabe.",
+      "feedback_incorrect": "Richtig. Die Vorteile von Kundenkarten sind oft geringer als die Nachteile, besonders im Hinblick auf Datenschutz."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>PayPal garantiert, dass das Guthaben von Verkäufern direkt und automatisch auf deren Bankkonto überwiesen wird.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Laut Text gelangen Guthaben bei PayPal nicht direkt auf das Bankkonto, sondern verbleiben zunächst im PayPal-Konto.",
+      "feedback_incorrect": "Richtig. PayPal-Guthaben müssen separat auf das Bankkonto transferiert werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Smartphone-Zahlungen mit Apple Pay/Samsung Pay/Google Pay sind auch dann möglich, wenn das Smartphone keinen Akku mehr hat.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Ein leerer Akku verhindert die Nutzung von Smartphone-Zahlungen, da das Gerät funktionsfähig sein muss.",
+      "feedback_incorrect": "Richtig. Die Funktion von Smartphone-Zahlungen ist an einen geladenen Akku gebunden."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "title": "Werkvertrag vs. einfacher Auftrag: Was stimmt?",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "text",
+    "url": "",
+    "source": "Lehrmittel Seite 67-68"
+  },
+  "questions": [
+    {
+      "correct_sentence": "Beim Werkvertrag steht die Herstellung eines konkreten Werks gegen Bezahlung im Vordergrund, wobei ein bestimmtes Resultat geschuldet ist.",
+      "wrong_alternatives": [
+        "Im Gegensatz dazu fokussiert der Werkvertrag primär auf die sorgfältige Ausführung einer Dienstleistung, ohne dass ein spezifisches materielles Ergebnis im Zentrum steht.",
+        "Der Werkvertrag konzentriert sich hauptsächlich auf den einmaligen Austausch von Waren, ähnlich einem Kaufvertrag, jedoch mit zusätzlichen Serviceleistungen."
+      ]
+    },
+    {
+      "correct_sentence": "Ein wesentlicher Unterschied zum Kaufvertrag besteht darin, dass beim Werkvertrag eine Sache nach den individuellen Wünschen des Bestellers angefertigt, repariert oder abgeändert wird.",
+      "wrong_alternatives": [
+        "Im Unterschied dazu werden beim Werkvertrag ausschliesslich standardisierte Produkte ohne Möglichkeit zur individuellen Anpassung oder Änderung erworben.",
+        "Anders als beim Werkvertrag werden beim Kaufvertrag Dienstleistungen nach den Wünschen des Kunden erbracht, wobei das materielle Produkt nebensächlich ist."
+      ]
+    },
+    {
+      "correct_sentence": "Der Werkvertrag ist in der Schweiz formlos gültig, was bedeutet, dass er nicht zwingend schriftlich abgeschlossen werden muss, um rechtswirksam zu sein.",
+      "wrong_alternatives": [
+        "Im Gegensatz dazu ist der Werkvertrag in der Schweiz nur dann rechtsgültig, wenn er notariell beurkundet und von beiden Parteien unterzeichnet wurde.",
+        "Für die Gültigkeit eines Werkvertrags in der Schweiz ist die Schriftform zwingend erforderlich, da mündliche Vereinbarungen keine rechtliche Basis darstellen."
+      ]
+    },
+    {
+      "correct_sentence": "In der Regel ist der Unternehmer verpflichtet, das Werk persönlich herzustellen oder zumindest unter seiner direkten Leitung herstellen zu lassen, um die Qualität sicherzustellen.",
+      "wrong_alternatives": [
+        "Es ist üblich, dass der Unternehmer beim Werkvertrag die Herstellung des Werks vollständig an Subunternehmen delegiert, ohne persönliche Leitung oder Beteiligung.",
+        "Der Besteller des Werks ist primär für die Herstellung verantwortlich, während der Unternehmer lediglich beratend zur Seite steht und die Ausführung überwacht."
+      ]
+    },
+    {
+      "correct_sentence": "Wurde im Voraus ein Festpreis vereinbart, so ist dieser Preis verbindlich und muss bezahlt werden, unabhängig vom tatsächlichen Aufwand des Unternehmers.",
+      "wrong_alternatives": [
+        "Bei einem Festpreis im Werkvertrag kann der Unternehmer den Preis nachträglich erhöhen, falls der tatsächliche Aufwand die ursprüngliche Kalkulation übersteigt.",
+        "Ein Festpreis im Werkvertrag dient lediglich als Richtwert und wird am Ende der Werkherstellung basierend auf dem tatsächlichen Aufwand neu verhandelt."
+      ]
+    },
+    {
+      "correct_sentence": "Ist kein Festpreis vereinbart, so hat der Besteller den Aufwand zu entschädigen, der für die vertragsgemässe Herstellung des Werks notwendig war.",
+      "wrong_alternatives": [
+        "Auch ohne Festpreisvereinbarung ist der Besteller lediglich verpflichtet, einen symbolischen Betrag zu zahlen, der nicht den tatsächlichen Herstellungskosten entsprechen muss.",
+        "In Ermangelung eines Festpreises bestimmt der Unternehmer nach freiem Ermessen die Vergütung, ohne Rücksicht auf den tatsächlichen oder notwendigen Aufwand."
+      ]
+    },
+    {
+      "correct_sentence": "Der Unternehmer haftet für die sorgfältige und termingerechte Ausführung des Werks sowie dafür, dass es die vertraglich zugesicherten Eigenschaften aufweist und keine Mängel hat.",
+      "wrong_alternatives": [
+        "Die Haftung des Unternehmers beschränkt sich auf grobe Fahrlässigkeit; für leichte Mängel oder Verzögerungen in der Ausführung trägt der Besteller das Risiko.",
+        "Nach der Abnahme des Werks durch den Besteller entfällt jegliche Haftung des Unternehmers, auch für versteckte Mängel oder nachträglich auftretende Fehler."
+      ]
+    },
+    {
+      "correct_sentence": "Der Besteller muss das vollendete Werk sofort prüfen und allfällige Mängel dem Unternehmer umgehend mitteilen (Mängelrüge), um seine Rechte zu wahren.",
+      "wrong_alternatives": [
+        "Eine Mängelrüge kann auch noch Monate nach der Abnahme des Werks erfolgen, ohne dass die Rechte des Bestellers dadurch eingeschränkt werden.",
+        "Die Pflicht zur Mängelprüfung und -mitteilung obliegt ausschliesslich dem Unternehmer, der den Besteller aktiv auf mögliche Mängel hinweisen muss."
+      ]
+    },
+    {
+      "correct_sentence": "Bei wesentlichen Mängeln kann der Besteller die Annahme des Werks verweigern, wobei es Ausnahmen bei Bauwerken geben kann, bei denen eine Verweigerung oft nicht möglich ist.",
+      "wrong_alternatives": [
+        "Die Annahmeverweigerung ist bei jedem Werkvertrag und unter allen Umständen möglich, selbst bei geringfügigen Mängeln oder persönlichen Präferenzen des Bestellers.",
+        "Unabhängig von der Schwere der Mängel ist der Besteller immer zur Annahme des Werks verpflichtet und kann lediglich eine nachträgliche Preisminderung fordern."
+      ]
+    },
+    {
+      "correct_sentence": "Bei kleineren Mängeln hat der Besteller das Recht, eine Preisminderung oder eine Nachbesserung des Werks vom Unternehmer zu fordern, um den Mangel zu beheben.",
+      "wrong_alternatives": [
+        "Bei geringfügigen Mängeln beschränken sich die Rechte des Bestellers ausschliesslich auf die Rückgabe des Werks gegen volle Kostenerstattung, ohne Anspruch auf Nachbesserung.",
+        "Der Unternehmer ist bei kleineren Mängeln berechtigt, dem Besteller eine Gutschrift für zukünftige Aufträge anzubieten, anstatt eine Preisminderung oder Nachbesserung zu gewähren."
+      ]
+    },
+    {
+      "correct_sentence": "Die Garantiezeit beträgt in der Regel fünf Jahre für Bauwerke und ein Jahr für alle übrigen Werke, sofern im Vertrag keine abweichende Regelung getroffen wurde.",
+      "wrong_alternatives": [
+        "Unabhängig von der Art des Werks gilt eine einheitliche Garantiezeit von zehn Jahren, die gesetzlich vorgeschrieben und nicht verkürzbar ist.",
+        "Es gibt keine gesetzlich vorgeschriebene Garantiezeit für Werkverträge; die Garantiebedingungen sind ausschliesslich Verhandlungssache zwischen Unternehmer und Besteller."
+      ]
+    },
+    {
+      "correct_sentence": "Der Besteller kann jederzeit vom Werkvertrag zurücktreten, solange das Werk noch nicht vollendet ist, muss aber den entstandenen Schaden ersetzen.",
+      "wrong_alternatives": [
+        "Ein Rücktritt vom Werkvertrag ist nach Vertragsabschluss grundsätzlich ausgeschlossen, es sei denn, der Unternehmer stimmt einem Rücktritt aus Kulanzgründen zu.",
+        "Der Besteller kann ohne Angabe von Gründen und ohne Kostenfolge jederzeit vom Werkvertrag zurücktreten, unabhängig vom Fortschritt der Werkherstellung."
+      ]
+    },
+    {
+      "correct_sentence": "Bei Rücktritt vor Vollendung hat der Besteller dem Unternehmer den bereits geleisteten Materialaufwand, die Löhne sowie den entgangenen Gewinn zu bezahlen.",
+      "wrong_alternatives": [
+        "Im Falle eines Rücktritts vor Werkvollendung ist der Besteller lediglich zur Erstattung der reinen Materialkosten verpflichtet, ohne Berücksichtigung von Löhnen oder entgangenem Gewinn.",
+        "Bei einem Rücktritt des Bestellers vor Vollendung des Werks entfällt jegliche Zahlungspflicht, da das Werk nicht fertiggestellt wurde und somit keinen Nutzen für den Besteller hat."
+      ]
+    },
+    {
+      "correct_sentence": "Wird der Werkpreis unverhältnismässig stark überschritten (in der Regel um mehr als 10%), kann der Besteller auch nach Vollendung des Werks unter Umständen noch zurücktreten.",
+      "wrong_alternatives": [
+        "Eine Preisüberschreitung von mehr als 10% gilt als branchenüblich und berechtigt den Besteller nicht zum Rücktritt vom Werkvertrag nach Werkvollendung.",
+        "Der Besteller hat auch bei einer erheblichen Preisüberschreitung nach Werkvollendung keine Möglichkeit zum Rücktritt, sondern muss den geforderten Preis vollständig begleichen."
+      ]
+    },
+    {
+      "correct_sentence": "Beim einfachen Auftrag steht die sorgfältige Erbringung einer Dienstleistung im Vordergrund, nicht ein konkretes Arbeitsergebnis wie beim Werkvertrag.",
+      "wrong_alternatives": [
+        "Der einfache Auftrag unterscheidet sich vom Werkvertrag dadurch, dass hier ausschliesslich materielle Güter und keine Dienstleistungen Gegenstand des Vertrags sind.",
+        "Im Gegensatz zum Werkvertrag zielt der einfache Auftrag primär auf die Herstellung eines messbaren und greifbaren Endprodukts ab, während die Dienstleistung zweitrangig ist."
+      ]
+    },
+    {
+      "correct_sentence": "Der einfache Auftrag ist ebenfalls formlos gültig und bedarf keiner besonderen Form für seine Rechtswirksamkeit, ähnlich wie der Werkvertrag.",
+      "wrong_alternatives": [
+        "Im Unterschied zum Werkvertrag ist der einfache Auftrag nur in schriftlicher Form gültig, um Missverständnisse und rechtliche Unklarheiten zu vermeiden.",
+        "Für einen rechtsgültigen einfachen Auftrag ist stets eine notarielle Beurkundung erforderlich, um die Seriosität und Verbindlichkeit der Vereinbarung zu gewährleisten."
+      ]
+    },
+    {
+      "correct_sentence": "In der Regel muss der Beauftragte den Auftrag persönlich ausführen, es sei denn, der Auftraggeber erlaubt eine Stellvertretung oder es ist branchenüblich.",
+      "wrong_alternatives": [
+        "Der Beauftragte ist grundsätzlich berechtigt, den Auftrag ohne Rücksprache oder Erlaubnis des Auftraggebers an Dritte zu delegieren.",
+        "Es ist die Pflicht des Auftraggebers, den Auftrag persönlich auszuführen, während der Beauftragte lediglich beratende oder unterstützende Funktionen übernimmt."
+      ]
+    },
+    {
+      "correct_sentence": "Eine Vergütung ist beim einfachen Auftrag zu bezahlen, wenn sie vereinbart wurde oder üblich ist, wobei auch die notwendigen Auslagen des Beauftragten stets zu entschädigen sind.",
+      "wrong_alternatives": [
+        "Beim einfachen Auftrag besteht grundsätzlich kein Anspruch auf Vergütung oder Auslagenersatz, es sei denn, dies wurde im Vertrag explizit und schriftlich ausgeschlossen.",
+        "Die Höhe der Vergütung beim einfachen Auftrag wird ausschliesslich vom Beauftragten nach eigenem Ermessen festgelegt, ohne Rücksicht auf Vereinbarungen oder Branchenüblichkeit."
+      ]
+    },
+    {
+      "correct_sentence": "Der Beauftragte haftet beim einfachen Auftrag für sorgfältiges Handeln bei der Ausführung des Auftrags, nicht aber für das Erreichen eines bestimmten Erfolgs.",
+      "wrong_alternatives": [
+        "Die Haftung des Beauftragten im einfachen Auftrag erstreckt sich auf die Garantie eines bestimmten Erfolgs oder Ergebnisses der Dienstleistung, unabhängig von der Sorgfalt.",
+        "Es gibt keine Haftung des Beauftragten beim einfachen Auftrag, da es sich primär um eine Gefälligkeit handelt und kein konkretes Resultat geschuldet wird."
+      ]
+    },
+    {
+      "correct_sentence": "Der einfache Auftrag kann von beiden Vertragsparteien jederzeit aufgelöst werden, wobei ein unzeitiger Rücktritt Schadenersatzpflicht auslösen kann.",
+      "wrong_alternatives": [
+        "Eine Auflösung des einfachen Auftrags ist grundsätzlich ausgeschlossen, sobald der Vertrag einmal zustande gekommen ist und die Dienstleistung begonnen wurde.",
+        "Nur der Auftraggeber hat das Recht, den einfachen Auftrag jederzeit aufzulösen; der Beauftragte ist an den Vertrag gebunden, bis die Dienstleistung vollständig erbracht ist."
+      ]
+    }
+  ]
+}

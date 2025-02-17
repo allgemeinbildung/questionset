@@ -1,0 +1,144 @@
+{
+  "title": "Zahlungsarten – Drag the Words",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "text",
+    "url": "",
+    "source": "Lehrmittel für kaufmännische Berufe"
+  },
+  "questions": [
+    {
+      "correct_sentence": "Die **Barzahlung** ist im Detailhandel nach wie vor die **meistgenutzte** Zahlungsmöglichkeit, bei der Bargeld direkt gegen Ware getauscht wird.",
+      "wrong_alternatives": [
+        "Obwohl **Kreditkarten** im Detailhandel zunehmen, sind sie die **seltenste** Zahlungsmöglichkeit, da Kunden ungern Schulden machen.",
+        "Die **Überweisung** ist im Detailhandel die **bevorzugte** Zahlungsmethode, da sie für Händler und Kunden die sicherste Option darstellt."
+      ]
+    },
+    {
+      "correct_sentence": "**Bargeldlose** Zahlungsmethoden werden immer **häufiger** verwendet, da sie je nach Situation praktische Vorteile gegenüber Bargeld bieten.",
+      "wrong_alternatives": [
+        "**Barzahlungen** werden in der modernen Gesellschaft **immer beliebter**, da sie einen besseren Überblick über die Ausgaben ermöglichen.",
+        "**Kryptowährungen** sind die **am weitesten verbreiteten** Zahlungsmethoden, da sie Anonymität und Unabhängigkeit von Banken versprechen."
+      ]
+    },
+    {
+      "correct_sentence": "**Debitkarten** ermöglichen **Bargeldbezüge** rund um die Uhr und bargeldloses Bezahlen, wobei die Beträge direkt dem Konto belastet werden.",
+      "wrong_alternatives": [
+        "**Kreditkarten** sind primär für **grosse Anschaffungen** gedacht und weniger für alltägliche Bargeldbezüge geeignet, da hohe Zinsen anfallen.",
+        "**Prepaid-Karten** sind ideal für **Kreditaufnahmen** und Bargeldbezüge, da sie im Gegensatz zu Debitkarten keinen direkten Zugriff auf das Bankkonto erfordern."
+      ]
+    },
+    {
+      "correct_sentence": "**Kreditkarten** gewähren einen **Kredit** und fordern das Geld erst am Ende des Monats mit einer Rechnung ein, oft via Lastschriftverfahren.",
+      "wrong_alternatives": [
+        "**Debitkarten** funktionieren ähnlich wie Kreditkarten, gewähren aber einen **höheren Kreditrahmen** und sind daher bei jungen Leuten sehr beliebt.",
+        "**Prepaid-Kreditkarten** bieten den Vorteil, dass sie **keinen Kredit** gewähren und somit vor Überschuldung schützen, was sie sicherer macht als reguläre Kreditkarten."
+      ]
+    },
+    {
+      "correct_sentence": "**Prepaidkreditkarten** müssen im **Voraus** mit einem selbst gewählten Betrag aufgeladen werden und erlauben nur Ausgaben bis zu diesem Guthaben.",
+      "wrong_alternatives": [
+        "**Kundenkarten** ähneln Prepaidkreditkarten, bieten aber zusätzlich den Vorteil, dass sie **automatisch aufgeladen** werden, sobald das Guthaben zur Neige geht.",
+        "**Geschenkgutscheine** sind vergleichbar mit Prepaidkreditkarten, jedoch sind sie **nicht wiederaufladbar** und nur in bestimmten Geschäften einlösbar."
+      ]
+    },
+    {
+      "correct_sentence": "**Kontaktloses** Zahlen mit Kreditkarte ist bei **kleineren** Einkäufen bis 80 Franken möglich, ohne PIN-Eingabe oder Karteneinschub.",
+      "wrong_alternatives": [
+        "**Mobile Payment** über Smartphone-Apps ermöglicht **unbegrenzte** Beträge **ohne PIN** zu zahlen, was besonders bei Grossanschaffungen praktisch ist.",
+        "**Chip- und PIN-Zahlungen** sind bei **allen Beträgen** erforderlich, um die Sicherheit zu gewährleisten und Missbrauch vorzubeugen, unabhängig von der Höhe des Betrags."
+      ]
+    },
+    {
+      "correct_sentence": "**Kundenkarten** sollen die **Kundentreue** erhöhen, Kundendaten gewinnen und den Firmen Kommissionen bei klassischen Kreditkarten ersparen.",
+      "wrong_alternatives": [
+        "**Debitkarten** dienen primär dazu, den **Bargeldumlauf zu reduzieren** und den Banken Gebühren für Bargeldtransaktionen zu sichern.",
+        "**Kreditkarten** wurden eingeführt, um den **internationalen Handel zu vereinfachen** und den Kunden weltweit ein einheitliches Zahlungsmittel zu bieten."
+      ]
+    },
+    {
+      "correct_sentence": "**Travel-Prepaid-Karten** sind aufladbare Karten, mit denen weltweit bezahlt und Guthaben in Landeswährung bezogen werden kann, ohne Bankkontoanbindung.",
+      "wrong_alternatives": [
+        "**Reiseschecks** sind eine moderne Alternative zu Travel-Prepaid-Karten und bieten den Vorteil, dass sie **weltweit unbegrenzt einsetzbar** sind und keine Aufladung benötigen.",
+        "**Internationale Banküberweisungen** sind die sicherste Methode für Zahlungen im Ausland, da sie **direkt vom eigenen Bankkonto** erfolgen und vor Betrug schützen."
+      ]
+    },
+    {
+      "correct_sentence": "**PayPal** ist ein **virtuelles** Konto für Zahlungen an Dritte und Empfang von Zahlungen, fungiert als Dienstleister für den Transfer mit E-Mail-Adresse.",
+      "wrong_alternatives": [
+        "**E-Banking** ist ein **direkter Konkurrent** zu PayPal und bietet ähnliche Funktionen, jedoch mit dem Vorteil, dass alle Transaktionen direkt über das eigene Bankkonto laufen.",
+        "**Kryptowallets** wie Bitcoin-Wallets sind vergleichbar mit PayPal, bieten aber **höhere Sicherheit** und Anonymität, da sie auf der Blockchain-Technologie basieren."
+      ]
+    },
+    {
+      "correct_sentence": "**Twint** ist eine **Schweizer** Lösung für mobile Zahlungen via Bluetooth an Ladenkassen und für Transaktionen zwischen Twint-Nutzern.",
+      "wrong_alternatives": [
+        "**Paypal** ist die **führende Schweizer** Lösung für mobile Zahlungen und wird von allen grossen Banken und Detailhändlern in der Schweiz unterstützt.",
+        "**Apple Pay** ist eine **europäische** Alternative zu Twint und bietet ähnliche Funktionen, ist aber **weiter verbreitet** und akzeptiert als Twint."
+      ]
+    },
+    {
+      "correct_sentence": "**Apple Pay**, **Samsung Pay** und **Google Pay** benötigen eine hinterlegte Kredit- oder Prepaidkarte und sind weltweit einsetzbare Zahlungsmittel per Smartphone.",
+      "wrong_alternatives": [
+        "**Mobile Payment** Systeme wie Apple Pay, Samsung Pay und Google Pay funktionieren **unabhängig von Kreditkarten** und belasten direkt das Girokonto, ähnlich wie Debitkarten.",
+        "**QR-Code-basierte** Zahlungssysteme wie Alipay und WeChat Pay sind **direkte Konkurrenten** zu Apple Pay und bieten den Vorteil, dass sie **ohne Kreditkarte** funktionieren."
+      ]
+    },
+    {
+      "correct_sentence": "**Debitkarten** haben den Vorteil, dass **weniger Bargeld** notwendig ist und Bargeldbezüge rund um die Uhr möglich sind, aber die Gefahr des Mehrausgebens besteht.",
+      "wrong_alternatives": [
+        "**Kreditkarten** sind ideal für die **Budgetkontrolle**, da sie eine detaillierte monatliche Abrechnung bieten und somit helfen, die Ausgaben im Blick zu behalten.",
+        "**Barzahlung** ist die **sicherste Methode** zur Ausgabenkontrolle, da man nur das ausgeben kann, was man physisch bei sich trägt und somit vor Überschuldung schützt."
+      ]
+    },
+    {
+      "correct_sentence": "**Kreditkarten** bieten den Vorteil, dass bei **Kautionen** oft die Angabe der Kreditkartennummer ausreicht, aber die Kontrolle über Ausgaben schlechter ist.",
+      "wrong_alternatives": [
+        "**Debitkarten** sind besonders nützlich bei **Kautionen**, da sie im Gegensatz zu Kreditkarten keine Zinsen verursachen und somit kostengünstiger sind.",
+        "**Bargeld** ist das **ideale Zahlungsmittel** für Kautionen, da es sofort verfügbar ist und keine Bonitätsprüfung oder Kreditkarte benötigt wird."
+      ]
+    },
+    {
+      "correct_sentence": "Für **Bargeldbezüge** im **Ausland** fallen bei **Debitkarten** Gebühren von etwa Fr. 5.– pro Bezug an, während es bei Kreditkarten prozentuale Gebühren sind.",
+      "wrong_alternatives": [
+        "**Reiseschecks** sind die **günstigste Option** für Bargeldbezüge im Ausland, da sie im Gegensatz zu Debit- und Kreditkarten keine Gebühren verursachen.",
+        "**Internationale Banküberweisungen** sind **kostenlos** für Bargeldbezüge im Ausland, jedoch dauern sie länger und sind weniger flexibel als Kartenzahlungen."
+      ]
+    },
+    {
+      "correct_sentence": "**Kontaktloses** Zahlen birgt den Nachteil, dass bei **Verlust** der Karte der Finder ohne PIN-Kenntnis einkaufen kann, bis zum Betrag von 80 Franken.",
+      "wrong_alternatives": [
+        "**Mobile Payment** über Smartphone-Apps ist **absolut sicher** und birgt keine Risiken bei Verlust des Smartphones, da alle Transaktionen biometrisch gesichert sind.",
+        "**Chip- und PIN-Zahlungen** sind die **sicherste Methode** überhaupt, da selbst bei Verlust der Karte ohne PIN-Kenntnis keine unbefugten Zahlungen möglich sind."
+      ]
+    },
+    {
+      "correct_sentence": "**Kundenkarten** haben den Nachteil, dass die gewährten Preisnachlässe oft **bescheiden** sind im Vergleich zur Datenmenge, die Kunden preisgeben.",
+      "wrong_alternatives": [
+        "**Debitkarten** sind **unvorteilhaft** für Kunden, da sie im Gegensatz zu Kundenkarten keine Rabatte oder speziellen Aktionen bieten und somit weniger attraktiv sind.",
+        "**Kreditkarten** bieten zwar **höhere Rabatte** als Kundenkarten, jedoch sind die **Jahresgebühren** oft so hoch, dass sich die Vorteile kaum ausgleichen."
+      ]
+    },
+    {
+      "correct_sentence": "**Verzugszinsen** bei **Kundenkarten** können sehr **hoch** sein, ähnlich wie bei Kreditkarten, und bis zu maximal 12% betragen, was ein erheblicher Nachteil ist.",
+      "wrong_alternatives": [
+        "**Debitkarten** haben den Nachteil **hoher Verzugszinsen**, da sie direkt mit dem Girokonto verbunden sind und bei Kontoüberziehung sofort hohe Gebühren anfallen.",
+        "**Prepaid-Kreditkarten** sind **besonders anfällig** für hohe Verzugszinsen, da sie im Gegensatz zu regulären Kreditkarten keine Kulanzzeiten oder Ratenzahlungsoptionen bieten."
+      ]
+    },
+    {
+      "correct_sentence": "**PayPal** funktioniert nur, wenn sowohl **Käufer** als auch **Verkäufer** ein PayPal-Konto haben, was die Einsatzmöglichkeiten einschränkt.",
+      "wrong_alternatives": [
+        "**Twint** ist **universell einsetzbar** und funktioniert unabhängig davon, ob Käufer und Verkäufer ein Twint-Konto besitzen, was es sehr benutzerfreundlich macht.",
+        "**Kreditkarten** sind die **flexibelste Zahlungsmethode**, da sie im Gegensatz zu PayPal und Twint **weltweit akzeptiert** werden und keine Kontoeröffnung erfordern."
+      ]
+    },
+    {
+      "correct_sentence": "Bei **Smartphone-Zahlungen** besteht der Nachteil, dass bei **leerem Akku** keine Zahlung möglich ist, was in Notfällen problematisch sein kann.",
+      "wrong_alternatives": [
+        "**Barzahlung** ist **unabhängig von technischen Geräten** und funktioniert auch bei Stromausfall oder leerem Akku, was sie zur zuverlässigsten Zahlungsmethode in Notfällen macht.",
+        "**Debitkarten** bieten den Vorteil, dass sie **auch ohne Strom funktionieren** und somit in Situationen ohne Stromversorgung eine zuverlässige Alternative zu Smartphone-Zahlungen darstellen."
+      ]
+    }
+  ]
+}

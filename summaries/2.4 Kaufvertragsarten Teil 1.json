@@ -1,0 +1,151 @@
+{
+  "title": "Kaufvertragsarten Teil 1 - Drag the Words",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "text",
+    "url": "",
+    "source": "Lehrmittel zum Kaufvertragsrecht"
+  },
+  "questions": [
+    {
+      "correct_sentence": "Zum Abschluss eines Vertrages ist die **gegenseitige übereinstimmende Willensäusserung** von zwei oder mehr Parteien notwendig.",
+      "wrong_alternatives": [
+        "Zum Abschluss eines Vertrages ist die einseitige Willensäusserung einer einzelnen Partei ausreichend, solange diese notariell beglaubigt ist.",
+        "Zum Abschluss eines Vertrages ist lediglich die stillschweigende Zustimmung einer Partei erforderlich, während die andere Partei keine aktive Willensäusserung zeigen muss."
+      ]
+    },
+    {
+      "correct_sentence": "Ein Kaufvertrag kommt zustande, wenn sich die Parteien über **Gegenstand, Menge und Preis** einigen.",
+      "wrong_alternatives": [
+        "Ein Kaufvertrag entsteht automatisch, sobald ein Käufer Interesse an einem Gegenstand zeigt, unabhängig von einer Einigung über Menge oder Preis.",
+        "Ein Kaufvertrag wird nur dann gültig, wenn die Vertragsparteien sich ausschliesslich über die Lieferbedingungen und Zahlungsmodalitäten geeinigt haben, ohne die Notwendigkeit, den Preis explizit zu bestimmen."
+      ]
+    },
+    {
+      "correct_sentence": "**Handlungsfähigkeit** ist eine Voraussetzung für den Abschluss eines Vertrages.",
+      "wrong_alternatives": [
+        "Geschäftsunfähigkeit ist irrelevant für die Gültigkeit eines Vertrages, da es primär auf den Inhalt der Vereinbarung ankommt.",
+        "Die Handlungsfähigkeit ist nur für bestimmte Vertragsarten erforderlich, wie beispielsweise für Immobilienkäufe, jedoch nicht für alltägliche Kaufverträge."
+      ]
+    },
+    {
+      "correct_sentence": "Jugendliche unter 18 Jahren sind beschränkt handlungsfähig, aber Verträge mit **Taschengeld, Lohn oder Ersparnissen** sind gültig.",
+      "wrong_alternatives": [
+        "Jugendliche unter 18 Jahren sind voll handlungsfähig und können ohne Einschränkungen Verträge jeglicher Art abschliessen, unabhängig vom Wert oder der Finanzierung.",
+        "Verträge von Jugendlichen unter 18 Jahren sind grundsätzlich ungültig, es sei denn, sie werden nachträglich von einem Gericht genehmigt, selbst wenn sie aus eigenen Mitteln bezahlt werden."
+      ]
+    },
+    {
+      "correct_sentence": "Viele Verträge, wie der Kaufvertrag, sind **formlos gültig** und können mündlich abgeschlossen werden.",
+      "wrong_alternatives": [
+        "Alle Verträge in der Schweiz müssen schriftlich abgeschlossen werden, um Rechtsgültigkeit zu erlangen, mündliche Vereinbarungen sind generell unverbindlich.",
+        "Formlose Verträge sind zwar üblich, aber im Streitfall immer ungültig, da es an einem schriftlichen Beweisstück mangelt."
+      ]
+    },
+    {
+      "correct_sentence": "Bei wichtigen Verträgen ist die **schriftliche Form** aus Beweisgründen empfehlenswert.",
+      "wrong_alternatives": [
+        "Die Schriftform ist bei Verträgen irrelevant, da im Streitfall Zeugenaussagen als gleichwertiger Beweis dienen können.",
+        "Die schriftliche Form ist nur bei Verträgen mit ausländischen Partnern notwendig, um internationale Rechtsstandards zu erfüllen."
+      ]
+    },
+    {
+      "correct_sentence": "Die **einfache Schriftlichkeit** erfordert einen schriftlichen Vertrag und die eigenhändige Unterschrift des Verpflichteten.",
+      "wrong_alternatives": [
+        "Für die einfache Schriftlichkeit genügt eine E-Mail-Bestätigung ohne handschriftliche Unterschrift, solange der Absender eindeutig identifizierbar ist.",
+        "Einfache Schriftlichkeit bedeutet, dass der Vertrag zwar schriftlich sein muss, aber die Unterschrift durch einen digitalen Stempel oder eine elektronische Signatur ersetzt werden kann."
+      ]
+    },
+    {
+      "correct_sentence": "Die **qualifizierte Schriftlichkeit** verlangt zusätzlich zu Unterschrift weitere handschriftliche Vertragsbestandteile.",
+      "wrong_alternatives": [
+        "Qualifizierte Schriftlichkeit unterscheidet sich von der einfachen Schriftlichkeit nur durch die Notwendigkeit der notariellen Beglaubigung der Unterschrift.",
+        "Bei qualifizierter Schriftlichkeit müssen lediglich zusätzliche Zeugen den Vertrag unterschreiben, handschriftliche Zusätze sind nicht erforderlich."
+      ]
+    },
+    {
+      "correct_sentence": "Die **öffentliche Beurkundung** erfolgt durch eine Urkundsperson wie eine Notarin oder ein Notar.",
+      "wrong_alternatives": [
+        "Öffentliche Beurkundung kann auch durch einen Rechtsanwalt erfolgen, der den Vertrag im Namen der Parteien bezeugt.",
+        "Die öffentliche Beurkundung ist lediglich eine formelle Registrierung des Vertrages bei einer staatlichen Behörde ohne inhaltliche Prüfung."
+      ]
+    },
+    {
+      "correct_sentence": "**Nichtige Verträge** sind ungültig und können nicht durchgesetzt werden.",
+      "wrong_alternatives": [
+        "Nichtige Verträge sind lediglich vorläufig ungültig und können durch nachträgliche Genehmigung der Parteien gültig gemacht werden.",
+        "Nichtige Verträge sind zwar ungültig, aber Schadenersatzansprüche aus solchen Verträgen können dennoch geltend gemacht werden."
+      ]
+    },
+    {
+      "correct_sentence": "Ein **unmöglicher Vertragsinhalt**, wie der Kauf eines Sterns, macht den Vertrag nichtig.",
+      "wrong_alternatives": [
+        "Ein unmöglicher Vertragsinhalt führt lediglich zu einer Anpassung des Vertrages, nicht aber zur Nichtigkeit des gesamten Vertrages.",
+        "Verträge mit unmöglichem Inhalt sind zwar problematisch, aber dennoch gültig, solange beide Parteien dem Vertrag zustimmen."
+      ]
+    },
+    {
+      "correct_sentence": "Ein **widerrechtlicher Vertragsinhalt**, wie Warenschmuggel, führt zur Nichtigkeit des Vertrages.",
+      "wrong_alternatives": [
+        "Widerrechtliche Vertragsinhalte werden nur dann zur Nichtigkeit führen, wenn sie explizit im Strafgesetzbuch verboten sind.",
+        "Verträge mit widerrechtlichem Inhalt können unter Umständen gültig sein, wenn sie im Ausland abgeschlossen werden, wo andere Gesetze gelten."
+      ]
+    },
+    {
+      "correct_sentence": "Ein **unsittlicher Vertragsinhalt**, wie Menschenhandel, macht den Vertrag nichtig.",
+      "wrong_alternatives": [
+        "Unsittliche Vertragsinhalte führen nur dann zur Nichtigkeit, wenn sie gegen die expliziten Moralvorstellungen einer bestimmten gesellschaftlichen Gruppe verstossen.",
+        "Verträge mit unsittlichem Inhalt sind zwar moralisch verwerflich, aber rechtlich gültig, solange sie formell korrekt abgeschlossen wurden."
+      ]
+    },
+    {
+      "correct_sentence": "**Anfechtbare Verträge** sind grundsätzlich gültig, können aber unter bestimmten Bedingungen angefochten werden.",
+      "wrong_alternatives": [
+        "Anfechtbare Verträge sind von Anfang an ungültig, aber die benachteiligte Partei kann auf Erfüllung bestehen, wenn sie dies wünscht.",
+        "Anfechtbare Verträge können nur von Gerichten für ungültig erklärt werden, die betroffene Partei hat kein direktes Anfechtungsrecht."
+      ]
+    },
+    {
+      "correct_sentence": "Ein **wesentlicher Irrtum** kann ein Grund für die Anfechtbarkeit eines Vertrages sein.",
+      "wrong_alternatives": [
+        "Ein unwesentlicher Irrtum berechtigt ebenfalls zur Anfechtung eines Vertrages, solange er nachweisbar ist.",
+        "Irrtümer sind im Vertragsrecht generell irrelevant, da jede Partei selbst für ihre Entscheidungen verantwortlich ist."
+      ]
+    },
+    {
+      "correct_sentence": "**Absichtliche Täuschung** durch Vorspiegelung falscher Tatsachen macht einen Vertrag anfechtbar.",
+      "wrong_alternatives": [
+        "Unabsichtliche Täuschung, die auf Missverständnissen beruht, führt ebenfalls zur Anfechtbarkeit eines Vertrages.",
+        "Täuschung ist im Vertragsrecht nur relevant, wenn sie schriftlich im Vertrag selbst dokumentiert ist."
+      ]
+    },
+    {
+      "correct_sentence": "Eine **Drohung** beim Vertragsabschluss kann zur Anfechtbarkeit des Vertrages führen.",
+      "wrong_alternatives": [
+        "Eine Drohung muss physischer Natur sein, um zur Anfechtbarkeit eines Vertrages zu führen, psychische Drohungen sind irrelevant.",
+        "Drohungen sind im Vertragsrecht irrelevant, solange der Vertrag formell korrekt abgeschlossen wurde."
+      ]
+    },
+    {
+      "correct_sentence": "**Übervorteilung** liegt vor, wenn ein krasses Missverhältnis zwischen Leistung und Gegenleistung besteht und eine Notlage ausgenutzt wird.",
+      "wrong_alternatives": [
+        "Übervorteilung ist nur dann relevant, wenn sie systematisch und wiederholt durch eine Partei erfolgt, einmalige Fälle sind unerheblich.",
+        "Übervorteilung ist im Vertragsrecht irrelevant, da es den Parteien freisteht, Preise und Bedingungen frei zu verhandeln, auch wenn dies zu Ungleichgewichten führt."
+      ]
+    },
+    {
+      "correct_sentence": "**Verjährung** bedeutet, dass eine Forderung nach Ablauf einer bestimmten Frist nicht mehr durchsetzbar ist.",
+      "wrong_alternatives": [
+        "Verjährung führt dazu, dass eine Forderung vollständig erlischt und nie wieder geltend gemacht werden kann, auch nicht aussergerichtlich.",
+        "Verjährung ist im Vertragsrecht irrelevant, da Forderungen grundsätzlich unbegrenzt gültig bleiben, es sei denn, sie werden explizit aufgehoben."
+      ]
+    },
+    {
+      "correct_sentence": "Die **maximale Verjährungsfrist** beträgt in der Regel 10 Jahre.",
+      "wrong_alternatives": [
+        "Die maximale Verjährungsfrist im Schweizer Vertragsrecht beträgt generell 20 Jahre, um Gläubigern ausreichend Zeit zur Durchsetzung ihrer Ansprüche zu geben.",
+        "Es gibt keine maximale Verjährungsfrist im Schweizer Vertragsrecht, Forderungen bleiben grundsätzlich unbegrenzt durchsetzbar."
+      ]
+    }
+  ]
+}

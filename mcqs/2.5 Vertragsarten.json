@@ -1,0 +1,546 @@
+{
+  "title": "Verständnisfragen zu Vertragsarten: Werkvertrag und einfacher Auftrag",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Gesetzbuch regelt den Werkvertrag in der Schweiz?</p>",
+      "options": [
+        {
+          "text": "Zivilgesetzbuch (ZGB)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>ZGB</strong> regelt andere Rechtsbereiche, aber nicht primär den Werkvertrag."
+        },
+        {
+          "text": "Obligationenrecht (OR)",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Werkvertrag ist im <strong>Obligationenrecht (OR)</strong> geregelt, genauer in <strong>Art. 363ff.</strong>"
+        },
+        {
+          "text": "Strafgesetzbuch (StGB)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>StGB</strong> befasst sich mit strafbaren Handlungen, nicht mit Vertragsrecht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was steht beim Werkvertrag im Vordergrund?</p>",
+      "options": [
+        {
+          "text": "Eine sorgfältige Dienstleistung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine sorgfältige Dienstleistung steht beim <strong>einfachen Auftrag</strong> im Vordergrund."
+        },
+        {
+          "text": "Ein konkretes Resultat",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Beim <strong>Werkvertrag</strong> steht ein <strong>konkretes Resultat</strong>, das sogenannte Werk, im Vordergrund."
+        },
+        {
+          "text": "Der Austausch von Waren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Austausch von Waren ist typisch für den <strong>Kaufvertrag</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange beträgt die Garantiezeit für Bauwerke im Werkvertrag, wenn nichts anderes vereinbart wurde?</p>",
+      "options": [
+        {
+          "text": "Ein Jahr",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Jahr Garantiezeit gilt für <strong>übrige Werke</strong>, aber nicht für Bauwerke."
+        },
+        {
+          "text": "Fünf Jahre",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Garantiezeit für <strong>Bauwerke</strong> beträgt in der Regel <strong>fünf Jahre</strong>, sofern nichts anderes vereinbart ist."
+        },
+        {
+          "text": "Zehn Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Zehn Jahre ist <strong>keine</strong> im Text genannte Garantiezeit für Bauwerke im Werkvertrag."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Formvorschrift gilt für den Werkvertrag?</p>",
+      "options": [
+        {
+          "text": "Schriftform ist zwingend erforderlich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Werkvertrag ist <strong>nicht</strong> zwingend an die Schriftform gebunden."
+        },
+        {
+          "text": "Formlos gültig",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Werkvertrag ist <strong>formlos gültig</strong>."
+        },
+        {
+          "text": "Öffentliche Beurkundung ist notwendig",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine öffentliche Beurkundung ist im Normalfall für einen Werkvertrag <strong>nicht</strong> erforderlich."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Gesetzbuch regelt den einfachen Auftrag in der Schweiz?</p>",
+      "options": [
+        {
+          "text": "Obligationenrecht (OR)",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der einfache Auftrag ist im <strong>Obligationenrecht (OR)</strong> geregelt, genauer in <strong>Art. 394ff.</strong>"
+        },
+        {
+          "text": "Zivilgesetzbuch (ZGB)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>ZGB</strong> regelt andere Rechtsbereiche, nicht primär den einfachen Auftrag."
+        },
+        {
+          "text": "Schuldbetreibungs- und Konkursgesetz (SchKG)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>SchKG</strong> befasst sich mit Betreibung und Konkurs, nicht mit Vertragsrecht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was steht beim einfachen Auftrag im Vordergrund?</p>",
+      "options": [
+        {
+          "text": "Ein konkretes Werk",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein konkretes Werk steht beim <strong>Werkvertrag</strong> im Vordergrund."
+        },
+        {
+          "text": "Eine sorgfältige Dienstleistung",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Beim <strong>einfachen Auftrag</strong> steht die <strong>sorgfältige Ausführung einer Dienstleistung</strong> im Vordergrund."
+        },
+        {
+          "text": "Der Verkauf von Rohstoffen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Verkauf von Rohstoffen ist <strong>kein</strong> typisches Beispiel für einen einfachen Auftrag."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Formvorschrift gilt für den einfachen Auftrag?</p>",
+      "options": [
+        {
+          "text": "Schriftform ist vorgeschrieben",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der einfache Auftrag ist <strong>nicht</strong> zwingend an die Schriftform gebunden."
+        },
+        {
+          "text": "Formlos gültig",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der einfache Auftrag ist wie der Werkvertrag <strong>formlos gültig</strong>."
+        },
+        {
+          "text": "Muss notariell beglaubigt werden",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine notarielle Beglaubigung ist für einen einfachen Auftrag im Normalfall <strong>nicht</strong> notwendig."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer muss beim einfachen Auftrag in der Regel den Auftrag persönlich ausführen?</p>",
+      "options": [
+        {
+          "text": "Der Auftraggeber",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Auftraggeber</strong> erteilt den Auftrag, führt ihn aber <strong>nicht</strong> aus."
+        },
+        {
+          "text": "Der Beauftragte",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Beim einfachen Auftrag muss in der Regel der <strong>Beauftragte</strong> den Auftrag <strong>persönlich ausführen</strong>."
+        },
+        {
+          "text": "Ein vom Auftraggeber bestimmter Dritter",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Dritter führt den Auftrag nur aus, wenn der <strong>Auftraggeber</strong> dies <strong>erlaubt</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Hauptunterschied bezüglich der Haftung zwischen Werkvertrag und einfachem Auftrag?</p>",
+      "options": [
+        {
+          "text": "Beim Werkvertrag haftet der Unternehmer nur für grobe Fahrlässigkeit.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Beim Werkvertrag haftet der Unternehmer für <strong>Mängel am Werk</strong>, unabhängig von der Fahrlässigkeit."
+        },
+        {
+          "text": "Beim einfachen Auftrag haftet der Beauftragte für sorgfältiges Handeln, beim Werkvertrag für ein mangelfreies Resultat.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Dies ist der Kernunterschied: <strong>Sorgfaltshaftung</strong> beim einfachen Auftrag, <strong>Erfolgshaftung</strong> beim Werkvertrag."
+        },
+        {
+          "text": "Es gibt keinen Unterschied in der Haftung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt wesentliche Unterschiede in der Haftung zwischen Werkvertrag und einfachem Auftrag."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>In welcher Situation ist ein Werkvertrag typischer als ein einfacher Auftrag?</p>",
+      "options": [
+        {
+          "text": "Bei einer Rechtsberatung durch einen Anwalt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Rechtsberatung ist eher ein <strong>einfacher Auftrag</strong>, da die Dienstleistung im Vordergrund steht."
+        },
+        {
+          "text": "Beim Bau eines massgeschneiderten Hauses.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Bau eines Hauses ist ein typischer <strong>Werkvertrag</strong>, da ein konkretes, individuell gefertigtes Werk entsteht."
+        },
+        {
+          "text": "Bei einer Taxifahrt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Taxifahrt ist ein <strong>einfacher Auftrag</strong>, bei dem die Beförderungsdienstleistung im Vordergrund steht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet es, wenn ein Werkvertrag 'formlos gültig' ist?</p>",
+      "options": [
+        {
+          "text": "Der Vertrag muss immer schriftlich abgeschlossen werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 'Formlos gültig' bedeutet gerade, dass die <strong>Schriftform nicht zwingend</strong> ist."
+        },
+        {
+          "text": "Der Vertrag kann mündlich oder sogar stillschweigend abgeschlossen werden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! 'Formlos gültig' bedeutet, dass der Vertrag <strong>keiner besonderen Form bedarf</strong> und auch mündlich oder stillschweigend zustande kommen kann."
+        },
+        {
+          "text": "Der Vertrag ist nur gültig, wenn er von einem Notar beurkundet wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die notarielle Beurkundung ist eine <strong>besondere Formvorschrift</strong>, die bei 'formlos gültig' gerade <strong>nicht</strong> erforderlich ist."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum muss der Besteller ein vollendetes Werk sofort prüfen und Mängel mitteilen (Mängelrüge)?</p>",
+      "options": [
+        {
+          "text": "Weil er sonst den Werklohn nicht bezahlen muss.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Nichtbezahlung des Werklohns ist <strong>nicht die direkte Folge</strong> einer versäumten Mängelrüge."
+        },
+        {
+          "text": "Um seine Rechte auf Preisminderung oder Nachbesserung geltend zu machen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Mängelrüge</strong> ist notwendig, um die <strong>Rechte des Bestellers</strong> bei Mängeln zu sichern, wie z.B. Preisminderung oder Nachbesserung."
+        },
+        {
+          "text": "Weil der Unternehmer sonst strafrechtlich verfolgt wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Strafrechtliche Verfolgung ist <strong>nicht die Folge</strong> einer unterlassenen Mängelrüge."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was passiert, wenn der Werkpreis unverhältnismässig stark überschritten wird (in der Regel um mehr als 10%)?</p>",
+      "options": [
+        {
+          "text": "Der Besteller muss den erhöhten Preis in jedem Fall bezahlen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bei unverhältnismässiger Preisüberschreitung hat der Besteller <strong>Rechte</strong>."
+        },
+        {
+          "text": "Der Besteller kann unter Umständen vom Vertrag zurücktreten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Bei unverhältnismässiger Preisüberschreitung kann der Besteller auch nach Vollendung des Werks unter Umständen vom Vertrag <strong>zurücktreten</strong>."
+        },
+        {
+          "text": "Der Unternehmer erhält eine zusätzliche Entschädigung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bei Preisüberschreitung erhält der Unternehmer <strong>keine zusätzliche Entschädigung</strong>, sondern riskiert den Rücktritt des Bestellers."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum kann ein einfacher Auftrag jederzeit aufgelöst werden, ein Werkvertrag aber nicht so einfach?</p>",
+      "options": [
+        {
+          "text": "Weil beim einfachen Auftrag das Vertrauensverhältnis wichtiger ist als beim Werkvertrag.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Beim einfachen Auftrag, der oft auf <strong>persönlichem Vertrauen</strong> basiert, ist die jederzeitige Auflösung ein wichtiger Aspekt."
+        },
+        {
+          "text": "Weil der Gesetzgeber den Werkvertrag stärker schützen will.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Gesetzgeber sieht für beide Vertragsarten <strong>unterschiedliche Regelungen</strong> vor, aber nicht primär zum Schutz des Werkvertrags."
+        },
+        {
+          "text": "Weil ein Werkvertrag immer schriftlich sein muss und ein einfacher Auftrag mündlich.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Beide Vertragsarten können <strong>formlos</strong> sein; die Form ist <strong>nicht der Grund</strong> für die unterschiedliche Auflösbarkeit."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>In welchem Fall kann bei der Auflösung eines einfachen Auftrags Schadenersatz geschuldet sein?</p>",
+      "options": [
+        {
+          "text": "Immer, wenn der Auftraggeber den Vertrag auflöst.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Schadenersatz ist <strong>nicht immer</strong> geschuldet, sondern nur unter bestimmten Bedingungen."
+        },
+        {
+          "text": "Wenn die Auflösung zu einem ungünstigen Zeitpunkt erfolgt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Schadenersatz kann geschuldet sein, wenn die Auflösung zu einem <strong>ungünstigen Zeitpunkt</strong> erfolgt und der anderen Partei dadurch ein Schaden entsteht."
+        },
+        {
+          "text": "Nur wenn der Auftrag schriftlich abgeschlossen wurde.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schriftform ist <strong>nicht entscheidend</strong> für die Schadenersatzpflicht bei Auflösung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Unterschied zwischen einem Festpreis und einem ungefähr bestimmten Preis im Werkvertrag?</p>",
+      "options": [
+        {
+          "text": "Beim Festpreis kann der Preis nachträglich geändert werden, beim ungefähr bestimmten Preis nicht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist genau umgekehrt: Der <strong>Festpreis</strong> ist in der Regel <strong>bindend</strong>."
+        },
+        {
+          "text": "Beim Festpreis muss der abgemachte Preis bezahlt werden, unabhängig vom Aufwand des Unternehmers. Beim ungefähr bestimmten Preis wird der tatsächliche Aufwand vergütet.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Beim <strong>Festpreis</strong> ist der Preis fix, beim <strong>ungefähren Preis</strong> wird der <strong>tatsächliche Aufwand</strong> entschädigt."
+        },
+        {
+          "text": "Es gibt keinen wesentlichen Unterschied.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt einen <strong>wesentlichen Unterschied</strong> in der Preisgestaltung und den Zahlungsverpflichtungen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum haftet der Unternehmer im Werkvertrag auch für zugesicherte Eigenschaften?</p>",
+      "options": [
+        {
+          "text": "Weil er nur für seine Fehler verantwortlich gemacht werden soll.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Haftung geht <strong>über die reine Fehlerhaftung hinaus</strong>."
+        },
+        {
+          "text": "Weil der Besteller sich auf die gemachten Zusicherungen verlassen können muss.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Haftung für <strong>zugesicherte Eigenschaften</strong> dient dem <strong>Schutz des Bestellers</strong>, der sich auf die Angaben des Unternehmers verlassen können muss."
+        },
+        {
+          "text": "Weil das Gesetz den Unternehmer immer bevorzugt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Gesetz will einen <strong>fairen Ausgleich</strong> zwischen den Vertragsparteien schaffen, nicht den Unternehmer bevorzugen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet 'persönliche Auftragsausführung' beim einfachen Auftrag in der Regel?</p>",
+      "options": [
+        {
+          "text": "Der Beauftragte muss den Auftrag immer persönlich und alleine ausführen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt <strong>Ausnahmen</strong> von der persönlichen Ausführung."
+        },
+        {
+          "text": "Der Beauftragte soll den Auftrag selbst ausführen, darf aber unter Umständen Hilfspersonen einsetzen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! 'Persönliche Auftragsausführung' bedeutet, dass der Beauftragte den Auftrag <strong>grundsätzlich selbst</strong> erbringen soll, aber unter Umständen Hilfspersonen einsetzen darf."
+        },
+        {
+          "text": "Der Beauftragte kann den Auftrag immer an Dritte weitergeben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Weitergabe an Dritte ist nur mit <strong>Erlaubnis des Auftraggebers</strong> möglich."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es wichtig, den Unterschied zwischen Werkvertrag und einfachem Auftrag zu kennen?</p>",
+      "options": [
+        {
+          "text": "Weil die rechtlichen Konsequenzen und Pflichten je nach Vertragsart unterschiedlich sind.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Kenntnis des Unterschieds ist wichtig, da die <strong>Rechte und Pflichten</strong> der Vertragsparteien je nach Vertragsart <strong>variieren</strong>."
+        },
+        {
+          "text": "Weil beide Vertragsarten im Gesetz genau gleich geregelt sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die beiden Vertragsarten sind im Gesetz <strong>unterschiedlich geregelt</strong>."
+        },
+        {
+          "text": "Weil es im Alltag keine Rolle spielt, welche Vertragsart vorliegt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Vertragsart ist <strong>entscheidend</strong> für die rechtliche Beurteilung und die Rechte der Beteiligten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Aussage beschreibt am besten den Unterschied in der 'Schuld' zwischen Werkvertrag und einfachem Auftrag?</p>",
+      "options": [
+        {
+          "text": "Beim Werkvertrag schuldet der Unternehmer nur sorgfältiges Bemühen, beim einfachen Auftrag ein konkretes Resultat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist genau umgekehrt: Beim <strong>Werkvertrag</strong> wird ein <strong>Resultat</strong> geschuldet, beim <strong>einfachen Auftrag</strong> das <strong>sorgfältige Bemühen</strong>."
+        },
+        {
+          "text": "Beim Werkvertrag schuldet der Unternehmer ein konkretes Resultat, beim einfachen Auftrag sorgfältiges Bemühen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Dies ist der zentrale Unterschied: <strong>Erfolgshaftung</strong> beim Werkvertrag, <strong>Sorgfaltshaftung</strong> beim einfachen Auftrag."
+        },
+        {
+          "text": "In beiden Fällen schuldet man das gleiche, nämlich eine erfolgreiche Vertragserfüllung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Art der 'Schuld' bzw. der geschuldeten Leistung ist <strong>unterschiedlich</strong>."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Werkvertrag ist nur gültig, wenn er schriftlich abgeschlossen wird.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Der Werkvertrag ist formlos gültig.",
+      "feedback_incorrect": "Richtig. Der Werkvertrag ist formlos gültig und muss nicht schriftlich sein."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Beim Werkvertrag haftet der Unternehmer für Mängel am Werk.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Der Unternehmer haftet für Mängel am Werk und muss dafür einstehen.",
+      "feedback_incorrect": "Falsch. Der Unternehmer haftet tatsächlich für Mängel am Werk."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Garantiezeit für alle Werkverträge beträgt immer fünf Jahre.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Garantiezeit beträgt fünf Jahre für Bauwerke und ein Jahr für übrige Werke.",
+      "feedback_incorrect": "Richtig. Die Garantiezeit ist nicht für alle Werkverträge gleich, sondern unterscheidet sich je nach Art des Werks."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein einfacher Auftrag muss immer entgeltlich sein.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Ein einfacher Auftrag kann auch unentgeltlich sein, aber in der Regel ist eine Vergütung üblich oder vereinbart.",
+      "feedback_incorrect": "Richtig. Ein einfacher Auftrag kann auch unentgeltlich sein."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Beim einfachen Auftrag haftet der Beauftragte für ein bestimmtes Ergebnis.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Beim einfachen Auftrag haftet der Beauftragte für sorgfältiges Handeln, nicht für ein bestimmtes Ergebnis.",
+      "feedback_incorrect": "Richtig. Die Haftung beim einfachen Auftrag bezieht sich auf die Sorgfalt, nicht auf den Erfolg."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein einfacher Auftrag kann von beiden Vertragsparteien jederzeit aufgelöst werden.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Beide Parteien können den einfachen Auftrag grundsätzlich jederzeit auflösen.",
+      "feedback_incorrect": "Falsch. Es ist korrekt, dass beide Parteien den einfachen Auftrag jederzeit auflösen können."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wenn ein Schreiner ein Standardregal verkauft, handelt es sich um einen Werkvertrag.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Der Verkauf eines Standardregals ist eher ein Kaufvertrag, da es sich um eine fertige Ware handelt.",
+      "feedback_incorrect": "Richtig. Dies wäre eher ein Kaufvertrag, kein Werkvertrag."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Reparatur eines Autos ist ein typisches Beispiel für einen Werkvertrag.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Bei der Autoreparatur wird ein konkretes Werk (das reparierte Auto) erstellt, daher ist es ein Werkvertrag.",
+      "feedback_incorrect": "Falsch. Die Autoreparatur ist tatsächlich ein typisches Beispiel für einen Werkvertrag."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein Coiffeurbesuch ist ein Beispiel für einen Werkvertrag, da ein konkretes Ergebnis (die Frisur) erzielt wird.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Ein Coiffeurbesuch ist eher ein einfacher Auftrag, da die Dienstleistung (Haareschneiden) im Vordergrund steht, auch wenn ein Ergebnis sichtbar ist.",
+      "feedback_incorrect": "Richtig. Dies ist eher ein einfacher Auftrag, kein Werkvertrag."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Beim Werkvertrag ist der Unternehmer verpflichtet, das Werk persönlich herzustellen, auch wenn er keine Zeit hat.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Der Unternehmer muss das Werk in der Regel selbst oder unter seiner Leitung herstellen lassen, aber es gibt Flexibilität.",
+      "feedback_incorrect": "Richtig. Es gibt Ausnahmen von der persönlichen Werkherstellung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Auch nach Vollendung eines Werks kann der Besteller noch vom Werkvertrag zurücktreten, wenn der Preis stark überschritten wurde.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Bei unverhältnismässiger Preisüberschreitung kann der Besteller auch nach Vollendung noch zurücktreten.",
+      "feedback_incorrect": "Falsch. Es ist korrekt, dass ein Rücktritt unter diesen Bedingungen möglich ist."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Beim einfachen Auftrag schuldet der Beauftragte dem Auftraggeber immer Schadenersatz, wenn er den Auftrag nicht erfolgreich abschliesst.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Schadenersatz ist nur bei unsorgfältigem Handeln oder unzeitiger Kündigung geschuldet, nicht automatisch bei Misserfolg.",
+      "feedback_incorrect": "Richtig. Schadenersatz ist nicht automatisch bei Misserfolg geschuldet."
+    }
+  ]
+}

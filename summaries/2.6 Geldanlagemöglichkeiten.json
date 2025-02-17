@@ -1,0 +1,151 @@
+{
+  "title": "Geldanlagemöglichkeiten - Was stimmt?",
+  "headerImage": "",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "correct_sentence": "Wer sein Geld anlegt, stellt es jemandem zur Verfügung und erwartet dafür einen Gewinn, der als Zins bezeichnet wird.",
+      "wrong_alternatives": [
+        "Wenn man sein Geld anlegt, gibt man es aus, ohne einen direkten Gewinn zu erwarten, da das Hauptziel die Unterstützung von Finanzinstituten ist.",
+        "Bei einer Geldanlage verzichtet man bewusst auf jeglichen Gewinn, um die Stabilität des Finanzsystems zu fördern und keine persönlichen Vorteile zu erzielen."
+      ]
+    },
+    {
+      "correct_sentence": "Die Rendite gibt Auskunft über das Verhältnis des Ertrags zum eingesetzten Betrag und wird meist als Prozentsatz angegeben.",
+      "wrong_alternatives": [
+        "Die Rendite wird immer in festen Geldbeträgen angegeben und zeigt den absoluten Gewinn unabhängig vom eingesetzten Kapital.",
+        "Die Rendite ist ein fester Wert, der jährlich von der Bank vorgegeben wird und sich nicht nach dem Verhältnis zum eingesetzten Betrag richtet."
+      ]
+    },
+    {
+      "correct_sentence": "Die Höhe des Zinssatzes und damit die Rendite hängen davon ab, wie eingeschränkt der Zugang zum Geld ist.",
+      "wrong_alternatives": [
+        "Der Zinssatz und die Rendite sind unabhängig von der Verfügbarkeit des Geldes und werden ausschliesslich durch die allgemeine Wirtschaftslage bestimmt.",
+        "Je freier der Zugang zum angelegten Geld ist, desto höher ist der Zinssatz, da Banken liquide Mittel bevorzugen und dies belohnen."
+      ]
+    },
+    {
+      "correct_sentence": "Je höher die Rendite sein soll, desto grössere Risiken muss ein Anleger in Kauf nehmen.",
+      "wrong_alternatives": [
+        "Höhere Renditen sind stets mit geringeren Risiken verbunden, da sichere Anlagen automatisch höhere Gewinne abwerfen.",
+        "Das Risiko einer Geldanlage ist unabhängig von der Rendite und wird ausschliesslich durch die Seriosität des Anbieters bestimmt."
+      ]
+    },
+    {
+      "correct_sentence": "Das magische Dreieck der Geldanlage veranschaulicht, dass Rendite, Liquidität und Risiko miteinander konkurrieren.",
+      "wrong_alternatives": [
+        "Das magische Dreieck der Geldanlage zeigt, dass Rendite, Liquidität und Risiko sich ergänzen und gleichzeitig maximiert werden können.",
+        "Im magischen Dreieck der Geldanlage sind Rendite, Liquidität und Risiko voneinander unabhängig und beeinflussen sich nicht gegenseitig."
+      ]
+    },
+    {
+      "correct_sentence": "Bei seriösen Kapitalanlagen sind im magischen Dreieck der Geldanlage immer nur zwei von drei Zielen gleichzeitig erreichbar.",
+      "wrong_alternatives": [
+        "Seriöse Kapitalanlagen zeichnen sich dadurch aus, dass sie alle drei Ziele des magischen Dreiecks – Rendite, Liquidität und Sicherheit – gleichzeitig erfüllen.",
+        "Bei unseriösen Kapitalanlagen sind alle drei Ziele des magischen Dreiecks – Rendite, Liquidität und Sicherheit – garantiert und ohne Einschränkungen erreichbar."
+      ]
+    },
+    {
+      "correct_sentence": "Sparkonten schränken die Verfügbarkeit des Geldes ein, werfen aber tendenziell höhere Renditen ab als Lohnkonten.",
+      "wrong_alternatives": [
+        "Lohnkonten bieten im Vergleich zu Sparkonten stets höhere Renditen, da sie für den täglichen Zahlungsverkehr konzipiert sind und somit attraktiver sein müssen.",
+        "Sparkonten und Lohnkonten unterscheiden sich nicht in ihrer Rendite, da der Zinssatz für beide Kontoarten gesetzlich festgelegt und identisch ist."
+      ]
+    },
+    {
+      "correct_sentence": "Obligationen sind eine Art Quittung für Geld, das für eine vereinbarte Laufzeit dem Herausgeber gegeben wird.",
+      "wrong_alternatives": [
+        "Obligationen sind Gutscheine, die beim Herausgeber jederzeit gegen Waren oder Dienstleistungen eingetauscht werden können und keine Rückzahlung des Geldes vorsehen.",
+        "Obligationen sind Anteilscheine an Unternehmen, die dem Käufer Stimmrechte und einen Anteil am Gewinn, aber keine Rückzahlung des eingesetzten Kapitals garantieren."
+      ]
+    },
+    {
+      "correct_sentence": "Am Ende der Laufzeit einer Obligation erhält der Geldgeber sein Geld zurück, zusätzlich zu den jährlichen Zinszahlungen.",
+      "wrong_alternatives": [
+        "Am Ende der Laufzeit einer Obligation wird das Geld des Anlegers automatisch in neue Obligationen des gleichen Herausgebers reinvestiert, ohne Rückzahlung.",
+        "Am Ende der Laufzeit einer Obligation verfällt das angelegte Geld, da es sich um eine Spende an den Herausgeber handelt und keine Rückzahlung vorgesehen ist."
+      ]
+    },
+    {
+      "correct_sentence": "Mit dem Kauf einer Aktie wird man Miteigentümer einer Unternehmung und erhält das Recht zur Teilnahme an der Generalversammlung.",
+      "wrong_alternatives": [
+        "Der Kauf einer Aktie gewährt dem Käufer lediglich ein Vorkaufsrecht auf Produkte des Unternehmens, aber keine Eigentumsrechte oder Teilnahme an Entscheidungsprozessen.",
+        "Mit dem Kauf einer Aktie erwirbt man ein Anrecht auf lebenslange, feste Zinszahlungen des Unternehmens, unabhängig von dessen wirtschaftlichem Erfolg oder Misserfolg."
+      ]
+    },
+    {
+      "correct_sentence": "Aktionäre erhalten einen Teil der allfälligen Gewinnausschüttung der Firma, die Dividende pro Aktie.",
+      "wrong_alternatives": [
+        "Aktionäre haben Anspruch auf eine jährliche Bonuszahlung in Form von Naturalien, wie beispielsweise Produkte des Unternehmens, anstatt einer finanziellen Dividende.",
+        "Aktionäre erhalten automatisch einen festen Anteil am Jahresumsatz des Unternehmens, unabhängig davon, ob das Unternehmen tatsächlich einen Gewinn erzielt hat oder nicht."
+      ]
+    },
+    {
+      "correct_sentence": "Der Ertrag einer Aktie ist im Unterschied zur Obligation schwierig vorauszusehen, da Aktienkurse schwanken können.",
+      "wrong_alternatives": [
+        "Der Ertrag einer Aktie ist im Gegensatz zur Obligation immer garantiert und vorhersehbar, da Aktienkurse staatlich reguliert und stabil gehalten werden.",
+        "Der Ertrag einer Aktie ist genauso sicher und planbar wie bei einer Obligation, da beide Anlageformen denselben gesetzlichen Schwankungsbeschränkungen unterliegen."
+      ]
+    },
+    {
+      "correct_sentence": "Beim Verkauf von Aktien an der Börse erhält man das investierte Geld zurück, wobei Gewinne oder Verluste möglich sind.",
+      "wrong_alternatives": [
+        "Beim Verkauf von Aktien an der Börse erhält man stets den exakt gleichen Betrag zurück, den man investiert hat, da Aktienkurse niemals schwanken dürfen.",
+        "Beim Verkauf von Aktien an der Börse verbleibt das investierte Geld beim Unternehmen, da Aktienkäufe unwiderrufliche Investitionen ohne Rückzahlung darstellen."
+      ]
+    },
+    {
+      "correct_sentence": "Fonds investieren in ein Paket aus Aktien und Obligationen, um das Risiko zu streuen.",
+      "wrong_alternatives": [
+        "Fonds konzentrieren ihre Investitionen ausschliesslich auf hochspekulative Einzelaktien, um maximale Renditen zu erzielen und Risikostreuung zu vermeiden.",
+        "Fonds investieren nur in Immobilien und Rohstoffe, da diese als besonders sichere und wertstabile Anlagen gelten und keine Risikostreuung benötigen."
+      ]
+    },
+    {
+      "correct_sentence": "Je höher der Aktienanteil in einem Fonds ist, desto risikoreicher ist die Investition.",
+      "wrong_alternatives": [
+        "Der Aktienanteil in einem Fonds hat keinen Einfluss auf das Risiko, da Fonds generell als sichere Anlageform gelten, unabhängig von der Zusammensetzung.",
+        "Je höher der Aktienanteil in einem Fonds, desto geringer ist das Risiko, da Aktien als besonders wertstabil und sichere Anlagen betrachtet werden."
+      ]
+    },
+    {
+      "correct_sentence": "Kryptowährungen sind dezentral aufgebaut und unabhängig vom traditionellen Banken- und Geldsystem.",
+      "wrong_alternatives": [
+        "Kryptowährungen werden zentral von Grossbanken und Staaten kontrolliert und reguliert, um die Stabilität des Finanzsystems zu gewährleisten.",
+        "Kryptowährungen sind eng in das traditionelle Bankensystem integriert und unterliegen denselben Regulierungen und Kontrollen wie herkömmliche Währungen."
+      ]
+    },
+    {
+      "correct_sentence": "Die grosse Volatilität von Kryptowährungen macht sie zu einer hochriskanten Anlage.",
+      "wrong_alternatives": [
+        "Die Volatilität von Kryptowährungen ist minimal und vergleichbar mit stabilen Währungen, was sie zu einer sicheren Anlage macht.",
+        "Die Volatilität von Kryptowährungen ist ein Zeichen für ihre Stabilität und Verlässlichkeit als Wertanlage, da Kursschwankungen ausgeschlossen sind."
+      ]
+    },
+    {
+      "correct_sentence": "Kryptowährungen sind aufgrund ihrer Volatilität im Alltag als Zahlungsmittel wenig geeignet.",
+      "wrong_alternatives": [
+        "Kryptowährungen sind ideal für den täglichen Zahlungsverkehr geeignet, da ihre Kurse extrem stabil sind und keine Wertschwankungen auftreten.",
+        "Kryptowährungen sind das perfekte Zahlungsmittel im Alltag, da sie staatlich garantiert und gegen jegliche Wertverluste abgesichert sind."
+      ]
+    },
+    {
+      "correct_sentence": "Bei einem Börsencrash schützen auch Fonds nicht vor erheblichen Verlusten.",
+      "wrong_alternatives": [
+        "Fonds bieten selbst bei einem Börsencrash einen vollständigen Schutz vor Verlusten, da sie staatlich garantiert und gegen Marktschwankungen immun sind.",
+        "Fonds sind so konstruiert, dass sie bei einem Börsencrash automatisch Gewinne erzielen, da sie von fallenden Kursen profitieren und somit eine sichere Anlage darstellen."
+      ]
+    },
+    {
+      "correct_sentence": "Banken senkten im Laufe des Jahres 2019 die Zinssätze auf Sparkonten teilweise auf null Prozent.",
+      "wrong_alternatives": [
+        "Banken erhöhten im Jahr 2019 die Zinssätze auf Sparkonten massiv, um Sparer für die Inflation zu entschädigen und Anlagen attraktiver zu machen.",
+        "Banken haben die Zinssätze auf Sparkonten seit jeher konstant gehalten und Veränderungen in den letzten Jahrzehnten vermieden, um die Stabilität zu gewährleisten."
+      ]
+    }
+  ]
+}

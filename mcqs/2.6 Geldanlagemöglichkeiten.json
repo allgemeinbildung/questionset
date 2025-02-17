@@ -1,0 +1,436 @@
+{
+  "title": "Verständnisfragen Geldanlagen",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie wird der Gewinn genannt, den man erwartet, wenn man sein Geld anlegt?</p>",
+      "options": [
+        {
+          "text": "Rendite",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Rendite</strong> beschreibt das <strong>Verhältnis des Ertrags zum eingesetzten Kapital</strong>, nicht den direkten Gewinn."
+        },
+        {
+          "text": "Zins",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der erwartete <strong>Gewinn</strong> aus einer Geldanlage wird als <strong>Zins</strong> bezeichnet."
+        },
+        {
+          "text": "Liquidität",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Liquidität</strong> beschreibt die <strong>Verfügbarkeit des Geldes</strong>, nicht den Gewinn."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welcher Einheit wird die Rendite meistens angegeben?</p>",
+      "options": [
+        {
+          "text": "Franken",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Rendite</strong> wird nicht in <strong>Franken</strong>, sondern als <strong>Prozentsatz</strong> angegeben."
+        },
+        {
+          "text": "Prozent",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Rendite</strong> wird üblicherweise als <strong>Prozentsatz</strong> angegeben."
+        },
+        {
+          "text": "Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Rendite</strong> wird nicht in <strong>Jahren</strong>, sondern als <strong>Prozentsatz</strong> angegeben."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches der folgenden Kriterien gehört <u>nicht</u> zum magischen Dreieck der Geldanlage?</p>",
+      "options": [
+        {
+          "text": "Rentabilität",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Rentabilität</strong> (Rendite) ist ein Teil des <strong>magischen Dreiecks</strong>."
+        },
+        {
+          "text": "Liquidität",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Liquidität</strong> (Rückzugsmöglichkeit) ist ein Teil des <strong>magischen Dreiecks</strong>."
+        },
+        {
+          "text": "Nachhaltigkeit",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Nachhaltigkeit</strong> gehört <u>nicht</u> zum <strong>magischen Dreieck der Geldanlage</strong>, welches aus <strong>Rendite</strong>, <strong>Risiko</strong> und <strong>Liquidität</strong> besteht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie nennt man die Wertschriften, bei denen der Käufer Miteigentümer einer Unternehmung wird?</p>",
+      "options": [
+        {
+          "text": "Obligationen",
+          "is_correct": false,
+          "feedback": "❌ Falsch, bei <strong>Obligationen</strong> wird man zum <strong>Gläubiger</strong>, nicht zum <strong>Miteigentümer</strong>."
+        },
+        {
+          "text": "Aktien",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Mit dem Kauf von <strong>Aktien</strong> wird man zum <strong>Miteigentümer</strong> einer Unternehmung."
+        },
+        {
+          "text": "Fonds",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>Fonds</strong> sind <strong>Pakete von Wertschriften</strong>, machen Sie aber nicht direkt zum Miteigentümer eines einzelnen Unternehmens."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Aussage beschreibt eine Obligation am besten?</p>",
+      "options": [
+        {
+          "text": "Eine Beteiligung an einer Firma.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, eine <strong>Beteiligung an einer Firma</strong> ist typisch für eine <strong>Aktie</strong>."
+        },
+        {
+          "text": "Eine Art Quittung für geliehenes Geld.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Eine <strong>Obligation</strong> ist wie eine <strong>Quittung</strong>, die bestätigt, dass man Geld verliehen hat."
+        },
+        {
+          "text": "Ein Anteil an einem Wertschriftenpaket.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, ein <strong>Anteil an einem Wertschriftenpaket</strong> beschreibt eher einen <strong>Fonds</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist typisch für Kryptowährungen?</p>",
+      "options": [
+        {
+          "text": "Hohe Stabilität im Wert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>Kryptowährungen</strong> sind bekannt für ihre <strong>hohe Volatilität</strong> (Wertschwankung), nicht für Stabilität."
+        },
+        {
+          "text": "Dezentrale Struktur unabhängig von Banken.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Kryptowährungen</strong> sind <strong>dezentral</strong> und <strong>unabhängig vom traditionellen Bankensystem</strong> aufgebaut."
+        },
+        {
+          "text": "Geringes Risiko und hohe Sicherheit.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>Kryptowährungen</strong> sind für ihr <strong>hohes Risiko</strong> bekannt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Kontoart bietet tendenziell höhere Zinsen, schränkt aber die Verfügbarkeit des Geldes ein?</p>",
+      "options": [
+        {
+          "text": "Lohnkonto",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das <strong>Lohnkonto</strong> bietet <strong>tiefe Zinsen</strong>, dafür aber <strong>hohe Verfügbarkeit</strong>."
+        },
+        {
+          "text": "Sparkonto",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das <strong>Sparkonto</strong> bietet tendenziell <strong>höhere Zinsen</strong>, schränkt aber die <strong>Verfügbarkeit</strong> ein."
+        },
+        {
+          "text": "Privatkonto",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das <strong>Privatkonto</strong> ist ähnlich dem <strong>Lohnkonto</strong> und bietet <strong>tiefe Zinsen</strong> bei <strong>hoher Verfügbarkeit</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was erhält ein Aktionär zusätzlich zum Recht an der Generalversammlung teilzunehmen?</p>",
+      "options": [
+        {
+          "text": "Einen festen jährlichen Zins.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, einen <strong>festen jährlichen Zins</strong> erhält man bei <strong>Obligationen</strong>."
+        },
+        {
+          "text": "Eine allfällige Dividende.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Aktionäre erhalten zusätzlich eine <strong>allfällige Dividende</strong>, abhängig vom Unternehmenserfolg."
+        },
+        {
+          "text": "Die Garantie auf Kursgewinne.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, es gibt <strong>keine Garantie auf Kursgewinne</strong> bei Aktien, sondern auch das Risiko von <strong>Kursverlusten</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es wichtig, bei Geldanlagen auf die Rendite zu achten?</p>",
+      "options": [
+        {
+          "text": "Weil eine hohe Rendite immer sicher ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, eine <strong>hohe Rendite</strong> ist <u>nicht</u> immer sicher und oft mit <strong>höherem Risiko</strong> verbunden."
+        },
+        {
+          "text": "Weil die Rendite hilft, verschiedene Anlageangebote zu vergleichen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Rendite</strong> ermöglicht es, die <strong>Erträge verschiedener Geldanlagen</strong> miteinander zu <strong>vergleichen</strong>."
+        },
+        {
+          "text": "Weil die Rendite die Kontoführungsgebühren bestimmt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Rendite</strong> wird durch den <strong>Zinssatz</strong> und allfällige <strong>Gebühren beeinflusst</strong>, aber nicht umgekehrt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet 'Liquidität' im Zusammenhang mit Geldanlagen?</p>",
+      "options": [
+        {
+          "text": "Die Sicherheit einer Geldanlage vor Verlusten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Sicherheit</strong> beschreibt das <strong>Risiko</strong> einer Anlage, nicht die <strong>Liquidität</strong>."
+        },
+        {
+          "text": "Wie schnell und einfach man auf sein angelegtes Geld zugreifen kann.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Liquidität</strong> beschreibt, wie <strong>rasch und unkompliziert</strong> man wieder an sein <strong>angelegtes Geld</strong> gelangt."
+        },
+        {
+          "text": "Der Gewinn, den man mit einer Geldanlage erzielt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, der <strong>Gewinn</strong> wird als <strong>Zins</strong> oder <strong>Rendite</strong> bezeichnet, nicht als <strong>Liquidität</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum sind Geldanlagen, die maximale Rendite, absolute Sicherheit und ständige Verfügbarkeit versprechen, unseriös?</p>",
+      "options": [
+        {
+          "text": "Weil hohe Renditen immer mit hohen Risiken verbunden sind.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das <strong>magische Dreieck der Geldanlage</strong> zeigt, dass diese drei Ziele (**Rendite**, **Sicherheit**, **Liquidität**) konkurrieren und nicht gleichzeitig maximal erreichbar sind. <strong>Unseriöse Angebote</strong> ignorieren dieses Prinzip."
+        },
+        {
+          "text": "Weil nur Banken seriöse Geldanlagen anbieten dürfen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, auch <strong>andere Institute</strong> können <strong>seriöse Geldanlagen</strong> anbieten, aber unrealistische Versprechen sind immer ein Warnsignal."
+        },
+        {
+          "text": "Weil Geldanlagen mit hoher Rendite gesetzlich verboten sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>Geldanlagen mit hoher Rendite</strong> sind <u>nicht</u> verboten, aber sie sind immer mit <strong>höheren Risiken</strong> verbunden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Hauptvorteil eines Fonds gegenüber dem Kauf einzelner Aktien?</p>",
+      "options": [
+        {
+          "text": "Höhere garantierte Rendite.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>Fonds</strong> bieten <u>keine</u> <strong>garantierte Rendite</strong>, sondern streuen das <strong>Risiko</strong>."
+        },
+        {
+          "text": "Geringeres Risiko durch Streuung auf verschiedene Wertpapiere.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Hauptvorteil von <strong>Fonds</strong> ist die <strong>Risikostreuung</strong>, da sie in ein <strong>Paket aus Aktien und Obligationen</strong> investieren."
+        },
+        {
+          "text": "Direkte Mitsprache in den Unternehmen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>Fondsanteile</strong> geben <u>keine</u> <strong>direkte Mitsprache</strong> in den Unternehmen, deren Aktien im Fonds enthalten sind."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum sind Kryptowährungen als Zahlungsmittel im Alltag wenig geeignet?</p>",
+      "options": [
+        {
+          "text": "Wegen ihrer geringen Akzeptanz.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Akzeptanz</strong> ist zwar ein Faktor, aber nicht der Hauptgrund."
+        },
+        {
+          "text": "Wegen ihrer hohen Volatilität (Wertschwankung).",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>hohe Volatilität</strong> von <strong>Kryptowährungen</strong> macht sie als <strong>stabiles Zahlungsmittel unpraktisch</strong>."
+        },
+        {
+          "text": "Weil sie von Staaten kontrolliert werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>Kryptowährungen</strong> sind gerade <strong>dezentral</strong> und <strong>unabhängig von staatlicher Kontrolle</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Aussage beschreibt den Zusammenhang zwischen Risiko und Rendite am besten?</p>",
+      "options": [
+        {
+          "text": "Hohe Rendite bedeutet immer geringes Risiko.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, es ist genau umgekehrt: <strong>Hohe Rendite</strong> geht in der Regel mit <strong>höherem Risiko</strong> einher."
+        },
+        {
+          "text": "Je höher die angestrebte Rendite, desto grösser ist in der Regel das Risiko.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Um eine <strong>höhere Rendite</strong> zu erzielen, muss man in der Regel ein <strong>höheres Risiko</strong> eingehen."
+        },
+        {
+          "text": "Risiko und Rendite sind voneinander unabhängig.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>Risiko und Rendite</strong> stehen in einem <strong>direkten Zusammenhang</strong>, sie sind <u>nicht</u> unabhängig."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was passiert mit dem Zinssatz, wenn man sein Geld für einen längeren Zeitraum fest anlegt und nicht kurzfristig abheben kann?</p>",
+      "options": [
+        {
+          "text": "Der Zinssatz bleibt gleich.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, der <strong>Zinssatz ändert sich</strong> in der Regel, wenn die <strong>Verfügbarkeit eingeschränkt</strong> wird."
+        },
+        {
+          "text": "Der Zinssatz sinkt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, der <strong>Zinssatz sinkt</strong> eher, wenn die <strong>Verfügbarkeit hoch</strong> ist."
+        },
+        {
+          "text": "Der Zinssatz steigt tendenziell.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Wenn man das <strong>Geld längerfristig anlegt</strong> und die <strong>Verfügbarkeit einschränkt</strong>, <strong>steigt der Zinssatz</strong> tendenziell als Belohnung für die eingeschränkte Liquidität."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Zins ist der Preis, den eine Bank für das Entgegennehmen von Geld bezahlt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig, der Zins ist genau das: der Preis für entgegengenommenes Geld.",
+      "feedback_incorrect": "Falsch, der Zins ist tatsächlich der Preis, den Banken für entgegengenommenes Geld zahlen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Rendite wird immer in Franken angegeben.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch, die Rendite wird meistens als Prozentsatz angegeben.",
+      "feedback_incorrect": "Richtig, die Rendite wird in Prozent, nicht in Franken angegeben."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Im magischen Dreieck der Geldanlage stehen Rendite, Risiko und Sicherheit im Wettbewerb zueinander.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch, im magischen Dreieck stehen Rendite, Risiko und Liquidität im Wettbewerb.",
+      "feedback_incorrect": "Richtig, im magischen Dreieck geht es um Rendite, Risiko und Liquidität, nicht Sicherheit."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Lohnkonto bietet tendenziell höhere Zinsen als ein Sparkonto.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch, Sparkonten bieten tendenziell höhere Zinsen als Lohnkonten.",
+      "feedback_incorrect": "Richtig, Lohnkonten haben tiefere Zinsen, Sparkonten höhere."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Mit dem Kauf einer Obligation wird man Miteigentümer einer Unternehmung.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch, mit dem Kauf einer Aktie wird man Miteigentümer, mit einer Obligation wird man Gläubiger.",
+      "feedback_incorrect": "Richtig, Obligationen machen Sie zum Gläubiger, nicht zum Miteigentümer."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Kryptowährungen sind für ihre geringe Volatilität bekannt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch, Kryptowährungen sind gerade für ihre hohe Volatilität (Wertschwankung) bekannt.",
+      "feedback_incorrect": "Richtig, Kryptowährungen sind sehr volatil, nicht wenig volatil."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine höhere Zinshöhe deutet in der Regel auf eine eingeschränktere Verfügbarkeit des Geldes hin.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig, Banken belohnen eingeschränkte Verfügbarkeit mit höheren Zinsen.",
+      "feedback_incorrect": "Falsch, höhere Zinsen gehen oft mit eingeschränkterer Verfügbarkeit einher."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Seriöse Geldanlagen versprechen immer maximale Rendite, absolute Sicherheit und ständige Verfügbarkeit.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch, seriöse Angebote können diese drei Ziele nicht gleichzeitig maximieren.",
+      "feedback_incorrect": "Richtig, unrealistische Versprechen sind ein Zeichen für unseriöse Angebote."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Aktien sind im Vergleich zu Obligationen tendenziell eine sicherere Geldanlage.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch, Aktien sind risikoreicher als Obligationen, bieten aber höhere Renditechancen.",
+      "feedback_incorrect": "Richtig, Aktien sind risikoreicher, Obligationen sind tendenziell sicherer."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Fonds bieten durch die Bündelung von Aktien und Obligationen eine höhere Sicherheit als Einzelaktien.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig, Fonds streuen das Risiko und sind daher oft sicherer als Einzelaktien.",
+      "feedback_incorrect": "Falsch, Fonds sind durch die Risikostreuung oft sicherer als Einzelaktien."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Je höher das Risiko einer Geldanlage, desto geringer ist tendenziell die erwartete Rendite.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch, ein höheres Risiko geht in der Regel mit einer höheren erwarteten Rendite einher.",
+      "feedback_incorrect": "Richtig, höheres Risiko bedeutet tendenziell höhere, nicht geringere Rendite."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Kontoführungsgebühr beeinflusst die tatsächliche Rendite einer Geldanlage.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig, Kontoführungsgebühren reduzieren den Ertrag und damit die Rendite.",
+      "feedback_incorrect": "Falsch, Gebühren schmälern den Gewinn und beeinflussen die Rendite negativ."
+    }
+  ]
+}

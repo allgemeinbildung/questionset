@@ -1,0 +1,490 @@
+{
+  "title": "Verständnisfragen zu Lohnabrechnung und Kontoauszug",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was versteht man unter dem Begriff <strong>Bruttolohn</strong>?</p>",
+      "options": [
+        {
+          "text": "Der Lohn nach Abzug aller Sozialversicherungsbeiträge.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das ist die Definition des <strong>Nettolohns</strong>. Der <strong>Bruttolohn</strong> ist der Lohn vor Abzügen."
+        },
+        {
+          "text": "Der mit dem Arbeitgeber vereinbarte Lohn vor Abzug der Sozialversicherungsbeiträge.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Der <strong>Bruttolohn</strong> ist der vereinbarte Lohn, bevor <strong>Abzüge</strong> wie Sozialversicherungsbeiträge gemacht werden."
+        },
+        {
+          "text": "Der Lohn inklusive Spesenentschädigungen und Sozialzulagen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Spesenentschädigungen</strong> und <strong>Sozialzulagen</strong> werden zum <strong>Nettolohn</strong> hinzugerechnet, nicht zum <strong>Bruttolohn</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden Optionen ist ein Beispiel für einen <strong>Lohnzuschlag</strong>?</p>",
+      "options": [
+        {
+          "text": "AHV-Beiträge",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>AHV-Beiträge</strong> sind <strong>Lohnabzüge</strong>, keine <strong>Lohnzuschläge</strong>."
+        },
+        {
+          "text": "Überstundenentschädigung",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! <strong>Überstundenentschädigung</strong> ist ein typischer <strong>Lohnzuschlag</strong>."
+        },
+        {
+          "text": "NBU-Prämie",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>NBU-Prämie</strong> ist ein <strong>Lohnabzug</strong> für die Nichtberufsunfallversicherung."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der <strong>Bruttolohn</strong> ist immer höher als der <strong>Nettolohn</strong>.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Da vom <strong>Bruttolohn</strong> die <strong>Abzüge</strong> gemacht werden, ist der <strong>Nettolohn</strong> immer kleiner oder gleich dem <strong>Bruttolohn</strong>.",
+      "feedback_incorrect": "Falsch. Der <strong>Bruttolohn</strong> ist der Lohn vor <strong>Abzügen</strong> und daher immer höher oder gleich dem <strong>Nettolohn</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der <strong>Nettolohn</strong> ist der Betrag, der vor den <strong>Sozialversicherungsbeiträgen</strong> ausbezahlt wird.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Der <strong>Nettolohn</strong> ist der Betrag, der *nach* Abzug der <strong>Sozialversicherungsbeiträge</strong> ausbezahlt wird.",
+      "feedback_incorrect": "Richtig. Der <strong>Nettolohn</strong> wird *nach* den <strong>Sozialversicherungsbeiträgen</strong> ausbezahlt."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es wichtig, den <strong>Nettolohn</strong> zu berechnen?</p>",
+      "options": [
+        {
+          "text": "Um die Höhe der Sozialversicherungsbeiträge zu kennen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Berechnung des <strong>Nettolohns</strong> zeigt nicht primär die Höhe der <strong>Sozialversicherungsbeiträge</strong>, sondern den <strong>auszahlbaren Betrag</strong>."
+        },
+        {
+          "text": "Um zu wissen, welcher Betrag tatsächlich auf dem Konto gutgeschrieben wird und für die persönliche Finanzplanung zur Verfügung steht.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Der <strong>Nettolohn</strong> zeigt, was effektiv auf Ihrem Konto landet und ist somit entscheidend für Ihre <strong>Finanzplanung</strong>."
+        },
+        {
+          "text": "Um den Bruttolohn mit anderen Löhnen vergleichen zu können.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Bruttolohn</strong> ist die Vergleichsbasis, da der <strong>Nettolohn</strong> von individuellen <strong>Abzügen</strong> beeinflusst wird."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen <strong>Zusammenhang</strong> gibt es zwischen <strong>Brutto- und Nettolohn</strong>?</p>",
+      "options": [
+        {
+          "text": "Der Nettolohn wird zum Bruttolohn addiert, um den Auszahlungsbetrag zu erhalten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Nettolohn</strong> ist das Ergebnis der <strong>Subtraktion</strong> von <strong>Abzügen</strong> vom <strong>Bruttolohn</strong>."
+        },
+        {
+          "text": "Der Nettolohn ist der Bruttolohn abzüglich der Lohnabzüge.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Der <strong>Nettolohn</strong> ergibt sich, indem man vom <strong>Bruttolohn</strong> die <strong>Lohnabzüge</strong> subtrahiert."
+        },
+        {
+          "text": "Brutto- und Nettolohn sind synonyme Begriffe und bezeichnen denselben Betrag.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Brutto- und Nettolohn</strong> sind <strong>nicht dasselbe</strong>. Sie unterscheiden sich durch die <strong>Lohnabzüge</strong>."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Das Verständnis von <strong>Brutto- und Nettolohn</strong> ist für die persönliche <strong>Finanzplanung</strong> unwichtig.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Das Verständnis ist sehr wichtig, da der <strong>Nettolohn</strong> das verfügbare Einkommen für die <strong>Finanzplanung</strong> darstellt.",
+      "feedback_incorrect": "Richtig. Das Verständnis ist <strong>essenziell</strong>, da nur der <strong>Nettolohn</strong> für die <strong>persönliche Finanzplanung</strong> relevant ist."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die <strong>Lohnabrechnung</strong> zeigt ausschliesslich den <strong>Nettolohn</strong>.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die <strong>Lohnabrechnung</strong> weist sowohl den <strong>Brutto- als auch den Nettolohn</strong> aus und detailliert die <strong>Abzüge</strong>.",
+      "feedback_incorrect": "Richtig. Die <strong>Lohnabrechnung</strong> zeigt <strong>beide Löhne</strong> und die dazwischenliegenden <strong>Abzüge</strong>."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden Optionen ist ein Beispiel für einen <strong>obligatorischen Lohnabzug</strong> in der Schweiz?</p>",
+      "options": [
+        {
+          "text": "Beiträge für eine private Krankenzusatzversicherung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Private Krankenzusatzversicherungen</strong> sind <strong>freiwillig</strong> und keine <strong>obligatorischen Lohnabzüge</strong>."
+        },
+        {
+          "text": "AHV-Beiträge (Alters- und Hinterlassenenversicherung)",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! <strong>AHV-Beiträge</strong> sind <strong>obligatorische Sozialversicherungsbeiträge</strong> in der Schweiz."
+        },
+        {
+          "text": "Spenden an eine gemeinnützige Organisation",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Spenden</strong> sind <strong>freiwillig</strong> und keine <strong>obligatorischen Lohnabzüge</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Nennen Sie eine <strong>Sozialversicherung</strong>, für die in der Schweiz <strong>Beiträge vom Lohn abgezogen</strong> werden.</p>",
+      "options": [
+        {
+          "text": "Motorfahrzeug-Haftpflichtversicherung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Motorfahrzeug-Haftpflichtversicherung</strong> ist keine <strong>Sozialversicherung</strong> und wird nicht vom Lohn abgezogen."
+        },
+        {
+          "text": "Arbeitslosenversicherung (ALV)",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die <strong>Arbeitslosenversicherung (ALV)</strong> ist eine <strong>Sozialversicherung</strong>, für die <strong>Lohnbeiträge</strong> abgezogen werden."
+        },
+        {
+          "text": "Hausratversicherung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Hausratversicherung</strong> ist keine <strong>Sozialversicherung</strong> und wird nicht vom Lohn abgezogen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der <strong>13. Monatslohn</strong> ist in der Schweiz ein <strong>obligatorischer Lohnzusatz</strong> für alle Arbeitnehmenden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Der <strong>13. Monatslohn</strong> ist <strong>nicht obligatorisch</strong>, sondern eine <strong>vertragliche Vereinbarung</strong> zwischen Arbeitgeber und Arbeitnehmer.",
+      "feedback_incorrect": "Richtig. Der <strong>13. Monatslohn</strong> ist <strong>nicht für alle obligatorisch</strong>, sondern eine <strong>freiwillige Leistung</strong> des Arbeitgebers."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p><strong>Berufskleidung</strong> ist immer ein <strong>Lohnabzug</strong>.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. <strong>Berufskleidung</strong> kann ein <strong>Lohnabzug</strong> sein, muss aber nicht. Es hängt von der <strong>Vereinbarung</strong> im <strong>Lehrvertrag</strong> ab.",
+      "feedback_incorrect": "Richtig. Ob <strong>Berufskleidung</strong> ein <strong>Lohnabzug</strong> ist, hängt von den <strong>vertraglichen Regelungen</strong> ab."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wie beeinflussen <strong>Lohnzusätze</strong> den <strong>Bruttolohn</strong>?</p>",
+      "options": [
+        {
+          "text": "Sie reduzieren den Bruttolohn, da sie vom vereinbarten Lohn abgezogen werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Lohnzusätze</strong> werden <strong>zum vereinbarten Lohn hinzugefügt</strong>, nicht abgezogen."
+        },
+        {
+          "text": "Sie erhöhen den Bruttolohn, da sie zum vereinbarten Lohn hinzugerechnet werden.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! <strong>Lohnzusätze</strong> wie <strong>Überstunden</strong> oder der <strong>13. Monatslohn</strong> erhöhen den <strong>Bruttolohn</strong>."
+        },
+        {
+          "text": "Sie haben keinen Einfluss auf den Bruttolohn, da sie separat behandelt werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Lohnzusätze</strong> sind <strong>Bestandteile des Bruttolohns</strong> und beeinflussen dessen Höhe."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen <strong>Zweck</strong> haben <strong>Lohnabzüge</strong>?</p>",
+      "options": [
+        {
+          "text": "Sie dienen ausschliesslich der Bereicherung des Arbeitgebers.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Lohnabzüge</strong> dienen <strong>nicht der Bereicherung des Arbeitgebers</strong>, sondern decken <strong>Sozialversicherungsbeiträge</strong> und andere <strong>vereinbarte Leistungen</strong> ab."
+        },
+        {
+          "text": "Sie decken Kosten für Sozialversicherungen und andere Leistungen, die dem Arbeitnehmenden zugutekommen.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! <strong>Lohnabzüge</strong> finanzieren <strong>Sozialversicherungen</strong> und decken Kosten für <strong>Leistungen</strong> wie <strong>Kost und Logis</strong>."
+        },
+        {
+          "text": "Sie sind willkürlich und dienen der Reduzierung des auszuzahlenden Lohns.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Lohnabzüge</strong> sind <strong>nicht willkürlich</strong>, sondern basieren auf <strong>gesetzlichen Grundlagen</strong> und <strong>vertraglichen Vereinbarungen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p><strong>Lohnabzüge</strong> führen immer zu einer <strong>Reduzierung des Nettolohns</strong>.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Da <strong>Lohnabzüge</strong> vom <strong>Bruttolohn</strong> subtrahiert werden, verringern sie den <strong>Nettolohn</strong>.",
+      "feedback_incorrect": "Falsch. <strong>Lohnabzüge</strong> mindern den <strong>Bruttolohn</strong> und führen somit zu einem <strong>tieferen Nettolohn</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Alle <strong>Lohnabzüge</strong> sind ausschliesslich zum <strong>Vorteil des Arbeitnehmenden</strong>.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Einige <strong>Lohnabzüge</strong>, wie <strong>Sozialversicherungsbeiträge</strong>, sind zum <strong>Vorteil des Arbeitnehmenden</strong>, andere decken <strong>betriebliche Kosten</strong> oder <strong>vereinbarte Leistungen</strong>.",
+      "feedback_incorrect": "Richtig. Nicht alle <strong>Lohnabzüge</strong> sind direkt zum <strong>Vorteil des Arbeitnehmenden</strong>, sondern dienen unterschiedlichen Zwecken."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche <strong>Sozialversicherung</strong> sichert gegen die finanziellen Folgen von <strong>Invalidität</strong> ab?</p>",
+      "options": [
+        {
+          "text": "Erwerbsersatzordnung (EO)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Erwerbsersatzordnung (EO)</strong> sichert den <strong>Erwerbsausfall</strong> bei <strong>Militär- oder Zivildienst</strong> ab, nicht bei <strong>Invalidität</strong>."
+        },
+        {
+          "text": "Invalidenversicherung (IV)",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die <strong>Invalidenversicherung (IV)</strong> ist die <strong>Sozialversicherung</strong>, die bei <strong>Invalidität</strong> finanzielle Unterstützung bietet."
+        },
+        {
+          "text": "Arbeitslosenversicherung (ALV)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Arbeitslosenversicherung (ALV)</strong> sichert bei <strong>Arbeitslosigkeit</strong> ab, nicht bei <strong>Invalidität</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Für welche <strong>Sozialversicherung</strong> leisten <strong>Arbeitnehmer und Arbeitgeber</strong> in der Regel <strong>jeweils die Hälfte der Beiträge</strong>?</p>",
+      "options": [
+        {
+          "text": "Nichtberufsunfallversicherung (NBU)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Nichtberufsunfallversicherung (NBU)</strong> wird meistens <strong>nur vom Arbeitnehmer</strong> bezahlt."
+        },
+        {
+          "text": "Alters- und Hinterlassenenversicherung (AHV)",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Bei der <strong>Alters- und Hinterlassenenversicherung (AHV)</strong> teilen sich <strong>Arbeitnehmer und Arbeitgeber</strong> die <strong>Beiträge in der Regel hälftig</strong>."
+        },
+        {
+          "text": "Berufsunfallversicherung (BU)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Berufsunfallversicherung (BU)</strong> wird <strong>vollständig vom Arbeitgeber</strong> bezahlt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die <strong>Nichtberufsunfallversicherung (NBU)</strong> sichert gegen <strong>Unfälle bei der Arbeit</strong> ab.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die <strong>Nichtberufsunfallversicherung (NBU)</strong> sichert gegen <strong>Unfälle in der Freizeit</strong> ab. <strong>Berufsunfälle</strong> werden durch die <strong>Berufsunfallversicherung (BU)</strong> abgedeckt.",
+      "feedback_incorrect": "Richtig. Die <strong>NBU</strong> deckt <strong>Freizeitunfälle</strong> ab, während <strong>Berufsunfälle</strong> durch die <strong>BU</strong> versichert sind."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die <strong>Arbeitslosenversicherung (ALV)</strong> ist eine <strong>freiwillige Versicherung</strong> in der Schweiz.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die <strong>Arbeitslosenversicherung (ALV)</strong> ist eine <strong>obligatorische Sozialversicherung</strong> in der Schweiz.",
+      "feedback_incorrect": "Richtig. Die <strong>ALV</strong> ist <strong>nicht freiwillig</strong>, sondern eine <strong>Pflichtversicherung</strong>."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum sind <strong>Sozialversicherungen</strong> wichtig für Arbeitnehmende?</p>",
+      "options": [
+        {
+          "text": "Weil sie den Bruttolohn erhöhen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Sozialversicherungen</strong> erhöhen <strong>nicht den Bruttolohn</strong>, sondern werden <strong>davon abgezogen</strong>."
+        },
+        {
+          "text": "Weil sie finanzielle Sicherheit in verschiedenen Lebenslagen wie Alter, Krankheit oder Arbeitslosigkeit bieten.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! <strong>Sozialversicherungen</strong> bieten <strong>finanzielle Sicherheit</strong> in wichtigen Lebenslagen und sind ein <strong>zentraler Bestandteil des Sozialstaates</strong>."
+        },
+        {
+          "text": "Weil sie vom Arbeitgeber freiwillig angeboten werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Sozialversicherungen</strong> sind <strong>gesetzlich vorgeschrieben</strong> und <strong>nicht freiwillig</strong> vom Arbeitgeber."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wer trägt die <strong>Kosten für die Sozialversicherungen</strong> in der Schweiz?</p>",
+      "options": [
+        {
+          "text": "Ausschliesslich der Arbeitnehmer.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Kosten</strong> werden in der Regel <strong>zwischen Arbeitnehmer und Arbeitgeber aufgeteilt</strong>."
+        },
+        {
+          "text": "Hauptsächlich Arbeitnehmer, aber auch Arbeitgeber.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die <strong>Kosten</strong> für die meisten <strong>Sozialversicherungen</strong> werden <strong>zwischen Arbeitnehmer und Arbeitgeber aufgeteilt</strong>, wobei beide Teile Beiträge leisten."
+        },
+        {
+          "text": "Ausschliesslich der Arbeitgeber.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Auch wenn der <strong>Arbeitgeber</strong> einen Teil der <strong>Beiträge</strong> trägt, leisten <strong>Arbeitnehmende</strong> ebenfalls <strong>Beiträge</strong>."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p><strong>Sozialversicherungen</strong> sind <strong>freiwillige Leistungen</strong> des Schweizer Staates.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. <strong>Sozialversicherungen</strong> sind <strong>gesetzlich verankert</strong> und bilden ein <strong>obligatorisches System</strong> der sozialen Sicherheit, keine <strong>freiwilligen Leistungen</strong>.",
+      "feedback_incorrect": "Richtig. <strong>Sozialversicherungen</strong> sind <strong>nicht freiwillig</strong>, sondern ein <strong>Pflichtsystem</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p><strong>Sozialversicherungen</strong> nutzen nur <strong>älteren Menschen</strong>.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. <strong>Sozialversicherungen</strong> schützen <strong>Menschen jeden Alters</strong> in verschiedenen Lebenslagen, nicht nur im Alter.",
+      "feedback_incorrect": "Richtig. <strong>Sozialversicherungen</strong> sind für <strong>alle Altersgruppen</strong> relevant und bieten Schutz in unterschiedlichen Situationen."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein <strong>Kontoauszug</strong>?</p>",
+      "options": [
+        {
+          "text": "Eine Zusammenfassung der monatlichen Lohnabrechnung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein <strong>Kontoauszug</strong> ist <strong>keine Lohnabrechnung</strong>, sondern eine <strong>Übersicht über Kontobewegungen</strong>."
+        },
+        {
+          "text": "Ein schriftliches Dokument, das die monatlichen Umsätze eines Bankkontos abbildet.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Ein <strong>Kontoauszug</strong> ist ein Dokument, das <strong>Einkünfte und Ausgaben</strong> auf einem <strong>Bankkonto</strong> in einem bestimmten Zeitraum zeigt."
+        },
+        {
+          "text": "Eine jährliche Übersicht über alle Vermögenswerte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein <strong>Kontoauszug</strong> ist <strong>monatlich</strong> und bezieht sich auf <strong>Kontobewegungen</strong>, nicht auf alle <strong>Vermögenswerte</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem <strong>Zeitraum</strong> werden <strong>Kontoauszüge</strong> üblicherweise erstellt?</p>",
+      "options": [
+        {
+          "text": "Jährlich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Kontoauszüge</strong> werden üblicherweise <strong>nicht jährlich</strong>, sondern in kürzeren Abständen erstellt."
+        },
+        {
+          "text": "Monatlich",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! <strong>Kontoauszüge</strong> werden meistens <strong>monatlich</strong> erstellt, um einen regelmässigen Überblick zu bieten."
+        },
+        {
+          "text": "Wöchentlich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl <strong>Kontoauszüge</strong> auch <strong>wöchentlich</strong> verfügbar sein können, ist <strong>monatlich</strong> die üblichste Frequenz."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein <strong>Kontoauszug</strong> zeigt nur die <strong>Einkünfte</strong> auf einem Bankkonto.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Ein <strong>Kontoauszug</strong> zeigt sowohl <strong>Einkünfte als auch Ausgaben</strong> und den <strong>Saldo</strong>.",
+      "feedback_incorrect": "Richtig. Ein <strong>Kontoauszug</strong> beinhaltet <strong>Einkünfte, Ausgaben und den Kontostand</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der <strong>Kontoauszug</strong> ist für die <strong>persönliche Finanzplanung</strong> nicht wichtig.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Der <strong>Kontoauszug</strong> ist sehr wichtig, da er einen <strong>Überblick über die Finanzen</strong> bietet und bei der <strong>Planung hilft</strong>.",
+      "feedback_incorrect": "Richtig. Der <strong>Kontoauszug</strong> ist ein <strong>zentrales Dokument</strong> für die <strong>persönliche Finanzplanung</strong>."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es sinnvoll, <strong>Kontoauszüge regelmässig zu überprüfen</strong>?</p>",
+      "options": [
+        {
+          "text": "Um die Höhe des Bruttolohns zu kontrollieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Kontoauszug</strong> zeigt den <strong>Nettolohn</strong> und <strong>Kontobewegungen</strong>, nicht den <strong>Bruttolohn</strong>."
+        },
+        {
+          "text": "Um einen Überblick über Einnahmen und Ausgaben zu behalten und Fehler oder Unregelmässigkeiten zu entdecken.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die <strong>regelmässige Kontrolle</strong> von <strong>Kontoauszügen</strong> hilft, die <strong>Finanzen zu überblicken</strong> und <strong>Fehler zu erkennen</strong>."
+        },
+        {
+          "text": "Um die Sozialversicherungsbeiträge zu berechnen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Berechnung der Sozialversicherungsbeiträge</strong> erfolgt bei der <strong>Lohnabrechnung</strong>, nicht beim <strong>Kontoauszug</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der <strong>Unterschied</strong> zwischen einem <strong>Papier- und einem elektronischen Kontoauszug</strong>?</p>",
+      "options": [
+        {
+          "text": "Der elektronische Kontoauszug enthält weniger Informationen als der Papierkontoauszug.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Beide Kontoauszugstypen</strong> enthalten die <strong>gleichen Informationen</strong>."
+        },
+        {
+          "text": "Der elektronische Kontoauszug wird digital bereitgestellt, während der Papierkontoauszug per Post versendet wird.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Der Hauptunterschied liegt in der <strong>Form der Zustellung</strong>: <strong>digital vs. physisch</strong>."
+        },
+        {
+          "text": "Nur der Papierkontoauszug ist ein rechtsgültiges Dokument.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Beide Formen</strong> des <strong>Kontoauszugs</strong> sind <strong>rechtsgültig</strong>."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein <strong>elektronischer Kontoauszug</strong> ist <strong>weniger sicher</strong> als ein <strong>Papierkontoauszug</strong>.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. <strong>Elektronische Kontoauszüge</strong> sind bei <strong>sicherer Übertragung und Speicherung</strong> nicht weniger sicher als Papierauszüge.",
+      "feedback_incorrect": "Richtig. Bei <strong>sachgemässer Handhabung</strong> sind <strong>elektronische Kontoauszüge</strong> genauso sicher wie <strong>Papierauszüge</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p><strong>Kontoauszüge</strong> helfen dabei, die <strong>persönlichen Ausgaben zu kontrollieren</strong>.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Durch die <strong>Analyse von Kontoauszügen</strong> können <strong>Ausgabenmuster erkannt</strong> und <strong>kontrolliert</strong> werden.",
+      "feedback_incorrect": "Falsch. <strong>Kontoauszüge</strong> sind ein <strong>wichtiges Werkzeug</strong>, um die <strong>eigenen Ausgaben zu überwachen</strong> und zu steuern."
+    }
+  ]
+}

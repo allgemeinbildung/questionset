@@ -1,0 +1,151 @@
+{
+  "title": "Zusammenfassungs-Zuordnung: Lohnabrechnung und Kontoauszug",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "correct_sentence": "Der Bruttolohn ist der Betrag, der zwischen Arbeitgeber und Arbeitnehmer vereinbart wird, bevor irgendwelche Abzüge vorgenommen werden.",
+      "wrong_alternatives": [
+        "Der Bruttolohn ist das Geld, das Arbeitnehmer nach allen Abzügen und Steuern tatsächlich auf ihr Bankkonto überwiesen bekommen.",
+        "Der Bruttolohn beinhaltet bereits alle staatlichen Zulagen und Spesenentschädigungen, die ein Arbeitnehmer erhalten kann."
+      ]
+    },
+    {
+      "correct_sentence": "Der Nettolohn ist das Arbeitsentgelt, das ein Arbeitnehmer nach Abzug aller gesetzlichen und vertraglich vereinbarten Sozialversicherungsbeiträge erhält.",
+      "wrong_alternatives": [
+        "Der Nettolohn wird immer direkt vom Staat festgelegt und ist für alle Arbeitnehmer in derselben Position identisch.",
+        "Der Nettolohn ist der Bruttolohn zuzüglich aller Zulagen und ohne jegliche Abzüge für Sozialversicherungen."
+      ]
+    },
+    {
+      "correct_sentence": "Zu den möglichen Lohnzusätzen zum vereinbarten Lohn gehören beispielsweise Lohnzuschläge für Überstunden, ein 13. Monatslohn, Gratifikationen oder Naturallohn.",
+      "wrong_alternatives": [
+        "Lohnzusätze sind verpflichtende Bestandteile des Lohns, die gesetzlich für jeden Arbeitnehmer vorgeschrieben sind und nicht abgelehnt werden können.",
+        "Lohnzusätze umfassen ausschliesslich Spesenentschädigungen und Sozialzulagen, die steuerfrei zum Nettolohn hinzukommen."
+      ]
+    },
+    {
+      "correct_sentence": "Vom Bruttolohn werden verschiedene Sozialversicherungsbeiträge abgezogen, wie AHV, IV, EO, ALV und NBU-Prämien, um den Nettolohn zu ermitteln.",
+      "wrong_alternatives": [
+        "Die Sozialversicherungsbeiträge werden vom Nettolohn abgezogen, um den Bruttolohn zu berechnen, welcher dann zur Auszahlung kommt.",
+        "Sozialversicherungsbeiträge sind freiwillige Abgaben, die Arbeitnehmer selbst entscheiden können, ob sie diese vom Lohn abziehen lassen möchten."
+      ]
+    },
+    {
+      "correct_sentence": "Lohnabzüge für Versicherungsprämien oder bezogene Leistungen wie Kost und Logis müssen im Lehrvertrag klar geregelt sein.",
+      "wrong_alternatives": [
+        "Lohnabzüge sind nur für staatliche Steuern zulässig und dürfen nicht für private Versicherungsprämien oder betriebliche Leistungen verwendet werden.",
+        "Lohnabzüge dürfen ohne vorherige Regelung im Lehrvertrag beliebig vom Arbeitgeber vorgenommen werden, solange der Mindestlohn nicht unterschritten wird."
+      ]
+    },
+    {
+      "correct_sentence": "Kosten für die obligatorische Berufsunfallversicherung, Schulbesuch, überbetriebliche Kurse und das Qualifikationsverfahren dürfen nicht von Lernenden abgezogen werden.",
+      "wrong_alternatives": [
+        "Diese Kosten dürfen von Lernenden abgezogen werden, solange dies im Lehrvertrag explizit vereinbart und von den Eltern unterschrieben wurde.",
+        "Abzüge für diese Kosten sind erlaubt, da sie als Teil der Ausbildungskosten gelten und vom Lernenden selbst getragen werden müssen."
+      ]
+    },
+    {
+      "correct_sentence": "Ab dem 18. Lebensjahr werden von Lernendenlöhnen obligatorische Sozialversicherungsbeiträge wie AHV, IV, EO und ALV abgezogen.",
+      "wrong_alternatives": [
+        "Diese Abzüge beginnen bereits mit dem 16. Lebensjahr, da Lernende ab diesem Alter voll steuerpflichtig sind und Sozialleistungen in Anspruch nehmen können.",
+        "Sozialversicherungsbeiträge werden erst ab dem 20. Lebensjahr obligatorisch, wenn Lernende ihre Ausbildung vollständig abgeschlossen haben."
+      ]
+    },
+    {
+      "correct_sentence": "Die Sozialversicherungsbeiträge für AHV, IV, EO und ALV werden jeweils zur Hälfte vom Arbeitgeber und vom Arbeitnehmer getragen.",
+      "wrong_alternatives": [
+        "Arbeitgeber tragen den Grossteil der Sozialversicherungsbeiträge, während Arbeitnehmer nur einen symbolischen Beitrag leisten müssen.",
+        "Arbeitnehmer sind verpflichtet, alle Sozialversicherungsbeiträge vollständig selbst zu tragen, da diese ihre persönliche Absicherung betreffen."
+      ]
+    },
+    {
+      "correct_sentence": "Zusätzlich zu den obligatorischen Sozialversicherungsbeiträgen kann die Nichtberufsunfallversicherung (NBU) vom Lohn abgezogen werden.",
+      "wrong_alternatives": [
+        "Die Nichtberufsunfallversicherung (NBU) ist im Bruttolohn enthalten und wird nicht separat als Abzug auf der Lohnabrechnung ausgewiesen.",
+        "Die NBU ist eine freiwillige Versicherung, deren Beiträge nur dann vom Lohn abgezogen werden, wenn der Arbeitnehmer dies ausdrücklich wünscht."
+      ]
+    },
+    {
+      "correct_sentence": "Auf der monatlichen Lohnabrechnung müssen alle Lohnabzüge detailliert und transparent aufgelistet sein, damit der Arbeitnehmer diese nachvollziehen kann.",
+      "wrong_alternatives": [
+        "Eine detaillierte Auflistung der Lohnabzüge ist nicht zwingend erforderlich; es genügt, wenn der Nettolohn korrekt ausgewiesen wird und die Gesamtabzüge stimmen.",
+        "Die Lohnabrechnung muss keine detaillierten Lohnabzüge enthalten, da diese Betriebsgeheimnisse des Arbeitgebers darstellen könnten."
+      ]
+    },
+    {
+      "correct_sentence": "Ein Kontoauszug ist ein schriftliches Dokument, das alle Kontobewegungen eines Bankkontos innerhalb eines bestimmten Zeitraums, meist monatlich, aufzeigt.",
+      "wrong_alternatives": [
+        "Ein Kontoauszug ist eine jährliche Zusammenfassung aller finanziellen Vermögenswerte und Schulden einer Person, einschliesslich Immobilien und Anlagen.",
+        "Der Kontoauszug ist lediglich eine Bestätigung des aktuellen Kontostands und enthält keine Informationen über einzelne Transaktionen oder Kontobewegungen."
+      ]
+    },
+    {
+      "correct_sentence": "Aus einem Kontoauszug können Einkünfte, Ausgaben und der aktuelle Kontostand abgelesen und nachvollzogen werden.",
+      "wrong_alternatives": [
+        "Der Kontoauszug dient primär der Bank zur internen Buchführung und ist für den Kontoinhaber nur bedingt relevant, da er keine detaillierten Informationen enthält.",
+        "Ein Kontoauszug zeigt nur die grössten Einnahmen und Ausgaben; kleinere Transaktionen werden aus Gründen der Übersichtlichkeit nicht aufgeführt."
+      ]
+    },
+    {
+      "correct_sentence": "Der elektronische Kontoauszug ist eine digitale Version des Kontoauszugs, bei dem die Kontodaten in Dateiformaten wie PDF bereitgestellt werden.",
+      "wrong_alternatives": [
+        "Elektronische Kontoauszüge sind weniger sicher als Papierauszüge und werden daher von den meisten Banken nicht standardmässig angeboten.",
+        "Elektronische Kontoauszüge enthalten nur eine verkürzte Version der Informationen im Vergleich zu den detaillierteren Papierkontoauszügen."
+      ]
+    },
+    {
+      "correct_sentence": "Elektronische Kontoauszüge können oft über das Online-Banking generiert und heruntergeladen werden, was den Zugriff und die Archivierung erleichtert.",
+      "wrong_alternatives": [
+        "Elektronische Kontoauszüge müssen immer kostenpflichtig bei der Bank angefordert werden und sind nicht direkt über das Online-Banking zugänglich.",
+        "Aus Sicherheitsgründen können elektronische Kontoauszüge nur in der Bankfiliale eingesehen, aber nicht heruntergeladen oder archiviert werden."
+      ]
+    },
+    {
+      "correct_sentence": "Die Lohnabrechnung eines 16-jährigen Lernenden zeigt typischerweise einen geringeren Bruttolohn und andere Abzüge als die einer 40-jährigen Mitarbeiterin.",
+      "wrong_alternatives": [
+        "Lohnabrechnungen von Lernenden und erfahrenen Mitarbeitern unterscheiden sich nicht wesentlich, da alle denselben gesetzlichen Lohnabzügen unterliegen.",
+        "16-jährige Lernende erhalten in der Regel einen höheren Bruttolohn als 40-jährige Mitarbeiter, um ihre Ausbildungskosten zu decken und den Berufseinstieg zu fördern."
+      ]
+    },
+    {
+      "correct_sentence": "Kinder- und Ausbildungszulagen sind Sozialzulagen, die zusätzlich zum Monatslohn ausbezahlt werden und den Nettolohn erhöhen können.",
+      "wrong_alternatives": [
+        "Kinder- und Ausbildungszulagen werden vom Bruttolohn abgezogen, da sie staatliche Unterstützungsleistungen darstellen und nicht zum eigentlichen Arbeitsentgelt gehören.",
+        "Sozialzulagen wie Kinder- und Ausbildungszulagen sind im Bruttolohn bereits enthalten und werden nicht separat auf der Lohnabrechnung ausgewiesen."
+      ]
+    },
+    {
+      "correct_sentence": "Repräsentationsspesen, die pauschal vergütet werden, sind Bestandteile des Bruttolohns und werden zusammen mit dem Monatslohn versteuert.",
+      "wrong_alternatives": [
+        "Repräsentationsspesen sind steuerfreie Zusatzzahlungen, die nicht zum Bruttolohn gehören und somit auch nicht in der Lohnabrechnung aufgeführt werden müssen.",
+        "Pauschale Repräsentationsspesen werden direkt vom Nettolohn abgezogen, da sie als private Ausgaben des Arbeitnehmers betrachtet werden."
+      ]
+    },
+    {
+      "correct_sentence": "Die Höhe der UVG-Beiträge (Unfallversicherungsbeiträge) kann je nach Branche und Risikoklasse des Betriebs unterschiedlich sein.",
+      "wrong_alternatives": [
+        "UVG-Beiträge sind für alle Branchen und Betriebe in der Schweiz gesetzlich auf einen einheitlichen Prozentsatz des Bruttolohns festgelegt.",
+        "Die UVG-Beiträge werden nicht vom Lohn abgezogen, sondern vollständig vom Arbeitgeber übernommen, unabhängig von der Branche oder Risikoklasse."
+      ]
+    },
+    {
+      "correct_sentence": "Beiträge für die berufliche Vorsorge (BVG) oder eine Krankentaggeldversicherung können zusätzliche Lohnabzüge darstellen, abhängig von den jeweiligen Versicherungsplänen.",
+      "wrong_alternatives": [
+        "BVG- und Krankentaggeldversicherungsbeiträge sind im Nettolohn bereits berücksichtigt und werden nicht separat als zusätzliche Abzüge aufgeführt.",
+        "Diese Beiträge sind freiwillig und werden nur dann vom Lohn abgezogen, wenn der Arbeitnehmer sich aktiv für diese Versicherungen entscheidet und die Kosten vollständig selbst trägt."
+      ]
+    },
+    {
+      "correct_sentence": "Der Kontoauszug ermöglicht es, die eigenen Finanzen zu kontrollieren, indem man Einnahmen und Ausgaben regelmässig überprüft und den Kontostand im Auge behält.",
+      "wrong_alternatives": [
+        "Die Finanzkontrolle sollte ausschliesslich über die Lohnabrechnung erfolgen, da der Kontoauszug nur unvollständige Informationen über die tatsächliche finanzielle Situation bietet.",
+        "Für eine effektive Finanzkontrolle ist der Kontoauszug irrelevant; es genügt, wenn man regelmässig den aktuellen Kontostand im Online-Banking überprüft."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "title": "Verständnisfragen zu Kaufvertragsarten Teil 1",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist die grundlegende Voraussetzung für den Abschluss eines Vertrages?</p>",
+      "options": [
+        {
+          "text": "Eine einseitige Willensbekundung einer Partei.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, für einen Vertrag braucht es die <strong>übereinstimmende Willens­äusserung</strong> von <strong>mindestens zwei Parteien</strong>."
+        },
+        {
+          "text": "Die gegenseitige übereinstimmende Willens­äusserung zweier oder mehrerer Parteien.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Für einen Vertrag ist die <strong>gegenseitige übereinstimmende Willens­äusserung</strong> von <strong>zwei oder mehreren Parteien</strong> erforderlich."
+        },
+        {
+          "text": "Das Vorliegen eines schriftlichen Dokuments.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, viele Verträge, wie z.B. der <strong>Kaufvertrag</strong>, sind auch <strong>mündlich gültig</strong>, sofern keine spezielle Formvorschrift besteht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche drei wesentlichen inhaltlichen Punkte müssen bei einem Kaufvertrag übereinstimmen?</p>",
+      "options": [
+        {
+          "text": "Ort, Zeit und Art der Zahlung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, diese Punkte sind zwar wichtig, aber nicht die <strong>wesentlichen inhaltlichen Punkte</strong> für den Vertragsabschluss."
+        },
+        {
+          "text": "Gegenstand, Menge und Preis.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die Vertragsparteien müssen sich über den <strong>Gegenstand</strong>, die <strong>Menge</strong> und den <strong>Preis</strong> einigen."
+        },
+        {
+          "text": "Farbe, Grösse und Material des Kaufgegenstandes.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, diese Details können wichtig sein, gehören aber nicht zu den <strong>wesentlichen inhaltlichen Punkten</strong> für jeden Kaufvertrag."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Vertragsform gilt grundsätzlich in der Schweiz, wenn das Gesetz keine besondere Form vorschreibt?</p>",
+      "options": [
+        {
+          "text": "Qualifizierte Schriftlichkeit.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>qualifizierte Schriftlichkeit</strong> ist eine spezielle Form, die nur in bestimmten Fällen vorgeschrieben ist."
+        },
+        {
+          "text": "Einfache Schriftlichkeit.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>einfache Schriftlichkeit</strong> ist eine Form, die in manchen Fällen vorgeschrieben ist, aber nicht die Grundform."
+        },
+        {
+          "text": "Formfreiheit.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! In der Schweiz gilt grundsätzlich die <strong>Formfreiheit</strong>, Verträge können also <strong>formlos gültig</strong> sein."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden Varianten gehört NICHT zu den schriftlichen Vertragsformen?</p>",
+      "options": [
+        {
+          "text": "Mündliche Vereinbarung.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die <strong>mündliche Vereinbarung</strong> ist eine <strong>formlose Vertragsform</strong> und gehört nicht zu den schriftlichen Vertragsformen."
+        },
+        {
+          "text": "Qualifizierte Schriftlichkeit.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>qualifizierte Schriftlichkeit</strong> ist eine der <strong>Varianten schriftlicher Verträge</strong>."
+        },
+        {
+          "text": "Öffentliche Beurkundung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>öffentliche Beurkundung</strong> ist eine der <strong>Varianten schriftlicher Verträge</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Beispiel für einen nichtigen Vertrag?</p>",
+      "options": [
+        {
+          "text": "Ein Vertrag, der aufgrund eines Irrtums angefochten wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, ein Vertrag, der aufgrund eines Irrtums angefochten wird, ist ein <strong>anfechtbarer Vertrag</strong>, nicht nichtig."
+        },
+        {
+          "text": "Ein Vertrag über den Kauf eines Sterns.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Der Kauf eines Sterns ist ein Beispiel für einen <strong>nichtigen Vertrag</strong>, da der Vertragsinhalt <strong>unmöglich</strong> ist."
+        },
+        {
+          "text": "Ein Vertrag, der mündlich abgeschlossen wurde.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>mündliche Verträge</strong> sind grundsätzlich <strong>gültig</strong>, sofern keine Formvorschrift verletzt wird."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Innerhalb welcher Frist kann eine benachteiligte Partei einen anfechtbaren Vertrag anfechten?</p>",
+      "options": [
+        {
+          "text": "Innerhalb von 30 Tagen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die Frist für die Anfechtung eines anfechtbaren Vertrages ist länger."
+        },
+        {
+          "text": "Innerhalb eines Jahres.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Ein anfechtbarer Vertrag kann von der benachteiligten Partei <strong>innerhalb eines Jahres</strong> angefochten werden."
+        },
+        {
+          "text": "Innerhalb von fünf Jahren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die Frist für die Anfechtung eines anfechtbaren Vertrages ist kürzer."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche maximale Verjährungsfrist gilt in der Regel für Forderungen aus Verträgen?</p>",
+      "options": [
+        {
+          "text": "5 Jahre.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>5 Jahre</strong> ist eine Verjährungsfrist für bestimmte Forderungen, aber nicht die maximale."
+        },
+        {
+          "text": "10 Jahre.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Die <strong>maximale Verjährungsfrist</strong> für Forderungen beträgt in der Regel <strong>10 Jahre</strong>."
+        },
+        {
+          "text": "20 Jahre.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die maximale Verjährungsfrist für Forderungen ist kürzer als 20 Jahre."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Beispiel für eine Forderung mit einer Verjährungsfrist von 5 Jahren?</p>",
+      "options": [
+        {
+          "text": "Forderung an eine Versicherung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Forderung an eine Versicherung</strong> hat eine Verjährungsfrist von <strong>2 Jahren</strong>."
+        },
+        {
+          "text": "Mietzinsforderung.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! <strong>Mietzinsforderungen</strong> verjähren in der Regel nach <strong>5 Jahren</strong>."
+        },
+        {
+          "text": "Maximale Verjährungsfrist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>maximale Verjährungsfrist</strong> beträgt <strong>10 Jahre</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum sollten wichtige Verträge schriftlich festgehalten werden, auch wenn keine Formvorschrift besteht?</p>",
+      "options": [
+        {
+          "text": "Weil mündliche Verträge grundsätzlich ungültig sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>mündliche Verträge</strong> sind grundsätzlich <strong>gültig</strong>, sofern keine spezielle Formvorschrift besteht."
+        },
+        {
+          "text": "Weil bei schriftlichen Verträgen die Verjährungsfrist länger ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Verjährungsfrist</strong> ist <strong>unabhängig von der Vertragsform</strong>."
+        },
+        {
+          "text": "Weil schriftliche Verträge im Streitfall als Beweismittel dienen können.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! <strong>Schriftliche Verträge</strong> dienen als <strong>Beweismittel</strong> und erleichtern die <strong>Durchsetzung von Ansprüchen im Streitfall</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet 'öffentliche Beurkundung' im Zusammenhang mit Verträgen?</p>",
+      "options": [
+        {
+          "text": "Der Vertrag muss von allen Bürgern öffentlich eingesehen werden können.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>öffentliche Beurkundung</strong> hat nichts mit der <strong>öffentlichen Einsicht</strong> durch alle Bürger zu tun."
+        },
+        {
+          "text": "Der Vertrag wird von den Parteien vor Publikum mündlich abgeschlossen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>öffentliche Beurkundung</strong> ist eine <strong>schriftliche Form</strong>, keine mündliche."
+        },
+        {
+          "text": "Der Vertrag wird unter Mitwirkung einer Urkundsperson (Notar) abgeschlossen, die den Inhalt bestätigt.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Bei der <strong>öffentlichen Beurkundung</strong> wirkt eine <strong>Urkundsperson (Notar)</strong> mit, die den <strong>Inhalt des Vertrages bestätigt</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Worin liegt der Hauptunterschied zwischen einem nichtigen und einem anfechtbaren Vertrag?</p>",
+      "options": [
+        {
+          "text": "Nichtige Verträge sind formlos, anfechtbare Verträge sind schriftlich.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Form des Vertrages</strong> ist <strong>nicht der Hauptunterschied</strong> zwischen nichtigen und anfechtbaren Verträgen."
+        },
+        {
+          "text": "Nichtige Verträge sind von Anfang an ungültig, anfechtbare Verträge sind grundsätzlich gültig, können aber angefochten werden.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! <strong>Nichtige Verträge</strong> sind <strong>von Anfang an ungültig</strong>, während <strong>anfechtbare Verträge</strong> zunächst <strong>gültig</strong> sind, aber <strong>angefochten werden können</strong>."
+        },
+        {
+          "text": "Nichtige Verträge können nie gültig werden, anfechtbare Verträge können durch Zeitablauf gültig werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>beide Vertragsarten</strong> werden <strong>nicht automatisch durch Zeitablauf gültig</strong>, aber anfechtbare Verträge sind zunächst gültig, bis sie angefochten werden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Folge hat die Verjährung einer Forderung für die Gläubigerin?</p>",
+      "options": [
+        {
+          "text": "Die Forderung erlischt vollständig und kann nicht mehr geltend gemacht werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Forderung erlischt nicht vollständig</strong>, aber die <strong>Gläubigerin kann sie nicht mehr erzwingen</strong>."
+        },
+        {
+          "text": "Die Gläubigerin kann die Schuldnerin weiterhin zur Zahlung auffordern, aber nicht mehr gerichtlich zwingen.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Nach Eintritt der <strong>Verjährung</strong> kann die <strong>Gläubigerin</strong> die <strong>Schuldnerin nicht mehr zur Zahlung zwingen</strong>."
+        },
+        {
+          "text": "Die Verjährung hat keine Auswirkungen auf die Rechte der Gläubigerin.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die <strong>Verjährung</strong> hat <strong>erhebliche Auswirkungen</strong> auf die Rechte der Gläubigerin."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist die Handlungsfähigkeit eine Voraussetzung für den Vertragsabschluss?</p>",
+      "options": [
+        {
+          "text": "Weil nur handlungsfähige Personen Verträge verstehen und beurteilen können.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! <strong>Handlungsfähigkeit</strong> ist wichtig, weil sie sicherstellt, dass die Vertragspartner die <strong>Bedeutung und Konsequenzen</strong> ihres Handelns <strong>verstehen und beurteilen können</strong>."
+        },
+        {
+          "text": "Weil handlungsfähige Personen mehr Geld besitzen und somit zahlungsfähiger sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>Handlungsfähigkeit</strong> bezieht sich auf die <strong>rechtliche Fähigkeit</strong>, Verträge abzuschliessen, nicht primär auf die <strong>Zahlungsfähigkeit</strong>."
+        },
+        {
+          "text": "Weil Verträge mit handlungsunfähigen Personen automatisch nichtig sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, Verträge mit <strong>handlungsunfähigen Personen</strong> sind <strong>nicht automatisch nichtig</strong>, aber es gibt <strong>besondere Schutzbestimmungen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Inwiefern schützt der Begriff des 'wesentlichen Irrtums' im Vertragswesen die Vertragsparteien?</p>",
+      "options": [
+        {
+          "text": "Er schützt vor unwesentlichen Fehlern im Vertragstext.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, der <strong>wesentliche Irrtum</strong> bezieht sich auf <strong>schwerwiegende Irrtümer</strong>, nicht auf unwesentliche Fehler."
+        },
+        {
+          "text": "Er schützt vor Fehlern, die so schwerwiegend sind, dass der Vertrag bei Kenntnis der Sachlage nicht abgeschlossen worden wäre.",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Der <strong>wesentliche Irrtum</strong> schützt vor <strong>Irrtümern</strong>, die so <strong>schwerwiegend</strong> sind, dass der Vertrag sonst nicht zustande gekommen wäre."
+        },
+        {
+          "text": "Er schützt nur die Verkäuferin vor Fehlern, nicht den Käufer.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, der <strong>wesentliche Irrtum</strong> schützt <strong>beide Vertragsparteien</strong>, sowohl Käufer als auch Verkäufer."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Gesetzbuch regelt in der Schweiz die Vertragsentstehung?</p>",
+      "options": [
+        {
+          "text": "Zivilgesetzbuch (ZGB)",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das <strong>ZGB</strong> regelt andere Aspekte des Zivilrechts, aber nicht primär die Vertragsentstehung."
+        },
+        {
+          "text": "Obligationenrecht (OR)",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! Das <strong>Obligationenrecht (OR)</strong> regelt in der Schweiz die <strong>Vertragsentstehung</strong> und viele weitere Aspekte des Vertragsrechts."
+        },
+        {
+          "text": "Strafgesetzbuch (StGB)",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das <strong>StGB</strong> regelt <strong>Straftaten</strong>, nicht die Vertragsentstehung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Artikel im Obligationenrecht (OR) ist relevant für die Entstehung von Verträgen?</p>",
+      "options": [
+        {
+          "text": "OR Artikel 20",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>OR Artikel 20</strong> behandelt <strong>nichtige Verträge</strong>, nicht die allgemeine Vertragsentstehung."
+        },
+        {
+          "text": "OR Artikel 1",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! <strong>OR Artikel 1</strong> ist der grundlegende Artikel im Obligationenrecht, der die <strong>Entstehung von Verträgen</strong> regelt."
+        },
+        {
+          "text": "OR Artikel 184",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>OR Artikel 184ff.</strong> behandelt den <strong>Kaufvertrag</strong>, aber nicht die allgemeine Vertragsentstehung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Artikel im Zivilgesetzbuch (ZGB) regelt die Vertragsfähigkeit?</p>",
+      "options": [
+        {
+          "text": "ZGB Artikel 11",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>ZGB Artikel 11</strong> ist nicht direkt mit der <strong>Vertragsfähigkeit</strong> verbunden."
+        },
+        {
+          "text": "ZGB Artikel 323",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! <strong>ZGB Artikel 323</strong> ist im Kontext der Vertragsfähigkeit relevant, insbesondere im Bezug auf <strong>Jugendliche</strong>."
+        },
+        {
+          "text": "ZGB Artikel 29",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>ZGB Artikel 29</strong> behandelt andere Aspekte des Zivilrechts, nicht die Vertragsfähigkeit."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Artikel im Obligationenrecht (OR) thematisiert die Formfreiheit von Verträgen?</p>",
+      "options": [
+        {
+          "text": "OR Artikel 7",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>OR Artikel 7</strong> behandelt <strong>verbindliche und unverbindliche Offerten</strong>, nicht die Formfreiheit."
+        },
+        {
+          "text": "OR Artikel 11",
+          "is_correct": true,
+          "feedback": "✅ <strong>Richtig</strong>! <strong>OR Artikel 11</strong> regelt die <strong>Formfreiheit</strong> und besagt, dass Verträge grundsätzlich <strong>keiner besonderen Form bedürfen</strong>."
+        },
+        {
+          "text": "OR Artikel 40a",
+          "is_correct": false,
+          "feedback": "❌ Falsch, <strong>OR Artikel 40a</strong> behandelt das <strong>Widerrufsrecht beim Haustürverkauf</strong>, nicht die Formfreiheit."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein mündlicher Kaufvertrag ist in der Schweiz grundsätzlich ungültig.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Kaufverträge können in der Schweiz auch mündlich abgeschlossen werden und sind grundsätzlich gültig, sofern keine spezielle Formvorschrift besteht.",
+      "feedback_incorrect": "Richtig. Kaufverträge sind in der Schweiz grundsätzlich formfrei gültig und können somit auch mündlich abgeschlossen werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Für die 'qualifizierte Schriftlichkeit' reicht die Unterschrift des Verpflichteten aus.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die qualifizierte Schriftlichkeit erfordert neben der Unterschrift noch weitere handschriftliche Vertragsbestandteile.",
+      "feedback_incorrect": "Richtig. Die qualifizierte Schriftlichkeit erfordert mehr als nur die Unterschrift, nämlich zusätzliche handschriftliche Bestandteile."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Vertrag über den Verkauf von Drogen ist ein Beispiel für einen nichtigen Vertrag.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Verträge mit widerrechtlichem Inhalt, wie z.B. Drogengeschäfte, sind nichtig, da sie gegen das Gesetz verstossen.",
+      "feedback_incorrect": "Falsch. Solche Verträge sind tatsächlich nichtig, da sie gegen das Gesetz verstossen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein 'wesentlicher Irrtum' kann ein Grund sein, einen Vertrag anzufechten.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Ein wesentlicher Irrtum ist ein Beispiel für einen Willensmangel, der zur Anfechtbarkeit eines Vertrages führen kann.",
+      "feedback_incorrect": "Falsch. Ein wesentlicher Irrtum ist tatsächlich ein Anfechtungsgrund."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die maximale Verjährungsfrist für alle Forderungen beträgt in der Schweiz 5 Jahre.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die maximale Verjährungsfrist beträgt in der Regel 10 Jahre, es gibt jedoch kürzere Fristen für bestimmte Forderungen.",
+      "feedback_incorrect": "Richtig. Die maximale Verjährungsfrist ist tatsächlich länger als 5 Jahre, sie beträgt 10 Jahre."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Für Mietzinsforderungen gilt eine Verjährungsfrist von 5 Jahren.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Mietzinsforderungen gehören zu den Forderungen, für die eine Verjährungsfrist von 5 Jahren gilt.",
+      "feedback_incorrect": "Falsch. Mietzinsforderungen verjähren tatsächlich nach 5 Jahren."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Auch Jugendliche unter 18 Jahren können ohne Zustimmung der Eltern gültige Kaufverträge abschliessen, selbst wenn es sich nicht um Bagatellkäufe handelt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Jugendliche unter 18 Jahren sind beschränkt handlungsfähig. Verträge, die sie nicht mit ihrem eigenen Lohn, Ersparnissen oder Taschengeld erfüllen können, benötigen die Zustimmung der Eltern.",
+      "feedback_incorrect": "Richtig. Für grössere Käufe benötigen Jugendliche die Zustimmung der Eltern, es sei denn, sie können diese mit ihrem eigenen verdienten oder Taschengeld bezahlen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Schriftform ist bei Verträgen nur dann vorgeschrieben, wenn es sich um besonders wichtige Geschäfte handelt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Schriftform ist nur dann vorgeschrieben, wenn das Gesetz dies ausdrücklich verlangt, z.B. beim Lehrvertrag oder Konsumkreditvertrag, nicht generell bei 'wichtigen' Geschäften.",
+      "feedback_incorrect": "Richtig. Die Schriftform ist nicht generell für 'wichtige' Geschäfte vorgeschrieben, sondern nur in spezifischen gesetzlich geregelten Fällen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein Vertrag, bei dem eine Person unter Drohung zum Abschluss gezwungen wird, ist nichtig.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Ein Vertrag, der unter Drohung zustande kommt, ist anfechtbar, aber nicht automatisch nichtig. Die bedrohte Person kann den Vertrag innerhalb eines Jahres anfechten.",
+      "feedback_incorrect": "Richtig. Solche Verträge sind nicht nichtig, sondern anfechtbar."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Verjährung bedeutet, dass eine Schuld rechtlich nicht mehr existiert.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Schuld existiert weiterhin, aber die Gläubigerin kann sie nach Eintritt der Verjährung nicht mehr gerichtlich durchsetzen.",
+      "feedback_incorrect": "Richtig. Die Schuld besteht weiterhin, aber die rechtliche Durchsetzbarkeit ist eingeschränkt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Es ist immer empfehlenswert, wichtige mündliche Abmachungen schriftlich bestätigen zu lassen, auch wenn der mündliche Vertrag gültig wäre.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Aus Beweisgründen ist es ratsam, wichtige mündliche Abmachungen schriftlich festzuhalten, um im Streitfall besser abgesichert zu sein.",
+      "feedback_incorrect": "Falsch. Die schriftliche Bestätigung ist aus Beweisgründen sehr empfehlenswert."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Bei der öffentlichen Beurkundung bestätigt der Notar nur die Unterschriften der Parteien, nicht aber den Inhalt des Vertrages.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Urkundsperson (Notar) bestätigt mit ihrer Unterschrift, dass der Inhalt des Vertrages dem Willen der Vertragsparteien entspricht, und beurkundet somit auch den Inhalt.",
+      "feedback_incorrect": "Richtig. Der Notar bestätigt eben gerade auch den Inhalt des Vertrages, nicht nur die Unterschriften."
+    }
+  ]
+}
