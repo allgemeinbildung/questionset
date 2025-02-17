@@ -1,0 +1,93 @@
+{
+    "title": "Lohnbestandteile Quiz",
+    "media": {
+        "type": "",
+        "url": "",
+        "source": ""      
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was ist der Bruttolohn?</p>",
+        "options": [
+          {
+            "text": "Der Lohn nach allen Abzügen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Nettolohn ist der Lohn nach allen Abzügen."
+          },
+          {
+            "text": "Der vertraglich vereinbarte Lohn vor Abzügen.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Der Bruttolohn ist der im Vertrag festgelegte Lohn vor Abzügen."
+          },
+          {
+            "text": "Ein zusätzlicher Bonus am Jahresende.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Ein zusätzlicher Bonus könnte eine Gratifikation oder ein 13. Monatslohn sein."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Abzüge werden vom Bruttolohn vorgenommen?</p>",
+        "options": [
+          {
+            "text": "AHV, IV, EO, ALV, NBU",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Diese Sozialversicherungen werden gesetzlich vom Bruttolohn abgezogen."
+          },
+          {
+            "text": "Miete und Krankenkasse",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Diese Kosten sind private Ausgaben und werden nicht direkt vom Bruttolohn abgezogen."
+          },
+          {
+            "text": "Steuern und Schulgebühren",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Steuern sind nicht direkt auf der Lohnabrechnung enthalten, sondern werden in der Steuererklärung berücksichtigt."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum gibt es den Unterschied zwischen Brutto- und Nettolohn?</p>",
+        "options": [
+          {
+            "text": "Weil vom Bruttolohn gesetzliche Abzüge gemacht werden.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Sozialversicherungen und weitere Abzüge reduzieren den ursprünglichen Bruttolohn."
+          },
+          {
+            "text": "Weil der Arbeitgeber einen Teil des Lohns für sich behält.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Arbeitgeber behält nichts für sich, sondern führt gesetzliche Abzüge ab."
+          },
+          {
+            "text": "Weil der Bruttolohn nur eine Schätzung ist.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Bruttolohn ist der vertraglich vereinbarte Lohn vor Abzügen."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Der Nettolohn ist immer höher als der Bruttolohn.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Der Nettolohn ist niedriger als der Bruttolohn, da Abzüge wie Sozialversicherungen vorgenommen werden.",
+        "feedback_incorrect": "Falsch. Der Nettolohn ist niedriger als der Bruttolohn, weil Abzüge anfallen."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Der 13. Monatslohn ist eine gesetzliche Pflicht für alle Arbeitgeber.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Der 13. Monatslohn ist oft üblich, aber nicht gesetzlich vorgeschrieben.",
+        "feedback_incorrect": "Falsch. Der 13. Monatslohn ist nicht gesetzlich vorgeschrieben, sondern eine freiwillige Leistung."
+      }
+    ]
+  }
+  
