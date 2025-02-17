@@ -1,93 +1,278 @@
 {
     "title": "Lohnbestandteile Quiz",
     "media": {
-        "type": "",
-        "url": "",
-        "source": ""      
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/N6li33BMCIo",
+        "source": "https://www.youtube.com"
     },
     "questions": [
       {
         "type": "MultipleChoice",
         "bloom_level": "Erinnern",
-        "question": "<p>Was ist der Bruttolohn?</p>",
+        "question": "<p>Was ist der <strong>Bruttolohn</strong>?</p>",
         "options": [
           {
-            "text": "Der Lohn nach allen Abzügen.",
+            "text": "Der Betrag, der nach allen Abzügen auf dem Konto landet.",
             "is_correct": false,
-            "feedback": "❌ Falsch. Der Nettolohn ist der Lohn nach allen Abzügen."
+            "feedback": "❌ Falsch. Das ist der <strong>Nettolohn</strong>. Der <strong>Bruttolohn</strong> ist der Betrag vor den Abzügen."
           },
           {
-            "text": "Der vertraglich vereinbarte Lohn vor Abzügen.",
+            "text": "Der Lohn vor Abzug von Sozialversicherungen und Steuern.",
             "is_correct": true,
-            "feedback": "✅ Richtig! Der Bruttolohn ist der im Vertrag festgelegte Lohn vor Abzügen."
+            "feedback": "✅ Richtig! Der <strong>Bruttolohn</strong> ist der Lohn vor Abzug von <strong>Sozialversicherungen</strong> und anderen Abzügen."
           },
           {
-            "text": "Ein zusätzlicher Bonus am Jahresende.",
+            "text": "Eine zusätzliche Zahlung zum normalen Lohn am Ende des Jahres.",
             "is_correct": false,
-            "feedback": "❌ Falsch. Ein zusätzlicher Bonus könnte eine Gratifikation oder ein 13. Monatslohn sein."
+            "feedback": "❌ Falsch. Das könnte eine <strong>Gratifikation</strong> oder ein <strong>13. Monatslohn</strong> sein, aber nicht der <strong>Bruttolohn</strong> selbst."
           }
         ]
       },
       {
         "type": "MultipleChoice",
         "bloom_level": "Erinnern",
-        "question": "<p>Welche Abzüge werden vom Bruttolohn vorgenommen?</p>",
+        "question": "<p>Welche der folgenden <strong>Sozialversicherungen</strong> wurde im Gespräch erwähnt?</p>",
         "options": [
           {
-            "text": "AHV, IV, EO, ALV, NBU",
+            "text": "Krankenversicherung (KVG)",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die <strong>Krankenversicherung</strong> (KVG) wurde in diesem Zusammenhang nicht explizit erwähnt. Es ging um andere <strong>Sozialversicherungen</strong>."
+          },
+          {
+            "text": "Arbeitslosenversicherung (ALV)",
             "is_correct": true,
-            "feedback": "✅ Richtig! Diese Sozialversicherungen werden gesetzlich vom Bruttolohn abgezogen."
+            "feedback": "✅ Richtig! Die <strong>Arbeitslosenversicherung</strong> (ALV) wurde als eine der wichtigen <strong>Sozialversicherungen</strong> genannt."
           },
           {
-            "text": "Miete und Krankenkasse",
+            "text": "Unfallversicherung (UVG)",
             "is_correct": false,
-            "feedback": "❌ Falsch. Diese Kosten sind private Ausgaben und werden nicht direkt vom Bruttolohn abgezogen."
+            "feedback": "❌ Falsch. Die <strong>Unfallversicherung</strong> (UVG), obwohl eine Sozialversicherung, wurde in diesem Gespräch nicht spezifisch als Beispiel genannt. Genannt wurden <strong>AHV, IV, EO, ALV, NBU</strong>."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wann wird ein <strong>13. Monatslohn</strong> üblicherweise ausbezahlt?</p>",
+        "options": [
+          {
+            "text": "Im Januar, als Start ins neue Jahr.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der <strong>13. Monatslohn</strong> wird üblicherweise nicht im Januar ausbezahlt."
           },
           {
-            "text": "Steuern und Schulgebühren",
+            "text": "Im Dezember, oft zusammen mit dem Novemberlohn.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Der <strong>13. Monatslohn</strong> wird meistens im <strong>Dezember</strong> ausbezahlt."
+          },
+          {
+            "text": "In monatlichen Raten über das ganze Jahr verteilt.",
             "is_correct": false,
-            "feedback": "❌ Falsch. Steuern sind nicht direkt auf der Lohnabrechnung enthalten, sondern werden in der Steuererklärung berücksichtigt."
+            "feedback": "❌ Falsch. Der <strong>13. Monatslohn</strong> ist in der Regel eine <strong>einmalige Zahlung</strong>, nicht über das Jahr verteilt."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was sind <strong>Gratifikationen</strong>?</p>",
+        "options": [
+          {
+            "text": "Gesetzlich vorgeschriebene Lohnzuschläge für Nachtarbeit.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. <strong>Lohnzuschläge</strong> für Nachtarbeit sind etwas anderes. <strong>Gratifikationen</strong> sind nicht gesetzlich vorgeschrieben und leistungsabhängig."
+          },
+          {
+            "text": "Fixe, zusätzliche Beträge, die jeden Monat zum Lohn dazukommen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das würde eher auf einen <strong>13. Monatslohn</strong> oder einen fixen <strong>Lohnzuschlag</strong> passen. <strong>Gratifikationen</strong> sind variabel."
+          },
+          {
+            "text": "Variable Sondervergütungen, abhängig von Geschäftserfolg und Leistung.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! <strong>Gratifikationen</strong> sind <strong>variable Sondervergütungen</strong>, die vom <strong>Geschäftserfolg</strong> und der <strong>Leistung</strong> abhängen."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Aussage zum <strong>Nettolohn</strong> ist korrekt?</p>",
+        "options": [
+          {
+            "text": "Der <strong>Nettolohn</strong> ist immer höher als der <strong>Bruttolohn</strong>.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der <strong>Nettolohn</strong> ist immer <strong>niedriger</strong> als der <strong>Bruttolohn</strong>, da Abzüge gemacht werden."
+          },
+          {
+            "text": "Der <strong>Nettolohn</strong> ist der Betrag, der nach allen Abzügen ausbezahlt wird.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Der <strong>Nettolohn</strong> ist der Betrag, der nach Abzug aller <strong>Sozialversicherungen</strong> und anderer Abzüge tatsächlich ausbezahlt wird."
+          },
+          {
+            "text": "<strong>Bruttolohn</strong> und <strong>Nettolohn</strong> sind immer identisch.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. <strong>Bruttolohn</strong> und <strong>Nettolohn</strong> sind in der Regel <strong>nicht identisch</strong>, da es Abzüge vom <strong>Bruttolohn</strong> gibt."
           }
         ]
       },
       {
         "type": "MultipleChoice",
         "bloom_level": "Verstehen",
-        "question": "<p>Warum gibt es den Unterschied zwischen Brutto- und Nettolohn?</p>",
+        "question": "<p>Warum ist es wichtig, die <strong>Lohnabrechnung</strong> zu überprüfen?</p>",
         "options": [
           {
-            "text": "Weil vom Bruttolohn gesetzliche Abzüge gemacht werden.",
+            "text": "Weil es gesetzlich vorgeschrieben ist, die <strong>Lohnabrechnung</strong> abzulegen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Es ist nicht gesetzlich vorgeschrieben, die <strong>Lohnabrechnung</strong> abzulegen, sondern sie zu <strong>überprüfen</strong> ist wichtig für die eigene Finanzkontrolle."
+          },
+          {
+            "text": "Um sicherzustellen, dass alle <strong>Abzüge</strong> korrekt sind und die <strong>Finanzen</strong> im Blick zu behalten.",
             "is_correct": true,
-            "feedback": "✅ Richtig! Sozialversicherungen und weitere Abzüge reduzieren den ursprünglichen Bruttolohn."
+            "feedback": "✅ Richtig! Die Überprüfung der <strong>Lohnabrechnung</strong> hilft, die <strong>Korrektheit der Abzüge</strong> zu prüfen und die <strong>eigenen Finanzen</strong> zu kontrollieren."
           },
           {
-            "text": "Weil der Arbeitgeber einen Teil des Lohns für sich behält.",
+            "text": "Weil nur auf der <strong>Lohnabrechnung</strong> der <strong>Bruttolohn</strong> steht.",
             "is_correct": false,
-            "feedback": "❌ Falsch. Der Arbeitgeber behält nichts für sich, sondern führt gesetzliche Abzüge ab."
+            "feedback": "❌ Falsch. Der <strong>Bruttolohn</strong> ist zwar auf der <strong>Lohnabrechnung</strong> ersichtlich, aber das ist nicht der Hauptgrund für die Überprüfung. Es geht um die <strong>gesamte Abrechnung</strong> und die <strong>Abzüge</strong>."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was ist der Hauptgrund dafür, dass der <strong>Nettolohn</strong> tiefer ist als der <strong>Bruttolohn</strong>?</p>",
+        "options": [
+          {
+            "text": "Weil Arbeitgeber einen Teil des Lohns für administrative Kosten einbehalten.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Administrative Kosten sind nicht der Hauptgrund. Der Hauptgrund sind <strong>gesetzliche Abzüge</strong>."
           },
           {
-            "text": "Weil der Bruttolohn nur eine Schätzung ist.",
+            "text": "Weil <strong>Sozialversicherungsbeiträge</strong> und eventuell <strong>Steuern</strong> abgezogen werden.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Der Hauptgrund sind die <strong>Abzüge</strong> für <strong>Sozialversicherungen</strong> wie <strong>AHV, IV, EO, ALV, NBU</strong> und eventuell <strong>Steuern</strong>."
+          },
+          {
+            "text": "Weil der <strong>Bruttolohn</strong> immer falsch berechnet wird.",
             "is_correct": false,
-            "feedback": "❌ Falsch. Der Bruttolohn ist der vertraglich vereinbarte Lohn vor Abzügen."
+            "feedback": "❌ Falsch. Der <strong>Bruttolohn</strong> ist nicht falsch berechnet, sondern dient als <strong>Basis</strong> für die Berechnung des <strong>Nettolohns</strong> nach Abzügen."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was bedeutet '<strong>soziale Sicherheit</strong>' im Zusammenhang mit <strong>Sozialversicherungen</strong>?</p>",
+        "options": [
+          {
+            "text": "Dass der Staat garantiert, dass jeder Bürger ein hohes Einkommen hat.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. <strong>Soziale Sicherheit</strong> garantiert kein hohes Einkommen, sondern <strong>grundlegende Absicherung</strong> in bestimmten Lebenslagen."
+          },
+          {
+            "text": "Dass durch <strong>Sozialversicherungen</strong> Systeme finanziert werden, die in Notlagen wie Arbeitslosigkeit oder Alter helfen.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! <strong>Soziale Sicherheit</strong> bedeutet, dass <strong>Sozialversicherungen</strong> <strong>Systeme finanzieren</strong>, die in <strong>Notlagen</strong> wie <strong>Arbeitslosigkeit</strong> oder im <strong>Alter</strong> Unterstützung bieten."
+          },
+          {
+            "text": "Dass alle Bürger automatisch gegen alle Risiken des Lebens versichert sind.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. <strong>Soziale Sicherheit</strong> deckt wichtige <strong>soziale Risiken</strong> ab, aber nicht 'alle Risiken des Lebens' automatisch."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Inwiefern unterscheiden sich <strong>Gratifikationen</strong> von einem <strong>13. Monatslohn</strong>?</p>",
+        "options": [
+          {
+            "text": "<strong>Gratifikationen</strong> sind immer gesetzlich vorgeschrieben, ein <strong>13. Monatslohn</strong> nicht.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Es ist genau umgekehrt: <strong>Gratifikationen</strong> sind <strong>nicht gesetzlich vorgeschrieben</strong>, während ein <strong>13. Monatslohn</strong> in manchen Branchen oder Verträgen festgelegt sein kann."
+          },
+          {
+            "text": "<strong>Gratifikationen</strong> sind variabel und leistungsabhängig, ein <strong>13. Monatslohn</strong> ist fix und zusätzlich.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! <strong>Gratifikationen</strong> sind <strong>variabel</strong> und hängen von <strong>Leistung</strong> und <strong>Geschäftserfolg</strong> ab, während ein <strong>13. Monatslohn</strong> ein <strong>fixer, zusätzlicher Betrag</strong> ist."
+          },
+          {
+            "text": "Es gibt keinen Unterschied, beide Begriffe beschreiben dasselbe.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Es gibt einen klaren Unterschied. <strong>Gratifikationen</strong> und <strong>13. Monatslohn</strong> sind <strong>unterschiedliche Lohnbestandteile</strong>."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was ist der Zweck von <strong>Sozialversicherungen</strong> wie AHV, IV, EO, ALV und NBU?</p>",
+        "options": [
+          {
+            "text": "Den <strong>Bruttolohn</strong> der Arbeitnehmer zu erhöhen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. <strong>Sozialversicherungen</strong> erhöhen nicht den <strong>Bruttolohn</strong>, sondern werden davon <strong>abgezogen</strong>, um <strong>soziale Sicherheitssysteme</strong> zu finanzieren."
+          },
+          {
+            "text": "<strong>Soziale Sicherheitssysteme</strong> zu finanzieren, von denen alle profitieren können.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Der Zweck von <strong>Sozialversicherungen</strong> ist es, <strong>soziale Sicherheitssysteme</strong> zu finanzieren, die <strong>Unterstützung</strong> in verschiedenen Lebenslagen bieten."
+          },
+          {
+            "text": "Die <strong>Gewinne</strong> von Unternehmen zu steigern.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. <strong>Sozialversicherungen</strong> dienen nicht dazu, die <strong>Gewinne</strong> von Unternehmen zu steigern, sondern der <strong>sozialen Absicherung</strong> der Bevölkerung."
           }
         ]
       },
       {
         "type": "TrueFalse",
         "bloom_level": "Erinnern",
-        "question": "<p>Der Nettolohn ist immer höher als der Bruttolohn.</p>",
+        "question": "<p>Der Bruttolohn beinhaltet bereits alle Abzüge für Sozialversicherungen.</p>",
         "correct_answer": false,
-        "feedback_correct": "Richtig! Der Nettolohn ist niedriger als der Bruttolohn, da Abzüge wie Sozialversicherungen vorgenommen werden.",
-        "feedback_incorrect": "Falsch. Der Nettolohn ist niedriger als der Bruttolohn, weil Abzüge anfallen."
+        "feedback_correct": "Richtig! Der Bruttolohn ist der Lohn vor den Abzügen. Die Abzüge werden erst danach vom Bruttolohn subtrahiert, um den Nettolohn zu erhalten.",
+        "feedback_incorrect": "Falsch. Der Bruttolohn ist der Lohn vor Abzügen. Die Sozialversicherungsbeiträge werden vom Bruttolohn abgezogen."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Der 13. Monatslohn ist gesetzlich in der Schweiz für alle Arbeitnehmer vorgeschrieben.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Der 13. Monatslohn ist nicht gesetzlich vorgeschrieben, sondern eine freiwillige oder vertraglich vereinbarte Leistung des Arbeitgebers.",
+        "feedback_incorrect": "Falsch. Der 13. Monatslohn ist nicht obligatorisch, sondern meist eine freiwillige Leistung."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>AHV ist die Abkürzung für Arbeitslosen-Haftpflicht-Versicherung.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Falsch! AHV steht für Alters- und Hinterlassenenversicherung.",
+        "feedback_incorrect": "Richtig! AHV steht für Alters- und Hinterlassenenversicherung und nicht für Arbeitslosen-Haftpflicht-Versicherung."
       },
       {
         "type": "TrueFalse",
         "bloom_level": "Verstehen",
-        "question": "<p>Der 13. Monatslohn ist eine gesetzliche Pflicht für alle Arbeitgeber.</p>",
+        "question": "<p>Ein höherer Bruttolohn führt immer zu einem proportional höheren Nettolohn.</p>",
+        "correct_answer": true,
+        "feedback_correct": "Richtig! Obwohl Abzüge anfallen, führt ein höherer Bruttolohn in der Regel auch zu einem höheren Nettolohn, da die Abzüge meist prozentual berechnet werden.",
+        "feedback_incorrect": "Falsch. Grundsätzlich führt ein höherer Bruttolohn auch zu einem höheren Nettolohn, da die Abzüge meist prozentual sind."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Sozialversicherungen dienen nur dazu, Arbeitslose finanziell zu unterstützen.</p>",
         "correct_answer": false,
-        "feedback_correct": "Richtig! Der 13. Monatslohn ist oft üblich, aber nicht gesetzlich vorgeschrieben.",
-        "feedback_incorrect": "Falsch. Der 13. Monatslohn ist nicht gesetzlich vorgeschrieben, sondern eine freiwillige Leistung."
+        "feedback_correct": "Falsch! Sozialversicherungen unterstützen nicht nur Arbeitslose, sondern decken verschiedene Lebensbereiche ab, wie Alter, Invalidität, Erwerbsausfall und mehr.",
+        "feedback_incorrect": "Richtig! Sozialversicherungen haben ein breiteres Spektrum als nur die Unterstützung von Arbeitslosen. Sie umfassen verschiedene Bereiche der sozialen Sicherheit."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Es ist unwichtig, die eigene Lohnabrechnung regelmässig zu kontrollieren, solange der Nettolohn stimmt.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Falsch! Es ist wichtig, die Lohnabrechnung vollständig zu kontrollieren, nicht nur den Nettolohn, um sicherzustellen, dass alle Abzüge und Berechnungen korrekt sind.",
+        "feedback_incorrect": "Richtig! Die vollständige Kontrolle der Lohnabrechnung ist wichtig, um Fehler zu erkennen und die eigenen Finanzen zu überblicken, nicht nur die Summe des Nettolohns."
       }
     ]
   }
-  
