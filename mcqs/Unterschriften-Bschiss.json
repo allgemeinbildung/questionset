@@ -10,270 +10,270 @@
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Was ist der umgangssprachliche Ausdruck «Unterschriften-Bschiss»?</p>",
+      "question": "<p>Welches Wort wurde in der Deutschschweiz zum Wort des Jahres 2023 gewählt?</p>",
       "options": [
         {
-          "text": "Eine Methode, um Unterschriften zu fälschen.",
+          "text": "Divers",
+          "is_correct": false,
+          "feedback": "❌ Falsch. «Divers» war zwar auch unter den Wörtern des Jahres, aber das <strong>Wort des Jahres</strong> war ein anderes."
+        },
+        {
+          "text": "Maurgang",
+          "is_correct": false,
+          "feedback": "❌ Falsch. «Maurgang» war ebenfalls ein Wort des Jahres, aber nicht das <strong>Wort des Jahres</strong> selbst."
+        },
+        {
+          "text": "Unterschriften-Bschiss",
           "is_correct": true,
-          "feedback": "✅ Richtig! «Unterschriften-Bschiss» beschreibt umgangssprachlich das <strong>Fälschen von Unterschriften</strong>."
-        },
-        {
-          "text": "Eine offizielle Bezeichnung für Wahlbetrug in der Schweiz.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Es ist ein <strong>umgangssprachlicher</strong>, nicht offizieller Begriff und bezieht sich spezifisch auf <strong>Unterschriftenfälschung</strong>, nicht generell auf Wahlbetrug."
-        },
-        {
-          "text": "Ein juristischer Fachbegriff für Dokumentenmanipulation.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. «Unterschriften-Bschiss» ist ein <strong>umgangssprachlicher Ausdruck</strong>, kein juristischer Fachbegriff."
+          "feedback": "✅ Richtig! <strong>«Unterschriften-Bschiss»</strong> wurde zum <strong>Wort des Jahres</strong> in der Deutschschweiz gewählt."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>In welchem Kontext wird der Begriff «Unterschriften-Bschiss» typischerweise verwendet?</p>",
+      "question": "<p>Was kritisiert der Begriff «Unterschriften-Bschiss»?</p>",
       "options": [
         {
-          "text": "Bei der Sammlung von Unterschriften für Initiativen und Referenden.",
+          "text": "Die langsame Bearbeitung von Initiativen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht nicht um die Bearbeitungszeit, sondern um ein anderes Problem im Zusammenhang mit <strong>Initiativen</strong>."
+        },
+        {
+          "text": "Die Fälschung von Unterschriften bei Initiativen.",
           "is_correct": true,
-          "feedback": "✅ Richtig! Der Begriff wird oft im Zusammenhang mit der <strong>Sammlung von Unterschriften</strong> für <strong>politische Vorlagen</strong> wie Initiativen und Referenden verwendet."
+          "feedback": "✅ Richtig! Der Begriff kritisiert die <strong>Fälschung von Unterschriften</strong>, um Initiativen zu ermöglichen."
         },
         {
-          "text": "Bei der Unterzeichnung von Verträgen in der Wirtschaft.",
+          "text": "Die hohen Kosten für das Sammeln von Unterschriften.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Der Begriff bezieht sich primär auf den <strong>politischen Kontext</strong>, nicht auf <strong>wirtschaftliche Verträge</strong>."
-        },
-        {
-          "text": "Bei der Anmeldung zu Kursen oder Veranstaltungen.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Begriff «Unterschriften-Bschiss» hat keinen Bezug zur <strong>Anmeldung für Kurse oder Veranstaltungen</strong>."
+          "feedback": "❌ Falsch. Obwohl die <strong>Kosten</strong> erwähnt werden, liegt der Fokus auf einem schwerwiegenderen Problem."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Welches Ziel verfolgen Personen, die «Unterschriften-Bschiss» begehen?</p>",
+      "question": "<p>In welchem Monat wurde der Skandal um gefälschte Unterschriften öffentlich?</p>",
       "options": [
         {
-          "text": "Das Erreichen des nötigen Quorums für eine Initiative oder ein Referendum.",
+          "text": "Juli",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es war nicht im Juli, sondern in einem späteren Monat des Jahres."
+        },
+        {
+          "text": "September",
           "is_correct": true,
-          "feedback": "✅ Richtig! Durch «Unterschriften-Bschiss» versuchen Personen, das <strong>notwendige Quorum</strong> für eine <strong>Initiative oder ein Referendum</strong> zu erreichen, oft auf illegale Weise."
+          "feedback": "✅ Richtig! Anfang <strong>September</strong> wurde der Skandal publik gemacht."
         },
         {
-          "text": "Die korrekte Dokumentation von Unterschriften sicherzustellen.",
+          "text": "November",
           "is_correct": false,
-          "feedback": "❌ Falsch. «Unterschriften-Bschiss» ist das <strong>Gegenteil</strong> von korrekter Dokumentation; es handelt sich um <strong>Manipulation</strong>."
-        },
-        {
-          "text": "Die Öffentlichkeit über die Wichtigkeit von Unterschriften aufzuklären.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. «Unterschriften-Bschiss» hat nichts mit <strong>Aufklärung</strong> zu tun, sondern mit <strong>Betrug</strong>."
+          "feedback": "❌ Falsch. Der Skandal wurde bereits früher im Jahr öffentlich, nicht erst im November."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Welche Konsequenz kann «Unterschriften-Bschiss» für die Gültigkeit einer Initiative haben?</p>",
+      "question": "<p>Welche Organisation hat den Unterschriften-Skandal öffentlich gemacht?</p>",
       "options": [
         {
-          "text": "Die Initiative kann für ungültig erklärt werden.",
+          "text": "SRF",
+          "is_correct": false,
+          "feedback": "❌ Falsch. SRF berichtet zwar darüber, hat es aber nicht öffentlich gemacht."
+        },
+        {
+          "text": "Tagesanzeiger",
           "is_correct": true,
-          "feedback": "✅ Richtig! Wenn «Unterschriften-Bschiss» aufgedeckt wird, kann dies zur <strong>Ungültigkeitserklärung der Initiative</strong> führen."
+          "feedback": "✅ Richtig! Der <strong>Tagesanzeiger</strong> hat den Skandal publik gemacht."
         },
         {
-          "text": "Die Initiative wird automatisch angenommen.",
+          "text": "NZZ",
           "is_correct": false,
-          "feedback": "❌ Falsch. «Unterschriften-Bschiss» gefährdet die <strong>Gültigkeit</strong> einer Initiative, führt aber <strong>nicht</strong> zu einer automatischen Annahme."
-        },
-        {
-          "text": "Es hat keine Auswirkungen auf die Gültigkeit der Initiative.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. «Unterschriften-Bschiss» kann <strong>erhebliche Auswirkungen</strong> auf die <strong>Gültigkeit</strong> einer Initiative haben."
+          "feedback": "❌ Falsch. Die <strong>NZZ</strong> war nicht die Organisation, die den Skandal zuerst aufgedeckt hat."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Wer ist typischerweise für die Überprüfung der Unterschriften bei einer Initiative zuständig?</p>",
+      "question": "<p>Welches andere Wort wurde als zweites Wort des Jahres gewählt?</p>",
       "options": [
         {
-          "text": "Die Gemeinde- oder Stadtbehörden.",
+          "text": "Maurgang",
+          "is_correct": false,
+          "feedback": "❌ Falsch. «Maurgang» war zwar auch ein Wort des Jahres, aber nicht das <strong>zweite Wort</strong>."
+        },
+        {
+          "text": "Schutzstrom",
+          "is_correct": false,
+          "feedback": "❌ Falsch. «Schutzstrom» wurde diskutiert, aber nicht als <strong>Wort des Jahres</strong> gewählt."
+        },
+        {
+          "text": "Divers",
           "is_correct": true,
-          "feedback": "✅ Richtig! In der Schweiz sind in der Regel die <strong>Gemeinde- oder Stadtbehörden</strong> für die <strong>Überprüfung der Unterschriften</strong> zuständig."
-        },
-        {
-          "text": "Der Bundesrat.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der <strong>Bundesrat</strong> ist <strong>nicht direkt</strong> für die <strong>Überprüfung der Unterschriften</strong> zuständig."
-        },
-        {
-          "text": "Die Bundespolizei.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Die <strong>Bundespolizei</strong> ist <strong>nicht primär</strong> für die <strong>Überprüfung von Unterschriften</strong> bei Initiativen zuständig, sondern eher für strafrechtliche Ermittlungen im Falle von Betrug."
+          "feedback": "✅ Richtig! <strong>«Divers»</strong> wurde als zweites Wort des Jahres gewählt."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Verstehen",
-      "question": "<p>Warum ist «Unterschriften-Bschiss» ein Problem für die Demokratie?</p>",
+      "question": "<p>Warum findet der Sprachexperte «Unterschriften-Bschiss» trotz anfänglicher Skepsis ein wichtiges Wort des Jahres?</p>",
       "options": [
         {
-          "text": "Weil es den Volkswillen verfälscht und das Vertrauen in demokratische Prozesse untergräbt.",
+          "text": "Weil es ein besonders lustiges Wort ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Wichtigkeit</strong> liegt nicht im Humor, sondern in der Bedeutung für die Demokratie."
+        },
+        {
+          "text": "Weil es aufzeigt, dass Demokratie in der Schweiz Risse bekommen könnte.",
           "is_correct": true,
-          "feedback": "✅ Richtig! «Unterschriften-Bschiss» <strong>verfälscht den Volkswillen</strong> und <strong>untergräbt das Vertrauen</strong> in demokratische Prozesse, da es die Grundlage der direkten Demokratie, die freie Meinungsäusserung durch Unterschrift, manipuliert."
+          "feedback": "✅ Richtig! Es zeigt, dass selbst in der Schweiz <strong>Demokratie</strong> möglicherweise nicht so intakt ist, wie man denkt."
         },
         {
-          "text": "Weil es die Arbeit der Behörden vereinfacht.",
+          "text": "Weil es ein besonders langes und kompliziertes Wort ist.",
           "is_correct": false,
-          "feedback": "❌ Falsch. «Unterschriften-Bschiss» <strong>erschwert die Arbeit der Behörden</strong> durch zusätzliche Kontrollaufwände und mögliche rechtliche Auseinandersetzungen."
-        },
-        {
-          "text": "Weil es die politische Beteiligung der Bürger erhöht.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. «Unterschriften-Bschiss» <strong>reduziert die echte politische Beteiligung</strong>, da es auf <strong>Manipulation</strong> und <strong>Betrug</strong> basiert statt auf ehrlicher Überzeugung und Mobilisierung."
+          "feedback": "❌ Falsch. Die <strong>Länge oder Komplexität</strong> des Wortes ist nicht der Grund für seine Wichtigkeit."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Verstehen",
-      "question": "<p>Was bedeutet «Unterschriften-Bschiss» im Kontext der politischen Glaubwürdigkeit?</p>",
+      "question": "<p>Was war für den Sprachexperten überraschend am Thema «Unterschriften-Bschiss»?</p>",
       "options": [
         {
-          "text": "Es schadet der Glaubwürdigkeit von politischen Akteuren und Prozessen.",
+          "text": "Dass Unterschriften überhaupt gefälscht werden können.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Fälschung</strong> an sich war nicht die Hauptüberraschung."
+        },
+        {
+          "text": "Dass man mit dem Sammeln von Unterschriften Geld verdienen kann.",
           "is_correct": true,
-          "feedback": "✅ Richtig! «Unterschriften-Bschiss» <strong>schadet der Glaubwürdigkeit</strong> von <strong>politischen Akteuren und Prozessen</strong>, da es ein Zeichen von <strong>Unehrlichkeit</strong> und <strong>Manipulation</strong> ist."
+          "feedback": "✅ Richtig! Die Tatsache, dass man mit dem <strong>Sammeln von Unterschriften Geld verdienen</strong> kann, war für ihn neu."
         },
         {
-          "text": "Es stärkt die Glaubwürdigkeit, da es zeigt, wie wichtig ein Anliegen ist.",
+          "text": "Dass Initiativen in der Schweiz so selten sind.",
           "is_correct": false,
-          "feedback": "❌ Falsch. «Unterschriften-Bschiss» <strong>schwächt die Glaubwürdigkeit</strong>, da es <strong>unethisch</strong> und <strong>illegal</strong> ist, selbst wenn ein Anliegen als wichtig erachtet wird."
-        },
-        {
-          "text": "Es hat keinen Einfluss auf die politische Glaubwürdigkeit.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. «Unterschriften-Bschiss» hat einen <strong>negativen Einfluss</strong> auf die <strong>politische Glaubwürdigkeit</strong>, da es das Vertrauen in die Integrität des politischen Systems untergräbt."
+          "feedback": "❌ Falsch. Die <strong>Häufigkeit von Initiativen</strong> war nicht der überraschende Aspekt."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Verstehen",
-      "question": "<p>Inwiefern unterscheidet sich «Unterschriften-Bschiss» von anderen Formen des Wahlbetrugs?</p>",
+      "question": "<p>Warum wurde «Divers» als zweites Wort des Jahres gewählt, auch im Kontext von Nemo?</p>",
       "options": [
         {
-          "text": "Es fokussiert spezifisch auf die Manipulation von Unterschriften im Vorfeld von Abstimmungen.",
+          "text": "Weil Nemo das einzige diverse Thema des Jahres war.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Nemo war ein <strong>Beispiel</strong>, aber «Divers» umfasst mehr als nur Nemo."
+        },
+        {
+          "text": "Weil es die Vielfalt der Menschen und Themen in der Gesellschaft widerspiegelt.",
           "is_correct": true,
-          "feedback": "✅ Richtig! «Unterschriften-Bschiss» ist <strong>spezifisch</strong> auf die <strong>Manipulation von Unterschriften</strong> bei der Sammlung für Initiativen und Referenden fokussiert, im <strong>Vorfeld von Abstimmungen</strong>, während anderer Wahlbetrug sich auf den Abstimmungsprozess selbst beziehen kann."
+          "feedback": "✅ Richtig! «Divers» steht für die <strong>Vielfalt der Menschen</strong>, Geschlechteridentitäten und Themen wie Biodiversität."
         },
         {
-          "text": "Es ist eine harmlosere Form des Wahlbetrugs ohne grössere Konsequenzen.",
+          "text": "Weil es ein besonders modernes und neumodisches Wort ist.",
           "is_correct": false,
-          "feedback": "❌ Falsch. «Unterschriften-Bschiss» ist <strong>nicht harmlos</strong> und kann <strong>erhebliche Konsequenzen</strong> haben, wie die Ungültigkeit einer Initiative und strafrechtliche Verfolgung."
-        },
-        {
-          "text": "Es ist die häufigste Form des Wahlbetrugs in der Schweiz.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Ob «Unterschriften-Bschiss» die <strong>häufigste Form</strong> des Wahlbetrugs ist, ist <strong>nicht pauschal zu sagen</strong>, aber es ist eine <strong>relevante Form</strong>, die Aufmerksamkeit erfordert."
+          "feedback": "❌ Falsch. Die <strong>Modernität</strong> des Wortes ist nicht der Hauptgrund, sondern seine thematische Relevanz."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Verstehen",
-      "question": "<p>Welche Massnahmen könnten ergriffen werden, um «Unterschriften-Bschiss» zu verhindern?</p>",
+      "question": "<p>Inwiefern steht «Maurgang» im Zusammenhang mit dem Klimawandel?</p>",
       "options": [
         {
-          "text": "Strengere Kontrollen bei der Sammlung und Überprüfung von Unterschriften.",
+          "text": "Klimawandel führt zu weniger Maurgängen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Klimawandel</strong> führt eher zu einer Zunahme, nicht zu einer Abnahme."
+        },
+        {
+          "text": "Klimawandel kann zu mehr Rutschungen und somit zu mehr Maurgängen führen.",
           "is_correct": true,
-          "feedback": "✅ Richtig! <strong>Strengere Kontrollen</strong> bei der <strong>Sammlung und Überprüfung von Unterschriften</strong> sind eine wichtige Massnahme, um «Unterschriften-Bschiss» zu <strong>verhindern</strong>."
+          "feedback": "✅ Richtig! Der <strong>Klimawandel</strong> begünstigt <strong>Rutschungen</strong> und <strong>Schlammlawinen</strong>, was zu mehr Maurgängen führt."
         },
         {
-          "text": "Die Abschaffung von Initiativen und Referenden.",
+          "text": "Maurgänge haben keinen Zusammenhang mit dem Klimawandel.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die <strong>Abschaffung von Initiativen und Referenden</strong> wäre eine <strong>drastische Massnahme</strong> und würde das <strong>Grundprinzip der direkten Demokratie</strong> in Frage stellen, anstatt das Problem von «Unterschriften-Bschiss» gezielt zu bekämpfen."
-        },
-        {
-          "text": "Die Legalisierung von «Unterschriften-Bschiss».",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Die <strong>Legalisierung von «Unterschriften-Bschiss»</strong> wäre <strong>kontraproduktiv</strong> und würde <strong>Betrug fördern</strong>, anstatt ihn zu verhindern."
+          "feedback": "❌ Falsch. Es gibt einen direkten <strong>Zusammenhang</strong> zwischen <strong>Klimawandel</strong> und der Zunahme von Naturereignissen wie Maurgängen."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Verstehen",
-      "question": "<p>Wie beeinflusst die Digitalisierung das Risiko von «Unterschriften-Bschiss»?</p>",
+      "question": "<p>Was ist die übergreifende Botschaft der drei Wörter des Jahres laut dem Sprachexperten?</p>",
       "options": [
         {
-          "text": "Sie könnte sowohl neue Möglichkeiten für «Unterschriften-Bschiss» schaffen als auch die Kontrolle verbessern.",
+          "text": "Es sind einfach nur zufällige Wörter ohne tieferen Sinn.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Wörter sind nicht zufällig, sondern spiegeln <strong>wichtige Themen</strong> wider."
+        },
+        {
+          "text": "Sie weisen auf grössere Veränderungen und Herausforderungen in der Gesellschaft hin.",
           "is_correct": true,
-          "feedback": "✅ Richtig! Die <strong>Digitalisierung</strong> kann <strong>neue Formen von «Unterschriften-Bschiss»</strong> ermöglichen, z.B. durch digitale Fälschungen, aber auch <strong>verbesserte Kontrollmechanismen</strong> durch digitale Überprüfungssysteme bieten."
+          "feedback": "✅ Richtig! Die Wörter weisen auf <strong>grössere Zusammenhänge</strong> und <strong>Veränderungen</strong> in der Welt und der Gesellschaft hin."
         },
         {
-          "text": "Sie reduziert das Risiko von «Unterschriften-Bschiss» vollständig.",
+          "text": "Sie sind vor allem unterhaltsam und sollen die Menschen zum Lachen bringen.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die <strong>Digitalisierung</strong> <strong>reduziert das Risiko nicht vollständig</strong>, sondern <strong>verändert es</strong> und erfordert <strong>neue Sicherheitsmassnahmen</strong>."
-        },
-        {
-          "text": "Sie erhöht das Risiko von «Unterschriften-Bschiss» nicht.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Die <strong>Digitalisierung</strong> kann das <strong>Risiko von «Unterschriften-Bschiss» erhöhen</strong>, wenn keine entsprechenden <strong>Sicherheitsvorkehrungen</strong> getroffen werden."
+          "feedback": "❌ Falsch. Der Fokus liegt nicht auf <strong>Unterhaltung</strong>, sondern auf der <strong>Bedeutung</strong> der Wörter für wichtige Themen."
         }
       ]
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>«Unterschriften-Bschiss» ist ein Kavaliersdelikt ohne rechtliche Konsequenzen.</p>",
+      "question": "<p>«Unterschriften-Bschiss» bezieht sich auf gefälschte Unterschriften für Petitionen.</p>",
       "correct_answer": false,
-      "feedback_correct": "✅ Falsch. «Unterschriften-Bschiss» ist <strong>kein Kavaliersdelikt</strong> und kann <strong>rechtliche Konsequenzen</strong> haben.",
-      "feedback_incorrect": "❌ Falsch. «Unterschriften-Bschiss» ist <strong>kein Kavaliersdelikt</strong> und kann <strong>rechtliche Konsequenzen</strong> nach sich ziehen."
+      "feedback_correct": "✅ Richtig! Es geht um <strong>Initiativen</strong>, nicht um Petitionen.",
+      "feedback_incorrect": "❌ Falsch. Es geht um <strong>Initiativen</strong>, nicht um Petitionen."
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>Gefälschte Unterschriften können dazu führen, dass eine Initiative abgelehnt wird.</p>",
+      "question": "<p>«Divers» wurde unter anderem wegen des ESC-Gewinns von Nemo gewählt.</p>",
       "correct_answer": true,
-      "feedback_correct": "✅ Richtig. <strong>Gefälschte Unterschriften</strong> können die <strong>Gültigkeit einer Initiative</strong> in Frage stellen und dazu führen, dass sie <strong>abgelehnt</strong> wird.",
-      "feedback_incorrect": "❌ Falsch. <strong>Gefälschte Unterschriften</strong> können tatsächlich dazu führen, dass eine <strong>Initiative abgelehnt</strong> wird, da sie die notwendige Anzahl gültiger Unterschriften reduzieren."
+      "feedback_correct": "✅ Richtig! Der <strong>ESC-Gewinn von Nemo</strong> war ein Faktor bei der Wahl von «Divers».",
+      "feedback_incorrect": "❌ Falsch. Der <strong>ESC-Gewinn von Nemo</strong> war tatsächlich ein Grund für die Wahl."
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>«Unterschriften-Bschiss» kommt nur in der Schweiz vor.</p>",
+      "question": "<p>«Maurgang» bezieht sich ausschliesslich auf den Erdrutsch in Brienz.</p>",
       "correct_answer": false,
-      "feedback_correct": "✅ Falsch. «Unterschriften-Bschiss» ist <strong>kein Phänomen, das nur in der Schweiz vorkommt</strong>, sondern kann auch in anderen Ländern mit ähnlichen demokratischen Prozessen auftreten.",
-      "feedback_incorrect": "❌ Falsch. «Unterschriften-Bschiss» ist <strong>nicht auf die Schweiz beschränkt</strong> und kann auch in <strong>anderen Ländern</strong> vorkommen."
+      "feedback_correct": "✅ Richtig! Es bezieht sich auf <strong>viele verschiedene Maurgänge</strong> in der Schweiz.",
+      "feedback_incorrect": "❌ Falsch. Es bezieht sich auf <strong>mehrere Ereignisse</strong>, nicht nur auf Brienz."
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Verstehen",
-      "question": "<p>Die Aufdeckung von «Unterschriften-Bschiss» stärkt das Vertrauen in die Demokratie, da es zeigt, dass Kontrollmechanismen funktionieren.</p>",
+      "question": "<p>Der Unterschriften-Skandal könnte das Vertrauen in demokratische Prozesse schwächen.</p>",
       "correct_answer": true,
-      "feedback_correct": "✅ Richtig. Die <strong>Aufdeckung von «Unterschriften-Bschiss»</strong> kann das <strong>Vertrauen in die Demokratie stärken</strong>, da sie zeigt, dass <strong>Kontrollmechanismen greifen</strong> und <strong>Betrug aufgedeckt wird</strong>.",
-      "feedback_incorrect": "❌ Falsch. Die <strong>Aufdeckung von «Unterschriften-Bschiss»</strong> kann tatsächlich das <strong>Vertrauen in die Demokratie stärken</strong>, da sie die <strong>Funktionsfähigkeit der Kontrollmechanismen</strong> demonstriert."
+      "feedback_correct": "✅ Richtig! Die Fälschungen können das <strong>Vertrauen in die Demokratie</strong> erschüttern.",
+      "feedback_incorrect": "❌ Falsch. Der Skandal hat tatsächlich das Potenzial, das <strong>Vertrauen in demokratische Prozesse</strong> zu mindern."
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Verstehen",
-      "question": "<p>«Unterschriften-Bschiss» ist akzeptabel, solange das gewünschte politische Ziel erreicht wird.</p>",
+      "question": "<p>Das Wort «Divers» betont die zunehmende Homogenität der Gesellschaft.</p>",
       "correct_answer": false,
-      "feedback_correct": "✅ Falsch. «Unterschriften-Bschiss» ist <strong>nicht akzeptabel</strong>, auch wenn ein <strong>gewünschtes politisches Ziel</strong> erreicht wird, da es <strong>unethisch</strong> und <strong>illegal</strong> ist und die <strong>Grundlagen der Demokratie untergräbt</strong>.",
-      "feedback_incorrect": "❌ Falsch. «Unterschriften-Bschiss» ist <strong>niemals akzeptabel</strong>, da die <strong>Integrität des demokratischen Prozesses</strong> wichtiger ist als das Erreichen eines bestimmten politischen Ziels durch <strong>Betrug</strong>."
+      "feedback_correct": "✅ Richtig! «Divers» betont das Gegenteil, nämlich die <strong>Vielfalt</strong>.",
+      "feedback_incorrect": "❌ Falsch. «Divers» betont gerade die <strong>Verschiedenheit</strong>, nicht die Homogenität."
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Verstehen",
-      "question": "<p>Eine hohe Anzahl von Unterschriften für eine Initiative schützt vor «Unterschriften-Bschiss».</p>",
+      "question": "<p>«Maurgang» als Wort des Jahres soll aufzeigen, dass Naturkatastrophen in der Schweiz abnehmen.</p>",
       "correct_answer": false,
-      "feedback_correct": "✅ Falsch. Eine <strong>hohe Anzahl von Unterschriften</strong> <strong>schützt nicht automatisch vor «Unterschriften-Bschiss»</strong>. Auch bei vielen Unterschriften können <strong>gefälschte darunter sein</strong>, und es braucht <strong>unabhängige Kontrollen</strong>.",
-      "feedback_incorrect": "❌ Falsch. Eine <strong>hohe Anzahl von Unterschriften</strong> ist <strong>kein Schutz vor «Unterschriften-Bschiss»</strong>. <strong>Kontrollen</strong> sind notwendig, unabhängig von der Anzahl der gesammelten Unterschriften."
+      "feedback_correct": "✅ Richtig! Es zeigt eher das Gegenteil, eine <strong>Zunahme</strong> von solchen Ereignissen.",
+      "feedback_incorrect": "❌ Falsch. Es deutet eher auf eine <strong>Zunahme</strong> von Naturkatastrophen hin, bedingt durch den Klimawandel."
     }
   ]
 }
