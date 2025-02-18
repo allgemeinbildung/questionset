@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Gemeinde-Monitoring",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Rendez-vous-radio/2021/06/Rendez-vous_04-06-2021-1233.mp3",
+    "source": "https://www.srf.ch/news/schweiz/gemeinde-monitoring-den-gemeinden-fehlen-die-raetinnen-und-raete"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Gemeinden gibt es ungefähr in der Schweiz laut dem Text?</p>",
+      "options": [
+        {
+          "text": "Etwa 1'169 Gemeinden",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt mehr Gemeinden. Die korrekte Zahl liegt bei etwa <strong>2'169 Gemeinden</strong>."
+        },
+        {
+          "text": "Etwa 2'169 Gemeinden",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Text nennt die Zahl von etwa <strong>2'169 Gemeinden</strong> in der Schweiz."
+        },
+        {
+          "text": "Etwa 3'169 Gemeinden",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es sind weniger Gemeinden. Die korrekte Zahl liegt bei etwa <strong>2'169 Gemeinden</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Exekutivämter in den Gemeinden sind insgesamt zu besetzen?</p>",
+      "options": [
+        {
+          "text": "Etwa 10'000",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es sind mehr Ämter. Die richtige Zahl liegt bei etwa <strong>13'000 Exekutivämtern</strong>."
+        },
+        {
+          "text": "Etwa 13'000",
+          "is_correct": true,
+          "feedback": "✅ Richtig! In den Schweizer Gemeinden sind insgesamt etwa <strong>13'000 Exekutivämter</strong> zu besetzen."
+        },
+        {
+          "text": "Etwa 16'000",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es sind weniger Ämter. Die richtige Zahl liegt bei etwa <strong>13'000 Exekutivämtern</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Person wird im Text als Politikwissenschaftler und Mitautor des Gemeindemonitorings genannt?</p>",
+      "options": [
+        {
+          "text": "Reto Steiner",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Reto Steiner ist zwar Mitautor, aber er ist Professor für <strong>Management</strong>."
+        },
+        {
+          "text": "Raphael von Matt",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Raphael von Matt ist der <strong>Inlandredakteur</strong>, nicht der Politikwissenschaftler."
+        },
+        {
+          "text": "Andreas Ladner",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Andreas Ladner</strong> wird als Politikwissenschaftler und Mitautor des Monitorings genannt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In wie viel Prozent der Gemeinden finden keine eigentlichen Wahlen mehr statt, weil zu wenig Auswahl besteht?</p>",
+      "options": [
+        {
+          "text": "In 20% der Gemeinden",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es sind mehr Gemeinden. Der Text spricht von <strong>40% der Gemeinden</strong>."
+        },
+        {
+          "text": "In 40% der Gemeinden",
+          "is_correct": true,
+          "feedback": "✅ Richtig! In <strong>40% der Gemeinden</strong> finden keine eigentlichen Wahlen mehr statt."
+        },
+        {
+          "text": "In 60% der Gemeinden",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es sind weniger Gemeinden. Der Text spricht von <strong>40% der Gemeinden</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welchen Lösungsansatz schlägt Reto Steiner vor, um das Amt der Gemeinderätin/des Gemeinderats attraktiver zu machen?</p>",
+      "options": [
+        {
+          "text": "Mehr Freizeit für Gemeinderäte",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Reto Steiner schlägt nicht mehr Freizeit vor, sondern <strong>bessere Löhne</strong>."
+        },
+        {
+          "text": "Bessere Löhne für Gemeinderäte",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Reto Steiner schlägt vor, <strong>bessere Löhne</strong> zu bezahlen, um das Amt attraktiver zu machen."
+        },
+        {
+          "text": "Mehr Unterstützung durch die Kantone",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Reto Steiner erwähnt keine Unterstützung durch die Kantone, sondern <strong>bessere Löhne</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet die Aussage, dass in vielen kleinen Gemeinden 'Parteien aus der lokalen Politik verschwinden'?</p>",
+      "options": [
+        {
+          "text": "Dass lokale Parteien in allen Gemeinden irrelevant werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Aussage bezieht sich vor allem auf <strong>kleine Gemeinden</strong>, nicht auf alle."
+        },
+        {
+          "text": "Dass lokale Parteien besonders in kleineren Gemeinden an Bedeutung verlieren oder nicht mehr existieren.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Es bedeutet, dass besonders in <strong>kleineren Gemeinden</strong> die Rolle der Parteien in der lokalen Politik abnimmt."
+        },
+        {
+          "text": "Dass nationale Parteien die lokale Politik dominieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Aussage bezieht sich auf den Rückgang <strong>lokaler Parteien</strong>, nicht auf die Dominanz nationaler Parteien."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum argumentiert Politikwissenschaftler Ladner, dass das Verschwinden der Parteien aus der lokalen Politik problematisch sein kann?</p>",
+      "options": [
+        {
+          "text": "Weil Parteilose mehr Mitspracherecht in den Gemeinden fordern.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht nicht um mehr Mitspracherecht, sondern darum, dass <strong>Parteilosen ein wichtiges Netzwerk fehlt</strong>."
+        },
+        {
+          "text": "Weil Parteilosen oft ein unterstützendes Netzwerk und eine Vorauswahl durch Parteien fehlt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Parteilosen fehlt oft ein Beziehungsnetzwerk</strong> und die <strong>Vorauswahl und Unterstützung</strong>, die Parteien bieten."
+        },
+        {
+          "text": "Weil Parteien die Sachpolitik in den Gemeinden behindern.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ladner argumentiert, dass Parteien gerade für die <strong>Unterstützung und Vernetzung</strong> wichtig sind."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Bevölkerungsgruppen sind gemäss dem Gemeindemonitoring in den Gemeinderäten untervertreten?</p>",
+      "options": [
+        {
+          "text": "Senioren und Männer",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Senioren und Männer sind tendenziell eher <strong>über- als untervertreten</strong>."
+        },
+        {
+          "text": "Frauen und Junge",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Monitoring zeigt, dass <strong>Frauen und junge Menschen</strong> in den Gemeinderäten <strong>untervertreten</strong> sind."
+        },
+        {
+          "text": "Personen mit Hochschulabschluss",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Text erwähnt die Untervertretung von <strong>Frauen und Jungen</strong>, aber nicht von Personen mit Hochschulabschluss."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was könnte ein Grund dafür sein, dass bessere Löhne mehr Personen für ein Gemeindeamt begeistern könnten?</p>",
+      "options": [
+        {
+          "text": "Weil das Amt dann weniger Zeit in Anspruch nimmt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bessere Löhne reduzieren nicht den Zeitaufwand, sondern <strong>kompensieren finanzielle Nachteile</strong>."
+        },
+        {
+          "text": "Weil es finanzielle Nachteile ausgleichen könnte, die durch die Reduktion der Berufstätigkeit entstehen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Bessere Löhne könnten <strong>finanzielle Nachteile kompensieren</strong>, die entstehen, wenn man für das Amt die Berufstätigkeit reduziert."
+        },
+        {
+          "text": "Weil mehr Lohn die politische Macht der Gemeinderäte erhöht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Mehr Lohn erhöht nicht direkt die politische Macht, sondern macht das Amt <strong>finanziell attraktiver</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Schlussfolgerung lässt sich aus dem Text bezüglich der Zukunft der Gemeindepolitik ziehen?</p>",
+      "options": [
+        {
+          "text": "Die Gemeindepolitik wird in Zukunft einfacher, da weniger Parteien involviert sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Text deutet eher auf <strong>Herausforderungen</strong> hin, nicht auf Vereinfachung."
+        },
+        {
+          "text": "Die Gemeindepolitik steht vor Herausforderungen bei der Kandidatenfindung und benötigt Massnahmen zur Attraktivitätssteigerung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Text zeigt, dass die Gemeindepolitik vor <strong>Herausforderungen bei der Kandidatenfindung</strong> steht und <strong>Massnahmen zur Attraktivitätssteigerung</strong> benötigt."
+        },
+        {
+          "text": "Die Gemeindepolitik wird in Zukunft hauptsächlich von parteilosen Personen dominiert werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl Parteilose zunehmen, ist es eher eine <strong>Herausforderung</strong> als eine positive Entwicklung laut Text."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Gemeindemonitoring zeigt, dass die Mehrheit der Schweizer Gemeinden keine Probleme hat, Kandidaten für den Gemeinderat zu finden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Das ist falsch. Das Monitoring zeigt, dass die <strong>Hälfte aller Schweizer Gemeinden Mühe</strong> hat, geeignete Kandidaten zu finden.",
+      "feedback_incorrect": "❌ Falsch! Das ist richtig. Das Monitoring zeigt, dass die <strong>Hälfte aller Schweizer Gemeinden Mühe</strong> hat, Kandidaten zu finden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Gemeindepräsidentinnen und Gemeinderäte werden immer direkt vom Volk gewählt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Das ist falsch. Im Text steht, dass sie meist von den <strong>Gemeindeversammlungen gewählt</strong> werden.",
+      "feedback_incorrect": "❌ Falsch! Das ist richtig. Im Text steht, dass sie meist von den <strong>Gemeindeversammlungen gewählt</strong> werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Reto Steiner ist Professor für Politikwissenschaft.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Das ist falsch. Reto Steiner ist Professor für <strong>Management</strong>.",
+      "feedback_incorrect": "❌ Falsch! Das ist richtig. Reto Steiner ist Professor für <strong>Management</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die zunehmende Anzahl parteiloser Gemeindepolitiker wird im Text ausschliesslich positiv bewertet, da Sachpolitik im Vordergrund steht.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Das ist falsch. Der Text deutet an, dass es auch <strong>Nachteile</strong> gibt, da Parteilosen ein Netzwerk fehlt.",
+      "feedback_incorrect": "❌ Falsch! Das ist richtig. Der Text deutet an, dass es auch <strong>Nachteile</strong> gibt, da Parteilosen ein Netzwerk fehlt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Laut Text könnten höhere Löhne dazu beitragen, die Vielfalt in den Gemeinderäten zu erhöhen, indem sie mehr Frauen und jüngere Menschen ansprechen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Höhere Löhne könnten das Amt für Personen attraktiver machen, die aktuell finanzielle Hürden sehen, wie z.B. <strong>Frauen nach einer Familienpause oder jüngere Menschen</strong>.",
+      "feedback_incorrect": "❌ Falsch! Das ist richtig. Höhere Löhne könnten das Amt für Personen attraktiver machen, die aktuell finanzielle Hürden sehen, wie z.B. <strong>Frauen nach einer Familienpause oder jüngere Menschen</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Der Text impliziert, dass das Engagement in der Gemeindepolitik in Zukunft an Attraktivität gewinnen wird, ohne dass Massnahmen ergriffen werden müssen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Das ist falsch. Der Text deutet eher darauf hin, dass <strong>Massnahmen nötig sind</strong>, um die Attraktivität zu steigern.",
+      "feedback_incorrect": "❌ Falsch! Das ist richtig. Der Text deutet eher darauf hin, dass <strong>Massnahmen nötig sind</strong>, um die Attraktivität zu steigern."
+    }
+  ]
+}

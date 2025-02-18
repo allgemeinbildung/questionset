@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Unterschriften-Bschiss",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Schwiiz_und_duetlich_radio/2024/12/Schwiiz_und_duetlich_radio_AUDI20241203_RS_0028_c64009c237df4ead91ca1901a278a58d.mp3",
+    "source": "https://www.srf.ch/audio/schwiiz-und-duetlich/wort-des-jahres-unterschriften-bschiss?id=AUDI20241203_RS_0028#autoplay"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist der umgangssprachliche Ausdruck «Unterschriften-Bschiss»?</p>",
+      "options": [
+        {
+          "text": "Eine Methode, um Unterschriften zu fälschen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! «Unterschriften-Bschiss» beschreibt umgangssprachlich das <strong>Fälschen von Unterschriften</strong>."
+        },
+        {
+          "text": "Eine offizielle Bezeichnung für Wahlbetrug in der Schweiz.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist ein <strong>umgangssprachlicher</strong>, nicht offizieller Begriff und bezieht sich spezifisch auf <strong>Unterschriftenfälschung</strong>, nicht generell auf Wahlbetrug."
+        },
+        {
+          "text": "Ein juristischer Fachbegriff für Dokumentenmanipulation.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. «Unterschriften-Bschiss» ist ein <strong>umgangssprachlicher Ausdruck</strong>, kein juristischer Fachbegriff."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Kontext wird der Begriff «Unterschriften-Bschiss» typischerweise verwendet?</p>",
+      "options": [
+        {
+          "text": "Bei der Sammlung von Unterschriften für Initiativen und Referenden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Begriff wird oft im Zusammenhang mit der <strong>Sammlung von Unterschriften</strong> für <strong>politische Vorlagen</strong> wie Initiativen und Referenden verwendet."
+        },
+        {
+          "text": "Bei der Unterzeichnung von Verträgen in der Wirtschaft.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Begriff bezieht sich primär auf den <strong>politischen Kontext</strong>, nicht auf <strong>wirtschaftliche Verträge</strong>."
+        },
+        {
+          "text": "Bei der Anmeldung zu Kursen oder Veranstaltungen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Begriff «Unterschriften-Bschiss» hat keinen Bezug zur <strong>Anmeldung für Kurse oder Veranstaltungen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Ziel verfolgen Personen, die «Unterschriften-Bschiss» begehen?</p>",
+      "options": [
+        {
+          "text": "Das Erreichen des nötigen Quorums für eine Initiative oder ein Referendum.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Durch «Unterschriften-Bschiss» versuchen Personen, das <strong>notwendige Quorum</strong> für eine <strong>Initiative oder ein Referendum</strong> zu erreichen, oft auf illegale Weise."
+        },
+        {
+          "text": "Die korrekte Dokumentation von Unterschriften sicherzustellen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. «Unterschriften-Bschiss» ist das <strong>Gegenteil</strong> von korrekter Dokumentation; es handelt sich um <strong>Manipulation</strong>."
+        },
+        {
+          "text": "Die Öffentlichkeit über die Wichtigkeit von Unterschriften aufzuklären.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. «Unterschriften-Bschiss» hat nichts mit <strong>Aufklärung</strong> zu tun, sondern mit <strong>Betrug</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Konsequenz kann «Unterschriften-Bschiss» für die Gültigkeit einer Initiative haben?</p>",
+      "options": [
+        {
+          "text": "Die Initiative kann für ungültig erklärt werden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Wenn «Unterschriften-Bschiss» aufgedeckt wird, kann dies zur <strong>Ungültigkeitserklärung der Initiative</strong> führen."
+        },
+        {
+          "text": "Die Initiative wird automatisch angenommen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. «Unterschriften-Bschiss» gefährdet die <strong>Gültigkeit</strong> einer Initiative, führt aber <strong>nicht</strong> zu einer automatischen Annahme."
+        },
+        {
+          "text": "Es hat keine Auswirkungen auf die Gültigkeit der Initiative.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. «Unterschriften-Bschiss» kann <strong>erhebliche Auswirkungen</strong> auf die <strong>Gültigkeit</strong> einer Initiative haben."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer ist typischerweise für die Überprüfung der Unterschriften bei einer Initiative zuständig?</p>",
+      "options": [
+        {
+          "text": "Die Gemeinde- oder Stadtbehörden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! In der Schweiz sind in der Regel die <strong>Gemeinde- oder Stadtbehörden</strong> für die <strong>Überprüfung der Unterschriften</strong> zuständig."
+        },
+        {
+          "text": "Der Bundesrat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Bundesrat</strong> ist <strong>nicht direkt</strong> für die <strong>Überprüfung der Unterschriften</strong> zuständig."
+        },
+        {
+          "text": "Die Bundespolizei.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Bundespolizei</strong> ist <strong>nicht primär</strong> für die <strong>Überprüfung von Unterschriften</strong> bei Initiativen zuständig, sondern eher für strafrechtliche Ermittlungen im Falle von Betrug."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist «Unterschriften-Bschiss» ein Problem für die Demokratie?</p>",
+      "options": [
+        {
+          "text": "Weil es den Volkswillen verfälscht und das Vertrauen in demokratische Prozesse untergräbt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! «Unterschriften-Bschiss» <strong>verfälscht den Volkswillen</strong> und <strong>untergräbt das Vertrauen</strong> in demokratische Prozesse, da es die Grundlage der direkten Demokratie, die freie Meinungsäusserung durch Unterschrift, manipuliert."
+        },
+        {
+          "text": "Weil es die Arbeit der Behörden vereinfacht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. «Unterschriften-Bschiss» <strong>erschwert die Arbeit der Behörden</strong> durch zusätzliche Kontrollaufwände und mögliche rechtliche Auseinandersetzungen."
+        },
+        {
+          "text": "Weil es die politische Beteiligung der Bürger erhöht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. «Unterschriften-Bschiss» <strong>reduziert die echte politische Beteiligung</strong>, da es auf <strong>Manipulation</strong> und <strong>Betrug</strong> basiert statt auf ehrlicher Überzeugung und Mobilisierung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet «Unterschriften-Bschiss» im Kontext der politischen Glaubwürdigkeit?</p>",
+      "options": [
+        {
+          "text": "Es schadet der Glaubwürdigkeit von politischen Akteuren und Prozessen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! «Unterschriften-Bschiss» <strong>schadet der Glaubwürdigkeit</strong> von <strong>politischen Akteuren und Prozessen</strong>, da es ein Zeichen von <strong>Unehrlichkeit</strong> und <strong>Manipulation</strong> ist."
+        },
+        {
+          "text": "Es stärkt die Glaubwürdigkeit, da es zeigt, wie wichtig ein Anliegen ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. «Unterschriften-Bschiss» <strong>schwächt die Glaubwürdigkeit</strong>, da es <strong>unethisch</strong> und <strong>illegal</strong> ist, selbst wenn ein Anliegen als wichtig erachtet wird."
+        },
+        {
+          "text": "Es hat keinen Einfluss auf die politische Glaubwürdigkeit.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. «Unterschriften-Bschiss» hat einen <strong>negativen Einfluss</strong> auf die <strong>politische Glaubwürdigkeit</strong>, da es das Vertrauen in die Integrität des politischen Systems untergräbt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Inwiefern unterscheidet sich «Unterschriften-Bschiss» von anderen Formen des Wahlbetrugs?</p>",
+      "options": [
+        {
+          "text": "Es fokussiert spezifisch auf die Manipulation von Unterschriften im Vorfeld von Abstimmungen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! «Unterschriften-Bschiss» ist <strong>spezifisch</strong> auf die <strong>Manipulation von Unterschriften</strong> bei der Sammlung für Initiativen und Referenden fokussiert, im <strong>Vorfeld von Abstimmungen</strong>, während anderer Wahlbetrug sich auf den Abstimmungsprozess selbst beziehen kann."
+        },
+        {
+          "text": "Es ist eine harmlosere Form des Wahlbetrugs ohne grössere Konsequenzen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. «Unterschriften-Bschiss» ist <strong>nicht harmlos</strong> und kann <strong>erhebliche Konsequenzen</strong> haben, wie die Ungültigkeit einer Initiative und strafrechtliche Verfolgung."
+        },
+        {
+          "text": "Es ist die häufigste Form des Wahlbetrugs in der Schweiz.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ob «Unterschriften-Bschiss» die <strong>häufigste Form</strong> des Wahlbetrugs ist, ist <strong>nicht pauschal zu sagen</strong>, aber es ist eine <strong>relevante Form</strong>, die Aufmerksamkeit erfordert."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Massnahmen könnten ergriffen werden, um «Unterschriften-Bschiss» zu verhindern?</p>",
+      "options": [
+        {
+          "text": "Strengere Kontrollen bei der Sammlung und Überprüfung von Unterschriften.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Strengere Kontrollen</strong> bei der <strong>Sammlung und Überprüfung von Unterschriften</strong> sind eine wichtige Massnahme, um «Unterschriften-Bschiss» zu <strong>verhindern</strong>."
+        },
+        {
+          "text": "Die Abschaffung von Initiativen und Referenden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Abschaffung von Initiativen und Referenden</strong> wäre eine <strong>drastische Massnahme</strong> und würde das <strong>Grundprinzip der direkten Demokratie</strong> in Frage stellen, anstatt das Problem von «Unterschriften-Bschiss» gezielt zu bekämpfen."
+        },
+        {
+          "text": "Die Legalisierung von «Unterschriften-Bschiss».",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Legalisierung von «Unterschriften-Bschiss»</strong> wäre <strong>kontraproduktiv</strong> und würde <strong>Betrug fördern</strong>, anstatt ihn zu verhindern."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wie beeinflusst die Digitalisierung das Risiko von «Unterschriften-Bschiss»?</p>",
+      "options": [
+        {
+          "text": "Sie könnte sowohl neue Möglichkeiten für «Unterschriften-Bschiss» schaffen als auch die Kontrolle verbessern.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Digitalisierung</strong> kann <strong>neue Formen von «Unterschriften-Bschiss»</strong> ermöglichen, z.B. durch digitale Fälschungen, aber auch <strong>verbesserte Kontrollmechanismen</strong> durch digitale Überprüfungssysteme bieten."
+        },
+        {
+          "text": "Sie reduziert das Risiko von «Unterschriften-Bschiss» vollständig.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Digitalisierung</strong> <strong>reduziert das Risiko nicht vollständig</strong>, sondern <strong>verändert es</strong> und erfordert <strong>neue Sicherheitsmassnahmen</strong>."
+        },
+        {
+          "text": "Sie erhöht das Risiko von «Unterschriften-Bschiss» nicht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Digitalisierung</strong> kann das <strong>Risiko von «Unterschriften-Bschiss» erhöhen</strong>, wenn keine entsprechenden <strong>Sicherheitsvorkehrungen</strong> getroffen werden."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>«Unterschriften-Bschiss» ist ein Kavaliersdelikt ohne rechtliche Konsequenzen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch. «Unterschriften-Bschiss» ist <strong>kein Kavaliersdelikt</strong> und kann <strong>rechtliche Konsequenzen</strong> haben.",
+      "feedback_incorrect": "❌ Falsch. «Unterschriften-Bschiss» ist <strong>kein Kavaliersdelikt</strong> und kann <strong>rechtliche Konsequenzen</strong> nach sich ziehen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Gefälschte Unterschriften können dazu führen, dass eine Initiative abgelehnt wird.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig. <strong>Gefälschte Unterschriften</strong> können die <strong>Gültigkeit einer Initiative</strong> in Frage stellen und dazu führen, dass sie <strong>abgelehnt</strong> wird.",
+      "feedback_incorrect": "❌ Falsch. <strong>Gefälschte Unterschriften</strong> können tatsächlich dazu führen, dass eine <strong>Initiative abgelehnt</strong> wird, da sie die notwendige Anzahl gültiger Unterschriften reduzieren."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>«Unterschriften-Bschiss» kommt nur in der Schweiz vor.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch. «Unterschriften-Bschiss» ist <strong>kein Phänomen, das nur in der Schweiz vorkommt</strong>, sondern kann auch in anderen Ländern mit ähnlichen demokratischen Prozessen auftreten.",
+      "feedback_incorrect": "❌ Falsch. «Unterschriften-Bschiss» ist <strong>nicht auf die Schweiz beschränkt</strong> und kann auch in <strong>anderen Ländern</strong> vorkommen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Aufdeckung von «Unterschriften-Bschiss» stärkt das Vertrauen in die Demokratie, da es zeigt, dass Kontrollmechanismen funktionieren.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig. Die <strong>Aufdeckung von «Unterschriften-Bschiss»</strong> kann das <strong>Vertrauen in die Demokratie stärken</strong>, da sie zeigt, dass <strong>Kontrollmechanismen greifen</strong> und <strong>Betrug aufgedeckt wird</strong>.",
+      "feedback_incorrect": "❌ Falsch. Die <strong>Aufdeckung von «Unterschriften-Bschiss»</strong> kann tatsächlich das <strong>Vertrauen in die Demokratie stärken</strong>, da sie die <strong>Funktionsfähigkeit der Kontrollmechanismen</strong> demonstriert."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>«Unterschriften-Bschiss» ist akzeptabel, solange das gewünschte politische Ziel erreicht wird.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch. «Unterschriften-Bschiss» ist <strong>nicht akzeptabel</strong>, auch wenn ein <strong>gewünschtes politisches Ziel</strong> erreicht wird, da es <strong>unethisch</strong> und <strong>illegal</strong> ist und die <strong>Grundlagen der Demokratie untergräbt</strong>.",
+      "feedback_incorrect": "❌ Falsch. «Unterschriften-Bschiss» ist <strong>niemals akzeptabel</strong>, da die <strong>Integrität des demokratischen Prozesses</strong> wichtiger ist als das Erreichen eines bestimmten politischen Ziels durch <strong>Betrug</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine hohe Anzahl von Unterschriften für eine Initiative schützt vor «Unterschriften-Bschiss».</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch. Eine <strong>hohe Anzahl von Unterschriften</strong> <strong>schützt nicht automatisch vor «Unterschriften-Bschiss»</strong>. Auch bei vielen Unterschriften können <strong>gefälschte darunter sein</strong>, und es braucht <strong>unabhängige Kontrollen</strong>.",
+      "feedback_incorrect": "❌ Falsch. Eine <strong>hohe Anzahl von Unterschriften</strong> ist <strong>kein Schutz vor «Unterschriften-Bschiss»</strong>. <strong>Kontrollen</strong> sind notwendig, unabhängig von der Anzahl der gesammelten Unterschriften."
+    }
+  ]
+}

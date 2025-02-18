@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Novemberrevolution",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/100-Sekunden-Wissen-radio/2018/11/100-Sekunden-Wissen_07-11-2018-621.mp3",
+    "source": "https://www.srf.ch/audio/100-sekunden-wissen/novemberrevolution?id=59d1f516-cc2d-43b2-a471-4b583162c46a#autoplay"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Jahr begann die Novemberrevolution in Deutschland?</p>",
+      "options": [
+        {
+          "text": "1917",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Novemberrevolution begann nicht 1917. 1917 war das Jahr der <strong>Russischen Revolution</strong>."
+        },
+        {
+          "text": "1918",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Novemberrevolution begann im Jahr <strong>1918</strong>."
+        },
+        {
+          "text": "1919",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 1919 war die Revolution bereits im Gange und die <strong>Weimarer Republik</strong> wurde gegründet."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer dankte während der Novemberrevolution ab und beendete damit die Monarchie im Deutschen Reich?</p>",
+      "options": [
+        {
+          "text": "Otto von Bismarck",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Otto von Bismarck war bereits vor der Novemberrevolution zurückgetreten und spielte keine Rolle mehr. Es war <strong>Kaiser Wilhelm II.</strong>"
+        },
+        {
+          "text": "Kaiser Wilhelm II.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Kaiser Wilhelm II.</strong> dankte ab und beendete die Monarchie."
+        },
+        {
+          "text": "Paul von Hindenburg",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Paul von Hindenburg war ein wichtiger General, aber nicht der Monarch. Es war <strong>Kaiser Wilhelm II.</strong>"
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche politische Struktur wurde in Deutschland nach der Novemberrevolution ausgerufen?</p>",
+      "options": [
+        {
+          "text": "Eine Diktatur",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Novemberrevolution führte nicht zu einer Diktatur, sondern zur <strong>Weimarer Republik</strong>."
+        },
+        {
+          "text": "Eine Monarchie",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Monarchie wurde durch die Novemberrevolution gerade <strong>abgeschafft</strong>."
+        },
+        {
+          "text": "Eine Republik",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Nach der Novemberrevolution wurde die <strong>Republik</strong> ausgerufen, die sogenannte Weimarer Republik."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo begannen die ersten revolutionären Ereignisse der Novemberrevolution?</p>",
+      "options": [
+        {
+          "text": "In Berlin",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl Berlin ein wichtiger Ort war, begannen die revolutionären Ereignisse in der <strong>Kriegsmarine</strong>."
+        },
+        {
+          "text": "In Kiel",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die ersten revolutionären Ereignisse begannen in <strong>Kiel</strong> mit dem <strong>Matrosenaufstand</strong>."
+        },
+        {
+          "text": "In München",
+          "is_correct": false,
+          "feedback": "❌ Falsch. München spielte später eine Rolle, aber der Beginn war in <strong>Kiel</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Ereignis gilt als Auslöser der Novemberrevolution?</p>",
+      "options": [
+        {
+          "text": "Der Sturm auf die Bastille",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Sturm auf die Bastille war ein Ereignis der <strong>Französischen Revolution</strong>, nicht der Novemberrevolution."
+        },
+        {
+          "text": "Der Matrosenaufstand in Kiel",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der <strong>Matrosenaufstand in Kiel</strong> im Oktober/November 1918 gilt als direkter Auslöser."
+        },
+        {
+          "text": "Die Ermordung von Erzherzog Franz Ferdinand",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Ermordung von Franz Ferdinand war der Auslöser des <strong>Ersten Weltkriegs</strong>, nicht der Novemberrevolution."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum wird die Revolution als 'Novemberrevolution' bezeichnet?</p>",
+      "options": [
+        {
+          "text": "Weil sie im November geplant wurde.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Name bezieht sich nicht auf die Planung, sondern auf den <strong>Zeitraum der Hauptgeschehnisse</strong>."
+        },
+        {
+          "text": "Weil die wichtigsten Ereignisse im November 1918 stattfanden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Revolution wird 'Novemberrevolution' genannt, weil die <strong>wichtigsten Ereignisse</strong> im <strong>November 1918</strong> stattfanden."
+        },
+        {
+          "text": "Weil der November der elfte Monat im Jahr ist und es die elfte Revolution in Deutschland war.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Name hat nichts mit der Nummerierung von Revolutionen zu tun, sondern mit dem <strong>Monat des Geschehens</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche grundlegende Veränderung in der Regierungsform Deutschlands brachte die Novemberrevolution?</p>",
+      "options": [
+        {
+          "text": "Die Einführung einer konstitutionellen Monarchie.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die konstitutionelle Monarchie existierte bereits. Die Revolution führte zur <strong>Abschaffung der Monarchie</strong>."
+        },
+        {
+          "text": "Die Umwandlung von einer Monarchie in eine Republik.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die grundlegende Veränderung war die Umwandlung von einer <strong>Monarchie</strong> in eine <strong>Republik</strong>."
+        },
+        {
+          "text": "Die Etablierung einer Militärdiktatur.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wurde keine Militärdiktatur etabliert, sondern eine <strong>demokratische Republik</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was war ein wesentlicher Faktor, der zur Unzufriedenheit der Bevölkerung und damit zur Revolution beitrug?</p>",
+      "options": [
+        {
+          "text": "Die lange Friedensperiode.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es herrschte kein Frieden, sondern der <strong>Erste Weltkrieg</strong>, der die Bevölkerung stark belastete."
+        },
+        {
+          "text": "Die wirtschaftlichen Belastungen und Entbehrungen des Ersten Weltkriegs.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>wirtschaftlichen Belastungen</strong> und <strong>Entbehrungen</strong> des <strong>Ersten Weltkriegs</strong> waren ein wesentlicher Faktor."
+        },
+        {
+          "text": "Die allgemeine Zufriedenheit mit der kaiserlichen Herrschaft.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es herrschte <strong>Unzufriedenheit</strong> mit der kaiserlichen Herrschaft, nicht Zufriedenheit."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche politische Kraft spielte eine wichtige Rolle in der Novemberrevolution und forderte eine sozialistische Republik?</p>",
+      "options": [
+        {
+          "text": "Die konservativen Parteien.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Konservative Kräfte waren gegen die Revolution. Es waren eher <strong>sozialistische Kräfte</strong>."
+        },
+        {
+          "text": "Die sozialistischen Arbeiter- und Soldatenräte.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>sozialistischen Arbeiter- und Soldatenräte</strong> spielten eine zentrale Rolle und forderten eine sozialistische Republik."
+        },
+        {
+          "text": "Das kaiserliche Militär.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Militär war dem Kaiser treu ergeben und wurde durch die Revolution geschwächt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Inwiefern unterschied sich die Novemberrevolution von früheren Revolutionen in Deutschland?</p>",
+      "options": [
+        {
+          "text": "Sie war die erste Revolution in Deutschland überhaupt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gab frühere revolutionäre Bewegungen in Deutschland, wie die <strong>Märzrevolution 1848</strong>."
+        },
+        {
+          "text": "Sie führte zur erstmaligen Abschaffung der Monarchie in ganz Deutschland.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Im Gegensatz zu früheren Bewegungen führte die Novemberrevolution zur <strong>dauerhaften Abschaffung der Monarchie</strong> im gesamten Deutschen Reich."
+        },
+        {
+          "text": "Sie wurde ausschliesslich vom Adel getragen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Revolution wurde getragen von <strong>Arbeitern, Soldaten und sozialistischen Kräften</strong>, nicht vom Adel."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Novemberrevolution begann vor dem Ende des Ersten Weltkriegs.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Novemberrevolution begann <strong>vor dem offiziellen Ende des Ersten Weltkriegs</strong>, aber in dessen Endphase.",
+      "feedback_incorrect": "❌ Falsch. Die Novemberrevolution begann tatsächlich <strong>vor dem Ende des Ersten Weltkriegs</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Kurt Eisner rief in Berlin die Republik aus.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Kurt Eisner rief in <strong>München</strong> die Republik aus, nicht in Berlin. In Berlin rief <strong>Philipp Scheidemann</strong> die Republik aus.",
+      "feedback_incorrect": "❌ Falsch. Kurt Eisner rief die Republik in <strong>München</strong> aus, nicht in Berlin."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Weimarer Republik wurde direkt nach der Novemberrevolution gegründet.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die <strong>Weimarer Republik</strong> wurde als Ergebnis der Novemberrevolution gegründet.",
+      "feedback_incorrect": "❌ Falsch. Die Weimarer Republik war das <strong>direkte Ergebnis</strong> der Novemberrevolution."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Novemberrevolution verlief vollständig gewaltfrei.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Obwohl es weniger Gewalt gab als in manch anderen Revolutionen, war die Novemberrevolution <strong>nicht vollständig gewaltfrei</strong>. Es gab Kämpfe und Tote.",
+      "feedback_incorrect": "❌ Falsch. Es gab zwar weniger Gewalt als in manchen anderen Revolutionen, aber die Novemberrevolution war <strong>nicht ohne Gewalt</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein Hauptziel der Novemberrevolution war die sofortige Beendigung des Ersten Weltkriegs.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Ein wichtiges Ziel der Revolutionäre war die <strong>sofortige Beendigung des sinnlosen Krieges</strong>.",
+      "feedback_incorrect": "❌ Falsch. Die <strong>Beendigung des Ersten Weltkriegs</strong> war tatsächlich ein zentrales Anliegen der Revolution."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Novemberrevolution führte direkt zu einer stabilen und dauerhaften Demokratie in Deutschland.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Obwohl die Revolution die Demokratie einleitete, war die <strong>Weimarer Republik</strong> von Anfang an <strong>instabil</strong> und scheiterte später.",
+      "feedback_incorrect": "❌ Falsch. Die Weimarer Republik, die aus der Revolution hervorging, war leider <strong>nicht stabil und dauerhaft</strong>."
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Stresstest für die Demokratie",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Echo-der-Zeit-radio/2023/08/Echo-der-Zeit_03-08-2023-1804.mp3",
+    "source": "https://www.srf.ch/audio/echo-der-zeit/stresstest-fuer-die-demokratie?partId=fbdbec90-f7af-4487-ade0-e00ce3e117a4#autoplay"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Konzept wird im Titel «Stresstest für die Demokratie» verwendet, um den aktuellen Zustand der Demokratie zu beschreiben?</p>",
+      "options": [
+        {
+          "text": "Klimawandel",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Titel verwendet den Begriff <strong>«Stresstest»</strong>, nicht «Klimawandel», um die Herausforderungen für die Demokratie zu beschreiben."
+        },
+        {
+          "text": "Medizinischer Test",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl «Stresstest» an einen medizinischen Test erinnern mag, wird er hier im übertragenen Sinne für die <strong>Demokratie</strong> verwendet."
+        },
+        {
+          "text": "Belastungsprobe",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Begriff <strong>«Stresstest»</strong> bedeutet hier eine <strong>Belastungsprobe</strong> für die Demokratie."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Kontext wird im Beitrag der Begriff «Stresstest» für die Demokratie hauptsächlich diskutiert?</p>",
+      "options": [
+        {
+          "text": "Sportveranstaltungen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag diskutiert den «Stresstest» im Kontext der <strong>Demokratie</strong>, nicht von Sportveranstaltungen."
+        },
+        {
+          "text": "Politische Systeme",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der «Stresstest» bezieht sich hier auf <strong>politische Systeme</strong> und deren aktuelle Herausforderungen."
+        },
+        {
+          "text": "Wirtschaftliche Märkte",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl auch wirtschaftliche Märkte Stresstests erfahren können, liegt der Fokus hier auf der <strong>Demokratie</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Aussage beschreibt am besten das Hauptthema des Beitrags?</p>",
+      "options": [
+        {
+          "text": "Die Demokratie ist in perfektem Zustand und ohne Herausforderungen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag deutet eher auf <strong>Herausforderungen</strong> für die Demokratie hin, nicht auf einen perfekten Zustand."
+        },
+        {
+          "text": "Die Demokratie steht aktuell unter Druck und muss sich bewähren.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Beitrag thematisiert, dass die <strong>Demokratie</strong> aktuell unter <strong>Druck</strong> steht und sich bewähren muss."
+        },
+        {
+          "text": "Die Demokratie ist ein veraltetes System und sollte abgeschafft werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag diskutiert Herausforderungen, aber nicht die <strong>Abschaffung der Demokratie</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist das Ziel eines «Stresstests» im übertragenen Sinne für die Demokratie?</p>",
+      "options": [
+        {
+          "text": "Die Demokratie zu zerstören.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein «Stresstest» zielt darauf ab, <strong>Stärken und Schwächen</strong> aufzuzeigen, nicht zu zerstören."
+        },
+        {
+          "text": "Die Widerstandsfähigkeit und Schwachstellen der Demokratie zu erkennen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Ziel ist, die <strong>Widerstandsfähigkeit</strong> und <strong>Schwachstellen</strong> der Demokratie zu erkennen."
+        },
+        {
+          "text": "Die Demokratie durch ein anderes System zu ersetzen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der «Stresstest» dient der Analyse und Verbesserung, nicht dem <strong>Systemwechsel</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Frage steht wahrscheinlich im Zentrum der Diskussion über den «Stresstest für die Demokratie»?</p>",
+      "options": [
+        {
+          "text": "Wie kann man Demokratien abschaffen?",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Diskussion zielt auf die <strong>Stärkung</strong>, nicht die Abschaffung der Demokratie."
+        },
+        {
+          "text": "Wie widerstandsfähig sind Demokratien gegenüber aktuellen Herausforderungen?",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Im Zentrum steht die Frage nach der <strong>Widerstandsfähigkeit</strong> der Demokratien."
+        },
+        {
+          "text": "Welche Vorteile bieten autoritäre Systeme gegenüber Demokratien?",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Fokus liegt auf der <strong>Demokratie</strong> selbst und ihren Herausforderungen, nicht auf dem Vergleich mit anderen Systemen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was könnte ein Indikator dafür sein, dass eine Demokratie einem «Stresstest» nicht standhält?</p>",
+      "options": [
+        {
+          "text": "Eine hohe Wahlbeteiligung der Bürger.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine hohe Wahlbeteiligung ist eher ein Zeichen für eine <strong>aktive Demokratie</strong>."
+        },
+        {
+          "text": "Der Abbau von Bürgerrechten und die Einschränkung der Pressefreiheit.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der <strong>Abbau von Bürgerrechten</strong> und die <strong>Einschränkung der Pressefreiheit</strong> sind Alarmsignale."
+        },
+        {
+          "text": "Eine lebhafte und vielfältige öffentliche Debatte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine lebhafte Debatte ist ein Zeichen für eine <strong>gesunde Demokratie</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es wichtig, die Demokratie einem «Stresstest» zu unterziehen?</p>",
+      "options": [
+        {
+          "text": "Um zu beweisen, dass Demokratien überlegen sind und keine Schwächen haben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht nicht um Überlegenheit, sondern um die <strong>Identifikation und Behebung von Schwächen</strong>."
+        },
+        {
+          "text": "Um Schwachstellen zu erkennen und Massnahmen zur Stärkung der Demokratie zu entwickeln.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der «Stresstest» hilft, <strong>Schwachstellen zu erkennen</strong> und <strong>Stärkungsmassnahmen</strong> zu entwickeln."
+        },
+        {
+          "text": "Um Demokratien gezielt zu schwächen und für autoritäre Systeme zu öffnen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ziel ist die <strong>Stärkung</strong>, nicht die Schwächung der Demokratie."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Rolle spielen Medien in einem «Stresstest» für die Demokratie?</p>",
+      "options": [
+        {
+          "text": "Medien sind irrelevant für die Widerstandsfähigkeit der Demokratie.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Medien</strong> spielen eine <strong>zentrale Rolle</strong> in Demokratien."
+        },
+        {
+          "text": "Medien können sowohl zur Stärkung als auch zur Schwächung der Demokratie beitragen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Medien</strong> können durch <strong>kritische Berichterstattung</strong> stärken, aber auch durch <strong>Desinformation</strong> schwächen."
+        },
+        {
+          "text": "Medien sollten staatlich kontrolliert werden, um die Demokratie zu schützen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Staatliche Kontrolle</strong> der Medien widerspricht dem Prinzip der <strong>Pressefreiheit</strong> in Demokratien."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet «Widerstandsfähigkeit» im Kontext des «Stresstests für die Demokratie»?</p>",
+      "options": [
+        {
+          "text": "Die Fähigkeit einer Demokratie, Veränderungen und Krisen unbeschadet zu überstehen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Widerstandsfähigkeit</strong> bedeutet die Fähigkeit, <strong>Veränderungen und Krisen</strong> zu überstehen."
+        },
+        {
+          "text": "Die Unfähigkeit einer Demokratie, sich an neue Gegebenheiten anzupassen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Widerstandsfähigkeit</strong> beinhaltet gerade die Fähigkeit zur <strong>Anpassung</strong>."
+        },
+        {
+          "text": "Der starre Festhalten an traditionellen Strukturen ohne jegliche Anpassung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Starres Festhalten</strong> kann die Widerstandsfähigkeit eher <strong>verringern</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Schlussfolgerung könnte man aus einem erfolgreichen «Stresstest» für die Demokratie ziehen?</p>",
+      "options": [
+        {
+          "text": "Die Demokratie ist perfekt und bedarf keiner weiteren Verbesserung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Auch ein erfolgreicher Test bedeutet nicht <strong>Perfektion</strong>, sondern <strong>Potenzial zur Verbesserung</strong>."
+        },
+        {
+          "text": "Die Demokratie ist widerstandsfähig, aber kontinuierliche Weiterentwicklung bleibt wichtig.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein erfolgreicher Test zeigt <strong>Widerstandsfähigkeit</strong>, betont aber die Notwendigkeit <strong>kontinuierlicher Weiterentwicklung</strong>."
+        },
+        {
+          "text": "Der «Stresstest» ist irrelevant, da Demokratien immer stabil sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der «Stresstest» ist relevant, um die <strong>Stabilität</strong> eben zu <strong>überprüfen</strong> und zu <strong>sichern</strong>."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Begriff «Stresstest» wird im Beitrag wörtlich und nicht im übertragenen Sinne verwendet.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Begriff wird <strong>übertragen</strong> verwendet, um die Herausforderungen für die Demokratie zu beschreiben.",
+      "feedback_incorrect": "❌ Falsch! Der Begriff wird <strong>im übertragenen Sinne</strong> verwendet, um die Herausforderungen für die Demokratie zu beschreiben."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Hauptziel eines «Stresstests» für die Demokratie ist es, ihre Schwächen aufzudecken.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Ein Hauptziel ist es, die <strong>Schwachstellen</strong> der Demokratie zu identifizieren.",
+      "feedback_incorrect": "❌ Falsch! Ein Hauptziel des «Stresstests» ist es tatsächlich, die <strong>Schwachstellen</strong> der Demokratie zu identifizieren."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Im Beitrag wird behauptet, dass Demokratien aktuell keinen Herausforderungen ausgesetzt sind.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Beitrag deutet eher darauf hin, dass Demokratien <strong>aktuell Herausforderungen</strong> gegenüberstehen.",
+      "feedback_incorrect": "❌ Falsch! Der Beitrag thematisiert gerade die <strong>Herausforderungen</strong>, denen Demokratien aktuell ausgesetzt sind."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein erfolgreicher «Stresstest» bedeutet, dass eine Demokratie keine weiteren Verbesserungen benötigt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Auch nach einem erfolgreichen «Stresstest» ist <strong>kontinuierliche Weiterentwicklung</strong> wichtig.",
+      "feedback_incorrect": "❌ Falsch! Auch nach einem erfolgreichen «Stresstest» ist <strong>kontinuierliche Weiterentwicklung</strong> der Demokratie wichtig."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Widerstandsfähigkeit einer Demokratie hängt nur von politischen Institutionen ab, nicht von den Bürgern.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Widerstandsfähigkeit hängt sowohl von <strong>Institutionen</strong> als auch von den <strong>Bürgern</strong> ab.",
+      "feedback_incorrect": "❌ Falsch! Die Widerstandsfähigkeit einer Demokratie hängt von <strong>beiden</strong> ab: politischen Institutionen und den Bürgern."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Medien können in einem «Stresstest» für die Demokratie eine neutrale Beobachterrolle einnehmen, ohne Einfluss zu nehmen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Medien nehmen <strong>keine neutrale Rolle</strong> ein, sondern beeinflussen die öffentliche Meinung und somit den «Stresstest».",
+      "feedback_incorrect": "❌ Falsch! Medien nehmen <strong>keine neutrale Rolle</strong> ein, da sie die öffentliche Meinung und den Diskurs massgeblich beeinflussen."
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Stimmrechtsalter 16",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Echo-der-Zeit-radio/2024/02/Echo-der-Zeit-radio-8493e167-6027-421a-b97d-964f756cb8fd.mp3",
+    "source": "https://www.srf.ch/news/schweiz/stimmrechtsalter-16-abgelehnt-die-angst-vor-der-mitbestimmung-der-jugend"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Kanton der Schweiz dürfen Jugendliche ab 16 Jahren bereits abstimmen und wählen?</p>",
+      "options": [
+        {
+          "text": "Kanton Zürich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Kanton Zürich gilt das Stimmrechtsalter 18, nicht 16. Nur in einem Kanton gibt es eine Ausnahme."
+        },
+        {
+          "text": "Kanton Bern",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Auch im Kanton Bern liegt das Stimmrechtsalter bei 18 Jahren. Es gibt nur einen Kanton mit Stimmrechtsalter 16."
+        },
+        {
+          "text": "Kanton Glarus",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Im Kanton <strong>Glarus</strong> dürfen Jugendliche ab <strong>16 Jahren</strong> an Abstimmungen und Wahlen teilnehmen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie oft hatte der Nationalrat in der Vergangenheit bereits Ja zum Stimmrechtsalter 16 gesagt, bevor er es kürzlich ablehnte?</p>",
+      "options": [
+        {
+          "text": "Einmal",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Nationalrat hat öfter Ja gesagt. Es war mehr als nur einmal."
+        },
+        {
+          "text": "Dreimal",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Nationalrat hatte bereits <strong>dreimal Ja</strong> zum Stimmrechtsalter 16 gesagt, bevor er es nun ablehnte."
+        },
+        {
+          "text": "Fünfmal",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es waren weniger als fünf Male. Der Nationalrat hat zwar Ja gesagt, aber nicht so oft."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche politische Lager brachten hauptsächlich den Ruf nach einem tieferen Stimmrechtsalter auf?</p>",
+      "options": [
+        {
+          "text": "Bürgerliche Kreise",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bürgerliche Kreise sind eher zurückhaltend. Der Ruf kam von anderer Seite."
+        },
+        {
+          "text": "Politisch linke Kreise",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Ruf nach einem tieferen Stimmrechtsalter kam meistens aus <strong>politisch linken Kreisen</strong>."
+        },
+        {
+          "text": "Zentrums-Parteien",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Zentrums-Parteien sind in dieser Frage weniger federführend. Es waren vor allem andere politische Lager."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wann senkte die Schweiz das Stimmrechtsalter von 20 auf 18 Jahre?</p>",
+      "options": [
+        {
+          "text": "Anfang der 1970er Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es war später. Die 70er Jahre sind zu früh."
+        },
+        {
+          "text": "Anfang der 1990er Jahre",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Schweiz senkte das Stimmrechtsalter von 20 auf 18 Jahre <strong>Anfang der 1990er Jahre</strong>."
+        },
+        {
+          "text": "Anfang der 2000er Jahre",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es war früher. Die 2000er Jahre sind zu spät."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Kantone hatten das Stimmrechtsalter 20 verworfen, bevor es auf 18 gesenkt wurde?</p>",
+      "options": [
+        {
+          "text": "Rund 5 Mal",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es war deutlich öfter. Es gab mehr Widerstand in den Kantonen."
+        },
+        {
+          "text": "Rund 15 Mal",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es war noch öfter. Es brauchte viele Anläufe."
+        },
+        {
+          "text": "Rund 25 Mal",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Senkung des Stimmrechtsalters von 20 auf 18 Jahre war in mehreren Kantonen rund <strong>25 Mal verworfen</strong> worden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welches Hauptargument wird im Text gegen das Stimmrechtsalter 16 genannt?</p>",
+      "options": [
+        {
+          "text": "Jugendliche sind zu gebildet für politische Entscheidungen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Gegenteil wird oft suggeriert. Es geht nicht um Bildung, sondern um andere Aspekte."
+        },
+        {
+          "text": "Jugendliche sind nicht reif genug und zu wenig interessiert an Politik.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein Hauptargument ist, dass Jugendliche als <strong>nicht reif genug</strong> und <strong>zu wenig interessiert</strong> an Politik angesehen werden."
+        },
+        {
+          "text": "Jugendliche sind zu stark in soziale Medien eingebunden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Soziale Medien werden im Text nicht als Argument genannt. Es geht um andere Bedenken."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum befürchten bürgerliche Kreise das Stimmrechtsalter 16?</p>",
+      "options": [
+        {
+          "text": "Weil sie erwarten, dass Jugendliche mehrheitlich bürgerlich wählen würden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Erwartung geht in die andere Richtung. Bürgerliche Kreise haben andere Befürchtungen."
+        },
+        {
+          "text": "Weil sie erwarten, dass Jugendliche mehrheitlich links wählen würden und dies das politische Kräfteverhältnis verschieben könnte.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Bürgerliche Kreise befürchten, dass Jugendliche mehrheitlich <strong>links wählen</strong> würden und dies das <strong>politische Kräfteverhältnis verschieben</strong> könnte."
+        },
+        {
+          "text": "Weil sie erwarten, dass Jugendliche sich nicht an Abstimmungen beteiligen würden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Befürchtung ist nicht die mangelnde Beteiligung, sondern die politische Ausrichtung der Jugendlichen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche historische Parallele wird im Text zum Thema Stimmrechtsalter 16 gezogen?</p>",
+      "options": [
+        {
+          "text": "Die Einführung des Frauenstimmrechts und die Senkung des Stimmrechtsalters von 20 auf 18 Jahre.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Es werden Parallelen zur <strong>Einführung des Frauenstimmrechts</strong> und der <strong>Senkung des Stimmrechtsalters von 20 auf 18 Jahre</strong> gezogen, da ähnliche Argumente vorgebracht wurden."
+        },
+        {
+          "text": "Die Einführung der AHV.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die AHV wird im Text nicht im Zusammenhang mit dem Stimmrechtsalter genannt. Es geht um andere historische Ereignisse."
+        },
+        {
+          "text": "Der Beitritt der Schweiz zum Europarat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Europarat ist in diesem Kontext nicht relevant. Die Parallelen beziehen sich auf andere politische Rechte."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was zeigt die Erfahrung mit der Senkung des Stimmrechtsalters von 20 auf 18 Jahre laut Text?</p>",
+      "options": [
+        {
+          "text": "Dass solche Senkungen immer schnell und ohne Widerstand erfolgen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Text beschreibt das Gegenteil. Es gab viel Widerstand und es dauerte lange."
+        },
+        {
+          "text": "Dass es oft lange dauert und viele Anläufe braucht, bis solche Änderungen in der Schweiz akzeptiert werden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Erfahrung zeigt, dass es in der Schweiz oft <strong>lange dauert</strong> und viele <strong>Anläufe braucht</strong>, bis solche Änderungen akzeptiert werden."
+        },
+        {
+          "text": "Dass Senkungen des Stimmrechtsalters in der Schweiz generell abgelehnt werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gab zwar Widerstand, aber die Senkung auf 18 wurde schliesslich akzeptiert. Der Text deutet eine ähnliche Entwicklung für das Stimmrechtsalter 16 an."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Schlussfolgerung zieht der Text bezüglich des Stimmrechtsalters 16 in der Schweiz?</p>",
+      "options": [
+        {
+          "text": "Es wird das Stimmrechtsalter 16 in der Schweiz auf nationaler Ebene nie geben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Text deutet eine andere Entwicklung an. Er schliesst das Stimmrechtsalter 16 nicht aus."
+        },
+        {
+          "text": "Es ist wahrscheinlich, dass das Stimmrechtsalter 16 in der Schweiz irgendwann kommen wird, auch wenn es noch Zeit braucht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Text schliesst mit der Schlussfolgerung, dass das Stimmrechtsalter 16 wohl <strong>irgendwann kommen wird</strong>, auch wenn die Schweiz <strong>viel Zeit</strong> dafür braucht."
+        },
+        {
+          "text": "Das Stimmrechtsalter 16 wird nur im Kanton Glarus bestehen bleiben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Text deutet an, dass es auch in anderen Kantonen oder national eingeführt werden könnte, nicht nur in Glarus."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Nationalrat hat das Stimmrechtsalter 16 kürzlich definitiv angenommen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Nationalrat hat das Stimmrechtsalter 16 <strong>abgelehnt</strong>.",
+      "feedback_incorrect": "❌ Falsch. Der Nationalrat hat das Stimmrechtsalter 16 eben <strong>nicht angenommen</strong>, sondern abgelehnt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Im Kanton Glarus dürfen Jugendliche ab 16 Jahren nicht abstimmen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Im Kanton Glarus dürfen Jugendliche ab 16 Jahren <strong>abstimmen</strong>.",
+      "feedback_incorrect": "❌ Falsch. Im Kanton Glarus dürfen Jugendliche ab 16 Jahren <strong>tatsächlich abstimmen</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die SVP befürwortet das Stimmrechtsalter 16, weil es die Demokratie stärkt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die SVP <strong>befürwortet das Stimmrechtsalter 16 nicht</strong>. Sie argumentiert eher dagegen.",
+      "feedback_incorrect": "❌ Falsch. Die SVP <strong>argumentiert gegen das Stimmrechtsalter 16</strong> und sieht es nicht als Stärkung der Demokratie."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Argumente gegen das Stimmrechtsalter 16 sind im Wesentlichen neu und unterscheiden sich stark von früheren Debatten um die Ausweitung des Stimmrechts.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Argumente sind <strong>nicht neu</strong>. Sie ähneln denen, die früher gegen das Frauenstimmrecht oder die Senkung des Stimmrechtsalters von 20 auf 18 Jahre vorgebracht wurden.",
+      "feedback_incorrect": "❌ Falsch. Die Argumente sind <strong>ähnlich</strong> zu denen aus früheren Debatten. Es gibt viele Parallelen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Der Text impliziert, dass die Ablehnung des Stimmrechtsalters 16 im Nationalrat hauptsächlich auf einer veränderten politischen Mehrheit nach den letzten Wahlen beruht.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Text deutet an, dass der 'Wind Richtung rechts gedreht' hat und dies zur <strong>Ablehnung im Nationalrat</strong> beigetragen hat.",
+      "feedback_incorrect": "❌ Falsch. Der Text legt nahe, dass die <strong>veränderte politische Mehrheit</strong> eine wesentliche Rolle bei der Ablehnung spielte."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Laut Text wäre der Anteil der 16- und 17-jährigen Stimmberechtigten an der gesamten Schweizer Stimmbevölkerung sehr gross und würde die Wahlergebnisse massgeblich verändern.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Anteil wäre mit rund 2,4 Prozent <strong>nicht sehr gross</strong> und würde die Wahlergebnisse <strong>nicht massgeblich verändern</strong>.",
+      "feedback_incorrect": "❌ Falsch. Der Anteil der 16- und 17-Jährigen wäre <strong>relativ gering</strong> und hätte keinen massgeblichen Einfluss auf die Wahlergebnisse."
+    }
+  ]
+}

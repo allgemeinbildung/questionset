@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Chile, Die unverheilten Wunden der Diktatur",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Echo-der-Zeit-radio/2023/09/Echo-der-Zeit_11-09-2023-1807.mp3",
+    "source": "https://www.srf.ch/audio/echo-der-zeit/chile-die-unverheilten-wunden-der-diktatur?partId=1c6be941-da12-414c-bad7-f31cae1c930c#autoplay"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Land dauerte die Diktatur, auf die sich der Titel bezieht?</p>",
+      "options": [
+        {
+          "text": "Argentinien",
+          "is_correct": false,
+          "feedback": "❌ Falsch, Argentinien hatte zwar auch eine Diktatur, aber hier geht es spezifisch um <strong>Chile</strong>."
+        },
+        {
+          "text": "Chile",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Titel bezieht sich auf die Diktatur in <strong>Chile</strong>."
+        },
+        {
+          "text": "Brasilien",
+          "is_correct": false,
+          "feedback": "❌ Falsch, Brasilien hatte ebenfalls eine Diktatur, aber der Fokus liegt hier auf <strong>Chile</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Jahr markiert üblicherweise den Beginn der Diktatur in Chile?</p>",
+      "options": [
+        {
+          "text": "1989",
+          "is_correct": false,
+          "feedback": "❌ Falsch, 1989 markiert eher das Ende der Diktatur. Der Beginn war früher."
+        },
+        {
+          "text": "1973",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! <strong>1973</strong> wird allgemein als das Jahr des Beginns der Diktatur in Chile angesehen."
+        },
+        {
+          "text": "1990",
+          "is_correct": false,
+          "feedback": "❌ Falsch, 1990 war das Ende der Diktatur. Der Beginn war in den <strong>1970er Jahren</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer war der bekannteste Führer der Diktatur in Chile?</p>",
+      "options": [
+        {
+          "text": "Salvador Allende",
+          "is_correct": false,
+          "feedback": "❌ Falsch, Salvador Allende war der <strong>gewählte Präsident</strong> vor der Diktatur."
+        },
+        {
+          "text": "Augusto Pinochet",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Augusto Pinochet</strong> war der Diktator in Chile."
+        },
+        {
+          "text": "Patricio Aylwin",
+          "is_correct": false,
+          "feedback": "❌ Falsch, Patricio Aylwin war ein <strong>Präsident nach der Diktatur</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Regierungsform wurde in Chile durch die Diktatur ersetzt?</p>",
+      "options": [
+        {
+          "text": "Monarchie",
+          "is_correct": false,
+          "feedback": "❌ Falsch, Chile war vor der Diktatur keine Monarchie."
+        },
+        {
+          "text": "Demokratie",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! Die Diktatur ersetzte eine <strong>Demokratie</strong> in Chile."
+        },
+        {
+          "text": "Kommunismus",
+          "is_correct": false,
+          "feedback": "❌ Falsch, Chile war vor der Diktatur keine kommunistische Regierung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Ereignis markierte den Beginn der Diktatur?</p>",
+      "options": [
+        {
+          "text": "Eine Volksabstimmung",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die Diktatur begann nicht mit einer Volksabstimmung."
+        },
+        {
+          "text": "Ein Militärputsch",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein <strong>Militärputsch</strong> führte zum Beginn der Diktatur."
+        },
+        {
+          "text": "Friedliche Wahlen",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die Machtübernahme war nicht friedlich, sondern durch einen <strong>Putsch</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet der Ausdruck 'unverheilte Wunden der Diktatur' im Kontext Chiles?</p>",
+      "options": [
+        {
+          "text": "Dass alle Probleme der Diktatur vollständig gelöst sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, 'unverheilt' bedeutet, dass die Probleme <strong>nicht gelöst</strong> sind."
+        },
+        {
+          "text": "Dass die Auswirkungen der Diktatur in der chilenischen Gesellschaft noch spürbar sind.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Es bedeutet, dass die <strong>Auswirkungen</strong> und <strong>Traumata</strong> der Diktatur bis heute in Chile existieren."
+        },
+        {
+          "text": "Dass die Diktatur in Chile keine negativen Folgen hatte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, der Titel impliziert, dass es <strong>negative Folgen</strong> gibt, die noch nicht überwunden sind."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Art von 'Wunden' sind wahrscheinlich mit der Diktatur verbunden?</p>",
+      "options": [
+        {
+          "text": "Nur wirtschaftliche Probleme.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, es geht um mehr als nur Wirtschaft. Es gibt auch andere Arten von 'Wunden'."
+        },
+        {
+          "text": "Vor allem Menschenrechtsverletzungen und soziale Spaltungen.",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! Gemeint sind vor allem <strong>Menschenrechtsverletzungen</strong>, <strong>Traumata</strong> und <strong>soziale Spaltungen</strong>."
+        },
+        {
+          "text": "Hauptsächlich Schäden an der Infrastruktur.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, Infrastrukturschäden sind nicht der Hauptfokus der 'Wunden' in diesem Kontext."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum könnten diese Wunden als 'unverheilt' bezeichnet werden, auch Jahrzehnte nach dem Ende der Diktatur?</p>",
+      "options": [
+        {
+          "text": "Weil die chilenische Wirtschaft immer noch unter der Diktatur leidet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, die wirtschaftliche Situation ist nicht der Hauptgrund für 'unverheilte Wunden'."
+        },
+        {
+          "text": "Weil viele Verbrechen der Diktatur nicht aufgearbeitet wurden und Opfer sowie Täter noch in der Gesellschaft leben.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>mangelnde Aufarbeitung</strong> der Vergangenheit und das Fortbestehen von <strong>Ungerechtigkeit</strong> sind Gründe für 'unverheilte Wunden'."
+        },
+        {
+          "text": "Weil Chile immer noch von einer Militärregierung regiert wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, Chile ist heute eine <strong>Demokratie</strong>, keine Militärregierung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was könnte die 'Aufarbeitung' der Diktatur beinhalten, um zur Heilung der 'Wunden' beizutragen?</p>",
+      "options": [
+        {
+          "text": "Das Ignorieren der Vergangenheit, um nach vorne zu schauen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, Ignorieren hilft nicht bei der Heilung. <strong>Aufarbeitung</strong> ist notwendig."
+        },
+        {
+          "text": "Gerechtigkeit für die Opfer, Aufklärung der Verbrechen und Gedenken.",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! <strong>Gerechtigkeit</strong>, <strong>Aufklärung</strong> und <strong>Gedenken</strong> sind wichtige Schritte zur Aufarbeitung."
+        },
+        {
+          "text": "Eine Amnestie für alle Täter, um Versöhnung zu fördern.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, eine Amnestie ohne Gerechtigkeit kann die 'Wunden' verschlimmern, nicht heilen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Inwiefern könnte eine Audio-Reportage wie diese zur 'Heilung' der 'Wunden' beitragen?</p>",
+      "options": [
+        {
+          "text": "Indem sie die Vergangenheit ignoriert und sich nur auf die Gegenwart konzentriert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, Ignorieren hilft nicht. Die Reportage sollte sich mit der Vergangenheit auseinandersetzen."
+        },
+        {
+          "text": "Indem sie die Geschichte erzählt, Opfer zu Wort kommen lässt und Bewusstsein für die Thematik schafft.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Durch <strong>Geschichtenerzählung</strong>, <strong>Opferstimmen</strong> und <strong>Bewusstseinsbildung</strong> kann eine Reportage zur Heilung beitragen."
+        },
+        {
+          "text": "Indem sie die Täter der Diktatur feiert und ihre Taten rechtfertigt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch, das würde die 'Wunden' sicherlich nicht heilen, sondern eher vertiefen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die im Titel genannte Diktatur in Chile endete im Jahr 1973.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Diktatur begann 1973, endete aber nicht in diesem Jahr.",
+      "feedback_incorrect": "❌ Falsch. Die Diktatur begann 1973, dauerte aber länger."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Augusto Pinochet war der Präsident Chiles vor Beginn der Diktatur.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Salvador Allende war der Präsident vor Pinochet und der Diktatur.",
+      "feedback_incorrect": "❌ Falsch. Pinochet war der Diktator, aber nicht der Präsident *vor* der Diktatur."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Diktatur in Chile wurde durch demokratische Wahlen beendet.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Übergang zur Demokratie war ein Prozess und nicht nur eine einzelne Wahl.",
+      "feedback_incorrect": "❌ Falsch. Das Ende der Diktatur war ein komplexerer Prozess als nur eine Wahl."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Mit 'unverheilten Wunden' sind vor allem materielle Schäden gemeint, die durch die Diktatur entstanden sind.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Es geht primär um immaterielle 'Wunden' wie Traumata und soziale Spaltungen.",
+      "feedback_incorrect": "❌ Falsch. Es geht eher um immaterielle Schäden wie soziale und psychologische Folgen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Aufarbeitung der Diktatur ist ein abgeschlossenes Kapitel in Chile.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Aufarbeitung ist ein fortlaufender Prozess und noch nicht abgeschlossen.",
+      "feedback_incorrect": "❌ Falsch. Die Aufarbeitung ist noch nicht abgeschlossen und weiterhin relevant."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine Reportage über die Diktatur kann dazu beitragen, das Bewusstsein für die Bedeutung von Menschenrechten zu stärken.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Solche Reportagen können das Bewusstsein für Menschenrechte und deren Schutz fördern.",
+      "feedback_incorrect": "❌ Falsch. Reportagen über Diktaturen können sehr wohl das Bewusstsein für Menschenrechte stärken."
+    }
+  ]
+}

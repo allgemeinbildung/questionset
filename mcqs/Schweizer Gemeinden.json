@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Schweizer Gemeinden",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Echo_der_Zeit_radio/2024/11/Echo_der_Zeit_radio_AUDI20241126_RS_0084_da3d8e169e0d409eba1163fe6e6ad24d.mp3",
+    "source": "https://www.srf.ch/news/schweiz/nationale-befragung-wie-geht-es-den-schweizer-gemeinden"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Alter hat das durchschnittliche Mitglied einer Schweizer Gemeindeexekutive laut der Erhebung?</p>",
+      "options": [
+        {
+          "text": "Durchschnittlich 45 Jahre alt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das durchschnittliche Mitglied ist älter als 45 Jahre. Die Studie spricht von einem <strong>54-jährigen Mann</strong>."
+        },
+        {
+          "text": "Durchschnittlich 54 Jahre alt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Laut der Erhebung ist das durchschnittliche Mitglied einer Gemeindeexekutive <strong>54 Jahre</strong> alt."
+        },
+        {
+          "text": "Durchschnittlich 64 Jahre alt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das durchschnittliche Mitglied ist jünger als 64 Jahre. Die Studie nennt ein Durchschnittsalter von <strong>54 Jahren</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie hoch ist der Frauenanteil in den Schweizer Gemeindeexekutiven?</p>",
+      "options": [
+        {
+          "text": "Etwa ein Drittel.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Frauenanteil ist geringer als ein Drittel. Er liegt bei etwa <strong>einem Viertel</strong>."
+        },
+        {
+          "text": "Etwa ein Viertel.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Frauenanteil in den Gemeindeexekutiven beträgt nur etwa <strong>ein Viertel</strong>."
+        },
+        {
+          "text": "Etwa die Hälfte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Frauenanteil ist deutlich geringer als die Hälfte. Er liegt bei etwa <strong>einem Viertel</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Berufsgruppe ist im Durchschnitt in Gemeindeexekutiven vertreten?</p>",
+      "options": [
+        {
+          "text": "Hauptsächlich Angestellte im öffentlichen Dienst.",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Die Studie beschreibt das durchschnittliche Mitglied als wahrscheinlich in einer <strong>Kaderstelle</strong> oder <strong>selbstständig erwerbend</strong>."
+        },
+        {
+          "text": "Hauptsächlich Studenten und Rentner.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Studie beschreibt das durchschnittliche Mitglied als wahrscheinlich in einer <strong>Kaderstelle</strong> oder <strong>selbstständig erwerbend</strong>, was eher auf Berufstätige hindeutet."
+        },
+        {
+          "text": "Wahrscheinlich Personen in Kaderstellen oder Selbstständige.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Studie beschreibt das durchschnittliche Mitglied als wahrscheinlich in einer <strong>Kaderstelle</strong> oder <strong>selbstständig erwerbend</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Stunden pro Woche muss man ungefähr für ein Gemeindeexekutivamt aufwenden?</p>",
+      "options": [
+        {
+          "text": "Ungefähr 5 Stunden pro Woche.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Zeitaufwand ist höher. Für ein Gemeindeexekutivamt sind es etwa <strong>10 Stunden pro Woche</strong>."
+        },
+        {
+          "text": "Ungefähr 10 Stunden pro Woche.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Für ein Gemeindeexekutivamt muss man mit etwa <strong>10 Stunden Arbeit pro Woche</strong> rechnen."
+        },
+        {
+          "text": "Ungefähr 20 Stunden pro Woche.",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  20 Stunden sind eher für das Amt des <strong>Gemeindepräsidenten</strong> veranschlagt. Für ein normales Exekutivamt sind es etwa <strong>10 Stunden</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Institutionen haben die umfassende Erhebung zu Schweizer Gemeindeexekutiven durchgeführt?</p>",
+      "options": [
+        {
+          "text": "Universität Bern und ETH Zürich.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Erhebung wurde von anderen Institutionen durchgeführt, nämlich der <strong>Universität Lausanne</strong> und der <strong>Zürcher Hochschule für Angewandte Wissenschaften (ZHAW)</strong>."
+        },
+        {
+          "text": "Universität St. Gallen und Universität Zürich.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die genannten Universitäten waren nicht beteiligt. Die Erhebung stammt von der <strong>Universität Lausanne</strong> und der <strong>Zürcher Hochschule für Angewandte Wissenschaften (ZHAW)</strong>."
+        },
+        {
+          "text": "Universität Lausanne und Zürcher Hochschule für Angewandte Wissenschaften (ZHAW).",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Erhebung wurde von der <strong>Universität Lausanne</strong> und der <strong>Zürcher Hochschule für Angewandte Wissenschaften (ZHAW)</strong> durchgeführt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist die fehlende Vielfalt in Gemeindeexekutiven problematisch?</p>",
+      "options": [
+        {
+          "text": "Weil ältere Männer weniger Zeit für politische Ämter haben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Alter und Geschlecht sind nicht per se das Problem, sondern die <strong>fehlenden unterschiedlichen Perspektiven</strong>, die eine vielfältige Exekutive bringen würde."
+        },
+        {
+          "text": "Weil wichtige Entscheidungen ohne die Perspektiven jüngerer Menschen und Frauen getroffen werden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!  Es ist problematisch, weil wichtige Entscheide ohne die <strong>Perspektiven jüngerer Menschen</strong>, <strong>Familien</strong> und <strong>Frauen</strong> gefällt werden, was zu einseitigen Entscheidungen führen kann."
+        },
+        {
+          "text": "Weil Gemeindeexekutiven dadurch weniger effizient arbeiten können.",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Die Effizienz ist nicht das Hauptproblem. Es geht primär um die <strong>Repräsentation verschiedener Lebenswelten</strong> und <strong>Perspektiven</strong> in den Entscheidungsprozessen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welches Problem bei der Besetzung von Gemeindeämtern wird durch die hohe Arbeitsbelastung verstärkt?</p>",
+      "options": [
+        {
+          "text": "Es führt zu einer höheren Fluktuation in den Gemeindeexekutiven.",
+          "is_correct": false,
+          "feedback": "❌ Nicht direkt. Die hohe Arbeitsbelastung führt primär dazu, dass es <strong>schwieriger ist, überhaupt Kandidaten zu finden</strong>, nicht unbedingt zu einer höheren Fluktuation bestehender Mitglieder."
+        },
+        {
+          "text": "Es erschwert die Vereinbarkeit von Gemeindeamt mit Beruf und Familie, besonders für junge Leute und Frauen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die hohe Arbeitsbelastung <strong>erschwert die Vereinbarkeit</strong> mit Beruf und Familie, was besonders für <strong>junge Leute</strong> und <strong>Frauen</strong> ein Hindernis darstellt."
+        },
+        {
+          "text": "Es führt zu einer Dominanz von politisch unerfahrenen Personen in den Ämtern.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Arbeitsbelastung hat nicht primär mit politischer Erfahrung zu tun, sondern eher mit der <strong>zeitlichen Beanspruchung</strong> und der <strong>Vereinbarkeit mit anderen Lebensbereichen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Massnahme wird vorgeschlagen, um Gemeindeämter für jüngere Leute attraktiver zu machen?</p>",
+      "options": [
+        {
+          "text": "Die Erhöhung des Sitzungsgeldes für alle Mitglieder.",
+          "is_correct": false,
+          "feedback": "❌ Nicht ganz. Es geht nicht nur um eine Erhöhung des Sitzungsgeldes, sondern um eine <strong>Entlöhnung mit Pensionskassenpflicht</strong>, was eine stärkere finanzielle Anerkennung und soziale Absicherung bedeutet."
+        },
+        {
+          "text": "Die Einführung einer Entlöhnung mit Pensionskassenpflicht für Mitglieder von Gemeinderegierungen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Vorgeschlagen wird eine <strong>Entlöhnung mit Pensionskassenpflicht</strong>, um Gemeindeämter attraktiver zu machen, besonders für jüngere Menschen."
+        },
+        {
+          "text": "Die Reduzierung der Arbeitsstunden für Gemeindeexekutivämter.",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Die Reduzierung der Arbeitsstunden ist zwar wünschenswert, aber die genannte Massnahme bezieht sich auf die <strong>finanzielle Attraktivität</strong> durch eine Entlöhnung mit Pensionskassenpflicht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was könnten Gemeinden tun, um die Vereinbarkeit von Gemeindeämtern und Familie für Frauen zu verbessern?</p>",
+      "options": [
+        {
+          "text": "Die Sitzungen ausschliesslich am Wochenende abhalten.",
+          "is_correct": false,
+          "feedback": "❌ Nicht ideal. Sitzungen nur am Wochenende könnten andere Gruppen ausschliessen.  Besser sind <strong>flexible Arbeitszeitmodelle</strong> und die <strong>Anpassung des Sitzungsrhythmus</strong>."
+        },
+        {
+          "text": "Coaching und Mentoring-Programme anbieten und moderne Arbeitszeitmodelle einführen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig!  <strong>Coaching und Mentoring</strong> sowie <strong>moderne Arbeitszeitmodelle</strong> und die <strong>Anpassung des Sitzungsrhythmus</strong> sind genannte Massnahmen zur besseren Vereinbarkeit."
+        },
+        {
+          "text": "Die Verantwortung für Familienarbeit vollständig an den Staat abgeben.",
+          "is_correct": false,
+          "feedback": "❌ Unrealistisch und nicht im Text erwähnt.  Es geht eher um <strong>gemeindespezifische Massnahmen</strong> wie flexible Arbeitszeiten und Unterstützungssysteme."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist das Hauptziel der vorgeschlagenen Massnahmen zur Attraktivitätssteigerung von Gemeindeämtern?</p>",
+      "options": [
+        {
+          "text": "Die Erhöhung des Prestiges von Gemeindeexekutivämtern in der Bevölkerung.",
+          "is_correct": false,
+          "feedback": "❌ Nicht primär. Das Hauptziel ist praktischer: Es geht darum, die <strong>Vielfalt in den Gemeindeexekutiven zu erhöhen</strong> und sicherzustellen, dass genügend Kandidaten gefunden werden."
+        },
+        {
+          "text": "Die Erhöhung der Vielfalt in den Gemeindeexekutiven und die Sicherstellung der Besetzung von Ämtern.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Hauptziel ist die <strong>Erhöhung der Vielfalt</strong> und die <strong>Sicherstellung</strong>, dass genügend qualifizierte Personen bereit sind, Gemeindeämter zu übernehmen."
+        },
+        {
+          "text": "Die Senkung des Durchschnittsalters der Mitglieder von Gemeindeexekutiven um mindestens 10 Jahre.",
+          "is_correct": false,
+          "feedback": "❌ Falsch.  Die Senkung des Alters ist ein erwünschter Nebeneffekt, aber das Hauptziel ist breiter gefasst: Es geht um <strong>Vielfalt</strong> und die <strong>Besetzung der Ämter</strong> generell."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>In der Gemeinde Wassen wurden am Wochenende Personen in den Gemeinderat gewählt, die das Amt gar nicht wollten.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Im Text wird erwähnt, dass es in der Gemeinde <strong>Wassen</strong> vorgekommen ist, dass Personen gewählt wurden, die das Amt <strong>nicht annehmen wollten</strong>.",
+      "feedback_incorrect": "❌ Falsch. Es ist korrekt, dass in der Gemeinde Wassen Personen gewählt wurden, die das Amt nicht annehmen wollten, wie im Text erwähnt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Mehr als die Hälfte der Schweizer Gemeinden hat Schwierigkeiten, genügend Kandidaten für politische Ämter zu finden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Laut dem Text hat <strong>die Hälfte</strong> der Schweizer Gemeinden Probleme, genügend Leute für politische Ämter zu finden, also nicht mehr als die Hälfte.",
+      "feedback_incorrect": "❌ Falsch. Es ist korrekt, dass <strong>die Hälfte</strong> der Schweizer Gemeinden Probleme hat, genügend Kandidaten zu finden, nicht mehr als die Hälfte."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Gemeindepräsidenten müssen mit einem Arbeitsaufwand von etwa 10 Stunden pro Woche rechnen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Für Gemeindepräsidenten wird ein Arbeitsaufwand von etwa <strong>20 Stunden pro Woche</strong> angegeben, nicht 10 Stunden. 10 Stunden gelten für normale Gemeindeexekutivämter.",
+      "feedback_incorrect": "❌ Falsch. Für Gemeindepräsidenten sind es etwa <strong>20 Stunden pro Woche</strong>, während 10 Stunden für andere Gemeindeexekutivämter gelten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine höhere Entlöhnung von Gemeindeämtern mit Pensionskassenpflicht könnte vor allem für ältere Menschen einen Anreiz darstellen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Eine Entlöhnung mit Pensionskassenpflicht ist vor allem für <strong>jüngere Leute</strong> attraktiv, da sie in die Pensionskasse einzahlen und für das Alter vorsorgen können. Für ältere Menschen ist dies weniger relevant.",
+      "feedback_incorrect": "❌ Falsch.  Eine solche Entlöhnung ist vor allem für <strong>jüngere Menschen</strong> attraktiv, da sie den Aufbau ihrer Altersvorsorge unterstützt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Studie zeigt, dass das Problem der Untervertretung junger Menschen und Frauen in Gemeindeexekutiven vor allem grössere Städte betrifft.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Laut Text ist es in <strong>kleineren und mittleren Gemeinden</strong> schwieriger, jüngere Menschen und Frauen für politische Ämter zu gewinnen. In grösseren Städten ist dies bereits besser gelungen.",
+      "feedback_incorrect": "❌ Falsch. Das Problem ist laut Text vor allem in <strong>kleineren und mittleren Gemeinden</strong> ausgeprägt, während grössere Städte Fortschritte gemacht haben."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Moderne Arbeitszeitmodelle und flexible Sitzungsrhythmen könnten dazu beitragen, die Attraktivität von Gemeindeämtern für Personen mit Familie zu erhöhen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! <strong>Moderne Arbeitszeitmodelle</strong> und <strong>flexible Sitzungsrhythmen</strong> sind genannte Massnahmen, die die Vereinbarkeit von Gemeindeämtern und Familie verbessern und somit die Attraktivität erhöhen können.",
+      "feedback_incorrect": "❌ Falsch. Solche Massnahmen sind tatsächlich geeignet, um die Vereinbarkeit zu verbessern und die Attraktivität von Gemeindeämtern zu steigern."
+    }
+  ]
+}

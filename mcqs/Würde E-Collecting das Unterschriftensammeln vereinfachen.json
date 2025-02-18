@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Würde E-Collecting das Unterschriftensammeln vereinfachen",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/SRF-4-News/2024/12/ecooll.mp3",
+    "source": "https://www.srf.ch/audio/srf-4-news/wuerde-e-collecting-das-unterschriftensammeln-vereinfachen?uuid=30f13a78-888e-4dc7-8f4d-2cf23ce4bf92"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist der Hauptgegenstand von E-Collecting?</p>",
+      "options": [
+        {
+          "text": "Das digitale Sammeln von Unterschriften für Initiativen und Referenden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>E-Collecting</strong> bezieht sich auf das <strong>digitale Sammeln von Unterschriften</strong>."
+        },
+        {
+          "text": "Die elektronische Auszählung von Wahlstimmen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. E-Collecting bezieht sich auf das <strong>Sammeln von Unterschriften</strong>, nicht auf die Auszählung von Stimmen."
+        },
+        {
+          "text": "Die Online-Petitionen an den Bundesrat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl es online stattfindet, ist E-Collecting spezifisch für <strong>Unterschriften für Initiativen und Referenden</strong>, nicht für allgemeine Petitionen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche traditionelle Methode des Unterschriftensammelns soll durch E-Collecting ergänzt oder ersetzt werden?</p>",
+      "options": [
+        {
+          "text": "Das Sammeln von Unterschriften auf Papierbögen.",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! <strong>E-Collecting</strong> zielt darauf ab, das <strong>Sammeln auf Papierbögen</strong> zu ergänzen oder zu ersetzen."
+        },
+        {
+          "text": "Das Sammeln von Unterschriften per Telefonanruf.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Telefonanrufe</strong> sind keine traditionelle Methode des Unterschriftensammelns im politischen Kontext."
+        },
+        {
+          "text": "Das Sammeln von Unterschriften per Post.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl die <strong>Post</strong> für die Einreichung relevant sein kann, bezieht sich die traditionelle Methode primär auf <strong>Papierbögen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Bereich des politischen Prozesses in der Schweiz spielt das Unterschriftensammeln eine wichtige Rolle?</p>",
+      "options": [
+        {
+          "text": "Bei Initiativen und Referenden.",
+          "is_correct": true,
+          "feedback": "✅ Genau! Das <strong>Unterschriftensammeln</strong> ist zentral für das Zustandekommen von <strong>Initiativen und Referenden</strong>."
+        },
+        {
+          "text": "Bei der Wahl von National- und Ständeräten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bei <strong>Wahlen</strong> werden Stimmen abgegeben, aber keine Unterschriften für Initiativen gesammelt."
+        },
+        {
+          "text": "Bei der Verabschiedung von Bundesgesetzen im Parlament.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>Parlament</strong> verabschiedet Gesetze; das Unterschriftensammeln findet im Vorfeld von <strong>Volksabstimmungen</strong> statt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Ziel verfolgt die Vereinfachung des Unterschriftensammelns durch E-Collecting?</p>",
+      "options": [
+        {
+          "text": "Die Erhöhung der direkten Demokratie und Bürgerbeteiligung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>E-Collecting</strong> soll die <strong>direkte Demokratie</strong> stärken und die <strong>Bürgerbeteiligung</strong> erleichtern."
+        },
+        {
+          "text": "Die Reduktion der Kosten für Wahlkampfmaterialien.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl es <strong>Kosteneinsparungen</strong> geben könnte, ist das Hauptziel die <strong>Demokratieförderung</strong>, nicht primär die Kostenreduktion für Wahlkampfmaterialien."
+        },
+        {
+          "text": "Die Beschleunigung der parlamentarischen Prozesse.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>E-Collecting</strong> zielt auf den <strong>volksdemokratischen Prozess</strong> ab, nicht auf die parlamentarischen Abläufe."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Art von Identifikation könnte für E-Collecting in der Schweiz verwendet werden?</p>",
+      "options": [
+        {
+          "text": "Die elektronische Identität (E-ID).",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! Die <strong>elektronische Identität (E-ID)</strong> ist eine mögliche Option für die Identifikation bei <strong>E-Collecting</strong>."
+        },
+        {
+          "text": "Der Führerausweis.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Führerausweis</strong> ist primär ein Dokument für die Fahrberechtigung, nicht für die <strong>digitale Identifikation</strong> im politischen Kontext."
+        },
+        {
+          "text": "Die Krankenkassenkarte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Krankenkassenkarte</strong> dient dem Nachweis der Krankenversicherung, nicht der <strong>digitalen Identifikation</strong> für politische Prozesse."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum könnte E-Collecting die Reichweite von Initiativen und Referenden erhöhen?</p>",
+      "options": [
+        {
+          "text": "Weil es mehr Menschen ermöglicht, sich einfach und ortsunabhängig zu beteiligen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>E-Collecting</strong> macht die Teilnahme <strong>einfacher und ortsunabhängiger</strong>, was die Reichweite erhöhen kann."
+        },
+        {
+          "text": "Weil Papierbögen umweltfreundlicher sind als digitale Methoden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Papierbögen</strong> sind in der Regel <strong>weniger umweltfreundlich</strong> als digitale Methoden und die Umweltfreundlichkeit ist nicht der Hauptgrund für die erhöhte Reichweite."
+        },
+        {
+          "text": "Weil ältere Menschen besser mit digitalen Technologien umgehen können.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wird eher erwartet, dass <strong>jüngere Generationen</strong> besser mit digitalen Technologien umgehen können, was aber nicht der Hauptgrund für die erhöhte Reichweite ist."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welches potenzielle Problem könnte bei der Einführung von E-Collecting entstehen?</p>",
+      "options": [
+        {
+          "text": "Die Gefahr von digitaler Ausgrenzung von Personen ohne oder mit geringen digitalen Kompetenzen.",
+          "is_correct": true,
+          "feedback": "✅ Genau! Die <strong>digitale Ausgrenzung</strong> ist ein wichtiges potenzielles Problem bei der Einführung von <strong>E-Collecting</strong>."
+        },
+        {
+          "text": "Die Vereinfachung des Unterschriftensammelns könnte die Qualität der politischen Debatte senken.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Qualität der politischen Debatte</strong> wird nicht direkt durch die Methode des Unterschriftensammelns beeinflusst."
+        },
+        {
+          "text": "E-Collecting würde die Kosten für Initiativkomitees unnötig erhöhen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>E-Collecting</strong> zielt eher darauf ab, <strong>Kosten zu senken</strong>, nicht zu erhöhen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet der Begriff 'digitale Kluft' im Zusammenhang mit E-Collecting?</p>",
+      "options": [
+        {
+          "text": "Die Ungleichheit im Zugang zu digitalen Technologien und Kompetenzen in der Bevölkerung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>digitale Kluft</strong> beschreibt die <strong>Ungleichheit im Zugang und in den Kompetenzen</strong> bezüglich digitaler Technologien."
+        },
+        {
+          "text": "Die unterschiedlichen Meinungen über die Vorteile von digitalen Technologien.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>digitale Kluft</strong> bezieht sich auf den <strong>Zugang und die Kompetenzen</strong>, nicht auf Meinungsverschiedenheiten."
+        },
+        {
+          "text": "Die räumliche Distanz zwischen Städten und ländlichen Gebieten in Bezug auf Technologie.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl <strong>räumliche Unterschiede</strong> eine Rolle spielen können, bezieht sich die digitale Kluft breiter auf den <strong>Zugang und die Kompetenzen innerhalb der Bevölkerung</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Auswirkung könnte E-Collecting auf die Geschwindigkeit des Unterschriftensammelns haben?</p>",
+      "options": [
+        {
+          "text": "Es könnte den Prozess deutlich beschleunigen.",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! <strong>E-Collecting</strong> hat das Potenzial, das <strong>Unterschriftensammeln erheblich zu beschleunigen</strong>."
+        },
+        {
+          "text": "Es würde den Prozess verlangsamen, da digitale Systeme komplexer sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Digitale Systeme</strong> können Prozesse in der Regel <strong>beschleunigen</strong>, besonders im Vergleich zu manuellen Prozessen wie dem Sammeln auf Papier."
+        },
+        {
+          "text": "Es gäbe keinen wesentlichen Unterschied in der Geschwindigkeit.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wird erwartet, dass <strong>E-Collecting</strong> einen <strong>positiven Einfluss auf die Geschwindigkeit</strong> hat."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Inwiefern könnte E-Collecting die Transparenz des Unterschriftensammelns beeinflussen?</p>",
+      "options": [
+        {
+          "text": "Es könnte die Transparenz erhöhen, da digitale Prozesse besser nachverfolgbar sind.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Digitale Prozesse</strong> können die <strong>Transparenz erhöhen</strong>, da sie besser nachverfolgbar und auditierbar sind."
+        },
+        {
+          "text": "Es würde die Transparenz verringern, da digitale Daten schwerer zu kontrollieren sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Gegenteil, <strong>digitale Daten</strong> können oft <strong>besser kontrolliert und nachverfolgt</strong> werden als Papierdokumente, was die Transparenz erhöhen kann."
+        },
+        {
+          "text": "Es hätte keinen Einfluss auf die Transparenz.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>E-Collecting</strong> hat das Potenzial, die <strong>Transparenz</strong> im Vergleich zum traditionellen Prozess zu verändern."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>E-Collecting zielt darauf ab, das Unterschriftensammeln vollständig auf Papierbasis zu belassen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! E-Collecting zielt darauf ab, das Unterschriftensammeln zu <strong>digitalisieren</strong> und eben <strong>nicht</strong> auf Papier zu belassen.",
+      "feedback_incorrect": "❌ Falsch. E-Collecting ist gerade die <strong>Digitalisierung</strong> des Unterschriftensammelns, im Gegensatz zur Papierbasis."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Für E-Collecting wäre eine elektronische Identifikation der unterzeichnenden Person notwendig.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Eine <strong>elektronische Identifikation</strong> ist voraussichtlich notwendig, um die <strong>Gültigkeit digital gesammelter Unterschriften</strong> zu gewährleisten.",
+      "feedback_incorrect": "❌ Falsch. Um die <strong>Sicherheit und Gültigkeit</strong> zu garantieren, ist eine Form der <strong>elektronischen Identifikation</strong> bei E-Collecting sehr wahrscheinlich erforderlich."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das traditionelle Unterschriftensammeln auf Papierbögen ist in der Schweiz bereits vollständig digitalisiert.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Das <strong>traditionelle Unterschriftensammeln</strong> basiert aktuell hauptsächlich auf <strong>Papierbögen</strong> und ist <strong>nicht vollständig digitalisiert</strong>.",
+      "feedback_incorrect": "❌ Falsch. Das <strong>Unterschriftensammeln</strong> in der Schweiz ist bisher vorwiegend ein <strong>analoger Prozess</strong> mit Papierbögen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>E-Collecting könnte dazu beitragen, die Kosten für Initiativen und Referenden zu senken.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Durch die <strong>Digitalisierung</strong> können <strong>Kosten für Druck, Logistik und Personal</strong> eingespart werden.",
+      "feedback_incorrect": "❌ Falsch. Es wird erwartet, dass <strong>E-Collecting</strong> durch die Einsparung von Ressourcen eher zu einer <strong>Kostensenkung</strong> beiträgt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Einführung von E-Collecting würde die Notwendigkeit von Unterschriftensammlern auf der Strasse komplett überflüssig machen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Obwohl <strong>E-Collecting</strong> die Notwendigkeit reduzieren könnte, ist es unwahrscheinlich, dass <strong>Unterschriftensammler auf der Strasse komplett überflüssig</strong> würden. Es könnten weiterhin analoge und digitale Methoden parallel existieren.",
+      "feedback_incorrect": "❌ Falsch. Es ist wahrscheinlicher, dass <strong>E-Collecting</strong> eine <strong>Ergänzung</strong> darstellt und nicht die traditionellen Methoden vollständig ersetzt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>E-Collecting hätte wahrscheinlich keinen Einfluss auf die Anzahl der gültigen Unterschriften, die für eine Initiative oder ein Referendum gesammelt werden können.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Es ist wahrscheinlich, dass <strong>E-Collecting</strong> durch die Vereinfachung und grössere Reichweite potenziell die <strong>Anzahl der gesammelten gültigen Unterschriften erhöhen</strong> könnte.",
+      "feedback_incorrect": "❌ Falsch. Durch die <strong>vereinfachte Teilnahme</strong> und grössere Reichweite könnte <strong>E-Collecting</strong> die Anzahl der gültigen Unterschriften tendenziell <strong>erhöhen</strong>."
+    }
+  ]
+}

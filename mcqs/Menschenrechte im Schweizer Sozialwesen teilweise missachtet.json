@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Menschenrechte im Schweizer Sozialwesen teilweise missachtet",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Echo-der-Zeit-radio/2024/05/Echo-der-Zeit-radio-37922561-dd45-49b8-ba7e-f2dcaf681a0d.mp3",
+    "source": "https://www.srf.ch/audio/echo-der-zeit/menschenrechte-im-schweizer-sozialwesen-teilweise-missachtet?partId=37922561-dd45-49b8-ba7e-f2dcaf681a0d#autoplay"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist das Hauptthema des Beitrags über Menschenrechte im Schweizer Sozialwesen?</p>",
+      "options": [
+        {
+          "text": "Die vollständige Einhaltung der Menschenrechte im Schweizer Sozialwesen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag thematisiert die <strong>teilweise Missachtung</strong>, nicht die vollständige Einhaltung der Menschenrechte."
+        },
+        {
+          "text": "Die teilweise Missachtung der Menschenrechte im Schweizer Sozialwesen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Beitrag konzentriert sich auf die <strong>teilweise Missachtung der Menschenrechte</strong> im Schweizer Sozialwesen."
+        },
+        {
+          "text": "Die Verbesserung der wirtschaftlichen Lage durch das Sozialwesen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Fokus liegt auf den <strong>Menschenrechten</strong>, nicht primär auf wirtschaftlichen Aspekten des Sozialwesens."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Land spielt der Beitrag über die Menschenrechte im Sozialwesen?</p>",
+      "options": [
+        {
+          "text": "Deutschland",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag behandelt das Sozialwesen in der <strong>Schweiz</strong>."
+        },
+        {
+          "text": "Österreich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag behandelt das Sozialwesen in der <strong>Schweiz</strong>."
+        },
+        {
+          "text": "Schweiz",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Beitrag thematisiert das Sozialwesen in der <strong>Schweiz</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Begriff beschreibt die Situation der Menschenrechte im Schweizer Sozialwesen laut Titel des Beitrags?</p>",
+      "options": [
+        {
+          "text": "Vollständig geachtet",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Titel spricht von einer <strong>teilweisen Missachtung</strong>, nicht von vollständiger Achtung."
+        },
+        {
+          "text": "Teilweise missachtet",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Titel verwendet den Begriff <strong>teilweise missachtet</strong>."
+        },
+        {
+          "text": "Gänzlich ignoriert",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Titel spricht von einer <strong>teilweisen Missachtung</strong>, nicht von gänzlicher Ignoranz."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was wird im Kontext des Schweizer Sozialwesens in Bezug auf Menschenrechte kritisiert?</p>",
+      "options": [
+        {
+          "text": "Die vollständige Wahrung aller Menschenrechte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kritisiert wird die <strong>teilweise Missachtung</strong>, nicht die vollständige Wahrung."
+        },
+        {
+          "text": "Die teilweise Missachtung von Menschenrechten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Kritisiert wird die <strong>teilweise Missachtung von Menschenrechten</strong> im Sozialwesen."
+        },
+        {
+          "text": "Die übermässige Beachtung von Menschenrechten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kritisiert wird eine <strong>mangelnde Beachtung</strong>, nicht eine übermässige."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Institution oder welcher Bereich ist Gegenstand der Untersuchung bezüglich Menschenrechten?</p>",
+      "options": [
+        {
+          "text": "Das Schweizer Bildungssystem.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag fokussiert auf das <strong>Schweizer Sozialwesen</strong>, nicht das Bildungssystem."
+        },
+        {
+          "text": "Das Schweizer Gesundheitswesen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag fokussiert auf das <strong>Schweizer Sozialwesen</strong>, nicht das Gesundheitswesen."
+        },
+        {
+          "text": "Das Schweizer Sozialwesen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Beitrag thematisiert die Menschenrechte im <strong>Schweizer Sozialwesen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was könnte 'teilweise Missachtung' von Menschenrechten im Sozialwesen konkret bedeuten?</p>",
+      "options": [
+        {
+          "text": "Dass Menschenrechte in allen Bereichen des Sozialwesens vollständig ignoriert werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 'Teilweise Missachtung' bedeutet, dass es <strong>nicht in allen Bereichen</strong> und <strong>nicht vollständig</strong> geschieht."
+        },
+        {
+          "text": "Dass Menschenrechte in einigen Aspekten oder Bereichen des Sozialwesens nicht vollständig respektiert werden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! 'Teilweise Missachtung' impliziert, dass es <strong>in bestimmten Bereichen oder Aspekten</strong> zu Defiziten kommt."
+        },
+        {
+          "text": "Dass Menschenrechte im Sozialwesen generell überbewertet werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 'Teilweise Missachtung' deutet auf ein <strong>Defizit in der Umsetzung</strong> hin, nicht auf eine Überbewertung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Schlussfolgerung lässt sich aus dem Titel bezüglich der Menschenrechtslage im Schweizer Sozialwesen ziehen?</p>",
+      "options": [
+        {
+          "text": "Die Menschenrechtslage im Schweizer Sozialwesen ist insgesamt sehr gut und ohne Mängel.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Titel deutet auf <strong>bestehende Probleme</strong> und <strong>Mängel</strong> hin, nicht auf eine sehr gute Lage."
+        },
+        {
+          "text": "Es gibt Verbesserungsbedarf bei der Einhaltung der Menschenrechte im Schweizer Sozialwesen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Titel impliziert, dass es <strong>Verbesserungspotenzial</strong> bei der Einhaltung der Menschenrechte gibt."
+        },
+        {
+          "text": "Die Menschenrechtslage im Schweizer Sozialwesen ist irrelevant.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Titel deutet auf die <strong>Relevanz</strong> der Menschenrechtslage im Sozialwesen hin, da Missachtungen thematisiert werden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum könnte es wichtig sein, die Menschenrechte im Schweizer Sozialwesen zu thematisieren?</p>",
+      "options": [
+        {
+          "text": "Weil Menschenrechte im Sozialwesen generell immer vollständig gewahrt sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gerade weil es <strong>nicht immer der Fall</strong> ist, ist die Thematisierung wichtig."
+        },
+        {
+          "text": "Um auf mögliche Defizite und Verbesserungspotenziale im Sozialwesen aufmerksam zu machen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Thematisierung dient dazu, <strong>Defizite aufzudecken</strong> und <strong>Verbesserungen anzustossen</strong>."
+        },
+        {
+          "text": "Weil das Sozialwesen keine Verbindung zu den Menschenrechten hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Sozialwesen ist <strong>direkt mit den Menschenrechten verbunden</strong>, da es um grundlegende Bedürfnisse und Würde geht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was wäre ein mögliches Beispiel für die 'teilweise Missachtung' von Menschenrechten im Sozialwesen?</p>",
+      "options": [
+        {
+          "text": "Die Gewährung von ausreichend finanzieller Unterstützung für alle Bedürftigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dies wäre ein Beispiel für die <strong>Achtung</strong>, nicht die Missachtung von Menschenrechten."
+        },
+        {
+          "text": "Unangemessene oder respektlose Behandlung von Personen durch Sozialbehörden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Unangemessene Behandlung</strong> kann ein Beispiel für die Missachtung der Menschenwürde und damit von Menschenrechten sein."
+        },
+        {
+          "text": "Die effiziente Bearbeitung von Anträgen im Sozialwesen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Effizienz</strong> ist wichtig, aber nicht direkt ein Beispiel für die Missachtung von Menschenrechten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Inwiefern betrifft die Thematik 'Menschenrechte im Sozialwesen' die Schweizer Bevölkerung?</p>",
+      "options": [
+        {
+          "text": "Nur einen kleinen Teil der Bevölkerung, der direkt auf Sozialleistungen angewiesen ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Thematik betrifft <strong>potenziell alle</strong>, da jeder in eine Situation geraten kann, in der er auf das Sozialwesen angewiesen ist."
+        },
+        {
+          "text": "Die gesamte Schweizer Bevölkerung, da das Sozialwesen alle betreffen kann.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Sozialwesen ist eine <strong>grundlegende Institution</strong>, die potenziell jeden betreffen kann."
+        },
+        {
+          "text": "Überhaupt nicht, da Menschenrechte nur in anderen Ländern relevant sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Menschenrechte sind universell</strong> und gelten auch und gerade in der Schweiz."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Beitragstitel behauptet, dass die Menschenrechte im Schweizer Sozialwesen vollständig missachtet werden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Titel spricht von einer <strong>teilweisen Missachtung</strong>, nicht von vollständiger Missachtung.",
+      "feedback_incorrect": "❌ Falsch. Der Titel präzisiert, dass die Menschenrechte im Schweizer Sozialwesen nur <strong>teilweise missachtet</strong> werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Beitrag handelt von der Situation der Menschenrechte im Sozialwesen eines europäischen Landes.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Beitrag thematisiert die Menschenrechte im Sozialwesen der <strong>Schweiz</strong>, einem europäischen Land.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag bezieht sich spezifisch auf ein <strong>europäisches Land</strong>, nämlich die Schweiz."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Im Titel wird die vollständige Einhaltung der Menschenrechte im Schweizer Sozialwesen hervorgehoben.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Titel weist auf eine <strong>teilweise Missachtung</strong> hin, nicht auf eine vollständige Einhaltung.",
+      "feedback_incorrect": "❌ Falsch. Der Titel deutet auf <strong>Probleme</strong> hin, nicht auf eine positive Situation."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Aussage 'teilweise missachtet' impliziert, dass es keine Probleme mit Menschenrechten im Schweizer Sozialwesen gibt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! 'Teilweise missachtet' bedeutet, dass es <strong>eben doch Probleme gibt</strong>, aber nicht in allen Bereichen und nicht immer.",
+      "feedback_incorrect": "❌ Falsch. 'Teilweise missachtet' bedeutet, dass <strong>Probleme existieren</strong>, auch wenn sie nicht flächendeckend sind."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Thematisierung von Menschenrechten im Sozialwesen könnte dazu beitragen, das System zu verbessern.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Thematisierung kann das Bewusstsein schärfen und zu <strong>Verbesserungen führen</strong>.",
+      "feedback_incorrect": "❌ Falsch. Die Auseinandersetzung mit Menschenrechten ist oft ein wichtiger Schritt zur <strong>Verbesserung von Systemen</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wenn Menschenrechte im Sozialwesen 'teilweise missachtet' werden, betrifft dies nur eine kleine Randgruppe.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Auch wenn es 'nur' teilweise ist, kann es eine <strong>bedeutende Anzahl von Menschen</strong> betreffen und ist daher relevant.",
+      "feedback_incorrect": "❌ Falsch. 'Teilweise Missachtung' kann <strong>durchaus viele Menschen betreffen</strong>, abhängig davon, welche Bereiche und Rechte betroffen sind."
+    }
+  ]
+}

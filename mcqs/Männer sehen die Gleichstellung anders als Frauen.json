@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Männer sehen die Gleichstellung anders als Frauen",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/SRF-4-News/2024/06/240619-gleichstellung.mp3",
+    "source": "https://www.srf.ch/audio/srf-4-news/maenner-sehen-die-gleichstellung-anders-als-frauen?uuid=f1c9e823-757f-4bbd-90d0-48bebd81bf96"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Thema steht im Zentrum des Audiobeitrags?</p>",
+      "options": [
+        {
+          "text": "Die unterschiedlichen Ansichten von Männern und Frauen bezüglich Gleichstellung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Beitrag thematisiert die <strong>abweichenden Perspektiven</strong> von Männern und Frauen zum Thema <strong>Gleichstellung</strong>."
+        },
+        {
+          "text": "Die Fortschritte in der Gleichstellungspolitik der Schweiz.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl Gleichstellungspolitik relevant ist, liegt der Fokus auf den <strong>unterschiedlichen Ansichten</strong>."
+        },
+        {
+          "text": "Die Rolle der Medien in der Gleichstellungsdebatte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Medienrolle ist nicht das Hauptthema, sondern die <strong>Meinungsverschiedenheiten</strong> zwischen den Geschlechtern."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein möglicher Grund für unterschiedliche Sichtweisen auf Gleichstellung?</p>",
+      "options": [
+        {
+          "text": "Unterschiedliche persönliche Erfahrungen und gesellschaftliche Rollen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Persönliche Erfahrungen</strong> und zugewiesene <strong>gesellschaftliche Rollen</strong> können zu unterschiedlichen Perspektiven führen."
+        },
+        {
+          "text": "Einheitliche Bildungssysteme für Männer und Frauen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Einheitliche Bildungssysteme würden eher zu ähnlichen, nicht unterschiedlichen Sichtweisen führen."
+        },
+        {
+          "text": "Gleiche Medienberichterstattung über Gleichstellungsthemen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gleiche Berichterstattung würde tendenziell zu ähnlichen Ansichten beitragen, nicht zu unterschiedlichen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Bevölkerungsgruppe wird im Titel des Beitrags explizit erwähnt?</p>",
+      "options": [
+        {
+          "text": "Männer.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Titel erwähnt explizit, dass <strong>Männer</strong> die Gleichstellung anders sehen als Frauen."
+        },
+        {
+          "text": "Jugendliche.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Jugendliche werden im Titel nicht speziell erwähnt, sondern <strong>Männer und Frauen</strong> im Allgemeinen."
+        },
+        {
+          "text": "Politiker.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Politiker sind nicht die explizit genannte Bevölkerungsgruppe im Titel."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Medium wurde der Audiobeitrag veröffentlicht?</p>",
+      "options": [
+        {
+          "text": "SRF 4 News.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Beitrag stammt von <strong>SRF 4 News</strong>, wie aus dem URL hervorgeht."
+        },
+        {
+          "text": "Tages-Anzeiger.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag ist von <strong>SRF 4 News</strong>, nicht vom Tages-Anzeiger."
+        },
+        {
+          "text": "NZZ.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag ist von <strong>SRF 4 News</strong>, nicht von der NZZ."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Jahr wird im Dateinamen des MP3-Links genannt?</p>",
+      "options": [
+        {
+          "text": "2024.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Dateiname '20240619-gleichstellung.mp3' enthält die Jahreszahl <strong>2024</strong>."
+        },
+        {
+          "text": "2023.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Dateiname enthält die Jahreszahl <strong>2024</strong>, nicht 2023."
+        },
+        {
+          "text": "2025.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Dateiname enthält die Jahreszahl <strong>2024</strong>, nicht 2025."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was könnte es bedeuten, wenn Männer und Frauen Gleichstellung 'anders sehen'?</p>",
+      "options": [
+        {
+          "text": "Sie priorisieren möglicherweise unterschiedliche Aspekte der Gleichstellung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Unterschiedliche Sichtweisen könnten bedeuten, dass <strong>verschiedene Aspekte von Gleichstellung</strong> als wichtiger erachtet werden."
+        },
+        {
+          "text": "Sie sind sich grundsätzlich einig über alle Aspekte der Gleichstellung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Titel deutet auf <strong>Unterschiede in den Ansichten</strong> hin, nicht auf Einigkeit."
+        },
+        {
+          "text": "Nur eine Gruppe hat ein valides Verständnis von Gleichstellung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht eher um <strong>unterschiedliche Perspektiven</strong>, nicht darum, wer 'richtig' oder 'falsch' liegt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche gesellschaftliche Auswirkung könnte es haben, wenn Männer und Frauen unterschiedliche Vorstellungen von Gleichstellung haben?</p>",
+      "options": [
+        {
+          "text": "Es könnte zu Missverständnissen und Konflikten in der gesellschaftlichen Debatte führen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Unterschiedliche Vorstellungen</strong> können zu <strong>Missverständnissen und Konflikten</strong> in der Debatte führen."
+        },
+        {
+          "text": "Es würde die Gleichstellungsbemühungen beschleunigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Unterschiedliche Vorstellungen würden die <strong>Gleichstellungsbemühungen eher verlangsamen</strong> oder erschweren."
+        },
+        {
+          "text": "Es hätte keine wesentlichen Auswirkungen auf die Gesellschaft.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Gegensätzliche Ansichten</strong> zu einem wichtigen Thema wie Gleichstellung haben <strong>wahrscheinlich Auswirkungen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es wichtig, die unterschiedlichen Perspektiven von Männern und Frauen auf Gleichstellung zu verstehen?</p>",
+      "options": [
+        {
+          "text": "Um effektivere Strategien zur Förderung der Gleichstellung zu entwickeln.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Verständnis <strong>unterschiedlicher Perspektiven</strong> ist wichtig, um <strong>effektivere Strategien</strong> zu entwickeln."
+        },
+        {
+          "text": "Um die Unterschiede zu verstärken und zu betonen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Ziel sollte sein, <strong>Brücken zu bauen</strong> und Gemeinsamkeiten zu finden, nicht Unterschiede zu verstärken."
+        },
+        {
+          "text": "Um zu beweisen, welche Gruppe Recht hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht nicht darum, Recht zu haben, sondern um ein <strong>tieferes Verständnis</strong> und <strong>gemeinsame Lösungen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was könnte ein 'anderes Sehen' der Gleichstellung durch Männer im Vergleich zu Frauen bedeuten?</p>",
+      "options": [
+        {
+          "text": "Männer könnten Gleichstellung eher als Verlust von Privilegien wahrnehmen, während Frauen sie als Gewinn von Rechten sehen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Dies ist eine mögliche Interpretation: <strong>Männer könnten es als Verlust</strong>, <strong>Frauen als Gewinn</strong> sehen."
+        },
+        {
+          "text": "Männer und Frauen haben identische Wahrnehmungen von Gleichstellung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Titel und die Fragestellung implizieren <strong>unterschiedliche Wahrnehmungen</strong>."
+        },
+        {
+          "text": "Frauen sind generell gegen Gleichstellung, während Männer sie befürworten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht um <strong>unterschiedliche Perspektiven</strong> innerhalb beider Gruppen, nicht um generelle Ablehnung oder Befürwortung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wie könnte der Audiobeitrag dazu beitragen, das Verständnis für Gleichstellung zu fördern?</p>",
+      "options": [
+        {
+          "text": "Indem er unterschiedliche Perspektiven aufzeigt und zum Nachdenken anregt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Aufzeigen <strong>unterschiedlicher Perspektiven</strong> und die <strong>Anregung zum Nachdenken</strong> fördern das Verständnis."
+        },
+        {
+          "text": "Indem er nur eine Perspektive als richtig darstellt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine einseitige Darstellung würde das Verständnis <strong>nicht umfassend fördern</strong>."
+        },
+        {
+          "text": "Indem er die Komplexität des Themas ignoriert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>Ignorieren der Komplexität</strong> würde das Verständnis eher behindern."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Titel des Beitrags deutet darauf hin, dass Männer und Frauen in Bezug auf Gleichstellung die gleichen Ansichten haben.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Titel impliziert gerade das Gegenteil, nämlich <strong>unterschiedliche Ansichten</strong>.",
+      "feedback_incorrect": "❌ Falsch! Der Titel deutet auf <strong>abweichende Perspektiven</strong> hin."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Audiobeitrag wurde auf einer Musikplattform veröffentlicht.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! SRF 4 News ist ein <strong>Nachrichtenmedium</strong>, keine Musikplattform.",
+      "feedback_incorrect": "❌ Falsch! SRF 4 News ist ein <strong>Nachrichtenmedium</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Dateiname des MP3-Links enthält den Begriff 'Gleichstellung'.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Dateiname lautet '20240619-<strong>gleichstellung</strong>.mp3'.",
+      "feedback_incorrect": "❌ Falsch! Der Begriff '<strong>gleichstellung</strong>' ist im Dateinamen enthalten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Unterschiedliche Sichtweisen auf Gleichstellung zwischen Männern und Frauen könnten ein Zeichen für mangelndes Interesse an diesem Thema sein.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Unterschiedliche Sichtweisen deuten eher auf <strong>unterschiedliche Erfahrungen und Perspektiven</strong> hin, nicht auf mangelndes Interesse.",
+      "feedback_incorrect": "❌ Falsch! Unterschiedliche Sichtweisen zeigen eher <strong>verschiedene Perspektiven</strong> auf, nicht Desinteresse."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Das Verständnis der unterschiedlichen Perspektiven auf Gleichstellung könnte zu einer inklusiveren Gesellschaft beitragen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Das Verstehen <strong>verschiedener Perspektiven</strong> ist ein wichtiger Schritt zu einer <strong>inklusiveren Gesellschaft</strong>.",
+      "feedback_incorrect": "❌ Falsch! Das Verständnis verschiedener Perspektiven fördert die <strong>Inklusion</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wenn Männer und Frauen Gleichstellung 'anders sehen', bedeutet das zwangsläufig, dass eine Gruppe im Unrecht ist.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! 'Anders sehen' bedeutet <strong>unterschiedliche Perspektiven</strong>, nicht dass eine Seite falsch liegt.",
+      "feedback_incorrect": "❌ Falsch! Es geht um <strong>verschiedene Perspektiven</strong>, nicht um 'Recht' oder 'Unrecht'."
+    }
+  ]
+}

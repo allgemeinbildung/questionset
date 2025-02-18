@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Schwerer Stand für die Menschenrechte",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Rendez-vous-radio/2024/08/Rendez-vous-radio-a9d0cd61-3545-4fe0-ab80-d8ddad13a94b.mp3",
+    "source": "https://www.srf.ch/audio/rendez-vous/schwerer-stand-fuer-die-menschenrechte?partId=a9d0cd61-3545-4fe0-ab80-d8ddad13a94b#autoplay"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches grundlegende Prinzip steht im Zentrum der Menschenrechte?</p>",
+      "options": [
+        {
+          "text": "Die Gleichheit aller Menschen",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Im Zentrum der Menschenrechte steht das Prinzip der <strong>Gleichheit aller Menschen</strong>, unabhängig von ihrer Herkunft oder anderen Merkmalen."
+        },
+        {
+          "text": "Die Dominanz bestimmter Kulturen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Menschenrechte betonen die <strong>Gleichheit</strong> und lehnen die <strong>Dominanz einzelner Kulturen</strong> über andere ab."
+        },
+        {
+          "text": "Die Priorisierung wirtschaftlicher Interessen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Menschenrechte stellen die <strong>Würde und Rechte des Einzelnen</strong> in den Vordergrund, nicht primär wirtschaftliche Interessen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo sind die Menschenrechte international hauptsächlich verankert?</p>",
+      "options": [
+        {
+          "text": "In der Allgemeinen Erklärung der Menschenrechte der UNO",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! Die <strong>Allgemeine Erklärung der Menschenrechte der UNO</strong> ist ein zentrales Dokument für die internationale Verankerung der Menschenrechte."
+        },
+        {
+          "text": "In den nationalen Verfassungen einzelner Staaten",
+          "is_correct": false,
+          "feedback": "❌ Nicht ganz richtig. Nationale Verfassungen sind wichtig, aber die <strong>internationale Verankerung</strong> erfolgt vor allem durch die <strong>UNO</strong>."
+        },
+        {
+          "text": "In bilateralen Verträgen zwischen Staaten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bilaterale Verträge können Menschenrechte thematisieren, aber die <strong>grundlegende Verankerung</strong> ist <strong>international</strong> über die <strong>UNO</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Jahr markiert die Verabschiedung der Allgemeinen Erklärung der Menschenrechte?</p>",
+      "options": [
+        {
+          "text": "1948",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Allgemeine Erklärung der Menschenrechte</strong> wurde im Jahr <strong>1948</strong> verabschiedet."
+        },
+        {
+          "text": "1945",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>1945</strong> war das Jahr der <strong>Gründung der UNO</strong>, die Erklärung folgte etwas später."
+        },
+        {
+          "text": "1950",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Verabschiedung der Erklärung fand etwas früher statt, nämlich im Jahr <strong>1948</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Nennen Sie ein Beispiel für ein bürgerliches und politisches Recht.</p>",
+      "options": [
+        {
+          "text": "Das Recht auf freie Meinungsäusserung",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! Das <strong>Recht auf freie Meinungsäusserung</strong> ist ein wichtiges <strong>bürgerliches und politisches Recht</strong>."
+        },
+        {
+          "text": "Das Recht auf Arbeit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>Recht auf Arbeit</strong> gehört eher zu den <strong>wirtschaftlichen, sozialen und kulturellen Rechten</strong>."
+        },
+        {
+          "text": "Das Recht auf Bildung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>Recht auf Bildung</strong> zählt ebenfalls zu den <strong>wirtschaftlichen, sozialen und kulturellen Rechten</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Organisation ist massgeblich für den Schutz der Menschenrechte auf internationaler Ebene?</p>",
+      "options": [
+        {
+          "text": "Die Vereinten Nationen (UNO)",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Vereinten Nationen (UNO)</strong> spielen eine zentrale Rolle im <strong>Schutz der Menschenrechte</strong> weltweit."
+        },
+        {
+          "text": "Die Europäische Union (EU)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>EU</strong> setzt sich auch für Menschenrechte ein, aber die <strong>UNO</strong> hat eine <strong>globalere und umfassendere Rolle</strong>."
+        },
+        {
+          "text": "Die Welthandelsorganisation (WTO)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>WTO</strong> fokussiert sich auf <strong>Handelsfragen</strong> und ist nicht primär für den Menschenrechtsschutz zuständig."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum sind Menschenrechte universell und unteilbar?</p>",
+      "options": [
+        {
+          "text": "Weil sie jedem Menschen aufgrund seiner Menschlichkeit zustehen und alle Rechte gleichwertig sind.",
+          "is_correct": true,
+          "feedback": "✅ Genau! <strong>Universalität</strong> bedeutet, dass sie <strong>für alle Menschen gelten</strong>, und <strong>Unteilbarkeit</strong>, dass <strong>alle Rechte gleich wichtig</strong> sind."
+        },
+        {
+          "text": "Weil sie von allen Staaten der Welt gleichermassen anerkannt werden.",
+          "is_correct": false,
+          "feedback": "❌ Nicht ganz. Die <strong>Anerkennung variiert</strong>, aber die <strong>Universalität</strong> ist ein <strong>grundlegendes Prinzip</strong>, unabhängig von der tatsächlichen Anerkennung durch alle Staaten."
+        },
+        {
+          "text": "Weil sie nur in Demokratien Gültigkeit besitzen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Menschenrechte sind <strong>nicht an eine bestimmte Regierungsform gebunden</strong>, sondern gelten <strong>überall</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet die 'Unteilbarkeit' der Menschenrechte in der Praxis?</p>",
+      "options": [
+        {
+          "text": "Dass wirtschaftliche, soziale und kulturelle Rechte genauso wichtig sind wie bürgerliche und politische Rechte.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Unteilbarkeit</strong> bedeutet, dass es <strong>keine Hierarchie</strong> zwischen den verschiedenen Kategorien von Menschenrechten gibt."
+        },
+        {
+          "text": "Dass Menschenrechte nur als Gesamtpaket und nicht einzeln geltend gemacht werden können.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Menschenrechte können <strong>auch einzeln geltend gemacht</strong> werden, die Unteilbarkeit betont die <strong>Gleichwertigkeit aller Rechte</strong>."
+        },
+        {
+          "text": "Dass bei Konflikten zwischen verschiedenen Menschenrechten immer ein Kompromiss gefunden werden muss.",
+          "is_correct": false,
+          "feedback": "❌ Nicht unbedingt. Die Unteilbarkeit betont die <strong>Gleichwertigkeit</strong>, aber <strong>Konflikte</strong> können komplex sein und erfordern <strong>sorgfältige Abwägung</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Herausforderung stellt die Globalisierung für die Durchsetzung der Menschenrechte dar?</p>",
+      "options": [
+        {
+          "text": "Die Zunahme von nicht-staatlichen Akteuren, die Menschenrechte verletzen können, und die Schwierigkeit, diese zur Rechenschaft zu ziehen.",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! Die <strong>Globalisierung</strong> führt zu einer <strong>Vielzahl von Akteuren</strong>, was die <strong>Rechenschaftspflicht</strong> bei Menschenrechtsverletzungen erschwert."
+        },
+        {
+          "text": "Die Stärkung nationalstaatlicher Souveränität und die Abnahme internationaler Zusammenarbeit.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Globalisierung führt eher zu <strong>mehr internationaler Interdependenz</strong>, aber auch zu <strong>neuen Herausforderungen</strong> für die Menschenrechte."
+        },
+        {
+          "text": "Die Abnahme von Konflikten und Kriegen weltweit.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl die Globalisierung auch positive Aspekte hat, hat sie <strong>Konflikte und Menschenrechtsverletzungen nicht beseitigt</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Inwiefern beeinflusst der kulturelle Relativismus die Diskussion um Menschenrechte?</p>",
+      "options": [
+        {
+          "text": "Er argumentiert, dass Menschenrechte kulturell bedingt sind und nicht universell gelten können.",
+          "is_correct": true,
+          "feedback": "✅ Genau! Der <strong>kulturelle Relativismus</strong> stellt die <strong>Universalität der Menschenrechte</strong> in Frage und betont <strong>kulturelle Unterschiede</strong>."
+        },
+        {
+          "text": "Er verstärkt die universelle Gültigkeit der Menschenrechte, indem er kulturelle Vielfalt anerkennt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der kulturelle Relativismus <strong>schwächt eher die Idee der Universalität</strong>, indem er kulturelle Unterschiede hervorhebt."
+        },
+        {
+          "text": "Er hat keinen Einfluss auf die Diskussion um Menschenrechte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>kulturelle Relativismus</strong> ist ein <strong>wichtiges Argument</strong> in der Debatte um die <strong>Anwendbarkeit und Auslegung von Menschenrechten</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist die Zivilgesellschaft wichtig für den Schutz der Menschenrechte?</p>",
+      "options": [
+        {
+          "text": "Weil sie als Kontrollinstanz gegenüber dem Staat fungiert und Menschenrechtsverletzungen öffentlich macht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Zivilgesellschaft</strong> spielt eine Schlüsselrolle als <strong>Kontrollorgan</strong> und bei der <strong>Aufdeckung von Menschenrechtsverletzungen</strong>."
+        },
+        {
+          "text": "Weil sie die staatliche Macht stärkt und die Durchsetzung von Gesetzen erleichtert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Zivilgesellschaft <strong>ergänzt und kontrolliert den Staat</strong>, aber <strong>stärkt nicht direkt die staatliche Macht</strong> in diesem Sinne."
+        },
+        {
+          "text": "Weil sie primär wirtschaftliche Interessen verfolgt und so indirekt zum Menschenrechtsschutz beiträgt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Zivilgesellschaft fokussiert sich auf <strong>vielfältige Bereiche</strong>, aber der <strong>Menschenrechtsschutz</strong> ist ein <strong>zentraler Aspekt</strong> vieler zivilgesellschaftlicher Organisationen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Menschenrechte sind in erster Linie an das Bürgerrecht eines Staates gebunden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Menschenrechte sind <strong>nicht an die Staatsbürgerschaft gebunden</strong>, sondern gelten <strong>universal für jeden Menschen</strong>.",
+      "feedback_incorrect": "❌ Falsch. Menschenrechte sind <strong>universal</strong> und gelten <strong>unabhängig von der Staatsbürgerschaft</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Folter ist unter allen Umständen eine Verletzung der Menschenrechte.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Korrekt! Das <strong>Verbot der Folter</strong> ist ein <strong>absolutes Menschenrecht</strong>, das unter keinen Umständen eingeschränkt werden darf.",
+      "feedback_incorrect": "❌ Falsch. <strong>Folter ist ausnahmslos verboten</strong> und stellt immer eine <strong>Menschenrechtsverletzung</strong> dar."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Europäische Menschenrechtskonvention wurde von der UNO verabschiedet.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die <strong>Europäische Menschenrechtskonvention</strong> wurde vom <strong>Europarat</strong> verabschiedet, nicht von der UNO.",
+      "feedback_incorrect": "❌ Falsch. Die <strong>Europäische Menschenrechtskonvention</strong> ist ein <strong>Produkt des Europarates</strong>, die <strong>UNO</strong> hat andere Menschenrechtsinstrumente."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein Staat darf die Meinungsfreiheit einschränken, um die öffentliche Ordnung zu gewährleisten, auch wenn dies nicht klar gesetzlich geregelt ist.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Einschränkungen der Meinungsfreiheit müssen <strong>gesetzlich klar definiert</strong> sein und einem <strong>legitimen Zweck</strong> dienen, wie dem Schutz der öffentlichen Ordnung, und <strong>verhältnismässig</strong> sein.",
+      "feedback_incorrect": "❌ Falsch. Einschränkungen der Meinungsfreiheit müssen <strong>immer gesetzlich geregelt</strong> sein und <strong>klaren Kriterien</strong> folgen, um <strong>willkürliche Eingriffe zu verhindern</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Menschenrechte sind ein statisches Konzept, das sich nicht an gesellschaftliche Veränderungen anpasst.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Menschenrechte sind ein <strong>dynamisches Konzept</strong>, das sich <strong>weiterentwickelt</strong> und an <strong>gesellschaftliche Veränderungen angepasst</strong> wird, beispielsweise im Bereich des Datenschutzes oder der Rechte von Minderheiten.",
+      "feedback_incorrect": "❌ Falsch. Menschenrechte sind <strong>nicht statisch</strong>, sondern <strong>entwickeln sich weiter</strong>, um auf <strong>neue Herausforderungen und gesellschaftliche Veränderungen</strong> zu reagieren."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wirtschaftliche Sanktionen gegen einen Staat können unter Umständen negative Auswirkungen auf die Menschenrechte der Bevölkerung in diesem Staat haben.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Korrekt! <strong>Wirtschaftliche Sanktionen</strong> können die <strong>wirtschaftliche und soziale Situation der Bevölkerung verschlechtern</strong> und somit <strong>negative Auswirkungen auf ihre Menschenrechte</strong> haben, beispielsweise auf das Recht auf Nahrung oder Gesundheit.",
+      "feedback_incorrect": "❌ Falsch. <strong>Sanktionen können unbeabsichtigte Folgen haben</strong> und die <strong>Lebensbedingungen der Zivilbevölkerung beeinträchtigen</strong>, was <strong>Menschenrechtsfragen aufwirft</strong>."
+    }
+  ]
+}

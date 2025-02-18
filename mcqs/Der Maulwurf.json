@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Der Maulwurf",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Echo-der-Zeit-radio/2020/10/Echo-der-Zeit_27-10-2020-1805.mp3",
+    "source": "https://www.srf.ch/audio/echo-der-zeit/der-maulwurf-dok-film-ueber-nordkoreas-diktatur?partId=99b1b298-0e97-48b1-b5bb-cb5911585e7d#autoplay"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lautet der Titel des Dokumentarfilms, um den es in diesem Beitrag geht?</p>",
+      "options": [
+        {
+          "text": "Der Undercover-Agent",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Titel des Films ist <strong>nicht</strong> 'Der Undercover-Agent', sondern bezieht sich auf ein anderes Tier."
+        },
+        {
+          "text": "Der Maulwurf",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Titel des Dokumentarfilms ist <strong>'Der Maulwurf'</strong>."
+        },
+        {
+          "text": "Das Chamäleon",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Titel des Films ist <strong>nicht</strong> 'Das Chamäleon', sondern ein anderes Tier, das für seine versteckte Lebensweise bekannt ist."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Über welches Land handelt der Dokumentarfilm 'Der Maulwurf' hauptsächlich?</p>",
+      "options": [
+        {
+          "text": "Südkorea",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Film handelt <strong>nicht</strong> von Südkorea, sondern von einem anderen Land in Ostasien."
+        },
+        {
+          "text": "China",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl China eine wichtige Rolle in der Region spielt, ist es <strong>nicht</strong> das Hauptthema des Films."
+        },
+        {
+          "text": "Nordkorea",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Dokumentarfilm 'Der Maulwurf' handelt von <strong>Nordkorea</strong> und dessen Diktatur."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Jahr wurde der Dokumentarfilm 'Der Maulwurf' veröffentlicht, basierend auf dem Audiobeitrag?</p>",
+      "options": [
+        {
+          "text": "2019",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Audiobeitrag stammt aus dem Jahr 2020, was darauf hindeutet, dass der Film <strong>nicht</strong> 2019 veröffentlicht wurde."
+        },
+        {
+          "text": "2020",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Audiobeitrag stammt aus dem Jahr <strong>2020</strong>, was die Veröffentlichung des Films in diesem Zeitraum nahelegt."
+        },
+        {
+          "text": "2021",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Audiobeitrag wurde 2020 veröffentlicht, daher ist es unwahrscheinlich, dass der Film erst <strong>2021</strong> herauskam."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Medium hat über den Dokumentarfilm 'Der Maulwurf' berichtet, wie aus dem Link hervorgeht?</p>",
+      "options": [
+        {
+          "text": "BBC News",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Link verweist <strong>nicht</strong> auf BBC News, sondern auf ein anderes Nachrichtenmedium."
+        },
+        {
+          "text": "SRF Echo der Zeit",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Link stammt von <strong>SRF Echo der Zeit</strong>, einem Schweizer Radioprogramm."
+        },
+        {
+          "text": "New York Times",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die New York Times ist ein amerikanisches Medium, aber der Link führt zu <strong>SRF</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Art von Film wird im Titel des Beitrags über 'Der Maulwurf' genannt?</p>",
+      "options": [
+        {
+          "text": "Spielfilm",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es handelt sich <strong>nicht</strong> um einen Spielfilm, sondern um eine andere Filmkategorie."
+        },
+        {
+          "text": "Dok-Film",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Im Titel wird explizit '<strong>Dok-Film</strong>' erwähnt, was für Dokumentarfilm steht."
+        },
+        {
+          "text": "Kurzfilm",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl es kurze Dokumentarfilme gibt, wird hier von einem '<strong>Dok-Film</strong>' gesprochen, was meist auf längere Formate hindeutet."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum könnte der Titel 'Der Maulwurf' für einen Dokumentarfilm über Nordkorea gewählt worden sein?</p>",
+      "options": [
+        {
+          "text": "Weil Maulwürfe in Nordkorea heimisch sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Wahl des Titels hat wahrscheinlich <strong>nichts mit der Verbreitung von Maulwürfen</strong> in Nordkorea zu tun."
+        },
+        {
+          "text": "Weil 'Maulwurf' eine Person beschreibt, die heimlich Informationen sammelt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! 'Maulwurf' wird oft als Metapher für eine Person verwendet, die <strong>undercover Informationen sammelt</strong>, was im Kontext einer Diktatur relevant sein könnte."
+        },
+        {
+          "text": "Weil der Film hauptsächlich unterirdisch in Nordkorea gedreht wurde.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist unwahrscheinlich, dass der Film <strong>hauptsächlich unterirdisch</strong> gedreht wurde. Der Titel bezieht sich eher auf die Arbeitsweise."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was lässt sich aus dem Titel 'Der Maulwurf - Dok-Film über Nordkoreas Diktatur' über den Inhalt des Films ableiten?</p>",
+      "options": [
+        {
+          "text": "Der Film zeigt das Alltagsleben in Nordkorea aus einer unkritischen Perspektive.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Zusatz 'über Nordkoreas <strong>Diktatur</strong>' deutet eher auf eine kritische Auseinandersetzung hin."
+        },
+        {
+          "text": "Der Film thematisiert kritisch die politische Situation und möglicherweise geheime Operationen in Nordkorea.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Titel in Kombination mit 'Diktatur' und 'Maulwurf' lässt vermuten, dass der Film <strong>kritisch</strong> ist und möglicherweise <strong>geheime oder verdeckte Aspekte</strong> beleuchtet."
+        },
+        {
+          "text": "Der Film ist eine unparteiische Darstellung der nordkoreanischen Kultur und Geschichte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Fokus auf '<strong>Diktatur</strong>' im Titel deutet <strong>nicht</strong> auf eine rein unparteiische Darstellung von Kultur und Geschichte hin."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Erwartungshaltung könnte der Titel 'Der Maulwurf' beim Publikum wecken?</p>",
+      "options": [
+        {
+          "text": "Eine humorvolle und leichte Dokumentation über Tiere.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Kontext 'Nordkoreas Diktatur' und 'Dok-Film' ist eine <strong>humorvolle Tierdokumentation unwahrscheinlich</strong>."
+        },
+        {
+          "text": "Eine spannende und investigative Dokumentation über verdeckte Operationen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Titel 'Der Maulwurf' in Verbindung mit 'Diktatur' erzeugt die Erwartung einer <strong>spannenden</strong> und <strong>investigativen</strong> Dokumentation."
+        },
+        {
+          "text": "Eine rein wissenschaftliche Abhandlung über nordkoreanische Politik.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Titel 'Der Maulwurf' deutet eher auf einen <strong>filmischen</strong> und <strong>spannungsreichen</strong> Ansatz hin, nicht auf eine rein wissenschaftliche Abhandlung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Inwiefern könnte der gewählte Titel 'Der Maulwurf' die Arbeitsweise der Filmemacher widerspiegeln?</p>",
+      "options": [
+        {
+          "text": "Er deutet auf eine sehr offene und transparente Vorgehensweise der Filmemacher hin.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 'Maulwurf' impliziert eher das Gegenteil, nämlich eine <strong>verdeckte</strong> und <strong>nicht-transparente</strong> Arbeitsweise."
+        },
+        {
+          "text": "Er könnte andeuten, dass die Filmemacher verdeckt und heimlich vorgegangen sind, um Informationen zu sammeln.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! 'Maulwurf' als Metapher legt nahe, dass die Filmemacher möglicherweise <strong>verdeckt</strong> und <strong>heimlich</strong> gearbeitet haben, um an Informationen zu gelangen."
+        },
+        {
+          "text": "Er symbolisiert die oberflächliche und wenig tiefgründige Recherche der Filmemacher.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 'Maulwurf' steht im Allgemeinen <strong>nicht</strong> für oberflächliche Recherche, sondern eher für das Eindringen in verborgene Bereiche."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche übergeordnete Frage könnte der Dokumentarfilm 'Der Maulwurf' möglicherweise untersuchen?</p>",
+      "options": [
+        {
+          "text": "Wie man Maulwürfe in Nordkorea am besten beobachten kann.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Film thematisiert <strong>nicht</strong> die Tierbeobachtung, sondern ein politisches System."
+        },
+        {
+          "text": "Wie das Leben unter einer Diktatur in Nordkorea tatsächlich aussieht und welche Mechanismen diese aufrechterhalten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Angesichts des Titels und des Themas 'Diktatur' ist es wahrscheinlich, dass der Film untersucht, wie das <strong>Leben unter einer Diktatur</strong> aussieht und wie diese funktioniert."
+        },
+        {
+          "text": "Welche wirtschaftlichen Beziehungen zwischen der Schweiz und Nordkorea bestehen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Titel und die Beschreibung deuten <strong>nicht</strong> auf einen Fokus auf wirtschaftliche Beziehungen zwischen der Schweiz und Nordkorea hin."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Dokumentarfilm 'Der Maulwurf' handelt von der Demokratie in Südkorea.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Film handelt von der Demokratie in Südkorea.",
+      "feedback_incorrect": "❌ Falsch. Der Film handelt von der <strong>Diktatur in Nordkorea</strong>, nicht von der Demokratie in Südkorea."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Titel 'Der Maulwurf' bezieht sich auf eine Person, die im Geheimen arbeitet, um Informationen zu beschaffen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Titel 'Der Maulwurf' bezieht sich auf eine Person, die im <strong>Geheimen arbeitet</strong>, um Informationen zu beschaffen.",
+      "feedback_incorrect": "❌ Falsch. Der Titel 'Der Maulwurf' wird tatsächlich verwendet, um eine Person zu beschreiben, die <strong>heimlich Informationen sammelt</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Audiobeitrag über 'Der Maulwurf' stammt von BBC News.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Audiobeitrag stammt von BBC News.",
+      "feedback_incorrect": "❌ Falsch. Der Audiobeitrag stammt von <strong>SRF Echo der Zeit</strong>, nicht von BBC News."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Es ist wahrscheinlich, dass der Film 'Der Maulwurf' eine kritische Perspektive auf die nordkoreanische Regierung einnimmt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Angesichts des Themas 'Diktatur' und des Titels ist eine <strong>kritische Perspektive</strong> sehr wahrscheinlich.",
+      "feedback_incorrect": "❌ Falsch. Es ist sehr wahrscheinlich, dass der Film eine <strong>kritische Perspektive</strong> auf die nordkoreanische Regierung einnimmt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Der Titel 'Der Maulwurf' deutet eher auf eine offene und transparente Arbeitsweise der Filmemacher hin.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Titel 'Der Maulwurf' deutet eher auf eine offene und transparente Arbeitsweise der Filmemacher hin.",
+      "feedback_incorrect": "❌ Falsch. Der Titel 'Der Maulwurf' deutet eher auf eine <strong>verdeckte</strong> und <strong>heimliche</strong> Arbeitsweise hin."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Der Dokumentarfilm 'Der Maulwurf' will vermutlich die positiven Aspekte des Lebens in Nordkorea hervorheben.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Dokumentarfilm 'Der Maulwurf' will vermutlich die positiven Aspekte des Lebens in Nordkorea hervorheben.",
+      "feedback_incorrect": "❌ Falsch. Angesichts des Themas '<strong>Diktatur</strong>' ist es unwahrscheinlich, dass der Film positive Aspekte hervorheben will. Eher das Gegenteil ist zu erwarten."
+    }
+  ]
+}

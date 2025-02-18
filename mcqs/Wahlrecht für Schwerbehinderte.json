@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Wahlrecht für Schwerbehinderte",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Rendez-vous-radio/2020/11/Rendez-vous_30-11-2020-1237.mp3",
+    "source": "https://www.srf.ch/news/schweiz/premiere-mit-signalwirkung-genf-setzt-zeichen-stimm-und-wahlrecht-fuer-schwerbehinderte"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Kanton der Schweiz hat als erster das Stimm- und Wahlrecht für Menschen mit schweren Behinderungen eingeführt?</p>",
+      "options": [
+        {
+          "text": "Zürich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Zürich war nicht der erste Kanton. Es war der Kanton <strong>Genf</strong>."
+        },
+        {
+          "text": "Bern",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bern war nicht der erste Kanton. Es war der Kanton <strong>Genf</strong>."
+        },
+        {
+          "text": "Genf",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Kanton <strong>Genf</strong> hat als erster Kanton der Schweiz das Stimm- und Wahlrecht für Menschen mit schweren Behinderungen eingeführt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie hoch war die Zustimmung in Prozent bei der Abstimmung in Genf über das Wahlrecht für Schwerbehinderte?</p>",
+      "options": [
+        {
+          "text": "50 Prozent",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Zustimmung war deutlich höher. Es waren <strong>75 Prozent</strong>."
+        },
+        {
+          "text": "75 Prozent",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Stimmbevölkerung in Genf hat die Verfassungsänderung mit <strong>75 Prozent Ja-Stimmen</strong> angenommen."
+        },
+        {
+          "text": "90 Prozent",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Zustimmung war hoch, aber nicht 90 Prozent. Es waren <strong>75 Prozent</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche UNO-Konvention steht im Zusammenhang mit der Einführung des Wahlrechts für Schwerbehinderte in Genf?</p>",
+      "options": [
+        {
+          "text": "UNO-Kinderrechtskonvention",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht um die <strong>UNO-Behindertenrechtskonvention</strong>, nicht um die Kinderrechtskonvention."
+        },
+        {
+          "text": "UNO-Behindertenrechtskonvention",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Einführung des Wahlrechts in Genf setzt die <strong>UNO-Behindertenrechtskonvention</strong> um."
+        },
+        {
+          "text": "UNO-Klimakonvention",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht um die <strong>UNO-Behindertenrechtskonvention</strong>, die politische Rechte betrifft, nicht um die Klimakonvention."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Menschen mit schwerer Behinderung sind im Kanton Genf von der Gesetzesänderung zum Wahlrecht betroffen?</p>",
+      "options": [
+        {
+          "text": "Rund 120",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es sind mehr als 120 Personen betroffen. Es sind rund <strong>1'200 Personen</strong>."
+        },
+        {
+          "text": "Rund 1'200",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Im Kanton Genf betrifft die Gesetzesänderung zum Wahlrecht rund <strong>1'200 Personen</strong>."
+        },
+        {
+          "text": "Rund 12'000",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es sind weniger als 12'000 Personen betroffen. Es sind rund <strong>1'200 Personen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Art von Unterstützung ist in Genf für Menschen mit Behinderung bei Abstimmungen angedacht?</p>",
+      "options": [
+        {
+          "text": "Komplette Übernahme der Stimmabgabe durch Betreuer",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist nicht die komplette Übernahme geplant, sondern <strong>vereinfachte und verständlichere Unterlagen</strong>."
+        },
+        {
+          "text": "Vereinfachte und verständlichere Abstimmungsunterlagen",
+          "is_correct": true,
+          "feedback": "✅ Richtig! In Genf ist angedacht, <strong>vereinfachte und verständlichere Unterlagen</strong> zu Abstimmungen zu verschicken."
+        },
+        {
+          "text": "Persönliche Wahlhelfer in jedem Wahllokal",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Persönliche Wahlhelfer in jedem Wahllokal sind im Text nicht erwähnt. Geplant sind <strong>vereinfachte Unterlagen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum könnte die Nähe zur UNO in Genf eine Rolle für die Annahme des Wahlrechts gespielt haben?</p>",
+      "options": [
+        {
+          "text": "Weil die UNO ihren Hauptsitz in Genf hat und dies das Bewusstsein für Menschenrechte stärkt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Nähe zur UNO</strong> in Genf könnte das <strong>Bewusstsein für Menschenrechte</strong> und Inklusion gestärkt haben, was zur Annahme beigetragen hat."
+        },
+        {
+          "text": "Weil die UNO die Abstimmung in Genf direkt beeinflusst hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die UNO hat die Abstimmung nicht direkt beeinflusst, aber die <strong>UNO-Behindertenrechtskonvention</strong> ist relevant und die <strong>Nähe zur UNO</strong> könnte das Bewusstsein gestärkt haben."
+        },
+        {
+          "text": "Weil die UNO finanzielle Anreize für die Einführung des Wahlrechts geboten hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt keine Hinweise darauf, dass die UNO finanzielle Anreize geboten hat. Die <strong>Nähe zur UNO</strong> und die <strong>UNO-Behindertenrechtskonvention</strong> sind die relevanten Faktoren."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist die Hauptaussage der UNO-Behindertenrechtskonvention bezüglich politischer Rechte?</p>",
+      "options": [
+        {
+          "text": "Menschen mit Behinderungen sollen bevorzugt politisch aktiv sein.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Konvention fordert keine Bevorzugung, sondern dass <strong>keine Person ihrer politischen Rechte beraubt werden darf</strong>."
+        },
+        {
+          "text": "Keine Person mit Behinderung darf ihrer politischen Rechte beraubt werden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Kernaussage ist, dass <strong>keine Person ihrer politischen Rechte beraubt werden darf</strong>, unabhängig von einer Behinderung."
+        },
+        {
+          "text": "Politische Rechte für Menschen mit Behinderungen sind optional und können je nach Kanton unterschiedlich gehandhabt werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Konvention setzt einen Standard, dass <strong>politische Rechte nicht verwehrt werden dürfen</strong>, es ist nicht optional."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum vergleicht Caroline Hess-Klein das Missbrauchsrisiko bei Schwerbehinderten mit dem Risiko bei Pensionären in Altersheimen oder sehbehinderten Menschen?</p>",
+      "options": [
+        {
+          "text": "Um zu zeigen, dass Missbrauch in allen abhängigen Situationen ein potenzielles Risiko ist und nicht spezifisch für Schwerbehinderte.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Sie vergleicht, um zu verdeutlichen, dass das <strong>Missbrauchsrisiko</strong> in <strong>Abhängigkeitssituationen generell besteht</strong> und nicht nur bei Schwerbehinderten."
+        },
+        {
+          "text": "Um zu beweisen, dass das Missbrauchsrisiko bei Schwerbehinderten geringer ist als bei anderen Gruppen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sie will nicht beweisen, dass es geringer ist, sondern dass <strong>Missbrauch ein generelles Risiko in Abhängigkeitssituationen</strong> ist."
+        },
+        {
+          "text": "Um die Notwendigkeit von strengeren Kontrollen für alle genannten Gruppen zu fordern.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ihr Ziel ist es, <strong>Vorurteile abzubauen</strong> und zu zeigen, dass <strong>Missbrauch kein spezifisches Problem von Schwerbehinderten</strong> ist."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Signalwirkung erhofft man sich vom Genfer Entscheid zum Wahlrecht für Schwerbehinderte?</p>",
+      "options": [
+        {
+          "text": "Dass andere Kantone und der Bund dem Beispiel folgen und ebenfalls das Wahlrecht für Schwerbehinderte einführen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Man erhofft sich eine <strong>Signalwirkung</strong>, damit <strong>andere Kantone und der Bund</strong> dem Genfer Beispiel folgen."
+        },
+        {
+          "text": "Dass Genf dadurch mehr internationale Aufmerksamkeit erhält.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die internationale Aufmerksamkeit ist ein Nebeneffekt, aber die Hauptsache ist die <strong>Signalwirkung für andere Kantone und den Bund</strong> bezüglich des Wahlrechts."
+        },
+        {
+          "text": "Dass die UNO Genf für diesen Schritt auszeichnet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Auszeichnung durch die UNO ist nicht die primäre erhoffte Wirkung. Es geht um die <strong>Signalwirkung für die Schweiz</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet der Begriff 'umfassender Beistand' im Kontext des Artikels?</p>",
+      "options": [
+        {
+          "text": "Eine leichte Form der Unterstützung im Alltag.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 'Umfassender Beistand' ist die <strong>strengste Form der Beistandschaft</strong>, nicht eine leichte Form."
+        },
+        {
+          "text": "Die strengste Form der gesetzlichen Vertretung, bei der die betroffene Person in vielen Bereichen nicht mehr selbst entscheiden darf.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! 'Umfassender Beistand' bezeichnet die <strong>strengste Form der Beistandschaft</strong>, bei der die Selbstbestimmung stark eingeschränkt ist."
+        },
+        {
+          "text": "Eine vorübergehende Unterstützung nach einem Unfall.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 'Umfassender Beistand' ist nicht vorübergehend und nicht auf Unfälle beschränkt, sondern eine <strong>dauerhafte und umfassende gesetzliche Vertretung</strong>."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Verfassungsänderung in Genf zum Wahlrecht für Schwerbehinderte wurde einstimmig angenommen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Änderung wurde nicht einstimmig angenommen, aber mit einer deutlichen Mehrheit von 75 Prozent Ja-Stimmen.",
+      "feedback_incorrect": "❌ Falsch. Die Änderung wurde zwar mit einer deutlichen Mehrheit angenommen, aber nicht einstimmig. Es gab 75 Prozent Ja-Stimmen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Schweiz hat die UNO-Behindertenrechtskonvention vor zwei Jahren ratifiziert.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Schweiz hat die Konvention nicht vor zwei Jahren ratifiziert, sondern vor sechs Jahren.",
+      "feedback_incorrect": "❌ Falsch. Die Schweiz hat die UNO-Behindertenrechtskonvention bereits vor sechs Jahren ratifiziert."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Caroline Hess-Klein ist Mitarbeiterin des Kantons Genf.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Caroline Hess-Klein ist nicht Mitarbeiterin des Kantons Genf, sondern Leiterin der Abteilung Gleichstellung beim Schweizerischen Dachverband der Behindertenverbände Inclusio Handicap.",
+      "feedback_incorrect": "❌ Falsch. Caroline Hess-Klein arbeitet nicht für den Kanton Genf, sondern für den Schweizerischen Dachverband der Behindertenverbände Inclusio Handicap."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Einführung des Wahlrechts für Schwerbehinderte in Genf könnte dazu beitragen, deren Selbstwertgefühl zu stärken.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Es wird erwartet, dass die Einführung des Wahlrechts dazu beiträgt, das Selbstwertgefühl und das Zugehörigkeitsgefühl von Menschen mit Behinderungen zu stärken.",
+      "feedback_incorrect": "❌ Falsch. Die Einführung des Wahlrechts soll unter anderem dazu beitragen, das Selbstwertgefühl von Menschen mit Behinderungen zu stärken."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Bedenken bezüglich Missbrauchs des Wahlrechts bei Schwerbehinderten sind im Artikel nicht thematisiert.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Bedenken wegen Missbrauchs wurden im Artikel thematisiert und von Caroline Hess-Klein relativiert.",
+      "feedback_incorrect": "❌ Falsch. Der Artikel thematisiert Bedenken bezüglich Missbrauchs, weist aber auch auf vergleichbare Risiken in anderen Situationen hin."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Es wird erwartet, dass der Genfer Entscheid keine Auswirkungen auf andere Kantone haben wird.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Es wird erwartet, dass der Genfer Entscheid eine Signalwirkung hat und andere Kantone sich ebenfalls mit dem Thema auseinandersetzen werden.",
+      "feedback_incorrect": "❌ Falsch. Gerade eine Signalwirkung auf andere Kantone und den Bund ist ein wichtiger Aspekt des Genfer Entscheids."
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Menschenrechte weltweit unter Druck",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Rendez-vous-radio/2024/06/Rendez-vous-radio-60a44ca6-5364-4faf-9caf-f5856c98ae2c.mp3",
+    "source": "https://www.srf.ch/audio/rendez-vous/menschenrechte-weltweit-unter-druck?partId=60a44ca6-5364-4faf-9caf-f5856c98ae2c#autoplay"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Dokument wird als grundlegende Grundlage für die Menschenrechte angesehen?</p>",
+      "options": [
+        {
+          "text": "Die Magna Carta",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Magna Carta</strong> ist zwar ein wichtiges historisches Dokument, aber die grundlegende Grundlage für die <strong>allgemeinen Menschenrechte</strong> ist ein anderes Dokument."
+        },
+        {
+          "text": "Die Allgemeine Erklärung der Menschenrechte",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Allgemeine Erklärung der Menschenrechte</strong> von 1948 wird als die grundlegende Grundlage für die <strong>Menschenrechte</strong> angesehen."
+        },
+        {
+          "text": "Die Genfer Konventionen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Genfer Konventionen</strong> sind wichtig für das <strong>humanitäre Völkerrecht</strong> in Kriegen, aber nicht die grundlegende Grundlage der Menschenrechte."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Jahr wurde die Allgemeine Erklärung der Menschenrechte von den Vereinten Nationen verabschiedet?</p>",
+      "options": [
+        {
+          "text": "1945",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>1945</strong> war das Gründungsjahr der <strong>Vereinten Nationen</strong>, aber die Erklärung folgte später."
+        },
+        {
+          "text": "1948",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Allgemeine Erklärung der Menschenrechte</strong> wurde im Jahr <strong>1948</strong> verabschiedet."
+        },
+        {
+          "text": "1950",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>1950</strong> war die Erklärung bereits verabschiedet; es war <strong>1948</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden Organisationen setzt sich hauptsächlich für die weltweite Einhaltung der Menschenrechte ein?</p>",
+      "options": [
+        {
+          "text": "Das Internationale Rote Kreuz",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>Internationale Rote Kreuz</strong> konzentriert sich primär auf <strong>humanitäre Hilfe</strong>, besonders in Konfliktgebieten."
+        },
+        {
+          "text": "Amnesty International",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Amnesty International</strong> ist eine bekannte Organisation, die sich für den <strong>Schutz der Menschenrechte</strong> weltweit einsetzt."
+        },
+        {
+          "text": "Ärzte ohne Grenzen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Ärzte ohne Grenzen</strong> leistet medizinische <strong>Nothilfe</strong> in Krisengebieten, aber der Fokus liegt nicht primär auf Menschenrechten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches der folgenden Beispiele ist ein grundlegendes Menschenrecht?</p>",
+      "options": [
+        {
+          "text": "Das Recht auf ein schnelles Auto",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>Recht auf ein schnelles Auto</strong> ist kein anerkanntes <strong>Menschenrecht</strong>."
+        },
+        {
+          "text": "Das Recht auf freie Meinungsäusserung",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das <strong>Recht auf freie Meinungsäusserung</strong> ist ein grundlegendes <strong>Menschenrecht</strong>."
+        },
+        {
+          "text": "Das Recht auf unbegrenzten Konsum",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>Recht auf unbegrenzten Konsum</strong> ist kein anerkanntes <strong>Menschenrecht</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Hauptorgan der Vereinten Nationen ist für den Schutz und die Förderung der Menschenrechte zuständig?</p>",
+      "options": [
+        {
+          "text": "Der Sicherheitsrat",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Sicherheitsrat</strong> befasst sich hauptsächlich mit <strong>Frieden und Sicherheit</strong>, nicht primär mit Menschenrechten."
+        },
+        {
+          "text": "Der Menschenrechtsrat",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der <strong>Menschenrechtsrat der Vereinten Nationen</strong> ist das Hauptorgan für <strong>Menschenrechte</strong>."
+        },
+        {
+          "text": "Die Generalversammlung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Generalversammlung</strong> ist ein breiteres Organ; der <strong>Menschenrechtsrat</strong> ist spezialisiert."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum werden Menschenrechte als 'universell' bezeichnet?</p>",
+      "options": [
+        {
+          "text": "Weil sie nur in Universitäten gelehrt werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. '<strong>Universell</strong>' bezieht sich nicht auf den Ort der Lehre, sondern auf die <strong>Gültigkeit für alle</strong>."
+        },
+        {
+          "text": "Weil sie für alle Menschen, unabhängig von Nationalität, Geschlecht oder Religion, gelten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! '<strong>Universell</strong>' bedeutet, dass die Menschenrechte für <strong>jeden Menschen auf der Welt</strong> gelten, unabhängig von Herkunft oder Status."
+        },
+        {
+          "text": "Weil sie von allen Regierungen der Welt geschaffen wurden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl viele Regierungen sie unterstützen, bedeutet '<strong>universell</strong>' primär die <strong>allgemeine Gültigkeit</strong>, nicht die gemeinsame Schöpfung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet das Prinzip der 'Unteilbarkeit der Menschenrechte'?</p>",
+      "options": [
+        {
+          "text": "Dass Menschenrechte nur in bestimmten Teilen der Welt gelten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. '<strong>Unteilbarkeit</strong>' bedeutet das Gegenteil: Menschenrechte sind <strong>weltweit gültig</strong>."
+        },
+        {
+          "text": "Dass alle Menschenrechte gleich wichtig sind und nicht gegeneinander ausgespielt werden dürfen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! '<strong>Unteilbarkeit</strong>' bedeutet, dass <strong>alle Menschenrechte gleichwertig</strong> sind und zusammenhängen."
+        },
+        {
+          "text": "Dass Menschenrechte in verschiedene Kategorien aufgeteilt werden können, die unterschiedlich wichtig sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Prinzip der '<strong>Unteilbarkeit</strong>' betont gerade, dass es <strong>keine Hierarchie</strong> unter den Menschenrechten gibt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wie kann die Einschränkung der Meinungsfreiheit die Ausübung anderer Menschenrechte beeinträchtigen?</p>",
+      "options": [
+        {
+          "text": "Sie hat keine Auswirkungen auf andere Menschenrechte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Meinungsfreiheit</strong> ist eng mit anderen Rechten verbunden und deren Einschränkung hat <strong>negative Folgen</strong>."
+        },
+        {
+          "text": "Sie kann dazu führen, dass Missstände nicht öffentlich gemacht werden und andere Rechteverletzungen unentdeckt bleiben.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ohne <strong>Meinungsfreiheit</strong> können <strong>Missstände verborgen</strong> bleiben und andere <strong>Rechteverletzungen</strong> schwerer aufgedeckt werden."
+        },
+        {
+          "text": "Sie stärkt die Ausübung anderer Menschenrechte, da weniger Kritik geäussert wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Einschränkung der <strong>Meinungsfreiheit</strong> schwächt die <strong>Kontrolle und Kritik</strong> an Machtstrukturen, was andere Rechte gefährdet."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen Einfluss haben politische Konflikte und Kriege typischerweise auf die Menschenrechtslage in den betroffenen Regionen?</p>",
+      "options": [
+        {
+          "text": "Sie verbessern die Menschenrechtslage, da internationale Aufmerksamkeit geschaffen wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Konflikte und Kriege</strong> verschlechtern die Menschenrechtslage meist dramatisch, trotz möglicher internationaler Aufmerksamkeit."
+        },
+        {
+          "text": "Sie führen oft zu einer Verschlechterung der Menschenrechtslage durch Gewalt, Vertreibung und Einschränkung von Freiheiten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Politische Konflikte und Kriege</strong> führen typischerweise zu einer <strong>massiven Verschlechterung</strong> der Menschenrechtslage."
+        },
+        {
+          "text": "Sie haben keinen direkten Einfluss auf die Menschenrechtslage.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Konflikte und Kriege</strong> haben einen sehr <strong>direkten und negativen Einfluss</strong> auf die Menschenrechtslage."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist Bildung im Bereich der Menschenrechte wichtig für die Förderung und den Schutz dieser Rechte?</p>",
+      "options": [
+        {
+          "text": "Weil Bildung unwichtig für Menschenrechte ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Bildung</strong> ist sehr wichtig, um das <strong>Bewusstsein für Menschenrechte</strong> zu stärken."
+        },
+        {
+          "text": "Weil Bildung das Bewusstsein für Menschenrechte schärft und Menschen dazu befähigt, ihre Rechte einzufordern und zu verteidigen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Menschenrechtsbildung</strong> ist entscheidend, um <strong>Bewusstsein zu schaffen</strong> und Menschen zu <strong>ermächtigen</strong>, ihre Rechte zu schützen."
+        },
+        {
+          "text": "Weil Bildung nur für Regierungen wichtig ist, nicht für Einzelpersonen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Bildung</strong> ist sowohl für <strong>Regierungen</strong> als auch für <strong>Einzelpersonen</strong> wichtig, um Menschenrechte zu fördern."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Menschenrechte gelten nur für Bürgerinnen und Bürger eines bestimmten Staates.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Menschenrechte sind <strong>universal</strong> und gelten für <strong>alle Menschen</strong>, unabhängig von ihrer Staatsbürgerschaft.",
+      "feedback_incorrect": "❌ Falsch. Menschenrechte sind <strong>universal</strong> und beschränken sich nicht auf <strong>Staatsbürgerschaften</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Folter ist eine schwere Verletzung der Menschenrechte.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! <strong>Folter</strong> ist eine <strong>gravierende Verletzung</strong> der Menschenrechte und international geächtet.",
+      "feedback_incorrect": "❌ Falsch. <strong>Folter</strong> ist eindeutig eine <strong>schwere Menschenrechtsverletzung</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Europäische Menschenrechtskonvention wurde in Afrika verabschiedet.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die <strong>Europäische Menschenrechtskonvention</strong> wurde in <strong>Europa</strong>, genauer gesagt in Rom, verabschiedet.",
+      "feedback_incorrect": "❌ Falsch. Die <strong>Europäische Menschenrechtskonvention</strong> stammt aus <strong>Europa</strong>, nicht aus Afrika."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wenn ein Staat in einer schweren Wirtschaftskrise steckt, ist es gerechtfertigt, bestimmte Menschenrechte vorübergehend einzuschränken.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! <strong>Wirtschaftliche Schwierigkeiten</strong> rechtfertigen <strong>keine Einschränkung</strong> grundlegender Menschenrechte. Diese sind <strong>unveräusserlich</strong>.",
+      "feedback_incorrect": "❌ Falsch. Auch in <strong>Wirtschaftskrisen</strong> dürfen grundlegende <strong>Menschenrechte nicht eingeschränkt</strong> werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Durchsetzung von Menschenrechten ist ausschliesslich die Aufgabe von Regierungen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Während <strong>Regierungen</strong> eine wichtige Rolle spielen, sind auch <strong>internationale Organisationen, NGOs und Einzelpersonen</strong> für die Durchsetzung von Menschenrechten verantwortlich.",
+      "feedback_incorrect": "❌ Falsch. Die <strong>Verantwortung</strong> für Menschenrechte liegt nicht nur bei <strong>Regierungen</strong>, sondern auch bei vielen anderen Akteuren."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Der Schutz der Menschenrechte trägt massgeblich zum Frieden und zur Sicherheit in der Welt bei.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der <strong>Schutz der Menschenrechte</strong> ist eine wesentliche Grundlage für <strong>Frieden und Sicherheit</strong>, da er Ungerechtigkeit und Konflikte reduziert.",
+      "feedback_incorrect": "❌ Falsch. Der <strong>Schutz der Menschenrechte</strong> ist tatsächlich sehr wichtig für die <strong>globale Stabilität</strong> und den Frieden."
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Die Pressefreiheit gerät unter Druck",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Rendez-vous-radio/2023/05/Rendez-vous_26-05-2023-1235.mp3",
+    "source": "https://www.srf.ch/audio/rendez-vous/die-pressefreiheit-geraet-unter-druck?partId=52ea1dd6-619d-4714-8fb5-43deccf09a44#autoplay"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein anderes Wort für «Pressefreiheit»?</p>",
+      "options": [
+        {
+          "text": "Meinungsfreiheit der Medien",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Pressefreiheit</strong> wird oft auch als <strong>Meinungsfreiheit der Medien</strong> bezeichnet, da sie das Recht der Medien auf freie Meinungsäusserung schützt."
+        },
+        {
+          "text": "Informationspflicht der Medien",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Informationspflicht</strong> beschreibt die Verantwortung der Medien, zu informieren, ist aber nicht dasselbe wie <strong>Pressefreiheit</strong>."
+        },
+        {
+          "text": "Zensurfreiheit der Bürger",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Zensurfreiheit der Bürger</strong> bezieht sich auf das allgemeine Recht der Bürger, ihre Meinung frei zu äussern, während <strong>Pressefreiheit</strong> spezifisch die Medien betrifft."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche grundlegende Funktion haben Medien in einer Demokratie?</p>",
+      "options": [
+        {
+          "text": "Kontrolle der Regierung",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Eine der wichtigsten Funktionen der Medien ist die <strong>Kontrolle der Regierung</strong>, indem sie Transparenz fördern und Missstände aufdecken."
+        },
+        {
+          "text": "Propaganda für die Regierung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. In einer Demokratie sollen Medien <strong>unabhängig</strong> sein und nicht <strong>Propaganda für die Regierung</strong> betreiben."
+        },
+        {
+          "text": "Unterhaltung der Bevölkerung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl <strong>Unterhaltung</strong> eine Rolle spielt, ist die primäre Funktion der Medien in einer Demokratie die <strong>Information und Kontrolle</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Recht ist eng mit der Pressefreiheit verbunden?</p>",
+      "options": [
+        {
+          "text": "Informationsfreiheit",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Informationsfreiheit</strong> ist eng mit der <strong>Pressefreiheit</strong> verbunden, da Medien Informationen frei beschaffen und verbreiten müssen."
+        },
+        {
+          "text": "Versammlungsfreiheit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Versammlungsfreiheit</strong> ist ein anderes wichtiges Grundrecht, aber nicht so direkt mit der <strong>Pressefreiheit</strong> verbunden wie die Informationsfreiheit."
+        },
+        {
+          "text": "Religionsfreiheit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Religionsfreiheit</strong> ist ein Grundrecht, steht aber in keinem direkten Zusammenhang mit der <strong>Pressefreiheit</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was bedeutet «Zensur» im Zusammenhang mit Medien?</p>",
+      "options": [
+        {
+          "text": "Vorabkontrolle und Entfernung von missliebigen Inhalten",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Zensur</strong> bedeutet die <strong>Vorabkontrolle und Entfernung von missliebigen Inhalten</strong> durch eine staatliche oder andere Autorität."
+        },
+        {
+          "text": "Veröffentlichung aller Inhalte ohne Einschränkung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Gegenteil von <strong>Zensur</strong> wäre die <strong>uneingeschränkte Veröffentlichung</strong>, aber Zensur bedeutet Einschränkung."
+        },
+        {
+          "text": "Freiwillige Selbstkontrolle der Medien",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Freiwillige Selbstkontrolle</strong> ist etwas anderes als <strong>Zensur</strong>, die von aussen auferlegt wird."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Dokument ist die Pressefreiheit in vielen Ländern verankert?</p>",
+      "options": [
+        {
+          "text": "In der Verfassung",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Pressefreiheit</strong> ist in vielen Ländern in der <strong>Verfassung</strong> als Grundrecht verankert."
+        },
+        {
+          "text": "Im Strafgesetzbuch",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>Strafgesetzbuch</strong> regelt Gesetze, aber die <strong>Pressefreiheit</strong> ist ein Grundrecht und steht meist in der Verfassung."
+        },
+        {
+          "text": "In internationalen Verträgen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl <strong>internationale Verträge</strong> die Pressefreiheit thematisieren, ist die primäre Verankerung in der nationalen <strong>Verfassung</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist Pressefreiheit wichtig für eine funktionierende Demokratie?</p>",
+      "options": [
+        {
+          "text": "Sie ermöglicht öffentliche Kontrolle und Transparenz.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Pressefreiheit</strong> ist zentral, weil sie <strong>öffentliche Kontrolle</strong> ermöglicht und für <strong>Transparenz</strong> in Staat und Gesellschaft sorgt."
+        },
+        {
+          "text": "Sie garantiert die Verbreitung von Regierungspropaganda.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Pressefreiheit</strong> soll gerade <strong>Regierungspropaganda verhindern</strong> und eine kritische Berichterstattung ermöglichen."
+        },
+        {
+          "text": "Sie sichert den Machterhalt der regierenden Partei.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Pressefreiheit</strong> dient nicht dem <strong>Machterhalt</strong>, sondern der <strong>kritischen Überprüfung</strong> aller Machtstrukturen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Auswirkung hat es, wenn Journalisten in ihrer Arbeit eingeschränkt werden?</p>",
+      "options": [
+        {
+          "text": "Die öffentliche Meinung kann manipuliert werden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Wenn Journalisten eingeschränkt werden, kann die <strong>öffentliche Meinung manipuliert</strong> werden, da wichtige Informationen fehlen oder verzerrt dargestellt werden."
+        },
+        {
+          "text": "Die Qualität der Medienberichterstattung steigt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Einschränkungen</strong> der Pressefreiheit führen in der Regel zu einer <strong>Verschlechterung der Qualität</strong> der Berichterstattung."
+        },
+        {
+          "text": "Das Vertrauen der Bevölkerung in die Medien wächst.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Einschränkungen</strong> der Pressefreiheit <strong>untergraben das Vertrauen</strong> der Bevölkerung in die Medien."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was könnte ein Beispiel für eine indirekte Einschränkung der Pressefreiheit sein?</p>",
+      "options": [
+        {
+          "text": "Wirtschaftlicher Druck auf Medienunternehmen",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Wirtschaftlicher Druck</strong>, z.B. durch Anzeigenboykotte oder staatliche Subventionen mit Bedingungen, kann eine <strong>indirekte Einschränkung</strong> der Pressefreiheit sein."
+        },
+        {
+          "text": "Direkte Zensur durch den Staat",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Direkte Zensur</strong> ist eine <strong>direkte Einschränkung</strong>, keine indirekte."
+        },
+        {
+          "text": "Gesetze zum Schutz von Journalisten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Gesetze zum Schutz von Journalisten</strong> fördern die Pressefreiheit, sie schränken sie nicht ein."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist der Schutz von Whistleblowern wichtig für die Pressefreiheit?</p>",
+      "options": [
+        {
+          "text": "Sie liefern wichtige Informationen für die öffentliche Aufklärung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Whistleblower</strong> liefern oft <strong>wichtige Informationen</strong> über Missstände, die für die öffentliche Aufklärung und somit für die Pressefreiheit essenziell sind."
+        },
+        {
+          "text": "Sie gefährden die nationale Sicherheit.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Während dies in Einzelfällen diskutiert wird, tragen Whistleblower oft zur <strong>Aufdeckung von Missständen</strong> bei, was im öffentlichen Interesse liegt."
+        },
+        {
+          "text": "Sie sind immer illegal und sollten bestraft werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Schutz von Whistleblowern</strong> ist in vielen Ländern wichtig, um <strong>Missstände aufzudecken</strong> und die Pressefreiheit zu stärken."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet «Medienpluralismus» im Zusammenhang mit Pressefreiheit?</p>",
+      "options": [
+        {
+          "text": "Vielfalt der Medienlandschaft und unterschiedliche Meinungen",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Medienpluralismus</strong> bedeutet eine <strong>Vielfalt der Medienlandschaft</strong>, in der unterschiedliche Meinungen und Perspektiven vertreten sind."
+        },
+        {
+          "text": "Monopolstellung eines einzigen Medienunternehmens",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine <strong>Monopolstellung</strong> widerspricht dem <strong>Medienpluralismus</strong>, der Vielfalt anstrebt."
+        },
+        {
+          "text": "Staatliche Kontrolle über alle Medien",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Staatliche Kontrolle</strong> über alle Medien verhindert <strong>Medienpluralismus</strong> und Pressefreiheit."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Pressefreiheit bedeutet, dass Medien alles veröffentlichen dürfen, ohne jegliche Einschränkungen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Pressefreiheit ist nicht absolut und kann durch Gesetze zum Schutz anderer Rechte, wie z.B. Persönlichkeitsrechte, eingeschränkt werden.",
+      "feedback_incorrect": "❌ Falsch. Pressefreiheit kennt Grenzen, z.B. zum Schutz der Persönlichkeitsrechte oder zur Verhinderung von Verleumdung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>In der Schweiz ist die Pressefreiheit gesetzlich garantiert.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Pressefreiheit ist in der <strong>Schweiz</strong> durch die <strong>Bundesverfassung</strong> und weitere Gesetze <strong>garantiert</strong>.",
+      "feedback_incorrect": "❌ Falsch. Die <strong>Pressefreiheit</strong> ist ein <strong>Grundrecht</strong> und wird in der Schweiz gesetzlich geschützt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Zensur ist in demokratischen Staaten ein übliches Mittel zur Medienkontrolle.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! In <strong>Demokratien</strong> ist <strong>Zensur</strong> in der Regel <strong>verboten</strong>, da sie die Pressefreiheit und Meinungsfreiheit untergräbt.",
+      "feedback_incorrect": "❌ Falsch. <strong>Zensur</strong> ist in demokratischen Staaten die <strong>Ausnahme</strong> und wird kritisch gesehen, da sie die freie Meinungsbildung behindert."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine vielfältige Medienlandschaft trägt zur Stärkung der Demokratie bei.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! <strong>Medienvielfalt</strong> ist wichtig für eine <strong>lebendige Demokratie</strong>, da sie unterschiedliche Perspektiven und Meinungen abbildet.",
+      "feedback_incorrect": "❌ Falsch. Eine <strong>vielfältige Medienlandschaft</strong> ist ein <strong>Zeichen einer gesunden Demokratie</strong> und trägt zu einer informierten Öffentlichkeit bei."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wirtschaftliche Unabhängigkeit der Medien ist unwichtig für die Pressefreiheit.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! <strong>Wirtschaftliche Unabhängigkeit</strong> ist <strong>sehr wichtig</strong>, da Medien sonst anfällig für Druck von Geldgebern oder Werbekunden werden können.",
+      "feedback_incorrect": "❌ Falsch. <strong>Wirtschaftliche Unabhängigkeit</strong> ist eine <strong>Grundvoraussetzung</strong> für freie und unabhängige Medien."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Der Schutz von Journalisten vor Gewalt und Einschüchterung ist für die Pressefreiheit irrelevant.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der <strong>Schutz von Journalisten</strong> ist <strong>zentral</strong>, da Gewalt und Einschüchterung die freie Berichterstattung massiv behindern und gefährden.",
+      "feedback_incorrect": "❌ Falsch. Der <strong>Schutz von Journalisten</strong> ist <strong>essentiell</strong>, um ihnen eine freie und sichere Ausübung ihres Berufs zu ermöglichen."
+    }
+  ]
+}
