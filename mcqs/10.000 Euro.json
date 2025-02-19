@@ -238,7 +238,7 @@
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>In Italien wurde die Bargeldobergrenze kürzlich von 1.000 Euro auf 5.000 Euro gesenkt.</p>",
+      "question": "<p>In Italien wurde die Bargeldobergrenze kürzlich von 5.000 Euro auf 1.000 Euro gesenkt.</p>",
       "correct_answer": false,
       "feedback_correct": "✅ Richtig! Die Bargeldobergrenze in Italien wurde <strong>von 1.000 Euro auf 5.000 Euro angehoben</strong>, nicht gesenkt.",
       "feedback_incorrect": "❌ Falsch. Die Grenze wurde <strong>angehoben</strong>, um Bargeldzahlungen zu erleichtern, nicht gesenkt."
