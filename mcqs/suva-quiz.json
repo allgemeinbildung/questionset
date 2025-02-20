@@ -1,0 +1,169 @@
+{
+    "title": "Unfallstatistiken Schweiz 2023",
+    "media": {
+      "type": "",
+      "url": "",
+      "source": "https://www.suva.ch/de-ch/ueber-uns/magazin-und-medien/medien/2024/09/uber-900-000-unfalle-in-der-schweiz"
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wie viele Unfälle und Berufskrankheiten wurden den UVG-Versicherern im Jahr 2023 gemeldet?</p>",
+        "options": [
+          {
+            "text": "Rund 908 000",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Im Jahr 2023 wurden rund 908 000 Unfälle und Berufskrankheiten registriert."
+          },
+          {
+            "text": "Rund 1 000 000",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die tatsächliche Anzahl liegt bei rund 908 000, nicht 1 000 000."
+          },
+          {
+            "text": "Rund 850 000",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Es wurden mehr Fälle registriert, nämlich etwa 908 000."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Art von Unfällen nahm 2023 im Vergleich zum Vorjahr zu?</p>",
+        "options": [
+          {
+            "text": "Freizeitunfälle",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die Anzahl der Freizeitunfälle stieg um 1,0 % auf 607 000 Fälle."
+          },
+          {
+            "text": "Berufsunfälle",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Anzahl der Berufsunfälle sank um 2,4 % im Vergleich zum Vorjahr."
+          },
+          {
+            "text": "Unfälle von Stellensuchenden",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Anzahl der Unfälle von Stellensuchenden ging um 14,2 % zurück."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wie hoch waren die gesamten Versicherungsleistungen der UVG-Versicherer im Jahr 2022?</p>",
+        "options": [
+          {
+            "text": "6,9 Milliarden Franken",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die Versicherungsleistungen beliefen sich auf 6,9 Milliarden Franken."
+          },
+          {
+            "text": "10 Milliarden Franken",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die tatsächlichen Kosten waren niedriger und betrugen 6,9 Milliarden Franken."
+          },
+          {
+            "text": "5,5 Milliarden Franken",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Gesamtkosten lagen höher, bei 6,9 Milliarden Franken."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wie hoch war der Rückgang der Berufsunfälle und Berufskrankheiten im Jahr 2023?</p>",
+        "options": [
+          {
+            "text": "2,4 %",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die Anzahl der Berufsunfälle und Berufskrankheiten sank um 2,4 %."
+          },
+          {
+            "text": "1,0 %",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Dieser Wert entspricht der Zunahme der Freizeitunfälle."
+          },
+          {
+            "text": "5,0 %",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der tatsächliche Rückgang betrug nur 2,4 %."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum sind die durchschnittlichen Unfallkosten bei der Suva höher als bei anderen Versicherern?</p>",
+        "options": [
+          {
+            "text": "Weil die Suva mehr Versicherte mit körperlicher Arbeit hat",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Personen mit körperlicher Arbeit benötigen oft länger zur Genesung, was höhere Kosten verursacht."
+          },
+          {
+            "text": "Weil die Suva höhere Prämien verlangt",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Höhere Prämien haben keinen direkten Einfluss auf die durchschnittlichen Unfallkosten."
+          },
+          {
+            "text": "Weil Freizeitunfälle teurer sind",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Freizeitunfälle betreffen alle Versicherer ähnlich, aber die Suva hat mehr Versicherte mit risikoreichen Berufen."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Alle in der Schweiz beschäftigten Arbeitnehmenden sind obligatorisch gegen Berufsunfälle versichert.</p>",
+        "correct_answer": true,
+        "feedback_correct": "Richtig! Gemäß UVG sind alle in der Schweiz tätigen Arbeitnehmenden gegen Berufsunfälle versichert.",
+        "feedback_incorrect": "Falsch. Es besteht eine obligatorische Versicherungspflicht gegen Berufsunfälle."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Personen in IV-Massnahmen hatten 2023 weniger Unfälle als im Vorjahr.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Die Anzahl der Unfälle stieg um 32 % im Vergleich zum Vorjahr.",
+        "feedback_incorrect": "Falsch. Tatsächlich nahmen die Unfälle bei Personen in IV-Massnahmen zu."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Das höhere Unfallrisiko bei der Suva liegt daran, dass sie viele Betriebe aus dem Gewerbe- und Industriesektor versichert.</p>",
+        "correct_answer": true,
+        "feedback_correct": "Richtig! Die Suva versichert viele Berufe mit hohem Unfallrisiko, etwa im Baugewerbe.",
+        "feedback_incorrect": "Falsch. Die Suva versichert tatsächlich viele risikoreiche Berufe."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Die Berufsunfallversicherung ist für Stellensuchende freiwillig.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Stellensuchende sind obligatorisch gegen Berufs- und Freizeitunfälle versichert.",
+        "feedback_incorrect": "Falsch. Stellensuchende sind automatisch versichert."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Die Suva erhebt in der Berufsunfallversicherung höhere Prämien als die übrigen Versicherer.</p>",
+        "correct_answer": true,
+        "feedback_correct": "Richtig! Aufgrund des höheren Unfallrisikos sind die Prämien der Suva höher.",
+        "feedback_incorrect": "Falsch. Die Prämien der Suva sind tatsächlich höher als die der übrigen Versicherer."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Die Suva verzeichnet deutlich mehr Freizeitunfälle als die übrigen Versicherer.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Die Anzahl der Freizeitunfälle ist bei beiden Versicherergruppen fast gleich.",
+        "feedback_incorrect": "Falsch. Die Unterschiede zwischen den Versicherern sind bei Freizeitunfällen minimal."
+      }
+    ]
+  }
+  
