@@ -1,0 +1,175 @@
+{
+    "title": "Werkvertrag und einfacher Auftrag",
+    "media": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/Zy6i3t2qB6M",
+        "source": "https://www.youtube.com/watch?v=Zy6i3t2qB6M"      
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Vertragsart erfordert ein konkretes Ergebnis?</p>",
+        "options": [
+          {
+            "text": "Werkvertrag",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Beim Werkvertrag wird ein konkretes Ergebnis geschuldet."
+          },
+          {
+            "text": "Einfacher Auftrag",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Beim einfachen Auftrag steht die Dienstleistung im Vordergrund, nicht ein konkretes Ergebnis."
+          },
+          {
+            "text": "Beide Vertragsarten",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Nur beim Werkvertrag wird ein konkretes Ergebnis geschuldet."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Aussage über den Werkvertrag ist korrekt?</p>",
+        "options": [
+          {
+            "text": "Er kann auch mündlich oder stillschweigend abgeschlossen werden.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Ein Werkvertrag ist grundsätzlich formlos gültig."
+          },
+          {
+            "text": "Er muss immer schriftlich abgeschlossen werden.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Ein Werkvertrag kann auch mündlich oder stillschweigend geschlossen werden."
+          },
+          {
+            "text": "Er ist immer unentgeltlich.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Ein Werkvertrag ist in der Regel entgeltlich."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wie lange beträgt die Garantiedauer bei einem Bauwerk?</p>",
+        "options": [
+          {
+            "text": "5 Jahre",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Bei Bauwerken beträgt die Garantiezeit 5 Jahre."
+          },
+          {
+            "text": "1 Jahr",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Garantiezeit von 1 Jahr gilt nur für andere Werke."
+          },
+          {
+            "text": "Unbegrenzt",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Garantie ist zeitlich begrenzt, bei Bauwerken auf 5 Jahre."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wofür haftet der Dienstleister bei einem einfachen Auftrag?</p>",
+        "options": [
+          {
+            "text": "Für Sorgfalt, aber nicht für den Erfolg",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Beim einfachen Auftrag schuldet der Dienstleister Sorgfalt, aber keinen bestimmten Erfolg."
+          },
+          {
+            "text": "Für ein perfektes Ergebnis",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Beim einfachen Auftrag wird kein bestimmtes Ergebnis geschuldet."
+          },
+          {
+            "text": "Gar nicht",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Dienstleister haftet für mangelnde Sorgfalt."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum empfiehlt es sich, einen Werkvertrag schriftlich festzuhalten?</p>",
+        "options": [
+          {
+            "text": "Zur Sicherung von Beweisen und klaren Absprachen",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Eine schriftliche Vereinbarung schützt beide Parteien."
+          },
+          {
+            "text": "Weil ein Werkvertrag sonst ungültig ist",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Ein Werkvertrag ist auch mündlich gültig."
+          },
+          {
+            "text": "Weil die Garantie sonst entfällt",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Garantie ist unabhängig von der Form des Vertrags."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum ist ein Friseurbesuch ein einfacher Auftrag?</p>",
+        "options": [
+          {
+            "text": "Weil die Dienstleistung im Vordergrund steht",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Ein Friseur schuldet Sorgfalt, aber kein perfektes Ergebnis."
+          },
+          {
+            "text": "Weil ein konkretes Ergebnis geschuldet wird",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Beim Friseur gibt es keine Garantie auf ein perfektes Ergebnis."
+          },
+          {
+            "text": "Weil Friseure keine Verträge abschließen",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Auch ein Friseurbesuch ist ein Vertragsverhältnis."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Ein Werkvertrag muss immer schriftlich abgeschlossen werden.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Ein Werkvertrag kann auch mündlich oder stillschweigend abgeschlossen werden.",
+        "feedback_incorrect": "Falsch. Ein Werkvertrag ist auch formlos gültig."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Die Garantie für alle Werke beträgt 5 Jahre.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Nur Bauwerke haben eine Garantie von 5 Jahren, andere Werke nur 1 Jahr.",
+        "feedback_incorrect": "Falsch. Die Garantie beträgt bei Bauwerken 5 Jahre, bei anderen Werken 1 Jahr."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Ein Taxifahrer schuldet den Erfolg einer schnellen Fahrt.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Ein Taxifahrer schuldet eine sorgfältige Dienstleistung, aber keinen garantierten Erfolg.",
+        "feedback_incorrect": "Falsch. Der Taxifahrer muss sich bemühen, aber ein bestimmtes Ergebnis wird nicht geschuldet."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Ein Werkvertrag und ein einfacher Auftrag sind identisch.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Der Werkvertrag fordert ein konkretes Ergebnis, während beim einfachen Auftrag die Sorgfaltspflicht gilt.",
+        "feedback_incorrect": "Falsch. Die beiden Vertragsarten haben unterschiedliche Anforderungen."
+      }
+    ]
+  }
+  

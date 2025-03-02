@@ -1,0 +1,153 @@
+{
+    "title": "Verständnisfragen zu Kaufvertragsarten",
+    "media": {
+      "type": "youtube",
+      "url": "https://www.youtube.com/embed/1A_99HE99qc",
+      "source": "https://www.youtube.com/watch?v=1A_99HE99qc"
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Elemente sind für einen gültigen Kaufvertrag erforderlich?</p>",
+        "options": [
+          {
+            "text": "Übereinstimmende Willensäußerung der Parteien",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Ein gültiger Kaufvertrag erfordert eine übereinstimmende Willensäußerung der beteiligten Parteien."
+          },
+          {
+            "text": "Notarielle Beurkundung in jedem Fall",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Eine notarielle Beurkundung ist nur bei bestimmten Verträgen, wie z.B. Grundstückskäufen, erforderlich."
+          },
+          {
+            "text": "Anwesenheit von Zeugen",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Anwesenheit von Zeugen ist für die Gültigkeit eines Kaufvertrags nicht zwingend erforderlich."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was versteht man unter der Vertragsfähigkeit im Zusammenhang mit Kaufverträgen?</p>",
+        "options": [
+          {
+            "text": "Die Fähigkeit, einen Vertrag abzuschließen und die daraus resultierenden Pflichten zu erfüllen",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Vertragsfähigkeit bedeutet die Fähigkeit, einen Vertrag rechtswirksam abzuschließen und die daraus resultierenden Pflichten zu erfüllen."
+          },
+          {
+            "text": "Die Möglichkeit, einen Vertrag jederzeit zu widerrufen",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Vertragsfähigkeit bezieht sich auf die Fähigkeit, Verträge abzuschließen, nicht auf deren Widerrufbarkeit."
+          },
+          {
+            "text": "Die Notwendigkeit, dass beide Parteien volljährig sind",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Auch minderjährige Personen können unter bestimmten Bedingungen Verträge abschließen."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Formvorschrift gilt grundsätzlich für Kaufverträge?</p>",
+        "options": [
+          {
+            "text": "Formfreiheit, sofern das Gesetz keine bestimmte Form vorschreibt",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Grundsätzlich gilt für Kaufverträge Formfreiheit, es sei denn, das Gesetz schreibt eine bestimmte Form vor."
+          },
+          {
+            "text": "Schriftform ist immer erforderlich",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Nicht alle Kaufverträge müssen schriftlich abgeschlossen werden; viele können formlos gültig sein."
+          },
+          {
+            "text": "Notarielle Beurkundung ist immer erforderlich",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Eine notarielle Beurkundung ist nur bei bestimmten Verträgen, wie z.B. Grundstückskäufen, erforderlich."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wann ist eine öffentliche Beurkundung eines Kaufvertrags erforderlich?</p>",
+        "options": [
+          {
+            "text": "Bei Grundstückskäufen und Eheverträgen",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Eine öffentliche Beurkundung ist bei bestimmten Verträgen, wie Grundstückskäufen und Eheverträgen, erforderlich."
+          },
+          {
+            "text": "Bei jedem Online-Kauf",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Online-Käufe benötigen in der Regel keine öffentliche Beurkundung."
+          },
+          {
+            "text": "Nur bei Verträgen mit einem Wert über 10.000 CHF",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Wert eines Vertrages allein entscheidet nicht über die Notwendigkeit einer öffentlichen Beurkundung."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum ist es sinnvoll, Verträge schriftlich festzuhalten?</p>",
+        "options": [
+          {
+            "text": "Zur Beweissicherung im Streitfall",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Eine schriftliche Festhaltung eines Vertrages dient der Beweissicherung im Falle von Streitigkeiten."
+          },
+          {
+            "text": "Weil mündliche Verträge automatisch ungültig sind",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Mündliche Verträge sind grundsätzlich gültig, sofern keine gesetzliche Schriftform vorgeschrieben ist."
+          },
+          {
+            "text": "Weil das Gesetz alle Verträge in schriftlicher Form fordert",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Es gibt viele Verträge, die auch mündlich geschlossen werden können."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Minderjährige können ohne Einschränkungen Kaufverträge abschließen.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Minderjährige sind beschränkt handlungsfähig und können nur unter bestimmten Bedingungen Kaufverträge abschließen.",
+        "feedback_incorrect": "Falsch. Minderjährige dürfen nur Verträge abschließen, die sie mit eigenem Geld erfüllen können."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Mündliche Kaufverträge sind grundsätzlich gültig.</p>",
+        "correct_answer": true,
+        "feedback_correct": "Richtig! Mündliche Kaufverträge sind gültig, solange keine gesetzliche Schriftform vorgeschrieben ist.",
+        "feedback_incorrect": "Falsch. Viele Kaufverträge können formlos abgeschlossen werden."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Ein anfechtbarer Vertrag kann sofort als ungültig betrachtet werden.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Ein anfechtbarer Vertrag ist zunächst gültig, kann aber unter bestimmten Bedingungen aufgehoben werden.",
+        "feedback_incorrect": "Falsch. Ein anfechtbarer Vertrag bleibt gültig, bis er erfolgreich angefochten wird."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Die Verjährung von Forderungen bedeutet, dass der Schuldner nicht mehr zahlen muss.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Eine verjährte Forderung bleibt bestehen, kann aber nicht mehr gerichtlich eingefordert werden.",
+        "feedback_incorrect": "Falsch. Der Schuldner kann freiwillig zahlen, auch wenn die Forderung verjährt ist."
+      }
+    ]
+  }
+  

@@ -1,0 +1,153 @@
+{
+    "title": "Direkte Demokratie in der Schweiz",
+    "media": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/lgnvsy0NTjw",
+        "source": "https://www.youtube.com/shorts/lgnvsy0NTjw"      
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wofür wird ein fakultatives Referendum genutzt?</p>",
+        "options": [
+          {
+            "text": "Um über neue Gesetze abstimmen zu lassen.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Ein fakultatives Referendum kann neue Gesetze zur Volksabstimmung bringen."
+          },
+          {
+            "text": "Um die Verfassung zu ändern.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Verfassungsänderungen werden über Volksinitiativen angestoßen."
+          },
+          {
+            "text": "Um eine Petition einzureichen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Petitionen sind nur Anregungen, aber keine Referenden."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was ist für die Annahme eines obligatorischen Referendums erforderlich?</p>",
+        "options": [
+          {
+            "text": "Das doppelte Mehr.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Das obligatorische Referendum benötigt die Mehrheit des Volkes und der Kantone."
+          },
+          {
+            "text": "50.000 Unterschriften.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. 50.000 Unterschriften sind für ein fakultatives Referendum erforderlich."
+          },
+          {
+            "text": "Ein einfaches Mehr der Bevölkerung.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Neben der Mehrheit der Bevölkerung ist auch die Zustimmung der Kantone nötig."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wie viele Unterschriften benötigt eine Volksinitiative?</p>",
+        "options": [
+          {
+            "text": "100.000 Unterschriften in 18 Monaten.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Eine Volksinitiative benötigt 100.000 Unterschriften innerhalb von 18 Monaten."
+          },
+          {
+            "text": "50.000 Unterschriften in 100 Tagen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Diese Anforderungen gelten für ein fakultatives Referendum."
+          },
+          {
+            "text": "200.000 Unterschriften in einem Jahr.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. So viele Unterschriften sind nicht erforderlich."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum ist die Hürde für eine Volksinitiative so hoch?</p>",
+        "options": [
+          {
+            "text": "Weil Verfassungsänderungen weitreichende Konsequenzen haben.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Verfassungsänderungen betreffen grundlegende staatliche Strukturen und brauchen breite Unterstützung."
+          },
+          {
+            "text": "Weil sonst zu viele Initiativen eingereicht würden.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Hauptgrund ist die große Tragweite von Verfassungsänderungen."
+          },
+          {
+            "text": "Weil nur politische Parteien Initiativen einreichen dürfen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Auch Bürgergruppen können Volksinitiativen starten."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum sind Petitionen kein direktes demokratisches Instrument?</p>",
+        "options": [
+          {
+            "text": "Weil die Behörden nicht verpflichtet sind, darauf zu reagieren.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Petitionen sind Anregungen, aber sie erzwingen keine Abstimmung."
+          },
+          {
+            "text": "Weil sie nur von Stimmberechtigten eingereicht werden können.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Auch nicht stimmberechtigte Personen können Petitionen einreichen."
+          },
+          {
+            "text": "Weil sie immer in eine Volksinitiative umgewandelt werden.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Eine Petition kann Aufmerksamkeit erzeugen, aber sie führt nicht automatisch zu einer Initiative."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Ein Referendum kann nur von der Regierung eingeleitet werden.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Ein Referendum kann auch von Bürgern oder Kantonen eingeleitet werden.",
+        "feedback_incorrect": "Falsch. Die Bevölkerung kann ein fakultatives Referendum starten, wenn genügend Unterschriften gesammelt werden."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Eine Volksinitiative benötigt weniger Unterschriften als ein fakultatives Referendum.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Eine Volksinitiative benötigt 100.000 Unterschriften, während ein fakultatives Referendum nur 50.000 erfordert.",
+        "feedback_incorrect": "Falsch. Volksinitiativen haben eine höhere Hürde, weil sie Verfassungsänderungen vorschlagen."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Ein obligatorisches Referendum wird nur bei Verfassungsänderungen eingesetzt.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Es wird auch bei bestimmten internationalen Verträgen benötigt.",
+        "feedback_incorrect": "Falsch. Neben Verfassungsänderungen erfordert auch der Beitritt zu bestimmten internationalen Verträgen ein obligatorisches Referendum."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Eine Petition kann politischen Druck ausüben, auch wenn sie rechtlich nicht bindend ist.</p>",
+        "correct_answer": true,
+        "feedback_correct": "Richtig! Petitionen können Aufmerksamkeit erzeugen und Debatten anstoßen.",
+        "feedback_incorrect": "Falsch. Auch wenn Petitionen nicht rechtlich bindend sind, können sie politische Diskussionen auslösen."
+      }
+    ]
+  }
+  

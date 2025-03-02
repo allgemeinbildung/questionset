@@ -1,0 +1,153 @@
+{
+    "title": "Direkte Demokratie in der Schweiz",
+    "media": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/t2OeohiwR9I",
+        "source": "https://www.youtube.com/watch?v=t2OeohiwR9I"      
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was ist ein Referendum?</p>",
+        "options": [
+          {
+            "text": "Eine Abstimmung über einen Parlamentsbeschluss durch die Bevölkerung.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Ein Referendum ermöglicht den Bürgern, über Parlamentsbeschlüsse abzustimmen."
+          },
+          {
+            "text": "Eine Möglichkeit, eine neue Verfassungsänderung vorzuschlagen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das beschreibt eine Volksinitiative, nicht ein Referendum."
+          },
+          {
+            "text": "Eine Petition mit mindestens 50.000 Unterschriften.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Eine Petition ist eine Anregung an Behörden, aber kein Referendum."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wie viele Unterschriften benötigt ein fakultatives Referendum?</p>",
+        "options": [
+          {
+            "text": "50.000 Unterschriften",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Ein fakultatives Referendum benötigt 50.000 Unterschriften oder die Unterstützung von acht Kantonen."
+          },
+          {
+            "text": "100.000 Unterschriften",
+            "is_correct": false,
+            "feedback": "❌ Falsch. 100.000 Unterschriften sind für eine Volksinitiative erforderlich."
+          },
+          {
+            "text": "200.000 Unterschriften",
+            "is_correct": false,
+            "feedback": "❌ Falsch. So viele Unterschriften sind nicht erforderlich für ein Referendum."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was ist für den Erfolg einer Volksinitiative erforderlich?</p>",
+        "options": [
+          {
+            "text": "100.000 Unterschriften und das doppelte Mehr",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Eine Volksinitiative benötigt 100.000 Unterschriften und muss das doppelte Mehr erreichen."
+          },
+          {
+            "text": "50.000 Unterschriften und eine kantonale Zustimmung",
+            "is_correct": false,
+            "feedback": "❌ Falsch. 50.000 Unterschriften sind für ein fakultatives Referendum, nicht für eine Volksinitiative."
+          },
+          {
+            "text": "Ein einfaches Mehr der Bevölkerung",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Eine Volksinitiative braucht nicht nur ein Volksmehr, sondern auch ein Ständemehr (doppeltes Mehr)."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum ist die Hürde für eine Volksinitiative so hoch?</p>",
+        "options": [
+          {
+            "text": "Weil Verfassungsänderungen weitreichende Auswirkungen haben.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Eine breite Unterstützung ist notwendig, da Verfassungsänderungen grundlegende Auswirkungen haben."
+          },
+          {
+            "text": "Weil jede Initiative automatisch Erfolg haben sollte.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Nicht jede Initiative ist erfolgreich, sie muss genügend Unterstützung haben."
+          },
+          {
+            "text": "Weil sie sonst zu schnell umgesetzt werden könnte.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Umsetzung hängt vom politischen Prozess ab, nicht nur von der Anzahl der Unterschriften."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was ist ein häufiger Irrtum über Petition?</p>",
+        "options": [
+          {
+            "text": "Dass sie keine Wirkung haben.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Petitionen können Diskussionen anregen und politischen Druck erzeugen."
+          },
+          {
+            "text": "Dass sie rechtlich bindend sind.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Petitionen sind nicht verbindlich, sondern Anregungen an Behörden."
+          },
+          {
+            "text": "Dass sie nur von stimmberechtigten Bürgern eingereicht werden können.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Auch nicht stimmberechtigte Personen können Petitionen einreichen."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Ein obligatorisches Referendum benötigt das doppelte Mehr.</p>",
+        "correct_answer": true,
+        "feedback_correct": "Richtig! Beim obligatorischen Referendum müssen sowohl die Mehrheit der Bevölkerung als auch die Mehrheit der Kantone zustimmen.",
+        "feedback_incorrect": "Falsch. Das doppelte Mehr ist erforderlich, um eine Verfassungsänderung zu legitimieren."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Ein Referendum wird nur von der Regierung eingeleitet.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Ein Referendum kann von Bürgern oder Kantonen eingeleitet werden.",
+        "feedback_incorrect": "Falsch. Die Bevölkerung kann ein fakultatives Referendum initiieren, wenn genügend Unterschriften gesammelt werden."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Volksinitiativen haben eine tiefere Hürde als fakultative Referenden.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Volksinitiativen erfordern 100.000 Unterschriften, während für ein fakultatives Referendum nur 50.000 benötigt werden.",
+        "feedback_incorrect": "Falsch. Volksinitiativen haben eine höhere Hürde, weil sie Verfassungsänderungen vorschlagen."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Eine Volksinitiative kann nur von politischen Parteien eingereicht werden.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Jede Bürgergruppe kann eine Volksinitiative starten, nicht nur Parteien.",
+        "feedback_incorrect": "Falsch. Volksinitiativen können auch von anderen Organisationen oder Einzelpersonen gestartet werden."
+      }
+    ]
+  }
+  

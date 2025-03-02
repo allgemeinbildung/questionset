@@ -1,0 +1,175 @@
+{
+    "title": "Geldanlagen",
+    "media": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/iuG3IifLs9U",
+        "source": "https://www.youtube.com/watch?v=iuG3IifLs9U"      
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was beschreibt der Begriff 'Zins'?</p>",
+        "options": [
+          {
+            "text": "Den direkten Gewinn für das verliehene Geld",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Der Zins ist wie ein Lohn für das zur Verfügung gestellte Geld."
+          },
+          {
+            "text": "Die Gesamtrendite einer Geldanlage",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Gesamtrendite wird als Rendite bezeichnet."
+          },
+          {
+            "text": "Die Kosten für ein Bankkonto",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Kontoführungsgebühren sind etwas anderes als Zinsen."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche drei Punkte bilden das magische Dreieck der Geldanlage?</p>",
+        "options": [
+          {
+            "text": "Rendite, Risiko, Liquidität",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Diese drei Aspekte stehen oft im Spannungsverhältnis zueinander."
+          },
+          {
+            "text": "Sicherheit, Rendite, Inflation",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Inflation gehört nicht zum magischen Dreieck der Geldanlage."
+          },
+          {
+            "text": "Gewinn, Kosten, Risiko",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das magische Dreieck besteht aus Rendite, Risiko und Liquidität."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Kontoart eignet sich am besten für den täglichen Zahlungsverkehr?</p>",
+        "options": [
+          {
+            "text": "Lohnkonto",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Das Lohnkonto bietet hohe Verfügbarkeit für den täglichen Zahlungsverkehr."
+          },
+          {
+            "text": "Sparkonto",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Ein Sparkonto ist besser für das Ansparen von Geld geeignet."
+          },
+          {
+            "text": "Wertschriftendepot",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Ein Wertschriftendepot dient der Anlage in Aktien oder Obligationen, nicht für den Zahlungsverkehr."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Aussage über Aktien ist richtig?</p>",
+        "options": [
+          {
+            "text": "Sie machen den Käufer zum Miteigentümer einer Firma.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Wer Aktien kauft, wird Miteigentümer eines Unternehmens."
+          },
+          {
+            "text": "Sie haben eine feste Laufzeit und garantierte Zinsen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Eine feste Laufzeit und garantierte Zinsen gelten für Obligationen, nicht für Aktien."
+          },
+          {
+            "text": "Sie sind vollkommen risikolos.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Aktien haben ein höheres Risiko, aber auch höhere Renditechancen."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum kann eine hohe Rendite problematisch sein?</p>",
+        "options": [
+          {
+            "text": "Weil hohe Renditen meist mit höheren Risiken verbunden sind.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Eine hohe Rendite bedeutet oft ein höheres Verlustrisiko."
+          },
+          {
+            "text": "Weil Rendite immer gleich Sicherheit bedeutet.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Eine hohe Rendite garantiert keine Sicherheit."
+          },
+          {
+            "text": "Weil Rendite und Liquidität dasselbe sind.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Rendite misst den Erfolg einer Anlage, Liquidität beschreibt die Verfügbarkeit des Geldes."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum können Kontoführungsgebühren die Rendite beeinflussen?</p>",
+        "options": [
+          {
+            "text": "Weil sie die effektive Rendite reduzieren können.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Kontoführungsgebühren können den tatsächlichen Gewinn einer Anlage schmälern."
+          },
+          {
+            "text": "Weil sie die Liquidität einer Geldanlage erhöhen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Kontoführungsgebühren haben keinen direkten Einfluss auf die Liquidität."
+          },
+          {
+            "text": "Weil sie automatisch in den Zinsen enthalten sind.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Kontoführungsgebühren werden separat von den Zinsen berechnet."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Obligationen haben eine unbegrenzte Laufzeit.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Obligationen haben eine feste Laufzeit, im Gegensatz zu Aktien.",
+        "feedback_incorrect": "Falsch. Obligationen sind zeitlich begrenzt und haben feste Zinsen."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Ein Sparkonto bietet in der Regel höhere Zinsen als ein Lohnkonto.</p>",
+        "correct_answer": true,
+        "feedback_correct": "Richtig! Ein Sparkonto bietet meist höhere Zinsen, hat aber eine geringere Verfügbarkeit.",
+        "feedback_incorrect": "Falsch. Sparkonten bieten oft bessere Zinssätze als Lohnkonten."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Ein Aktienfonds ist immer sicherer als eine einzelne Aktie.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Ein Aktienfonds kann zwar Risiken streuen, ist aber nicht automatisch sicher.",
+        "feedback_incorrect": "Falsch. Auch ein Aktienfonds kann Verluste machen, je nach Marktlage."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Kryptowährungen sind eine risikoarme Anlagemöglichkeit.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Kryptowährungen sind extrem volatil und daher mit hohen Risiken verbunden.",
+        "feedback_incorrect": "Falsch. Kryptowährungen sind sehr unsicher und können starke Kursschwankungen haben."
+      }
+    ]
+  }
+  
