@@ -1,0 +1,175 @@
+{
+    "title": "Das politische System im Kanton Zürich",
+    "media": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/1FwdDCROBQU",
+        "source": "https://www.youtube.com/watch?v=1FwdDCROBQU"      
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Aufgabe hat der Kantonsrat im Kanton Zürich?</p>",
+        "options": [
+          {
+            "text": "Er erlässt Gesetze und kontrolliert die Regierung.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Der Kantonsrat ist die Legislative und erlässt Gesetze sowie kontrolliert den Regierungsrat."
+          },
+          {
+            "text": "Er setzt Gesetze um und verwaltet den Kanton.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das ist die Aufgabe des Regierungsrats, nicht des Kantonsrats."
+          },
+          {
+            "text": "Er wählt die Mitglieder des Regierungsrats.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Regierungsräte werden direkt vom Volk gewählt, nicht vom Kantonsrat."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wie werden die Mitglieder des Kantonsrats bestimmt?</p>",
+        "options": [
+          {
+            "text": "Durch Wahlen, bei denen die Parteien Stimmen erhalten.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die Sitze werden basierend auf der Stimmenverteilung der Parteien vergeben."
+          },
+          {
+            "text": "Sie werden vom Regierungsrat ernannt.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Regierungsrat hat keinen Einfluss auf die Wahl des Kantonsrats."
+          },
+          {
+            "text": "Jeder Kanton bestimmt seinen Kantonsrat selbstständig ohne Wahlen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Mitglieder werden durch demokratische Wahlen bestimmt."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wie viele Mitglieder hat der Regierungsrat des Kantons Zürich?</p>",
+        "options": [
+          {
+            "text": "7 Mitglieder",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Der Regierungsrat besteht aus sieben Mitgliedern, die verschiedene Direktionen leiten."
+          },
+          {
+            "text": "5 Mitglieder",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Regierungsrat besteht aus sieben und nicht aus fünf Mitgliedern."
+          },
+          {
+            "text": "12 Mitglieder",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Regierungsrat hat nur sieben Mitglieder."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum ist der Regierungsrat von Zürich unabhängig vom Kantonsrat?</p>",
+        "options": [
+          {
+            "text": "Weil er direkt vom Volk gewählt wird.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die Mitglieder des Regierungsrats werden unabhängig vom Kantonsrat vom Volk gewählt."
+          },
+          {
+            "text": "Weil er vom Nationalrat bestimmt wird.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Nationalrat hat keinen Einfluss auf die Wahl des Zürcher Regierungsrats."
+          },
+          {
+            "text": "Weil er sich selbst zusammensetzt.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Regierungsrat wird nicht intern bestimmt, sondern direkt vom Volk gewählt."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum hat der Kanton Zürich so viele Nationalratssitze?</p>",
+        "options": [
+          {
+            "text": "Weil die Anzahl der Sitze proportional zur Bevölkerungszahl verteilt wird.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Zürich ist der bevölkerungsreichste Kanton und erhält daher mehr Sitze im Nationalrat."
+          },
+          {
+            "text": "Weil Zürich wirtschaftlich am stärksten ist.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Sitzverteilung richtet sich nach der Bevölkerungszahl, nicht nach der Wirtschaftskraft."
+          },
+          {
+            "text": "Weil Zürich die Hauptstadt der Schweiz ist.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Hauptstadt der Schweiz ist Bern, nicht Zürich."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was ist der Hauptunterschied zwischen dem Nationalrat und dem Ständerat?</p>",
+        "options": [
+          {
+            "text": "Der Nationalrat vertritt die Bevölkerung, der Ständerat die Kantone.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Der Nationalrat repräsentiert das Volk, während der Ständerat die Kantone vertritt."
+          },
+          {
+            "text": "Der Nationalrat ist mächtiger als der Ständerat.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Beide Kammern sind gleichberechtigt und entscheiden gemeinsam über Gesetze."
+          },
+          {
+            "text": "Der Ständerat wird im Proporzsystem gewählt, der Nationalrat im Majorzsystem.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Nationalrat wird im Proporzverfahren gewählt, der Ständerat im Majorzverfahren."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Der Regierungsrat erlässt Gesetze für den Kanton Zürich.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Gesetze werden vom Kantonsrat erlassen, nicht vom Regierungsrat.",
+        "feedback_incorrect": "Falsch. Der Regierungsrat setzt Gesetze um, macht sie aber nicht selbst."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Die Mitglieder des Regierungsrats werden direkt vom Volk gewählt.</p>",
+        "correct_answer": true,
+        "feedback_correct": "Richtig! Die sieben Mitglieder des Regierungsrats werden direkt von den Stimmberechtigten gewählt.",
+        "feedback_incorrect": "Falsch. Die Regierungsräte werden nicht vom Kantonsrat, sondern direkt vom Volk gewählt."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Die Sitzverteilung im Nationalrat basiert auf der Wirtschaftskraft der Kantone.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Die Anzahl der Sitze im Nationalrat richtet sich nach der Bevölkerungszahl, nicht nach der Wirtschaftskraft.",
+        "feedback_incorrect": "Falsch. Die Wirtschaftskraft hat keinen Einfluss auf die Sitzverteilung, sondern nur die Bevölkerungszahl."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Der Ständerat vertritt die Kantone und wird nach dem Majorzverfahren gewählt.</p>",
+        "correct_answer": true,
+        "feedback_correct": "Richtig! Der Ständerat besteht aus Vertretern der Kantone und wird meistens nach dem Majorzverfahren gewählt.",
+        "feedback_incorrect": "Falsch. Der Ständerat repräsentiert die Kantone und wird in den meisten Fällen im Majorzverfahren gewählt."
+      }
+    ]
+  }
+  

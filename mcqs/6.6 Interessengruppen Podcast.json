@@ -1,0 +1,175 @@
+{
+    "title": "Interessenvertreter in der Politik",
+    "media": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/xgSt-z0dwc4",
+        "source": "https://youtube.com/shorts/xgSt-z0dwc4"      
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Hauptaufgabe haben politische Parteien?</p>",
+        "options": [
+          {
+            "text": "Politische Macht gewinnen und ihre Vorstellungen umsetzen.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Parteien wollen politischen Einfluss gewinnen und ihre Ziele umsetzen."
+          },
+          {
+            "text": "Nur während der Wahlen aktiv sein.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Parteien sind das ganze Jahr über aktiv, nicht nur während der Wahlen."
+          },
+          {
+            "text": "Gesetze unabhängig vom Parlament erlassen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Gesetze werden durch das Parlament beschlossen, nicht allein von Parteien."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wie beeinflussen Parteien die Meinungsbildung?</p>",
+        "options": [
+          {
+            "text": "Durch Abstimmungsparolen, Wahlwerbung und Einfluss im Parlament.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Parteien beeinflussen die öffentliche Meinung durch Parolen, Werbung und ihre parlamentarische Arbeit."
+          },
+          {
+            "text": "Indem sie alle Bürger verpflichten, ihre Programme zu unterstützen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Bürger entscheiden selbst, welche Partei sie unterstützen."
+          },
+          {
+            "text": "Nur durch direkte Abstimmungen im Parlament.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Parteien beeinflussen die Meinungsbildung auch außerhalb des Parlaments."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was machen Verbände in der Politik?</p>",
+        "options": [
+          {
+            "text": "Sie vertreten spezifische Interessen ihrer Mitglieder und betreiben Lobbying.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Verbände setzen sich für die Interessen ihrer Mitglieder ein, z. B. Arbeitgeber oder Arbeitnehmer."
+          },
+          {
+            "text": "Sie verabschieden Gesetze ohne das Parlament.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Verbände können Gesetze nicht direkt verabschieden, sondern nur Einfluss nehmen."
+          },
+          {
+            "text": "Sie dürfen nur während Wahlzeiten aktiv sein.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Verbände sind das ganze Jahr über politisch aktiv."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was bedeutet Lobbying?</p>",
+        "options": [
+          {
+            "text": "Die gezielte Beeinflussung von Entscheidungsträgern in der Politik.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Lobbying bedeutet, politische Entscheidungsträger gezielt zu beeinflussen."
+          },
+          {
+            "text": "Illegale Manipulation politischer Prozesse.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Lobbying ist legal, solange es transparent und ethisch erfolgt."
+          },
+          {
+            "text": "Ein geheimes Verfahren zur Durchsetzung politischer Interessen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Lobbying sollte transparent sein, um demokratische Prozesse zu schützen."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Welche Aussage über NGOs ist korrekt?</p>",
+        "options": [
+          {
+            "text": "Sie setzen sich für globale Themen wie Menschenrechte und Umweltschutz ein.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! NGOs sind unabhängig und engagieren sich für soziale und ökologische Anliegen."
+          },
+          {
+            "text": "Sie sind Teil der Regierung und erlassen Gesetze.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. NGOs sind nicht staatlich und haben keine gesetzgebende Funktion."
+          },
+          {
+            "text": "Sie vertreten die Interessen von Unternehmen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. NGOs verfolgen meist gesellschaftliche oder ökologische Ziele, nicht wirtschaftliche Interessen."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum ist Transparenz im Lobbying wichtig?</p>",
+        "options": [
+          {
+            "text": "Damit nachvollziehbar ist, wer politischen Einfluss nimmt und aus welchem Grund.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Transparenz sorgt dafür, dass politische Entscheidungen nachvollziehbar sind."
+          },
+          {
+            "text": "Weil nur Unternehmen Lobbying betreiben dürfen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Auch Verbände, NGOs und andere Gruppen betreiben Lobbying."
+          },
+          {
+            "text": "Weil Lobbying geheim und unkontrolliert sein sollte.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Transparenz ist wichtig, damit demokratische Prozesse nicht unterwandert werden."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Parteien sind nur während Wahlen aktiv.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Parteien arbeiten das ganze Jahr über an politischen Themen und Gesetzen.",
+        "feedback_incorrect": "Falsch. Parteien sind nicht nur zu Wahlzeiten aktiv, sondern auch im Parlament und in der Meinungsbildung."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Lobbying ist immer illegal.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Lobbying ist legal, solange es transparent und ethisch erfolgt.",
+        "feedback_incorrect": "Falsch. Lobbying ist ein legitimes Mittel zur politischen Einflussnahme, wenn es fair und offen betrieben wird."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>NGOs sind staatliche Organisationen.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! NGOs sind unabhängige Organisationen und nicht staatlich.",
+        "feedback_incorrect": "Falsch. NGOs sind nicht Teil der Regierung, sondern arbeiten unabhängig für gesellschaftliche Anliegen."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Verbände können durch Lobbying politischen Einfluss nehmen.</p>",
+        "correct_answer": true,
+        "feedback_correct": "Richtig! Verbände setzen sich für ihre Mitglieder ein und beeinflussen politische Entscheidungen durch Lobbying.",
+        "feedback_incorrect": "Falsch. Verbände nutzen Lobbying, um ihre Interessen in der Politik zu vertreten."
+      }
+    ]
+  }
+  
