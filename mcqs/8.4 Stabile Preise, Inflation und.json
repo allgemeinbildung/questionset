@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Stabile Preise, Inflation und Deflation",
+  "headerImage": "img1.png",
+  "media": {
+      "type": "",
+      "url": "",
+      "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie wird Inflation im Allgemeinen definiert?</p>",
+      "options": [
+        {
+          "text": "Ein anhaltender Rückgang des allgemeinen Preisniveaus.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dies beschreibt <strong>Deflation</strong>, nicht Inflation. Inflation ist ein <strong>Anstieg</strong> des Preisniveaus."
+        },
+        {
+          "text": "Ein kurzfristiger Anstieg der Preise für einzelne Güter.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Inflation bezieht sich auf einen <strong>anhaltenden Anstieg</strong> des <strong>allgemeinen Preisniveaus</strong>, nicht nur auf einzelne Güter."
+        },
+        {
+          "text": "Ein anhaltender Anstieg des allgemeinen Preisniveaus.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Inflation</strong> ist definiert als ein <strong>anhaltender Anstieg</strong> des <strong>allgemeinen Preisniveaus</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist das Hauptziel der Schweizerischen Nationalbank (SNB) bezüglich der Inflation?</p>",
+      "options": [
+        {
+          "text": "Eine Inflationsrate von genau 2 Prozent.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die SNB strebt eine Inflationsrate von <strong>unter 2 Prozent</strong> an, nicht genau 2 Prozent."
+        },
+        {
+          "text": "Eine Inflationsrate von unter 2 Prozent.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die SNB strebt eine <strong>Inflationsrate von unter 2 Prozent</strong> an, um die <strong>Preisstabilität</strong> zu gewährleisten."
+        },
+        {
+          "text": "Eine möglichst hohe Inflationsrate, um die Wirtschaft anzukurbeln.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine hohe Inflation ist <strong>nicht das Ziel</strong>. Die SNB will <strong>Preisstabilität</strong>, was niedrige Inflation bedeutet."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Instrument misst die Preisentwicklung in der Schweiz?</p>",
+      "options": [
+        {
+          "text": "Der Landesindex der Wirtschaftsentwicklung (LIW).",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist der <strong>Landesindex der Konsumentenpreise (LIK)</strong>, nicht der LIW."
+        },
+        {
+          "text": "Der Landesindex der Konsumentenpreise (LIK).",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der <strong>Landesindex der Konsumentenpreise (LIK)</strong> misst die <strong>Preisentwicklung</strong> in der Schweiz."
+        },
+        {
+          "text": "Der Schweizerische Produktionsindex (SPI).",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist der <strong>Landesindex der Konsumentenpreise (LIK)</strong>, nicht der SPI."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist das Gegenteil von Inflation?</p>",
+      "options": [
+        {
+          "text": "Stagflation.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Stagflation</strong> beschreibt eine Kombination aus <strong>Inflation und stagnierendem Wirtschaftswachstum</strong>."
+        },
+        {
+          "text": "Hyperinflation.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Hyperinflation</strong> ist eine <strong>extreme Form der Inflation</strong>, nicht das Gegenteil."
+        },
+        {
+          "text": "Deflation.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Deflation</strong> ist das <strong>Gegenteil von Inflation</strong> und beschreibt einen <strong>Rückgang des Preisniveaus</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Element ist ein wichtiger Bestandteil des Warenkorbs für den LIK?</p>",
+      "options": [
+        {
+          "text": "Aktienkurse.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Warenkorb beinhaltet <strong>Konsumgüter und Dienstleistungen</strong>, keine Aktienkurse."
+        },
+        {
+          "text": "Immobilienpreise.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Warenkorb beinhaltet <strong>Konsumgüter und Dienstleistungen</strong>, keine Immobilienpreise."
+        },
+        {
+          "text": "Nahrungsmittel und alkoholfreie Getränke.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Nahrungsmittel und alkoholfreie Getränke</strong> sind ein wichtiger Bestandteil des <strong>Warenkorbs</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum führt ein übermässig grosser Geldstrom im Vergleich zum Güterstrom zu Inflation?</p>",
+      "options": [
+        {
+          "text": "Weil die Nachfrage nach Gütern sinkt und die Preise fallen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein grösserer Geldstrom führt zu <strong>erhöhter Nachfrage</strong> und <strong>steigenden Preisen</strong>."
+        },
+        {
+          "text": "Weil zu viel Geld im Umlauf ist, das auf eine begrenzte Menge an Gütern trifft.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Wenn der <strong>Geldstrom grösser ist als der Güterstrom</strong>, steigt die <strong>Nachfrage</strong> nach Gütern, was zu <strong>Preissteigerungen (Inflation)</strong> führt."
+        },
+        {
+          "text": "Weil die Produktionskosten sinken und die Unternehmen die Preise erhöhen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sinkende Produktionskosten würden eher zu <strong>sinkenden Preisen</strong> führen, nicht zu Inflation."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Folge der Inflation betrifft Sparer besonders negativ?</p>",
+      "options": [
+        {
+          "text": "Leichtere Tilgung von Schulden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>leichtere Tilgung von Schulden</strong> ist eher ein <strong>Vorteil für Schuldner</strong>, nicht ein Nachteil für Sparer."
+        },
+        {
+          "text": "Sparflucht/Kapitalflucht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Sparflucht</strong> ist eine negative Folge für Sparer, da Sparen durch die Inflation <strong>weniger attraktiv</strong> wird."
+        },
+        {
+          "text": "Sinkende Staatsverschuldung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>sinkende Staatsverschuldung</strong> ist eine Folge für den <strong>Staat</strong>, nicht direkt für Sparer."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist Deflation problematischer als Inflation?</p>",
+      "options": [
+        {
+          "text": "Weil sie zu steigenden Investitionen und Konsum führt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Deflation führt eher zu <strong>sinkenden Investitionen und Konsum</strong>, da Konsumenten und Unternehmen auf noch tiefere Preise warten."
+        },
+        {
+          "text": "Weil sie eine Lohn-Preis-Spirale auslöst.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Lohn-Preis-Spirale</strong> ist ein Phänomen der <strong>Inflation</strong>, nicht der Deflation."
+        },
+        {
+          "text": "Weil sie zu Konsumzurückhaltung und Investitionsstopps führen kann.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Deflation</strong> kann zu <strong>Konsumzurückhaltung und Investitionsstopps</strong> führen, da die Erwartung sinkender Preise Käufe verzögert."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wie versucht die SNB, Inflation zu bekämpfen?</p>",
+      "options": [
+        {
+          "text": "Durch Erhöhung der Geldmenge.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine <strong>Erhöhung der Geldmenge</strong> würde Inflation eher <strong>fördern</strong>, nicht bekämpfen."
+        },
+        {
+          "text": "Durch Verkleinerung der Geldmenge.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die SNB <strong>verkleinert die Geldmenge</strong>, um die <strong>Kaufkraft des Geldes zu erhöhen</strong> und die Inflation zu senken."
+        },
+        {
+          "text": "Durch Senkung der Steuern.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Steuerpolitik</strong> ist primär Aufgabe des <strong>Staates</strong>, nicht der SNB, und Steuersenkungen würden die Nachfrage eher erhöhen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen Zweck verfolgt die Schuldenbremse in der Schweiz?</p>",
+      "options": [
+        {
+          "text": "Die Staatsverschuldung kurzfristig zu erhöhen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schuldenbremse zielt darauf ab, die <strong>Staatsverschuldung zu begrenzen</strong>, nicht zu erhöhen."
+        },
+        {
+          "text": "Die Staatsverschuldung nachhaltig zu gestalten und zu begrenzen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Schuldenbremse</strong> soll die <strong>Staatsverschuldung nachhaltig gestalten und begrenzen</strong>."
+        },
+        {
+          "text": "Die Steuereinnahmen des Bundes zu erhöhen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schuldenbremse fokussiert auf die <strong>Ausgabendisziplin</strong>, nicht direkt auf die Steuereinnahmen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Inflation bedeutet, dass die Kaufkraft des Geldes steigt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Inflation bedeutet, dass die Kaufkraft des Geldes <strong>sinkt</strong>, da man für den gleichen Betrag weniger kaufen kann.",
+      "feedback_incorrect": "❌ Falsch. Inflation bedeutet, dass die Kaufkraft des Geldes <strong>sinkt</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Deflation ist ein häufigeres Phänomen als Inflation.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! <strong>Deflation</strong> ist ein <strong>seltenes Ereignis</strong>, Inflation ist das häufigere Phänomen.",
+      "feedback_incorrect": "❌ Falsch. <strong>Deflation</strong> ist <strong>selten</strong>, Inflation ist häufiger."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Landesindex der Konsumentenpreise (LIK) wird jährlich erhoben.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der LIK wird <strong>monatlich</strong> erhoben, nicht jährlich.",
+      "feedback_incorrect": "❌ Falsch. Der LIK wird <strong>monatlich</strong> erhoben."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Von Inflation profitieren tendenziell eher Schuldner als Gläubiger.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! <strong>Schuldner profitieren</strong> von Inflation, da ihre Schulden real weniger wert werden. <strong>Gläubiger verlieren</strong> Kaufkraft.",
+      "feedback_incorrect": "❌ Falsch. <strong>Schuldner profitieren</strong> tendenziell eher von Inflation."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Bekämpfung von Deflation ist einfacher als die Bekämpfung von Inflation.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Bekämpfung von <strong>Deflation ist schwieriger</strong> als die von Inflation, da Konsumenten und Unternehmen trotz Massnahmen Konsum und Investitionen aufschieben können.",
+      "feedback_incorrect": "❌ Falsch. Die Bekämpfung von <strong>Deflation ist schwieriger</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die SNB strebt eine Inflationsrate von 0% an, um die Preise stabil zu halten.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die SNB strebt eine Inflationsrate von <strong>unter 2%</strong> an, nicht 0%. Eine leichte Inflation wird als <strong>gesund für die Wirtschaft</strong> angesehen.",
+      "feedback_incorrect": "❌ Falsch. Die SNB strebt eine Inflation von <strong>unter 2%</strong> an."
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Klima und Klimawandel",
+  "headerImage": "img1.png",
+  "media": {
+      "type": "",
+      "url": "",
+      "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche durchschnittliche Temperatur herrscht auf der Erdoberfläche dank des natürlichen Treibhauseffekts?</p>",
+      "options": [
+        {
+          "text": "-18°C",
+          "is_correct": false,
+          "feedback": "❌ Falsch. -18°C wäre die Temperatur <strong>ohne den natürlichen Treibhauseffekt</strong>."
+        },
+        {
+          "text": "+15°C",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die durchschnittliche Temperatur beträgt <strong>+15°C dank des natürlichen Treibhauseffekts</strong>."
+        },
+        {
+          "text": "0°C",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 0°C ist der Gefrierpunkt von Wasser, aber nicht die <strong>durchschnittliche Temperatur der Erdoberfläche mit Treibhauseffekt</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches der folgenden Gase ist KEIN natürliches Treibhausgas, das im Text erwähnt wird?</p>",
+      "options": [
+        {
+          "text": "Kohlenstoffdioxid",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Kohlenstoffdioxid</strong> ist ein wichtiges <strong>natürliches Treibhausgas</strong>."
+        },
+        {
+          "text": "Methan",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Methan</strong> ist ebenfalls ein <strong>natürliches Treibhausgas</strong>."
+        },
+        {
+          "text": "FCKW",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>FCKW</strong> sind <strong>Schadstoffe</strong>, die zum Ozonloch beitragen, aber <strong>keine natürlichen Treibhausgase</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welcher Höhe über dem Erdboden befindet sich die Ozonschicht hauptsächlich?</p>",
+      "options": [
+        {
+          "text": "In Bodennähe",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Ozonschicht befindet sich <strong>nicht in Bodennähe</strong>, sondern in der Stratosphäre."
+        },
+        {
+          "text": "20 bis 50 km",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Ozonschicht befindet sich in <strong>20 bis 50 km Höhe über dem Erdboden</strong>."
+        },
+        {
+          "text": "Über 100 km",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Über 100 km Höhe beginnt bereits der Weltraum, die <strong>Ozonschicht ist tiefer</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Schadstoff wird hauptsächlich für den Abbau der Ozonschicht verantwortlich gemacht?</p>",
+      "options": [
+        {
+          "text": "Kohlenstoffdioxid (CO2)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Kohlenstoffdioxid</strong> verstärkt den Treibhauseffekt, ist aber <strong>nicht Hauptursache für das Ozonloch</strong>."
+        },
+        {
+          "text": "FCKW",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>FCKW (Fluorchlorkohlenwasserstoffe)</strong> sind die Hauptursache für den <strong>Abbau der Ozonschicht</strong>."
+        },
+        {
+          "text": "Methan",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Methan</strong> ist ein Treibhausgas, aber <strong>nicht Hauptursache für das Ozonloch</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Um wie viele Grad Celsius ist die Temperatur in der Schweiz seit 1864 angestiegen?</p>",
+      "options": [
+        {
+          "text": "Um 1 Grad",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Temperaturanstieg ist <strong>höher als 1 Grad</strong>."
+        },
+        {
+          "text": "Um 2 Grad",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Temperatur in der Schweiz ist seit 1864 um <strong>2 Grad Celsius angestiegen</strong>."
+        },
+        {
+          "text": "Um 5 Grad",
+          "is_correct": false,
+          "feedback": "❌ Falsch. 5 Grad wäre ein <strong>zu hoher Wert</strong> für den bisherigen Temperaturanstieg seit 1864."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet der Begriff 'anthropogener Treibhauseffekt'?</p>",
+      "options": [
+        {
+          "text": "Der natürliche Treibhauseffekt ohne menschlichen Einfluss.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>natürliche Treibhauseffekt</strong> beschreibt den Zustand <strong>ohne menschlichen Einfluss</strong>."
+        },
+        {
+          "text": "Die Verstärkung des natürlichen Treibhauseffekts durch menschliche Aktivitäten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der <strong>anthropogene Treibhauseffekt</strong> beschreibt die <strong>Verstärkung durch menschliche Aktivitäten</strong>."
+        },
+        {
+          "text": "Die Reduktion des Treibhauseffekts durch Umweltschutzmassnahmen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Umweltschutzmassnahmen</strong> zielen auf die <strong>Reduktion des anthropogenen Treibhauseffekts</strong> ab, nicht auf die Definition selbst."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Aussage beschreibt die Funktion der Ozonschicht am besten?</p>",
+      "options": [
+        {
+          "text": "Sie verstärkt den Treibhauseffekt und erwärmt die Erde.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Ozonschicht hat <strong>keinen direkten Einfluss auf den Treibhauseffekt</strong>."
+        },
+        {
+          "text": "Sie schützt die Erde vor schädlicher UV-Strahlung der Sonne.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Ozonschicht schirmt die Erde vor schädlicher UV-Strahlung ab</strong>."
+        },
+        {
+          "text": "Sie ist für die Entstehung des Ozonlochs verantwortlich.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>Ozonloch ist eine Schwächung der Ozonschicht</strong>, nicht ihre Ursache."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum sind ärmere Länder oft stärker von den Folgen des Klimawandels betroffen als reichere Industrieländer?</p>",
+      "options": [
+        {
+          "text": "Weil sie mehr Treibhausgase ausstossen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Industrieländer stossen in der Regel mehr Treibhausgase aus</strong> als ärmere Länder."
+        },
+        {
+          "text": "Weil sie weniger Ressourcen und Infrastruktur haben, um sich anzupassen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Ärmere Länder</strong> verfügen oft über <strong>weniger Ressourcen und Infrastruktur</strong>, um sich an die Folgen anzupassen."
+        },
+        {
+          "text": "Weil der Klimawandel in Industrieländern keine Auswirkungen hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Klimawandel betrifft alle Länder</strong>, auch Industrieländer."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Folge des Klimawandels ist besonders im Alpenraum der Schweiz sichtbar?</p>",
+      "options": [
+        {
+          "text": "Zunahme von Sandstürmen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Sandstürme</strong> sind <strong>nicht typisch für die Alpenregion</strong>."
+        },
+        {
+          "text": "Gletscherschmelze",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Gletscherschmelze</strong> ist ein <strong>deutliches Zeichen des Klimawandels in den Alpen</strong>."
+        },
+        {
+          "text": "Anstieg des Meeresspiegels",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Meeresspiegelanstieg</strong> ist eine <strong>globale Folge</strong>, aber nicht spezifisch für die Alpenregion."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was passiert mit Permafrostböden in den Alpen durch die Erderwärmung?</p>",
+      "options": [
+        {
+          "text": "Sie werden stabiler und sicherer.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Permafrostböden werden instabil</strong>, wenn sie auftauen."
+        },
+        {
+          "text": "Sie tauen auf und können zu Bergstürzen führen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das <strong>Auftauen von Permafrostböden</strong> führt zur <strong>Instabilität des Bodens</strong> und kann <strong>Bergstürze</strong> auslösen."
+        },
+        {
+          "text": "Sie dehnen sich aus und vergrössern die Gletscher.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Permafrostböden haben nichts mit der Ausdehnung von Gletschern zu tun</strong>, sondern sind gefrorene Böden."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der natürliche Treibhauseffekt ist für das Leben auf der Erde schädlich und sollte vermieden werden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch. Der <strong>natürliche Treibhauseffekt ist lebensnotwendig</strong> für die Erde, da er sie erwärmt.",
+      "feedback_incorrect": "❌ Falsch. Der natürliche Treibhauseffekt ist im Gegenteil <strong>essentiell für das Leben auf der Erde</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Ozonloch wurde zuerst über der Arktis (Nordpol) entdeckt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch. Das Ozonloch wurde <strong>zuerst über der Antarktis (Südpol) entdeckt</strong>.",
+      "feedback_incorrect": "❌ Falsch. Das Ozonloch wurde <strong>nicht zuerst über der Arktis</strong>, sondern über der Antarktis entdeckt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Pollensaison in der Schweiz wird durch den Temperaturanstieg verkürzt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch. Durch den Temperaturanstieg wird die <strong>Pollensaison verlängert und intensiviert</strong>.",
+      "feedback_incorrect": "❌ Falsch. Die Pollensaison wird durch den Temperaturanstieg <strong>nicht verkürzt, sondern verlängert</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Der anthropogene Treibhauseffekt verstärkt den natürlichen Treibhauseffekt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der <strong>anthropogene Treibhauseffekt beschreibt die Verstärkung des natürlichen Treibhauseffekts</strong> durch menschliche Einflüsse.",
+      "feedback_incorrect": "❌ Falsch. Der anthropogene Treibhauseffekt <strong>verstärkt tatsächlich den natürlichen Treibhauseffekt</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Schweiz ist aufgrund ihrer geografischen Lage nicht vom Klimawandel betroffen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch. Die <strong>Schweiz ist stark vom Klimawandel betroffen</strong>, besonders im Alpenraum.",
+      "feedback_incorrect": "❌ Falsch. Die Schweiz ist <strong>durchaus vom Klimawandel betroffen</strong>, insbesondere durch die Veränderungen in den Alpen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Gletscherforscher erwarten, dass die meisten Alpengletscher in diesem Jahrhundert vollständig verschwinden werden.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! <strong>Gletscherforscher gehen davon aus, dass viele Alpengletscher in diesem Jahrhundert verschwinden</strong> werden, wenn der Klimawandel nicht gestoppt wird.",
+      "feedback_incorrect": "❌ Falsch. Die Prognose der Gletscherforscher ist tatsächlich, dass die <strong>meisten Alpengletscher verschwinden werden</strong>."
+    }
+  ]
+}

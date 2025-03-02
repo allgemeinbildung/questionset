@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Weiterbildungsmöglichkeiten",
+  "headerImage": "img1.png",
+  "media": {
+      "type": "",
+      "url": "",
+      "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche drei Haupttypen der beruflichen Weiterbildung werden in der Schweiz unterschieden?</p>",
+      "options": [
+        {
+          "text": "Kurse mit Zertifikat, Höhere Berufsbildung, Hochschulformate",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die drei Haupttypen sind <strong>Kurse mit Zertifikat</strong>, <strong>Höhere Berufsbildung</strong> und <strong>Hochschulformate</strong>."
+        },
+        {
+          "text": "Lehre, Berufsmaturität, Fachhochschule",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese Antwort listet <strong>Bildungswege</strong>, nicht die Typen der <strong>Weiterbildung</strong>."
+        },
+        {
+          "text": "Praktikum, Trainee-Programm, Job Rotation",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese Antwort nennt <strong>Formen der Berufserfahrung</strong>, nicht die Typen der <strong>Weiterbildung</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Abschluss wird in der höheren Berufsbildung typischerweise erworben?</p>",
+      "options": [
+        {
+          "text": "Eidgenössischer Fachausweis",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der <strong>Eidgenössische Fachausweis</strong> ist ein typischer Abschluss der <strong>höheren Berufsbildung</strong>."
+        },
+        {
+          "text": "Bachelor-Diplom",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Bachelor-Diplom</strong> wird an <strong>Hochschulen</strong> erworben, nicht in der höheren Berufsbildung."
+        },
+        {
+          "text": "Schulzertifikat",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Schulzertifikate</strong> werden in <strong>Kursen</strong> erworben, die nicht staatlich anerkannt sind."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche zwei Varianten der Berufsmaturität (BM) werden unterschieden?</p>",
+      "options": [
+        {
+          "text": "BM1 und BM2",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Es werden <strong>BM1</strong> und <strong>BM2</strong> unterschieden."
+        },
+        {
+          "text": "BM-Basis und BM-Vertiefung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese Antwort nennt <strong>keine offiziellen Bezeichnungen</strong> der Berufsmaturität."
+        },
+        {
+          "text": "BM-Lehre und BM-Vollzeit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese Antwort beschreibt <strong>nicht die gängige Unterscheidung</strong> der Berufsmaturität."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Institutionen bieten typischerweise Berufsmaturitätsunterricht an?</p>",
+      "options": [
+        {
+          "text": "Berufsfachschulen und z.B. BMS Zürich",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Berufsfachschulen</strong> und z.B. die <strong>BMS Zürich</strong> bieten Berufsmaturitätsunterricht an."
+        },
+        {
+          "text": "Universitäten und ETH",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Universitäten und ETH</strong> sind Hochschulen, die <strong>keinen Berufsmaturitätsunterricht</strong> anbieten."
+        },
+        {
+          "text": "Primarschulen und Sekundarschulen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Primar- und Sekundarschulen</strong> sind für die <strong>obligatorische Schulzeit</strong> zuständig, nicht für die Berufsmaturität."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Abschluss ist in der Regel Voraussetzung für den prüfungsfreien Zugang zu Fachhochschulen?</p>",
+      "options": [
+        {
+          "text": "Berufsmaturitätszeugnis",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das <strong>Berufsmaturitätszeugnis</strong> ist in der Regel die Voraussetzung für den <strong>prüfungsfreien Zugang</strong> zu Fachhochschulen."
+        },
+        {
+          "text": "Eidgenössisches Fähigkeitszeugnis (EFZ)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>EFZ</strong> ist der Abschluss der <strong>Berufsbildung</strong>, aber nicht direkt der Zugang zur Fachhochschule."
+        },
+        {
+          "text": "Diplom einer Höheren Fachschule",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein <strong>Diplom einer Höheren Fachschule</strong> ist ein <strong>höherer Abschluss</strong> als die Berufsmaturität."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist die höhere Berufsbildung wichtig für die Schweizer Wirtschaft?</p>",
+      "options": [
+        {
+          "text": "Sie versorgt die Wirtschaft mit qualifizierten Fachkräften.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die höhere Berufsbildung <strong>sichert den Fachkräftebedarf</strong> der Schweizer Wirtschaft."
+        },
+        {
+          "text": "Sie ermöglicht den direkten Zugang zu Universitäten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die höhere Berufsbildung fokussiert auf <strong>praktische Qualifikationen</strong>, nicht auf den universitären Zugang."
+        },
+        {
+          "text": "Sie ist kostengünstiger als die Grundbildung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die höhere Berufsbildung ist eine <strong>Weiterbildung</strong>, die <strong>zusätzliche Kosten</strong> verursacht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet der prüfungsfreie Zugang zur Berufsmaturität BM2 im Kanton Zürich?</p>",
+      "options": [
+        {
+          "text": "Lernende mit gutem EFZ-Abschluss können direkt in die BM2 eintreten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Im Kanton Zürich können <strong>Lernende mit einem guten EFZ-Abschluss</strong> direkt in die BM2 eintreten."
+        },
+        {
+          "text": "Alle EFZ-Absolventen haben automatisch Zugang zur BM2.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der prüfungsfreie Zugang ist an einen <strong>guten EFZ-Abschluss</strong> gebunden."
+        },
+        {
+          "text": "Die BM2-Prüfung entfällt für alle Lernenden im Kanton Zürich.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht um den <strong>Zugang zur BM2</strong>, nicht um das Entfallen der BM2-Prüfung selbst."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen Vorteil bietet die Berufsmaturität im Hinblick auf die Fachhochschulen?</p>",
+      "options": [
+        {
+          "text": "Sie bereitet gezielt auf ein Bachelorstudium an einer Fachhochschule vor.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Berufsmaturität <strong>bereitet auf das Bachelorstudium</strong> an einer Fachhochschule vor."
+        },
+        {
+          "text": "Sie ermöglicht einen schnelleren Berufseinstieg.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Berufsmaturität ist ein <strong>weiterführender Bildungsweg</strong>, der den Berufseinstieg eher verzögert."
+        },
+        {
+          "text": "Sie ist Voraussetzung für eine höhere Position im Lehrbetrieb.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Berufsmaturität fokussiert auf den <strong>Zugang zu Hochschulen</strong>, nicht primär auf innerbetriebliche Karriere."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welcher der genannten Gründe für Weiterbildung wird in der Umfrage am häufigsten genannt?</p>",
+      "options": [
+        {
+          "text": "Chancen auf dem Arbeitsmarkt verbessern",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Verbesserung der Chancen auf dem Arbeitsmarkt</strong> ist der häufigste genannte Grund."
+        },
+        {
+          "text": "Lohn steigern",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Lohnsteigerung</strong> ist zwar ein Grund, aber nicht der häufigste."
+        },
+        {
+          "text": "Persönliches Interesse",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Persönliches Interesse</strong> ist ein Grund, aber nicht der häufigste."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist die Analyse des Arbeitsmarktes ein wichtiger Punkt bei der Wahl der richtigen Weiterbildung?</p>",
+      "options": [
+        {
+          "text": "Um sicherzustellen, dass die Weiterbildung zu den Bedürfnissen des Arbeitsmarktes passt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Arbeitsmarktanalyse hilft sicherzustellen, dass die Weiterbildung <strong>relevant für den Arbeitsmarkt</strong> ist."
+        },
+        {
+          "text": "Um die Kosten der Weiterbildung zu minimieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Arbeitsmarktanalyse fokussiert auf die <strong>Relevanz</strong>, nicht auf die <strong>Kosten</strong>."
+        },
+        {
+          "text": "Um die eigenen Stärken besser einschätzen zu können.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Arbeitsmarktanalyse fokussiert auf <strong>externe Faktoren</strong>, nicht auf die Selbsteinschätzung."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Kurse, die mit einem Zertifikat einer Schule abschliessen, sind immer staatlich anerkannt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Kurse, die mit einem Zertifikat einer Schule abschliessen, sind **nicht staatlich anerkannt**.",
+      "feedback_incorrect": "Richtig. Kurse mit Schulzertifikaten sind **nicht staatlich anerkannt**."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Berufsmaturität kann nur nach einer beruflichen Grundbildung absolviert werden (BM2).</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Berufsmaturität kann **während (BM1) oder nach (BM2)** der beruflichen Grundbildung absolviert werden.",
+      "feedback_incorrect": "Richtig. Die Berufsmaturität kann auch **während der Lehre (BM1)** absolviert werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Bund unterstützt Absolventen von Kursen, die auf eidgenössische Prüfungen vorbereiten, finanziell.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig. Der Bund bietet **finanzielle Unterstützung** für Personen, die sich auf eidgenössische Prüfungen vorbereiten.",
+      "feedback_incorrect": "Falsch. Der Bund **unterstützt** diese Weiterbildungen finanziell."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Teilnahme an beruflicher Weiterbildung ist in der Schweiz unabhängig vom Bildungsabschluss.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Die Teilnahme an beruflicher Weiterbildung **hängt stark vom Bildungsabschluss ab**. Personen mit höherem Bildungsabschluss nehmen häufiger an Weiterbildungen teil.",
+      "feedback_incorrect": "Richtig. Die Teilnahme an Weiterbildung ist **nicht unabhängig vom Bildungsabschluss**."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine berufliche Weiterbildung führt in der Regel nicht zu einer Lohnerhöhung.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Eine berufliche Weiterbildung kann die <strong>Chancen auf eine Lohnerhöhung deutlich verbessern</strong>.",
+      "feedback_incorrect": "Richtig. Berufliche Weiterbildung ist oft ein **Schlüssel zu höherem Einkommen**."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Bei der Wahl der richtigen Weiterbildung sollte man nur die eigenen Interessen berücksichtigen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Bei der Wahl der richtigen Weiterbildung sollten **berufliche Ziele, eigene Stärken und der Arbeitsmarkt** berücksichtigt werden, nicht nur die eigenen Interessen.",
+      "feedback_incorrect": "Richtig. Es ist wichtig, auch **Ziele, Stärken und den Arbeitsmarkt** zu berücksichtigen."
+    }
+  ]
+}

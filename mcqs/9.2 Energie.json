@@ -1,0 +1,278 @@
+{
+  "title": "Verständnisfragen Energie und Ressourcen",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden Energiequellen wird im Text als <strong>erneuerbar</strong> aufgeführt?</p>",
+      "options": [
+        {
+          "text": "Erdöl",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Erdöl</strong> ist eine <strong>nicht erneuerbare</strong> Energiequelle, da ihre Reserven begrenzt sind."
+        },
+        {
+          "text": "Kohle",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Kohle</strong> ist ebenfalls eine <strong>nicht erneuerbare</strong> Energiequelle, die aus fossilen Brennstoffen gewonnen wird."
+        },
+        {
+          "text": "Windenergie",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Windenergie</strong> zählt zu den <strong>erneuerbaren Energiequellen</strong>, da sie die Bewegungsenergie des Windes nutzt, der sich stetig erneuert."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Aussage beschreibt <strong>Geothermie</strong> am besten?</p>",
+      "options": [
+        {
+          "text": "Energie aus Meeresströmungen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Energie aus Meeresströmungen ist eine Form der <strong>Wasserkraft</strong>, nicht der Geothermie."
+        },
+        {
+          "text": "Wärme gespeichert im zugänglichen Teil der Erdkruste",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Geothermie</strong>, auch <strong>Erdwärme</strong> genannt, nutzt die <strong>Wärme</strong>, die im <strong>Erdinneren gespeichert</strong> ist."
+        },
+        {
+          "text": "Energie aus der Verbrennung von Holz",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Energie aus der Verbrennung von Holz fällt unter <strong>Biomasse</strong>, eine andere Form der erneuerbaren Energie."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher <strong>fossile Energieträger</strong> wird im Text genannt, der bei der Verbrennung <strong>weniger Treibhausgase</strong> freisetzt als Kohle und Erdöl?</p>",
+      "options": [
+        {
+          "text": "Erdöl",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Erdöl</strong> setzt im Vergleich zu Erdgas <strong>mehr Treibhausgase</strong> frei."
+        },
+        {
+          "text": "Erdgas",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Erdgas</strong> enthält weniger Verunreinigungen und setzt daher bei der Verbrennung <strong>weniger Treibhausgase</strong> frei als Kohle und Erdöl."
+        },
+        {
+          "text": "Kohle",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Kohle</strong> ist bekannt dafür, bei der Verbrennung <strong>sehr viele CO2-Emissionen</strong> freizusetzen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viel Prozent der <strong>weltweiten Wasserreserven</strong> sind laut Text <strong>Süsswasser</strong>?</p>",
+      "options": [
+        {
+          "text": "97 Prozent",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>97 Prozent</strong> der weltweiten Wasserreserven sind <strong>Salzwasser</strong>."
+        },
+        {
+          "text": "3 Prozent",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Nur etwa <strong>3 Prozent</strong> der weltweiten Wasserreserven sind <strong>Süsswasser</strong>."
+        },
+        {
+          "text": "50 Prozent",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>50 Prozent</strong> wäre eine zu hohe Schätzung für den Anteil des Süsswassers an den weltweiten Wasserreserven."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Begriff beschreibt die <strong>Energie</strong>, die für die <strong>Herstellung, Transport, Nutzung und Entsorgung</strong> von Gütern aufgewendet wird?</p>",
+      "options": [
+        {
+          "text": "Betriebsenergie",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Betriebsenergie</strong> bezieht sich auf die Energie, die während des <strong>Gebrauchs</strong> eines Produkts anfällt."
+        },
+        {
+          "text": "Endenergie",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Endenergie</strong> bezeichnet die Energie, die dem <strong>Endverbraucher zur Verfügung</strong> steht."
+        },
+        {
+          "text": "Graue Energie",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Graue Energie</strong> umfasst die <strong>gesamte Energie</strong>, die im <strong>Lebenszyklus eines Produkts</strong> steckt, von der Rohstoffgewinnung bis zur Entsorgung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum wird die <strong>Suche und Nutzung alternativer Energiequellen</strong> im Text als notwendig beschrieben?</p>",
+      "options": [
+        {
+          "text": "Weil erneuerbare Energien günstiger sind als herkömmliche Energieträger.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl erneuerbare Energien langfristig kostengünstiger werden, ist der Hauptgrund <strong>nicht primär der Preis</strong>, sondern die <strong>Endlichkeit der herkömmlichen Energieträger</strong>."
+        },
+        {
+          "text": "Weil die Reserven herkömmlicher Energieträger wie Erdöl endlich sind und die weltweite Nachfrage steigt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Begrenztheit der Reserven</strong> fossiler Brennstoffe und die <strong>steigende weltweite Nachfrage</strong> nach Energie machen alternative Energiequellen notwendig."
+        },
+        {
+          "text": "Weil Kernenergie keine Zukunft hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Zukunft der Kernenergie ist zwar umstritten, aber der Hauptgrund für die Suche nach Alternativen ist die <strong>Endlichkeit fossiler Brennstoffe</strong>, nicht primär die Problematik der Kernenergie."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist das <strong>Hauptproblem</strong> bei der Nutzung von <strong>Windenergie</strong>, das im Text erwähnt wird?</p>",
+      "options": [
+        {
+          "text": "Windenergie ist zu teuer in der Produktion.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Kosten</strong> für Windenergie sind in den letzten Jahren <strong>gesunken</strong>, das Hauptproblem ist ein anderes."
+        },
+        {
+          "text": "Windenergie tritt schubweise auf und ist nicht konstant verfügbar.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>schubweise Verfügbarkeit</strong> der Windenergie ist das grösste Problem, weshalb sie oft in Kombination mit <strong>Pumpspeicherkraftwerken</strong> genutzt werden muss."
+        },
+        {
+          "text": "Windkraftanlagen sind umweltschädlich.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Windkraftanlagen sind im Vergleich zu fossilen Energieträgern <strong>umweltfreundlicher</strong>, das Hauptproblem liegt in der <strong>Unstetigkeit</strong> der Energieerzeugung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum dominieren laut Text immer noch <strong>fossile Energiequellen</strong> den weltweiten Energieverbrauch, obwohl erneuerbare Energien verfügbar sind?</p>",
+      "options": [
+        {
+          "text": "Weil erneuerbare Energien technisch nicht ausgereift sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Erneuerbare Energietechnologien</strong> sind <strong>weit entwickelt</strong> und werden immer effizienter."
+        },
+        {
+          "text": "Weil der Energiehunger der Welt immer noch grösstenteils durch fossile Energieträger gestillt wird und diese lange etabliert sind.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>bestehende Infrastruktur</strong> und die <strong>langjährige Dominanz</strong> fossiler Energieträger führen dazu, dass sie trotz der Nachteile weiterhin den Energieverbrauch dominieren."
+        },
+        {
+          "text": "Weil erneuerbare Energien ineffizienter sind als fossile Energien.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Erneuerbare Energien</strong> können in vielen Bereichen <strong>sehr effizient</strong> sein, die Herausforderung liegt eher in der <strong>Umstellung der Energiesysteme</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet der Begriff <strong>'Wasserschloss Europas'</strong> im Zusammenhang mit der Schweiz?</p>",
+      "options": [
+        {
+          "text": "Die Schweiz importiert den grössten Teil ihres Wassers aus Europa.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Schweiz ist bekannt für ihre <strong>reichen eigenen Wasservorräte</strong>, nicht für den Wasserimport."
+        },
+        {
+          "text": "Die Schweiz besitzt einen grossen Anteil der europäischen Süsswasservorräte und nutzt diese intensiv zur Stromproduktion.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Schweiz wird als 'Wasserschloss Europas' bezeichnet, weil sie über <strong>reiche Süsswasservorräte</strong> verfügt und diese intensiv für die <strong>Wasserkraft</strong> nutzt."
+        },
+        {
+          "text": "Die Schweiz hat den höchsten Wasserverbrauch in Europa.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Wasserverbrauch</strong> in der Schweiz ist zwar relevant, aber der Begriff 'Wasserschloss' bezieht sich auf die <strong>reichen Wasservorräte</strong>, nicht auf den Verbrauch."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Aussage beschreibt die <strong>Bedeutung der Ökobilanz</strong> im Kontext von Energie und Ressourcen am besten?</p>",
+      "options": [
+        {
+          "text": "Die Ökobilanz hilft, die Kosten verschiedener Energiequellen zu vergleichen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Kostenanalyse</strong> ist <strong>nicht der Hauptfokus</strong> der Ökobilanz, obwohl sie wirtschaftliche Aspekte indirekt berühren kann."
+        },
+        {
+          "text": "Die Ökobilanz bewertet die Umweltbelastungen eines Produkts oder einer Energieform über den gesamten Lebenszyklus hinweg.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Ökobilanz</strong> analysiert die <strong>gesamten Umweltbelastungen</strong>, die von der Herstellung bis zur Entsorgung eines Produkts oder einer Energieform entstehen."
+        },
+        {
+          "text": "Die Ökobilanz konzentriert sich nur auf den Energieverbrauch während der Nutzung eines Produkts.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Ökobilanz</strong> betrachtet den <strong>gesamten Lebenszyklus</strong>, nicht nur die Nutzungsphase."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wasserkraftwerke nutzen die Bewegungsenergie von fliessendem Wasser zur Stromerzeugung.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig. Wasserkraftwerke wandeln die <strong>Bewegungsenergie des Wassers</strong> in elektrische Energie um."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Kernenergie gehört zu den erneuerbaren Energiequellen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig. <strong>Kernenergie</strong> wird zu den <strong>nicht erneuerbaren Energiequellen</strong> gezählt, da sie auf <strong>endlichen Ressourcen</strong> wie Uran basiert." ,
+      "feedback_incorrect": "❌ Falsch. Kernenergie ist keine erneuerbare Energiequelle."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der grösste Teil des Süsswassers auf der Erde ist direkt als Trinkwasser verfügbar.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig. Nur ein <strong>sehr kleiner Teil des Süsswassers</strong> ist direkt als Trinkwasser zugänglich, der grösste Teil ist in <strong>Gletschern, Eiskappen und im Boden</strong> gebunden." ,
+      "feedback_incorrect": "❌ Falsch. Der grösste Teil des Süsswassers ist nicht direkt als Trinkwasser verfügbar."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein sinkender Energieverbrauch in Industrieländern bedeutet automatisch eine globale Reduktion des Energieverbrauchs.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig. Obwohl der Energieverbrauch in Industrieländern sinken kann, steigt er in <strong>Nicht-Industrieländern</strong> oft an, sodass der <strong>globale Energieverbrauch</strong> insgesamt <strong>weiter steigen</strong> kann." ,
+      "feedback_incorrect": "❌ Falsch. Der globale Energieverbrauch kann trotz sinkendem Verbrauch in Industrieländern steigen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Graue Energie macht nur einen geringen Teil des gesamten Energieverbrauchs aus.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig. <strong>Graue Energie</strong> macht im Durchschnitt sogar den <strong>grössten Teil des gesamten Energieverbrauchs</strong> aus, oft mehr als die direkt verbrauchte Betriebsenergie." ,
+      "feedback_incorrect": "❌ Falsch. Graue Energie macht einen bedeutenden Teil des Energieverbrauchs aus."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Ökobilanz berücksichtigt nur den Energieverbrauch, nicht aber den Ressourcenverbrauch.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig. Die <strong>Ökobilanz</strong> betrachtet sowohl den <strong>Energieverbrauch</strong> als auch den <strong>Ressourcenverbrauch</strong> sowie weitere Umweltbelastungen über den gesamten Lebenszyklus." ,
+      "feedback_incorrect": "❌ Falsch. Die Ökobilanz berücksichtigt auch den Ressourcenverbrauch."
+    }
+  ]
+}

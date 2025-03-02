@@ -1,0 +1,151 @@
+{
+  "title": "Drag the words - Weiterbildungsmöglichkeiten in der Schweiz",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "correct_sentence": "Die berufliche Weiterbildung in der Schweiz lässt sich in drei Angebotstypen unterteilen: Kurse, höhere Berufsbildung und Hochschulformate.",
+      "wrong_alternatives": [
+        "Die berufliche Grundbildung in der Schweiz lässt sich in drei Angebotstypen unterteilen: Lehre, Berufsmaturität und Fachhochschule.",
+        "Die obligatorische Schulbildung in der Schweiz lässt sich in drei Angebotstypen unterteilen: Primarschule, Sekundarschule und Gymnasium."
+      ]
+    },
+    {
+      "correct_sentence": "Kurse in der Weiterbildung schliessen mit einem Zertifikat der Schule oder Organisation ab und sind nicht staatlich anerkannt.",
+      "wrong_alternatives": [
+        "Kurse in der Weiterbildung schliessen mit einem eidgenössischen Fachausweis ab und sind vom Bund staatlich anerkannt.",
+        "Kurse in der Weiterbildung schliessen mit einem Hochschul-Diplom ab und sind von Universitäten staatlich anerkannt."
+      ],
+    },
+    {
+      "correct_sentence": "Lehrgänge der höheren Berufsbildung in der Schweiz schliessen mit einem eidgenössischen Fachausweis oder Diplom ab.",
+      "wrong_alternatives": [
+        "Lehrgänge der höheren Berufsbildung in der Schweiz schliessen mit einem Zertifikat der jeweiligen Schule oder Organisation ab.",
+        "Lehrgänge der höheren Berufsbildung in der Schweiz schliessen mit einem Bachelor- oder Master-Diplom einer Fachhochschule ab."
+      ],
+    },
+    {
+      "correct_sentence": "Weiterbildungsformate von Hochschulen dauern ein halbes Jahr bis mehrere Jahre und schliessen mit einem Hochschul-Diplom ab.",
+      "wrong_alternatives": [
+        "Weiterbildungsformate von Hochschulen dauern wenige Wochen bis Monate und schliessen mit einem eidgenössischen Fachausweis ab.",
+        "Weiterbildungsformate von Hochschulen dauern in der Regel nur wenige Tage und schliessen mit einem Schulzertifikat ab."
+      ],
+    },
+    {
+      "correct_sentence": "Die Teilnahme an beruflicher Weiterbildung in der Schweiz ist stark mit dem Bildungsabschluss der Personen verbunden.",
+      "wrong_alternatives": [
+        "Die Teilnahme an beruflicher Weiterbildung in der Schweiz ist unabhängig vom Bildungsabschluss der Personen und für alle gleichermassen üblich.",
+        "Die Teilnahme an beruflicher Weiterbildung in der Schweiz ist umgekehrt proportional zum Bildungsabschluss der Personen."
+      ],
+    },
+    {
+      "correct_sentence": "Männer besuchen Weiterbildungen in der Schweiz häufiger aus beruflicher Motivation, während Frauen sich vermehrt ausserberuflich weiterbilden.",
+      "wrong_alternatives": [
+        "Frauen besuchen Weiterbildungen in der Schweiz häufiger aus beruflicher Motivation, während Männer sich vermehrt ausserberuflich weiterbilden.",
+        "Sowohl Männer als auch Frauen besuchen Weiterbildungen in der Schweiz gleichermassen aus ausschliesslich persönlichen Interessen."
+      ],
+    },
+    {
+      "correct_sentence": "Im Jahr 2016 haben 71 Prozent der Erwerbstätigen in der Schweiz mindestens eine Weiterbildung besucht.",
+      "wrong_alternatives": [
+        "Im Jahr 2016 haben lediglich 29 Prozent der Erwerbstätigen in der Schweiz mindestens eine Weiterbildung besucht.",
+        "Im Jahr 2016 haben nahezu alle, nämlich 95 Prozent der Erwerbstätigen in der Schweiz mindestens eine Weiterbildung besucht."
+      ],
+    },
+    {
+      "correct_sentence": "Von den Weiterbildungsteilnehmenden im Jahr 2016 waren 76 Prozent im Alter von 25 bis 34 Jahren.",
+      "wrong_alternatives": [
+        "Von den Weiterbildungsteilnehmenden im Jahr 2016 waren die Mehrheit, nämlich 76 Prozent im Alter von über 55 Jahren.",
+        "Von den Weiterbildungsteilnehmenden im Jahr 2016 waren die meisten, nämlich 76 Prozent im jugendlichen Alter von 15 bis 24 Jahren."
+      ],
+    },
+    {
+      "correct_sentence": "Die höhere Berufsbildung vermittelt Qualifikationen für anspruchsvolle Berufstätigkeiten mit Fach- oder Führungsverantwortung.",
+      "wrong_alternatives": [
+        "Die höhere Berufsbildung vermittelt grundlegende Kenntnisse für einfache Hilfsarbeiten ohne spezielle Verantwortlichkeiten.",
+        "Die höhere Berufsbildung konzentriert sich ausschliesslich auf akademische Forschung und weniger auf praktische Berufstätigkeiten."
+      ],
+    },
+    {
+      "correct_sentence": "Die höhere Berufsbildung versorgt die Schweizer Wirtschaft mit ausgewiesenen Fachkräften in verschiedenen Branchen.",
+      "wrong_alternatives": [
+        "Die höhere Berufsbildung ist hauptsächlich für die Ausbildung von Führungskräften im öffentlichen Sektor zuständig.",
+        "Die höhere Berufsbildung hat keinen direkten Einfluss auf die Versorgung der Schweizer Wirtschaft mit qualifizierten Arbeitskräften."
+      ],
+    },
+    {
+      "correct_sentence": "Eidgenössische Fachausweise machen den grössten Anteil an Bildungsabschlüssen in der höheren Berufsbildung aus.",
+      "wrong_alternatives": [
+        "Eidgenössische Diplome stellen den grössten Anteil an Bildungsabschlüssen in der höheren Berufsbildung dar.",
+        "Schulzertifikate von privaten Anbietern machen den grössten Anteil an Bildungsabschlüssen in der höheren Berufsbildung aus."
+      ],
+    },
+    {
+      "correct_sentence": "Der Bund unterstützt finanziell Absolventinnen und Absolventen von Kursen, die auf eine eidgenössische Prüfung vorbereiten.",
+      "wrong_alternatives": [
+        "Der Bund finanziert ausschliesslich die Lehrgänge der höheren Berufsbildung vollständig, ohne Beteiligung der Teilnehmenden.",
+        "Der Bund bietet keine finanzielle Unterstützung für Personen, die sich in beruflicher Weiterbildung engagieren."
+      ],
+    },
+    {
+      "correct_sentence": "Berufsmaturitätsunterricht wird an Berufsfachschulen, insbesondere im kaufmännischen Bereich, oder z.B. an der BMS Zürich angeboten.",
+      "wrong_alternatives": [
+        "Berufsmaturitätsunterricht wird hauptsächlich an Universitäten und Pädagogischen Hochschulen in der Schweiz durchgeführt.",
+        "Berufsmaturitätsunterricht findet primär in privaten Weiterbildungsinstituten und Online-Akademien statt."
+      ],
+    },
+    {
+      "correct_sentence": "Die Berufsmaturität kann entweder während der beruflichen Grundbildung (BM1) oder nachher (BM2) absolviert werden.",
+      "wrong_alternatives": [
+        "Die Berufsmaturität muss zwingend vor Beginn einer beruflichen Grundbildung absolviert werden, um anerkannt zu sein.",
+        "Die Berufsmaturität kann ausschliesslich in einem einzigen, zusammenhängenden Vollzeitkurs direkt nach der obligatorischen Schulzeit erworben werden."
+      ],
+    },
+    {
+      "correct_sentence": "In den vergangenen Jahren hat die Berufsmaturitätsquote in der Schweiz kontinuierlich zugenommen.",
+      "wrong_alternatives": [
+        "In den vergangenen Jahren ist die Berufsmaturitätsquote in der Schweiz konstant geblieben und zeigt keine wesentlichen Veränderungen.",
+        "In den vergangenen Jahren hat die Berufsmaturitätsquote in der Schweiz abgenommen, da andere Bildungswege populärer wurden."
+      ],
+    },
+    {
+      "correct_sentence": "Seit Sommer 2020 können Lernende im Kanton Zürich mit einem EFZ-Gesamtschnitt von mindestens 5.0 prüfungsfrei in die BM2 eintreten.",
+      "wrong_alternatives": [
+        "Seit Sommer 2020 ist der prüfungsfreie Eintritt in die BM2 im Kanton Zürich für alle EFZ-Absolventen, unabhängig vom Notenschnitt, möglich.",
+        "Seit Sommer 2020 wurde der prüfungsfreie Eintritt in die BM2 im Kanton Zürich abgeschafft, und alle Lernenden müssen eine Aufnahmeprüfung bestehen."
+      ],
+    },
+    {
+      "correct_sentence": "Die Ausrichtung der Berufsmaturität orientiert sich am erlernten Beruf und ist auf die Studienbereiche der Fachhochschulen ausgerichtet.",
+      "wrong_alternatives": [
+        "Die Ausrichtung der Berufsmaturität ist völlig unabhängig vom erlernten Beruf und orientiert sich ausschliesslich an universitären Studiengängen.",
+        "Die Ausrichtung der Berufsmaturität ist standardisiert und bietet keine spezifische Anpassung an den erlernten Beruf oder die Fachhochschulstudienbereiche."
+      ],
+    },
+    {
+      "correct_sentence": "Der prüfungsfreie Zugang zu Fachhochschulen setzt in der Regel ein Berufsmaturitätszeugnis voraus.",
+      "wrong_alternatives": [
+        "Der prüfungsfreie Zugang zu Fachhochschulen ist in der Regel auch mit einem eidgenössischen Fachausweis ohne Berufsmaturität möglich.",
+        "Für den prüfungsfreien Zugang zu Fachhochschulen ist üblicherweise ein gymnasialer Maturitätsabschluss und kein Berufsmaturitätszeugnis erforderlich."
+      ],
+    },
+    {
+      "correct_sentence": "Berufsmaturitätsunterricht bereitet Lernende auf das anspruchsvolle Bachelorstudium an einer Fachhochschule vor.",
+      "wrong_alternatives": [
+        "Berufsmaturitätsunterricht bereitet Lernende primär auf den direkten Einstieg in den Arbeitsmarkt vor, ohne Fokus auf ein Hochschulstudium.",
+        "Berufsmaturitätsunterricht dient hauptsächlich der Vorbereitung auf ein Masterstudium an einer Universität und weniger auf Fachhochschul-Bachelor."
+      ],
+    },
+    {
+      "correct_sentence": "Gründe für berufliche Weiterbildung sind vielfältig, wie z.B. verbesserte Chancen auf dem Arbeitsmarkt oder die Erweiterung von Kompetenzen.",
+      "wrong_alternatives": [
+        "Gründe für berufliche Weiterbildung sind hauptsächlich auf persönlichen Freizeitinteressen beschränkt und haben wenig mit der Arbeitsmarktsituation zu tun.",
+        "Gründe für berufliche Weiterbildung sind in erster Linie gesetzlich vorgeschrieben und weniger durch individuelle Karriereziele motiviert."
+      ]
+    }
+  ]
+}

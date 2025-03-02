@@ -1,0 +1,151 @@
+{
+  "title": "Das Wichtigste zum Arbeitsrecht",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "text",
+    "url": "",
+    "source": "Lehrmittel Kapitel 15.1"
+  },
+  "questions": [
+    {
+      "correct_sentence": "Das Arbeitsverhältnis in der Schweiz wird durch Gesetze, Verträge und innerbetriebliche Regelungen bestimmt.",
+      "wrong_alternatives": [
+        "Ein Arbeitsverhältnis in der Schweiz stützt sich ausschliesslich auf mündliche Absprachen zwischen Arbeitgeber und Arbeitnehmer, ohne schriftliche Fixierung.",
+        "Die Regelung eines Arbeitsverhältnisses in der Schweiz erfolgt primär durch internationale Abkommen und weniger durch nationale Gesetze."
+      ],
+    },
+    {
+      "correct_sentence": "Das Obligationenrecht (OR) beinhaltet die grundlegenden Gesetze zum Einzelarbeitsvertrag.",
+      "wrong_alternatives": [
+        "Das Obligationenrecht (OR) konzentriert sich hauptsächlich auf das Strafrecht und beinhaltet keine Regelungen zum Arbeitsvertragsrecht.",
+        "Im Obligationenrecht (OR) finden sich zwar Hinweise zum Arbeitsrecht, die detaillierten Regelungen sind jedoch im Zivilgesetzbuch (ZGB) verankert."
+      ],
+    },
+    {
+      "correct_sentence": "Das Arbeitsgesetz (ArG) legt zwingende Mindeststandards für den Schutz der Arbeitnehmer fest.",
+      "wrong_alternatives": [
+        "Das Arbeitsgesetz (ArG) ist eine Empfehlung des Bundesrates, aber nicht rechtlich bindend für Arbeitgeber in der Schweiz.",
+        "Das Arbeitsgesetz (ArG) dient vorrangig dem Schutz der Arbeitgeberinteressen und weniger dem Schutz der Arbeitnehmer."
+      ],
+    },
+    {
+      "correct_sentence": "Im Einzelarbeitsvertrag werden individuelle Arbeitsbedingungen wie Funktion, Lohn und Kündigungsfristen detailliert geregelt.",
+      "wrong_alternatives": [
+        "Der Einzelarbeitsvertrag (EAV) ist ein standardisiertes Dokument ohne Möglichkeit zur individuellen Anpassung der Arbeitsbedingungen.",
+        "Im Einzelarbeitsvertrag (EAV) werden lediglich allgemeine Unternehmensrichtlinien und keine spezifischen Arbeitsbedingungen des Arbeitnehmers festgelegt."
+      ],
+    },
+    {
+      "correct_sentence": "Gesamtarbeitsverträge (GAV) werden zwischen Arbeitgeberverbänden und Gewerkschaften geschlossen.",
+      "wrong_alternatives": [
+        "Gesamtarbeitsverträge (GAV) werden direkt zwischen einzelnen Arbeitgebern und einzelnen Arbeitnehmern ohne Beteiligung von Verbänden ausgehandelt.",
+        "Gesamtarbeitsverträge (GAV) sind Vereinbarungen zwischen Kantonen und Gemeinden zur Regelung des öffentlichen Dienstes."
+      ],
+    },
+    {
+      "correct_sentence": "Betriebsreglemente enthalten Regelungen, die für alle Arbeitnehmenden innerhalb eines Betriebs gelten.",
+      "wrong_alternatives": [
+        "Betriebsreglemente sind individuelle Vereinbarungen zwischen dem Arbeitgeber und einzelnen Arbeitnehmern und nicht für alle Mitarbeitenden gültig.",
+        "Betriebsreglemente sind branchenspezifische Richtlinien, die von übergeordneten Branchenorganisationen erlassen werden und nicht vom einzelnen Betrieb."
+      ],
+    },
+    {
+      "correct_sentence": "Ein Einzelarbeitsvertrag verpflichtet Arbeitnehmende zur Arbeitsleistung und Arbeitgebende zur Lohnzahlung.",
+      "wrong_alternatives": [
+        "Der Einzelarbeitsvertrag verpflichtet nur den Arbeitgeber zur Bereitstellung von Arbeitsmaterialien, während die Arbeitnehmenden keine wesentlichen Pflichten haben.",
+        "Durch den Einzelarbeitsvertrag verpflichten sich Arbeitnehmende zur Kapitalanlage im Unternehmen und Arbeitgebende zur Gewinnbeteiligung."
+      ],
+    },
+    {
+      "correct_sentence": "Der Einzelarbeitsvertrag ist formlos gültig, aber der Arbeitgeber hat eine Informationspflicht.",
+      "wrong_alternatives": [
+        "Ein Einzelarbeitsvertrag ist nur in schriftlicher Form und mit notarieller Beglaubigung gültig, um Rechtssicherheit zu gewährleisten.",
+        "Der Einzelarbeitsvertrag ist zwar formfrei, aber es besteht keine Informationspflicht des Arbeitgebers gegenüber dem Arbeitnehmer."
+      ],
+    },
+    {
+      "correct_sentence": "Die Probezeit in einem unbefristeten Arbeitsverhältnis beträgt üblicherweise einen Monat.",
+      "wrong_alternatives": [
+        "In der Schweiz gibt es keine Probezeit in unbefristeten Arbeitsverhältnissen, da der Schutz der Arbeitnehmer von Beginn an gewährleistet sein muss.",
+        "Die gesetzliche Probezeit in unbefristeten Arbeitsverhältnissen beträgt immer mindestens sechs Monate, um eine umfassende Einarbeitung zu ermöglichen."
+      ],
+    },
+    {
+      "correct_sentence": "Arbeitnehmende müssen die vereinbarte Arbeit persönlich leisten und sorgfältig ausführen.",
+      "wrong_alternatives": [
+        "Arbeitnehmende können ihre Arbeitsleistung jederzeit durch Dritte erbringen lassen, solange das Ergebnis den Anforderungen des Arbeitgebers entspricht.",
+        "Die persönliche Arbeitsleistung ist im Arbeitsrecht irrelevant, entscheidend ist allein die fristgerechte Abgabe der Arbeitsergebnisse, unabhängig von der Sorgfalt."
+      ],
+    },
+    {
+      "correct_sentence": "Für Schäden, die Arbeitnehmende fahrlässig verursachen, können sie haftbar gemacht werden.",
+      "wrong_alternatives": [
+        "Arbeitnehmende sind grundsätzlich niemals für Schäden haftbar, die sie im Rahmen ihrer Arbeitstätigkeit verursachen, da das Betriebsrisiko allein beim Arbeitgeber liegt.",
+        "Die Haftung von Arbeitnehmenden für Schäden erstreckt sich auch auf Schäden, die durch höhere Gewalt oder unvorhersehbare Ereignisse entstehen."
+      ],
+    },
+    {
+      "correct_sentence": "Arbeitnehmende haben eine Treuepflicht gegenüber dem Arbeitgeber, einschliesslich der Wahrung von Geschäftsgeheimnissen.",
+      "wrong_alternatives": [
+        "Die Treuepflicht der Arbeitnehmenden beschränkt sich auf die Arbeitszeit und endet mit dem Verlassen des Arbeitsplatzes, Geschäftsgeheimnisse sind davon ausgenommen.",
+        "Geschäftsgeheimnisse müssen von Arbeitnehmenden nicht beachtet werden, da das Recht auf freie Meinungsäusserung und Informationsweitergabe Vorrang hat."
+      ],
+    },
+    {
+      "correct_sentence": "Überstunden müssen geleistet werden, wenn sie betrieblich notwendig und zumutbar sind.",
+      "wrong_alternatives": [
+        "Arbeitnehmende sind grundsätzlich verpflichtet, jede Anordnung von Überstunden des Arbeitgebers zu befolgen, unabhängig von der Zumutbarkeit.",
+        "Überstunden dürfen vom Arbeitgeber nur mit Zustimmung des Betriebsrats oder der Gewerkschaft angeordnet werden, selbst bei dringender betrieblicher Notwendigkeit."
+      ],
+    },
+    {
+      "correct_sentence": "Überstunden können durch Freizeit oder mit einem Lohnzuschlag von mindestens 25 Prozent abgegolten werden.",
+      "wrong_alternatives": [
+        "Die Abgeltung von Überstunden erfolgt ausschliesslich durch Freizeitgewährung, eine finanzielle Entschädigung in Form eines Lohnzuschlags ist gesetzlich nicht vorgesehen.",
+        "Überstunden werden pauschal mit einem Zuschlag von 5 Prozent abgegolten, unabhängig von der Dauer der Überstunden oder der Art der Kompensation."
+      ],
+    },
+    {
+      "correct_sentence": "Arbeitgebende sind zur Lohnzahlung verpflichtet, üblicherweise monatlich am Ende des Monats.",
+      "wrong_alternatives": [
+        "Die Lohnzahlungspflicht der Arbeitgebenden besteht nur bei Erreichen bestimmter Leistungsziele der Arbeitnehmenden, eine garantierte monatliche Zahlung ist nicht üblich.",
+        "Arbeitgebende sind gesetzlich verpflichtet, den Lohn wöchentlich im Voraus zu bezahlen, um die finanzielle Sicherheit der Arbeitnehmenden zu gewährleisten."
+      ],
+    },
+    {
+      "correct_sentence": "Bei begründeter Verhinderung des Arbeitnehmers, z.B. Krankheit, besteht Anspruch auf Lohnfortzahlung für eine beschränkte Zeit.",
+      "wrong_alternatives": [
+        "Eine Lohnfortzahlung bei Verhinderung des Arbeitnehmers ist im Schweizer Arbeitsrecht nicht vorgesehen, da das Risiko allein beim Arbeitnehmer liegt.",
+        "Die Lohnfortzahlung bei Verhinderung des Arbeitnehmers ist zeitlich unbegrenzt und umfasst den vollen Lohn, unabhängig von der Dauer des Arbeitsverhältnisses."
+      ],
+    },
+    {
+      "correct_sentence": "Der Ferienanspruch beträgt mindestens vier Wochen pro Kalenderjahr für Arbeitnehmende ab 20 Jahren.",
+      "wrong_alternatives": [
+        "Der gesetzliche Mindestferienanspruch in der Schweiz beträgt nur zwei Wochen pro Kalenderjahr, um die Wettbewerbsfähigkeit der Unternehmen nicht zu gefährden.",
+        "Für Arbeitnehmende unter 20 Jahren gilt ein geringerer Ferienanspruch von nur drei Wochen jährlich, um die Produktivität junger Arbeitskräfte zu maximieren."
+      ],
+    },
+    {
+      "correct_sentence": "Ferien dienen der Erholung und dürfen grundsätzlich nicht durch Geldleistungen abgegolten werden.",
+      "wrong_alternatives": [
+        "Die Abgeltung von Ferien durch Geldleistungen ist jederzeit zulässig und üblich, um den Arbeitnehmenden maximale Flexibilität zu ermöglichen.",
+        "Ferien können durch Geldleistungen abgegolten werden, wenn der Arbeitnehmer dies wünscht und der Arbeitgeber zustimmt, auch während des laufenden Arbeitsverhältnisses."
+      ],
+    },
+    {
+      "correct_sentence": "Arbeitnehmende haben Anspruch auf ein Arbeitszeugnis, das Auskunft über Art, Dauer, Leistung und Verhalten gibt.",
+      "wrong_alternatives": [
+        "Ein Arbeitszeugnis wird nur auf ausdrücklichen Wunsch des Arbeitgebers ausgestellt und ist keine Pflicht des Arbeitgebers gegenüber dem Arbeitnehmer.",
+        "Das Arbeitszeugnis beschränkt sich auf die reine Bestätigung der Anstellungsdauer und enthält keine Aussagen zu Leistung oder Verhalten des Arbeitnehmers."
+      ],
+    },
+    {
+      "correct_sentence": "Bei Streitigkeiten am Arbeitsplatz ist eine gütliche Einigung einem Gerichtsverfahren oft vorzuziehen.",
+      "wrong_alternatives": [
+        "Gerichtsverfahren sind bei Arbeitsstreitigkeiten immer der beste Weg, um eine schnelle und gerechte Lösung im Sinne des Arbeitnehmers zu erzielen.",
+        "Gütliche Einigungen in Arbeitsstreitigkeiten sind rechtlich nicht bindend und bieten daher keine zuverlässige Lösung für die Parteien."
+      ],
+    }
+  ]
+}

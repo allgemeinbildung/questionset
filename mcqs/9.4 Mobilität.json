@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Mobilität",
+  "headerImage": "img1.png",
+  "media": {
+      "type": "",
+      "url": "",
+      "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Um wie viel Prozent wird der öffentliche Verkehr in der Schweiz Prognosen zufolge bis 2045 wachsen?</p>",
+      "options": [
+        {
+          "text": "Um 18 Prozent",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>18 Prozent</strong> Wachstum sind für den <strong>motorisierten Individualverkehr</strong> prognostiziert, nicht für den öffentlichen Verkehr."
+        },
+        {
+          "text": "Um 32 Prozent",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>32 Prozent</strong> Wachstum sind für den <strong>Langsamverkehr</strong> (Fussgänger, Velos) prognostiziert."
+        },
+        {
+          "text": "Um 51 Prozent",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Für den <strong>öffentlichen Verkehr</strong> wird ein Wachstum von <strong>51 Prozent</strong> bis 2045 erwartet."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viel Prozent der schweizerischen Landesfläche benötigt die Verkehrsinfrastruktur?</p>",
+      "options": [
+        {
+          "text": "2 Prozent",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Verkehrsinfrastruktur</strong> benötigt gut <strong>2 Prozent</strong> der schweizerischen Landesfläche."
+        },
+        {
+          "text": "10 Prozent",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>10 Prozent</strong> ist zu hoch. Der Wert liegt bei <strong>2 Prozent</strong>."
+        },
+        {
+          "text": "25 Prozent",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>25 Prozent</strong> ist deutlich zu hoch. Der Wert liegt bei <strong>2 Prozent</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welchen Anteil am Endenergieverbrauch der Schweiz hatte der Verkehr im Jahr 2019?</p>",
+      "options": [
+        {
+          "text": "15 Prozent",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>15 Prozent</strong> ist zu niedrig. Der Anteil des Verkehrs war deutlich höher."
+        },
+        {
+          "text": "38 Prozent",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der <strong>Verkehr</strong> verursachte 2019 rund <strong>38 Prozent</strong> des Endenergieverbrauchs."
+        },
+        {
+          "text": "60 Prozent",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>60 Prozent</strong> ist zu hoch. Der Anteil lag bei <strong>38 Prozent</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie hoch waren die CO2-Emissionen des Verkehrs in der Schweiz im Jahr 2019 (ohne internationalen Flugverkehr)?</p>",
+      "options": [
+        {
+          "text": "4,8 Millionen Tonnen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>4,8 Millionen Tonnen</strong> ist zu niedrig. Die Emissionen waren höher."
+        },
+        {
+          "text": "14,8 Millionen Tonnen",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>CO2-Emissionen</strong> des Verkehrs beliefen sich auf <strong>14,8 Millionen Tonnen</strong>."
+        },
+        {
+          "text": "24,8 Millionen Tonnen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>24,8 Millionen Tonnen</strong> ist zu hoch. Die Emissionen lagen bei <strong>14,8 Millionen Tonnen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Jahr startete der Bundesrat das Pilotprojekt «Mobility Pricing»?</p>",
+      "options": [
+        {
+          "text": "2010",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>2010</strong> ist zu früh. Das Projekt startete später."
+        },
+        {
+          "text": "2021",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Bundesrat startete das Pilotprojekt <strong>«Mobility Pricing»</strong> im Frühling <strong>2021</strong>."
+        },
+        {
+          "text": "2030",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>2030</strong> liegt in der Zukunft. Das Projekt startete früher."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum stehen Schweizer Stadtregionen vor grossen Herausforderungen im Bereich Mobilität?</p>",
+      "options": [
+        {
+          "text": "Weil die Bevölkerung und die Wirtschaft dort besonders stark wachsen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Bevölkerungs- und Wirtschaftswachstum</strong> konzentrieren sich in <strong>Stadtregionen</strong> und verstärken die Herausforderungen."
+        },
+        {
+          "text": "Weil ländliche Regionen den Grossteil des Verkehrs aufnehmen müssen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es sind die <strong>Stadtregionen</strong>, die den Grossteil des Verkehrs und des Wachstums auffangen müssen."
+        },
+        {
+          "text": "Weil die Infrastruktur in ländlichen Regionen besser ausgebaut ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Herausforderungen konzentrieren sich auf <strong>Stadtregionen</strong>, wo die Infrastruktur oft an ihre Grenzen stösst."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche zwei Hauptgründe zwingen zur Neufinanzierung des Verkehrs in der Schweiz?</p>",
+      "options": [
+        {
+          "text": "Zunahme der Verkehrsleistung und Trend zur Elektromobilität.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Verkehrszunahme</strong> und der <strong>Trend zur Elektromobilität</strong>, der Treibstoffzolleinnahmen reduziert, sind die Hauptgründe."
+        },
+        {
+          "text": "Abnahme der Bevölkerung und sinkende Wirtschaft.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist das Gegenteil der Fall: <strong>Bevölkerung und Wirtschaft wachsen</strong>, was die Finanzierung vor neue Herausforderungen stellt."
+        },
+        {
+          "text": "Zunahme von Dieselfahrzeugen und sinkende Kosten für Strassenbau.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Trend geht <strong>weg von Diesel</strong>, hin zur <strong>Elektromobilität</strong>, und die Kosten für Strassenbau sinken nicht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welcher Trend prägt die zukünftige Mobilität massgeblich?</p>",
+      "options": [
+        {
+          "text": "Die Nutzung von Verbrennungsmotoren wird weiter zunehmen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Trend geht weg von <strong>Verbrennungsmotoren</strong>."
+        },
+        {
+          "text": "Die Elektrifizierung des Verkehrs.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Trend heisst <strong>Elektrifizierung</strong>, also der Übergang zu Elektroantrieben."
+        },
+        {
+          "text": "Die Verlagerung des Verkehrs auf die Strasse.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht um eine <strong>nachhaltigere Mobilität</strong>, nicht um eine reine Verlagerung auf die Strasse."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist das Grundprinzip von «Mobility Pricing»?</p>",
+      "options": [
+        {
+          "text": "Pauschalpreise für die Nutzung von Strassen und Schienen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Pauschalpreise</strong> sind nicht Teil des Mobility Pricing-Konzepts."
+        },
+        {
+          "text": "Variable Preise je nach Zeitpunkt und Nutzung von Strasse oder Schiene.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Mobility Pricing</strong> basiert auf <strong>variablen Preisen</strong>, abhängig von Zeitpunkt und Nutzung."
+        },
+        {
+          "text": "Kostenlose Nutzung von Strassen und Schienen für alle.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Kostenlose Nutzung</strong> ist nicht das Ziel, sondern eine <strong>gesteuerte und faire Preisgestaltung</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen Hauptvorteil bietet das autonome Fahren?</p>",
+      "options": [
+        {
+          "text": "Geringere Verkehrssicherheit.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Autonomes Fahren zielt auf eine <strong>Erhöhung der Sicherheit</strong> ab."
+        },
+        {
+          "text": "Nutzbare Zeit während der Fahrt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der grösste Mehrwert ist die <strong>nutzbare Zeit</strong>, da der Fahrer nicht mehr aktiv fahren muss."
+        },
+        {
+          "text": "Erhöhter Energieverbrauch.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Autonomes Fahren soll auch zur <strong>Optimierung des Energieverbrauchs</strong> beitragen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Grossteil der Verkehrsflächen in der Schweiz entfällt auf Eisenbahnstrecken.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch. Der Grossteil der Verkehrsflächen entfällt auf Strassen und Autobahnen.",
+      "feedback_incorrect": "❌ Falsch. Der Grossteil der Verkehrsflächen entfällt auf Strassen und Autobahnen, nicht auf Eisenbahnstrecken."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Energiebedarf des Verkehrs in der Schweiz wird hauptsächlich mit erneuerbaren Energien gedeckt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch. Der Energiebedarf des Verkehrs wird zu 94 Prozent mit Erdölprodukten gedeckt.",
+      "feedback_incorrect": "❌ Falsch. Der Energiebedarf des Verkehrs wird hauptsächlich mit Erdölprodukten gedeckt, nicht mit erneuerbaren Energien."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die verkehrsbedingten CO2-Emissionen in der Schweiz haben zwischen 1990 und 2018 abgenommen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch. Die verkehrsbedingten CO2-Emissionen haben zwischen 1990 und 2018 zugenommen.",
+      "feedback_incorrect": "❌ Falsch. Die verkehrsbedingten CO2-Emissionen haben zugenommen, nicht abgenommen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>«Mobility Pricing» zielt darauf ab, die Verkehrskosten für alle Verkehrsteilnehmer generell zu erhöhen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch. «Mobility Pricing» zielt darauf ab, die Verkehrsspitzen zu glätten und die Kapazitäten besser auszunutzen, nicht primär auf eine generelle Kostenerhöhung.",
+      "feedback_incorrect": "❌ Falsch. «Mobility Pricing» zielt primär auf eine Verkehrssteuerung und bessere Auslastung ab, nicht auf eine generelle Kostenerhöhung für alle."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>E-Bikes haben seit Beginn der 2010er-Jahre sehr hohe Zuwachsraten erfahren.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! E-Bikes haben seit Beginn der 2010er-Jahre tatsächlich sehr hohe Zuwachsraten.",
+      "feedback_incorrect": "❌ Falsch. E-Bikes haben seit Beginn der 2010er-Jahre tatsächlich sehr hohe Zuwachsraten erfahren."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Autonomes Fahren auf Level 4 ist bereits heute flächendeckend verfügbar.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch. Autonomes Fahren auf Level 4 ist noch nicht flächendeckend verfügbar und befindet sich noch in der Entwicklung.",
+      "feedback_incorrect": "❌ Falsch. Autonomes Fahren auf Level 4 ist noch nicht flächendeckend verfügbar und ist grösstenteils noch Zukunftsmusik."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "title": "Das Wichtigste in Kürze - Nachhaltigkeit",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "correct_sentence": "Nachhaltigkeit bedeutet, Ressourcen verantwortungsvoll zu nutzen, sodass zukünftige Generationen ihre Bedürfnisse ebenfalls befriedigen können.",
+      "wrong_alternatives": [
+        "Nachhaltigkeit beschreibt die kurzfristige Ausbeutung von Ressourcen zur sofortigen Bedürfnisbefriedigung ohne Rücksicht auf kommende Generationen.",
+        "Nachhaltigkeit meint, dass wir alle Ressourcen sofort verbrauchen sollten, um die Wirtschaft anzukurbeln und den Konsum zu maximieren."
+      ]
+    },
+    {
+      "correct_sentence": "Der Begriff der Nachhaltigkeit stammt ursprünglich aus der Forstwirtschaft, wo nur so viel Holz geschlagen wird, wie nachwachsen kann.",
+      "wrong_alternatives": [
+        "Die Idee der Nachhaltigkeit entstand in der Erdölindustrie, um die maximale Förderung fossiler Brennstoffe zu optimieren.",
+        "Nachhaltigkeit wurde zuerst in der Finanzwelt populär, um kurzfristige Gewinne durch ressourcenintensive Anlagen zu maximieren."
+      ]
+    },
+    {
+      "correct_sentence": "Ökologische Nachhaltigkeit zielt darauf ab, Natur und Umwelt für nachfolgende Generationen zu erhalten, beispielsweise durch Klimaschutz und Artenvielfalt.",
+      "wrong_alternatives": [
+        "Ökologische Nachhaltigkeit konzentriert sich primär auf die Steigerung der industriellen Produktion, um den materiellen Wohlstand der aktuellen Generation zu maximieren.",
+        "Ökologische Nachhaltigkeit ignoriert wirtschaftliche Bedürfnisse und fordert eine vollständige Rückkehr zur Natur ohne Berücksichtigung menschlicher Entwicklung."
+      ]
+    },
+    {
+      "correct_sentence": "Ökonomische Nachhaltigkeit strebt eine dauerhaft tragfähige Wirtschaft an, die Erwerb und Wohlstand sichert, ohne Ressourcen auszubeuten.",
+      "wrong_alternatives": [
+        "Ökonomische Nachhaltigkeit befürwortet die ungezügelte Ausbeutung natürlicher Ressourcen, um kurzfristig den grösstmöglichen Profit zu erzielen.",
+        "Ökonomische Nachhaltigkeit setzt auf kurzlebige Konsumgüter und plant Obsoleszenz, um den Wirtschaftskreislauf anzukurbeln und Arbeitsplätze zu schaffen."
+      ]
+    },
+    {
+      "correct_sentence": "Soziale Nachhaltigkeit fokussiert auf eine Gesellschaftsentwicklung, die allen Mitgliedern Teilhabe und eine lebenswerte Gemeinschaft ermöglicht.",
+      "wrong_alternatives": [
+        "Soziale Nachhaltigkeit befürwortet eine Gesellschaft, in der nur bestimmte Bevölkerungsgruppen von den Vorteilen des Fortschritts profitieren, während andere ausgeschlossen werden.",
+        "Soziale Nachhaltigkeit strebt eine homogene Gesellschaft an, in der individuelle Unterschiede minimiert werden, um Konflikte zu vermeiden und Einheitlichkeit zu fördern."
+      ]
+    },
+    {
+      "correct_sentence": "Der Erdgipfel in Rio de Janeiro 1992 etablierte nachhaltige Entwicklung als internationales Leitprinzip für Staaten, Wirtschaft und Zivilgesellschaft.",
+      "wrong_alternatives": [
+        "Der Erdgipfel in Rio de Janeiro 1992 lehnte nachhaltige Entwicklung als hinderlich für das Wirtschaftswachstum ab und bekräftigte die Priorität der Ressourcenausbeutung.",
+        "Der Erdgipfel in Rio de Janeiro 1992 war eine rein symbolische Veranstaltung ohne praktische Auswirkungen auf die internationale Politik und Wirtschaft."
+      ]
+    },
+    {
+      "correct_sentence": "Das Kyoto-Protokoll legte erstmals völkerrechtlich verbindliche Zielwerte zur Reduktion von Treibhausgasemissionen fest.",
+      "wrong_alternatives": [
+        "Das Kyoto-Protokoll war ein Abkommen ohne rechtliche Bindung, das lediglich Empfehlungen zur Reduktion von Treibhausgasen aussprach.",
+        "Das Kyoto-Protokoll verpflichtete ausschliesslich Entwicklungsländer zur Reduktion von Treibhausgasen, während Industrieländer von Verpflichtungen befreit wurden."
+      ]
+    },
+    {
+      "correct_sentence": "Das Pariser Klimaabkommen von 2015 zielte darauf ab, die Erderwärmung auf deutlich unter 2 Grad Celsius, möglichst 1,5 Grad, zu begrenzen.",
+      "wrong_alternatives": [
+        "Das Pariser Klimaabkommen setzte das Ziel, die Erderwärmung auf maximal 4 Grad Celsius zu begrenzen, um wirtschaftliche Einschränkungen zu minimieren.",
+        "Das Pariser Klimaabkommen erklärte den Klimawandel für unbedenklich und empfahl, sich an die steigenden Temperaturen anzupassen, anstatt Emissionen zu reduzieren."
+      ]
+    },
+    {
+      "correct_sentence": "Der Glasgow Climate Pact von 2021 formulierte das Ziel, die Erderwärmung auf 1,5 Grad zu begrenzen, noch deutlicher als das Pariser Abkommen.",
+      "wrong_alternatives": [
+        "Der Glasgow Climate Pact von 2021 revidierte das Ziel des Pariser Abkommens und erlaubte eine Erderwärmung von bis zu 3 Grad Celsius.",
+        "Der Glasgow Climate Pact von 2021 erklärte das Ziel, die Erderwärmung auf 1,5 Grad zu begrenzen, für unrealistisch und schlug vor, sich auf Anpassungsmassnahmen zu konzentrieren."
+      ]
+    },
+    {
+      "correct_sentence": "Umweltpolitische Instrumente des Staates umfassen Appelle, Anreize, Verbote/Beschränkungen und Nachsorge.",
+      "wrong_alternatives": [
+        "Umweltpolitische Instrumente des Staates beschränken sich ausschliesslich auf Verbote und Strafen, um umweltschädliches Verhalten zu unterbinden.",
+        "Umweltpolitische Instrumente des Staates beinhalten nur Appelle an die Bevölkerung, da staatliche Eingriffe in die Wirtschaft und individuelle Freiheit unerwünscht sind."
+      ]
+    },
+    {
+      "correct_sentence": "Appelle an die Bevölkerung setzen auf Freiwilligkeit und Bewusstseinsbildung, haben aber oft geringen direkten Einfluss auf Verhaltensänderungen.",
+      "wrong_alternatives": [
+        "Appelle an die Bevölkerung sind das wirksamste umweltpolitische Instrument, da sie sofortige und tiefgreifende Verhaltensänderungen bewirken.",
+        "Appelle an die Bevölkerung sind überflüssig, da Menschen sich ohnehin umweltbewusst verhalten und keine zusätzliche Motivation benötigen."
+      ]
+    },
+    {
+      "correct_sentence": "Anreize vom Staat fördern umweltgerechtes Verhalten durch finanzielle Vorteile oder andere Belohnungen, wie z.B. weniger Steuern für «saubere» Autos.",
+      "wrong_alternatives": [
+        "Anreize vom Staat sind ineffektiv und ungerecht, da sie umweltfreundliches Verhalten belohnen, das eigentlich selbstverständlich sein sollte.",
+        "Anreize vom Staat sollten ausschliesslich an Unternehmen vergeben werden, da individuelle Anreize keine messbaren Auswirkungen auf das Umweltverhalten haben."
+      ]
+    },
+    {
+      "correct_sentence": "Verbote und Beschränkungen durch den Staat limitieren oder untersagen umweltbelastende Aktivitäten, wie das FCKW-Verbot oder Tempolimiten.",
+      "wrong_alternatives": [
+        "Verbote und Beschränkungen sind undemokratisch und schränken die persönliche Freiheit unnötig ein, ohne einen wesentlichen Beitrag zum Umweltschutz zu leisten.",
+        "Verbote und Beschränkungen sollten nur temporär eingesetzt werden, da sie langfristig die wirtschaftliche Entwicklung hemmen und Innovationen verhindern."
+      ]
+    },
+    {
+      "correct_sentence": "Nachsorge durch den Staat akzeptiert Umweltverschmutzung, beseitigt aber nachträglich entstandene Schäden, z.B. durch Abwasserreinigungsanlagen.",
+      "wrong_alternatives": [
+        "Nachsorge durch den Staat ist die effektivste Methode, da sie Umweltverschmutzung von vornherein verhindert und keine Schäden entstehen lässt.",
+        "Nachsorge durch den Staat ist unnötig, da sich die Natur selbst regenerieren kann und staatliche Eingriffe nur unnötige Kosten verursachen."
+      ]
+    },
+    {
+      "correct_sentence": "Die Energiestrategie 2050 der Schweiz zielt auf den schrittweisen Ausstieg aus der Kernenergie nach der Nuklearkatastrophe von Fukushima.",
+      "wrong_alternatives": [
+        "Die Energiestrategie 2050 der Schweiz plant den Ausbau der Kernenergie, um die Energieversorgung zu sichern und unabhängiger von erneuerbaren Energien zu werden.",
+        "Die Energiestrategie 2050 der Schweiz ignoriert die Kernenergie vollständig und konzentriert sich ausschliesslich auf fossile Brennstoffe als Übergangstechnologie."
+      ]
+    },
+    {
+      "correct_sentence": "Die Energiestrategie 2050 beinhaltet drei Hauptbereiche: Senkung des Energieverbrauchs, Förderung erneuerbarer Energien und Verzicht auf neue Kernkraftwerke.",
+      "wrong_alternatives": [
+        "Die Energiestrategie 2050 konzentriert sich auf einen einzigen Bereich, nämlich die Steigerung der Energieproduktion durch Kernkraft, um den wachsenden Bedarf zu decken.",
+        "Die Energiestrategie 2050 setzt ausschliesslich auf Energieimporte aus dem Ausland, da die Schweiz keine eigenen nachhaltigen Energiequellen besitzt."
+      ]
+    },
+    {
+      "correct_sentence": "Die 2000-Watt-Gesellschaft ist ein Modell, das den durchschnittlichen Energieverbrauch pro Kopf auf 2000 Watt senken will.",
+      "wrong_alternatives": [
+        "Die 2000-Watt-Gesellschaft strebt eine Verdopplung des Energieverbrauchs pro Kopf an, um den Lebensstandard zu erhöhen und wirtschaftliches Wachstum zu fördern.",
+        "Die 2000-Watt-Gesellschaft ist ein theoretisches Konzept ohne praktische Relevanz für die Realität des modernen Energieverbrauchs."
+      ]
+    },
+    {
+      "correct_sentence": "Die 2000-Watt-Gesellschaft soll durch technologische Entwicklung und persönlichen Verzicht erreicht werden.",
+      "wrong_alternatives": [
+        "Die 2000-Watt-Gesellschaft kann ausschliesslich durch staatliche Regulierungen und Verbote erreicht werden, da individueller Verzicht keine messbaren Auswirkungen hat.",
+        "Die 2000-Watt-Gesellschaft setzt primär auf persönlichen Verzicht und ignoriert technologische Innovationen als irrelevant für die Reduktion des Energieverbrauchs."
+      ]
+    },
+    {
+      "correct_sentence": "Aktuell lebt die Schweiz in einer 6500-Watt-Gesellschaft und verbraucht mehr als das Dreifache dessen, was nachhaltig wäre.",
+      "wrong_alternatives": [
+        "Die Schweiz lebt bereits in einer 2000-Watt-Gesellschaft und ist weltweit führend im Bereich der nachhaltigen Energienutzung und Ressourceneffizienz.",
+        "Die Schweiz verbraucht weniger Energie als der weltweite Durchschnitt und leistet bereits einen überproportionalen Beitrag zum globalen Umweltschutz."
+      ]
+    },
+    {
+      "correct_sentence": "Nachhaltigkeit erfordert ein Umdenken in vielen Lebensbereichen, um Ressourcen zu schonen und die Umweltbelastung zu reduzieren.",
+      "wrong_alternatives": [
+        "Nachhaltigkeit ist ein kurzfristiger Trend, der bald wieder verschwinden wird, da er im Widerspruch zu wirtschaftlichem Wachstum und individuellem Konsum steht.",
+        "Nachhaltigkeit ist primär ein Problem der Industrie und Politik, während das individuelle Verhalten des Einzelnen keine wesentliche Rolle spielt."
+      ]
+    }
+  ]
+}

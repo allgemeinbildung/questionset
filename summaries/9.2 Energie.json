@@ -1,0 +1,151 @@
+{
+  "title": "Zusammenfassung Energie und Ressourcen",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "correct_sentence": "Energie ist die treibende Kraft der Wirtschaft und für unser modernes Leben unerlässlich.",
+      "wrong_alternatives": [
+        "Energie spielt in der Wirtschaft eine untergeordnete Rolle und ist im Alltag leicht durch andere Faktoren zu ersetzen.",
+        "Obwohl Energie wichtig ist, könnte unser Alltag auch ohne Energie in seiner jetzigen Form problemlos funktionieren."
+      ]
+    },
+    {
+      "correct_sentence": "Da traditionelle Energieträger wie Erdöl begrenzt sind, ist die Erforschung und Nutzung von Alternativen entscheidend.",
+      "wrong_alternatives": [
+        "Die Reserven an Erdöl sind unbegrenzt, daher besteht keine Notwendigkeit, nach alternativen Energiequellen zu suchen.",
+        "Die Suche nach alternativen Energiequellen ist zwar wünschenswert, aber nicht dringend, da Erdölreserven noch für Jahrhunderte ausreichen."
+      ]
+    },
+    {
+      "correct_sentence": "Die weltweite Energienachfrage und der Verbrauch nehmen stetig zu, was einen verantwortungsvollen Umgang erfordert.",
+      "wrong_alternatives": [
+        "Der weltweite Energieverbrauch stagniert oder sinkt sogar, was die Notwendigkeit eines sorgsamen Umgangs mit Energie überflüssig macht.",
+        "Obwohl der Energieverbrauch steigt, ist dies kein Problem, da die Ressourcen der Erde unerschöpflich sind."
+      ]
+    },
+    {
+      "correct_sentence": "Erneuerbare Energiequellen wie Wasserkraft, Wind- und Sonnenenergie nutzen unerschöpfliche natürliche Prozesse.",
+      "wrong_alternatives": [
+        "Erneuerbare Energiequellen sind zwar umweltfreundlich, aber ihre Verfügbarkeit ist unberechenbar und daher unzuverlässig für die Energieversorgung.",
+        "Im Gegensatz zu erneuerbaren Energien sind nicht erneuerbare Energiequellen wie Kohle und Erdöl umweltfreundlicher und nachhaltiger."
+      ]
+    },
+    {
+      "correct_sentence": "Wasserkraftwerke wandeln die Bewegungsenergie von Wasser in elektrische Energie um.",
+      "wrong_alternatives": [
+        "Wasserkraftwerke nutzen chemische Reaktionen, um aus Wasser Energie zu gewinnen, ähnlich wie bei Kernkraftwerken.",
+        "Die Hauptfunktion von Wasserkraftwerken ist die Wasserreinigung, wobei Energieerzeugung nur ein Nebeneffekt ist."
+      ]
+    },
+    {
+      "correct_sentence": "Windenergieanlagen nutzen die Bewegungsenergie des Windes, um Strom zu erzeugen.",
+      "wrong_alternatives": [
+        "Windenergieanlagen erzeugen Energie, indem sie Schallwellen des Windes in elektrische Energie umwandeln, was zu Lärmbelästigung führt.",
+        "Die Effizienz von Windenergieanlagen ist unabhängig von der Windstärke, da sie primär auf Sonnenenergie basieren."
+      ]
+    },
+    {
+      "correct_sentence": "Sonnenenergie wird aus der Strahlung der Sonne gewonnen und kann in Wärme oder Strom umgewandelt werden.",
+      "wrong_alternatives": [
+        "Sonnenenergie ist nur nachts verfügbar, da sie die gespeicherte Wärme der Sonne während des Tages nutzt.",
+        "Die Umwandlung von Sonnenenergie in Strom ist ineffizient und unwirtschaftlich, weshalb sie kaum genutzt wird."
+      ]
+    },
+    {
+      "correct_sentence": "Geothermie nutzt die im Erdinneren gespeicherte Wärme zur Energiegewinnung.",
+      "wrong_alternatives": [
+        "Geothermie ist eine seltene und teure Technologie, die nur in wenigen Regionen der Welt eingesetzt werden kann.",
+        "Die Nutzung von Geothermie ist umweltschädlich, da sie zur Freisetzung von schädlichen Gasen aus dem Erdinneren führt."
+      ]
+    },
+    {
+      "correct_sentence": "Biomasse wird vergoren, um Biogas zu erzeugen, das als Brennstoff oder zur Stromerzeugung genutzt werden kann.",
+      "wrong_alternatives": [
+        "Biomasse ist keine nachhaltige Energiequelle, da ihre Verbrennung mehr CO2 freisetzt als fossile Brennstoffe.",
+        "Biogas ist ein gefährliches und instabiles Gas, das für die Energiegewinnung ungeeignet ist."
+      ]
+    },
+    {
+      "correct_sentence": "Kernenergie entsteht durch die Spaltung von Uran oder Plutonium, wobei erhebliche Energiemengen freigesetzt werden.",
+      "wrong_alternatives": [
+        "Kernenergie ist eine Form der erneuerbaren Energie, da Uran und Plutonium in der Natur unbegrenzt vorkommen.",
+        "Kernspaltung erzeugt weniger Energie pro Masse als chemische Reaktionen, was sie ineffizient macht."
+      ]
+    },
+    {
+      "correct_sentence": "Nicht erneuerbare Energiequellen wie Erdöl, Erdgas und Kohle sind endlich und belasten die Umwelt stärker.",
+      "wrong_alternatives": [
+        "Nicht erneuerbare Energiequellen sind umweltfreundlicher als erneuerbare, da sie weniger Fläche für Anlagen benötigen.",
+        "Die Nutzung nicht erneuerbarer Energiequellen ist nachhaltig, da sie im natürlichen Kreislauf der Erde enthalten sind."
+      ]
+    },
+    {
+      "correct_sentence": "Erdöl dient als Treibstoff und ist wichtig für die Chemieindustrie, aber seine Menge ist begrenzt.",
+      "wrong_alternatives": [
+        "Erdöl ist hauptsächlich für die Stromerzeugung relevant und spielt in der Chemieindustrie keine wesentliche Rolle.",
+        "Die weltweiten Erdölreserven sind unerschöpflich, sodass keine Knappheit zu befürchten ist."
+      ]
+    },
+    {
+      "correct_sentence": "Erdgas verbrennt sauberer als Kohle und Erdöl und wird vielfältig eingesetzt, auch als Treibstoff.",
+      "wrong_alternatives": [
+        "Erdgas ist der umweltschädlichste fossile Brennstoff und trägt am meisten zur globalen Erwärmung bei.",
+        "Erdgas kann nicht als Treibstoff für Fahrzeuge verwendet werden und ist hauptsächlich auf industrielle Anwendungen beschränkt."
+      ]
+    },
+    {
+      "correct_sentence": "Kohle entstand aus Pflanzenresten und wird hauptsächlich zur Stromerzeugung verbrannt, setzt aber viel CO2 frei.",
+      "wrong_alternatives": [
+        "Kohle ist eine erneuerbare Energiequelle, da sie aus schnell nachwachsenden Pflanzen gewonnen wird.",
+        "Die Verbrennung von Kohle ist CO2-neutral und trägt nicht zur globalen Erwärmung bei."
+      ]
+    },
+    {
+      "correct_sentence": "Der weltweite Energieverbrauch steigt, besonders in Nicht-Industrieländern, was Ressourcenabbau und Emissionen verstärkt.",
+      "wrong_alternatives": [
+        "Der Energieverbrauch sinkt weltweit, da Industrieländer auf erneuerbare Energien umsteigen und Nicht-Industrieländer wenig Energie benötigen.",
+        "Der steigende Energieverbrauch ist unproblematisch, da technologische Fortschritte alle Umweltfolgen kompensieren können."
+      ]
+    },
+    {
+      "correct_sentence": "Die Schweiz nutzt intensiv Wasserkraft und Atomkraft zur Stromproduktion, ist aber abhängig von fossilen Brennstoffen für den Gesamtenergiebedarf.",
+      "wrong_alternatives": [
+        "Die Schweiz ist vollständig unabhängig von fossilen Brennstoffen und deckt ihren gesamten Energiebedarf ausschliesslich mit erneuerbaren Energien.",
+        "Atomkraft spielt in der Energieversorgung der Schweiz keine Rolle, da das Land vollständig auf Wasserkraft setzt."
+      ]
+    },
+    {
+      "correct_sentence": "Wasser ist eine lebensnotwendige Ressource, von der nur ein geringer Teil als Süsswasser direkt verfügbar ist.",
+      "wrong_alternatives": [
+        "Süsswasser ist im Überfluss vorhanden und stellt keine knappe Ressource dar, da der grösste Teil der Erdoberfläche mit Wasser bedeckt ist.",
+        "Salzwasser ist genauso nutzbar wie Süsswasser und kann problemlos alle Bedürfnisse decken, wodurch Süsswasser irrelevant wird."
+      ]
+    },
+    {
+      "correct_sentence": "Der globale Wasserverbrauch steigt überproportional zum Bevölkerungswachstum, was zu Wassermangel in vielen Regionen führt.",
+      "wrong_alternatives": [
+        "Der Wasserverbrauch sinkt weltweit, da effizientere Technologien und Wassersparmassnahmen greifen.",
+        "Wassermangel ist kein globales Problem, sondern betrifft nur wenige isolierte Regionen ohne globale Auswirkungen."
+      ]
+    },
+    {
+      "correct_sentence": "Graue Energie bezeichnet die Energie, die in Produkten steckt und für deren Lebenszyklus aufgewendet wird.",
+      "wrong_alternatives": [
+        "Graue Energie ist eine Form erneuerbarer Energie, die aus recycelten Materialien gewonnen wird und besonders umweltfreundlich ist.",
+        "Graue Energie ist irrelevant für den Gesamtenergieverbrauch, da sie nur einen minimalen Anteil ausmacht und vernachlässigt werden kann."
+      ]
+    },
+    {
+      "correct_sentence": "Ökobilanzen bewerten die Umweltbelastung von Produkten und Energieformen über ihren gesamten Lebensweg.",
+      "wrong_alternatives": [
+        "Ökobilanzen beschränken sich auf die Bewertung der direkten Energiekosten eines Produkts während der Nutzungsphase.",
+        "Ökobilanzen sind unwissenschaftlich und subjektiv, da sie keine messbaren Kriterien zur Umweltbewertung verwenden."
+      ]
+    }
+  ]
+}

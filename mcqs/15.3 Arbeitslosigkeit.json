@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Arbeitslosigkeit",
+  "headerImage": "img1.png",
+  "media": {
+      "type": "",
+      "url": "",
+      "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Altersgruppe wird in der Regel zur Jugendarbeitslosigkeit gezählt?</p>",
+      "options": [
+        {
+          "text": "15–24-Jährige",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die **Jugendarbeitslosigkeit** bezieht sich generell auf die Altersgruppe der **15–24-Jährigen**."
+        },
+        {
+          "text": "18–30-Jährige",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Jugendarbeitslosigkeit** wird üblicherweise für die Altersgruppe der **15–24-Jährigen** erfasst."
+        },
+        {
+          "text": "25–35-Jährige",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Jugendarbeitslosigkeit** konzentriert sich auf die jüngere Altersgruppe der **15–24-Jährigen**."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Institutionen in der Schweiz erfassen die Arbeitslosenzahlen?</p>",
+      "options": [
+        {
+          "text": "Regionale Arbeitsvermittlungszentren (RAV) und Internationale Arbeitsorganisation (ILO)",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! Die **RAV** und die **ILO** sind die massgeblichen Institutionen zur Erfassung der **Arbeitslosenzahlen** in der Schweiz."
+        },
+        {
+          "text": "Schweizerische Nationalbank (SNB) und Eidgenössische Steuerverwaltung (ESTV)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **SNB** und **ESTV** sind nicht direkt für die Erfassung der **Arbeitslosenzahlen** zuständig."
+        },
+        {
+          "text": "Bundesamt für Statistik (BFS) und Schweizerischer Gewerkschaftsbund (SGB)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl das **BFS** statistische Daten erhebt, sind die **RAV** und **ILO** primär für die **Arbeitslosenzahlen** zuständig."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Nennen Sie eine Massnahme, die in der Schweiz zur Unterstützung von Arbeitslosen eingesetzt wird.</p>",
+      "options": [
+        {
+          "text": "Arbeitslosenversicherung (ALV)",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die **Arbeitslosenversicherung (ALV)** ist ein wichtiges Instrument zur **Unterstützung von Arbeitslosen** in der Schweiz."
+        },
+        {
+          "text": "Negative Einkommenssteuer",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Negative Einkommenssteuer** ist kein gängiges Instrument zur **Arbeitslosenunterstützung** in der Schweiz."
+        },
+        {
+          "text": "Bürgergeld",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das **Bürgergeld** ist in der Schweiz kein etabliertes System zur **Arbeitslosenunterstützung**."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Art von Arbeitslosigkeit entsteht typischerweise durch saisonale Schwankungen in Branchen wie dem Tourismus?</p>",
+      "options": [
+        {
+          "text": "Saisonale Arbeitslosigkeit",
+          "is_correct": true,
+          "feedback": "✅ Genau! **Saisonale Arbeitslosigkeit** ist direkt mit **jahreszeitlich bedingten Nachfrageschwankungen** verbunden, wie im Tourismus."
+        },
+        {
+          "text": "Konjunkturelle Arbeitslosigkeit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Konjunkturelle Arbeitslosigkeit** hängt mit der **allgemeinen Wirtschaftslage** zusammen, nicht primär mit saisonalen Faktoren."
+        },
+        {
+          "text": "Friktionelle Arbeitslosigkeit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Friktionelle Arbeitslosigkeit** ist die **kurzzeitige Arbeitslosigkeit** beim Stellenwechsel."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Art der Arbeitslosigkeit wird oft als 'unvermeidlich' zwischen dem Verlassen einer alten und dem Antritt einer neuen Stelle bezeichnet?</p>",
+      "options": [
+        {
+          "text": "Friktionelle Arbeitslosigkeit",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Friktionelle Arbeitslosigkeit** beschreibt die **kurze Übergangsphase** beim Stellenwechsel und ist oft **unvermeidlich**."
+        },
+        {
+          "text": "Strukturelle Arbeitslosigkeit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Strukturelle Arbeitslosigkeit** ist durch **langfristige Veränderungen** in der Wirtschaft bedingt."
+        },
+        {
+          "text": "Konjunkturelle Arbeitslosigkeit",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Konjunkturelle Arbeitslosigkeit** entsteht durch **wirtschaftliche Abschwünge**."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Hauptunterschied zwischen konjunktureller und struktureller Arbeitslosigkeit?</p>",
+      "options": [
+        {
+          "text": "Konjunkturelle Arbeitslosigkeit ist kurzfristig und durch Wirtschaftsschwankungen bedingt, während strukturelle Arbeitslosigkeit langfristig und durch grundlegende wirtschaftliche Veränderungen verursacht wird.",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! **Konjunkturelle Arbeitslosigkeit** ist **kurzfristig** und **zyklisch**, während **strukturelle Arbeitslosigkeit** **langfristig** und durch **fundamentale Veränderungen** entsteht."
+        },
+        {
+          "text": "Konjunkturelle Arbeitslosigkeit betrifft nur bestimmte Branchen, während strukturelle Arbeitslosigkeit alle Wirtschaftsbereiche gleichmässig betrifft.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Konjunkturelle Arbeitslosigkeit** betrifft **alle Branchen**, während **strukturelle Arbeitslosigkeit** durch **branchenspezifische Veränderungen** verstärkt werden kann."
+        },
+        {
+          "text": "Es gibt keinen wesentlichen Unterschied; beide Begriffe beschreiben die gleiche Form der Arbeitslosigkeit.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt **deutliche Unterschiede** in den **Ursachen** und der **Dauer** zwischen **konjunktureller** und **struktureller Arbeitslosigkeit**."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum steht die Schweiz im europäischen Vergleich bezüglich Arbeitslosenquote relativ gut da?</p>",
+      "options": [
+        {
+          "text": "Die Schweiz hat eine gut ausgebaute Struktur zur Unterstützung von Arbeitslosen und eine im Durchschnitt stabile Wirtschaftslage.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die **gute Unterstützungsstruktur** und eine **stabile Wirtschaftslage** tragen dazu bei, dass die **Arbeitslosenquote in der Schweiz** im Vergleich **niedriger** ist."
+        },
+        {
+          "text": "Die Schweiz misst Arbeitslosigkeit nach anderen, weniger strengen Kriterien als andere europäische Länder.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Messmethoden** in der Schweiz sind **international vergleichbar** (ILO-Standards)."
+        },
+        {
+          "text": "In der Schweiz gibt es keine saisonale Arbeitslosigkeit, was die Gesamtquote niedrig hält.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Auch in der **Schweiz** gibt es **saisonale Arbeitslosigkeit**, jedoch ist die **Gesamtwirtschaft** widerstandsfähiger."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wie kann technischer Fortschritt zu struktureller Arbeitslosigkeit führen?</p>",
+      "options": [
+        {
+          "text": "Durch die Automatisierung von Arbeitsplätzen, bei der Maschinen und Computer menschliche Arbeitskräfte ersetzen.",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! **Technischer Fortschritt**, insbesondere **Automatisierung**, ist eine wesentliche Ursache für **strukturelle Arbeitslosigkeit**, da Arbeitsplätze durch Maschinen ersetzt werden."
+        },
+        {
+          "text": "Indem er die Konjunktur ankurbelt und dadurch mehr Arbeitsplätze in allen Sektoren schafft.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Technischer Fortschritt kann zwar die **Konjunktur ankurbeln**, führt aber gleichzeitig zu **Veränderungen in der Arbeitsstruktur** und **potenzieller Arbeitslosigkeit** in bestimmten Bereichen."
+        },
+        {
+          "text": "Technischer Fortschritt hat keinen Einfluss auf die strukturelle Arbeitslosigkeit.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Technologischer Fortschritt** ist ein **zentraler Faktor** für **strukturelle Veränderungen** und **Arbeitslosigkeit**."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet 'räumliche Immobilität der Arbeitnehmenden' im Zusammenhang mit struktureller Arbeitslosigkeit?</p>",
+      "options": [
+        {
+          "text": "Die Unfähigkeit oder mangelnde Bereitschaft von Arbeitnehmenden, für eine neue Arbeitsstelle den Wohnort zu wechseln.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! **Räumliche Immobilität** beschreibt die **eingeschränkte Bereitschaft** oder **Fähigkeit**, den **Wohnort für eine Arbeitsstelle zu wechseln**, was zu **struktureller Arbeitslosigkeit** in bestimmten Regionen führen kann."
+        },
+        {
+          "text": "Die Unfähigkeit von Unternehmen, ihren Standort zu wechseln, um Arbeitsplätze zu erhalten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. **Räumliche Immobilität** bezieht sich auf die **Arbeitnehmenden**, nicht auf die **Unternehmen**."
+        },
+        {
+          "text": "Die mangelnde Mobilität von Arbeitslosen aufgrund fehlender finanzieller Mittel.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl **finanzielle Mittel** eine Rolle spielen können, bezieht sich **räumliche Immobilität** primär auf die **Bereitschaft** oder **Fähigkeit zum Umzug** aus **strukturellen Gründen**."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wie kann sich konjunkturelle Arbeitslosigkeit in strukturelle Arbeitslosigkeit verwandeln?</p>",
+      "options": [
+        {
+          "text": "Wenn eine konjunkturelle Krise lange anhält, können Qualifikationen von Arbeitslosen verloren gehen, und sie werden schwerer vermittelbar, was zu langfristiger, struktureller Arbeitslosigkeit führt.",
+          "is_correct": true,
+          "feedback": "✅ Genau! Eine **lang anhaltende konjunkturelle Krise** kann zu **Qualifikationsverlusten** und **verringerter Vermittelbarkeit** führen, wodurch **konjunkturelle Arbeitslosigkeit** in **strukturelle Arbeitslosigkeit** übergehen kann."
+        },
+        {
+          "text": "Konjunkturelle und strukturelle Arbeitslosigkeit sind völlig unabhängig voneinander und können sich nicht ineinander verwandeln.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt einen **Zusammenhang**, da **langandauernde konjunkturelle Arbeitslosigkeit** zu **strukturellen Problemen** führen kann."
+        },
+        {
+          "text": "Strukturelle Arbeitslosigkeit ist immer die Vorstufe von konjunktureller Arbeitslosigkeit.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die **Richtung der Umwandlung** ist **von konjunkturell zu strukturell**, nicht umgekehrt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>In der Schweiz werden Schüler und Studenten, deren Haupttätigkeit im Bildungsweg liegt, zu den Erwerbspersonen gezählt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Schüler und Studenten, deren Haupttätigkeit im Bildungsweg liegt, werden **nicht zu den Erwerbspersonen gezählt**.",
+      "feedback_incorrect": "❌ Falsch. Schüler und Studenten, deren Haupttätigkeit im Bildungsweg liegt, werden **nicht zu den Erwerbspersonen gezählt**."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Kurzarbeitsentschädigung ist ein Instrument, um saisonale Arbeitslosigkeit zu bekämpfen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Kurzarbeitsentschädigung ist primär für **konjunkturelle Arbeitslosigkeit** gedacht, nicht für **saisonale**.",
+      "feedback_incorrect": "❌ Falsch. Die Kurzarbeitsentschädigung zielt auf **konjunkturelle**, nicht **saisonale Arbeitslosigkeit** ab."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Friktionelle Arbeitslosigkeit ist immer von langer Dauer.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! **Friktionelle Arbeitslosigkeit** ist typischerweise von **kurzer Dauer**.",
+      "feedback_incorrect": "❌ Falsch. **Friktionelle Arbeitslosigkeit** ist gerade durch ihre **kurze Dauer** gekennzeichnet."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine hohe Jugendarbeitslosenquote bedeutet automatisch, dass ein grosser Teil der jungen Bevölkerung ohne Arbeit ist.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Jugendarbeitslosenquote bezieht sich auf den Anteil der Arbeitslosen an den **Erwerbspersonen** der Altersgruppe, nicht an der **Gesamtbevölkerung**.",
+      "feedback_incorrect": "❌ Falsch. Die Quote bezieht sich nur auf die **Erwerbspersonen**, nicht die **Gesamtbevölkerung** der Altersgruppe."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Saisonale Arbeitslosigkeit ist in allen Branchen gleichermassen verbreitet.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! **Saisonale Arbeitslosigkeit** konzentriert sich auf **bestimmte Branchen**, wie Bau, Tourismus und Landwirtschaft.",
+      "feedback_incorrect": "❌ Falsch. **Saisonale Arbeitslosigkeit** ist **branchenspezifisch** und nicht gleichmässig verteilt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Strukturelle Arbeitslosigkeit kann durch kurzfristige konjunkturpolitische Massnahmen effektiv bekämpft werden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! **Strukturelle Arbeitslosigkeit** erfordert **langfristige Massnahmen**, wie **Bildung** und **Umschulung**, und ist **nicht durch kurzfristige Konjunkturpolitik** zu beheben.",
+      "feedback_incorrect": "❌ Falsch. **Strukturelle Arbeitslosigkeit** benötigt **langfristige**, **strukturelle Massnahmen**, nicht nur **kurzfristige konjunkturpolitische**."
+    }
+  ]
+}

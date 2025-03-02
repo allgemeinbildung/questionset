@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Nachhaltigkeit",
+  "headerImage": "img1.png",
+  "media": {
+      "type": "",
+      "url": "",
+      "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Aus welchem Bereich stammt der Begriff der Nachhaltigkeit ursprünglich?</p>",
+      "options": [
+        {
+          "text": "Landwirtschaft",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Begriff stammt nicht aus der <strong>Landwirtschaft</strong>, sondern aus einem anderen Wirtschaftszweig."
+        },
+        {
+          "text": "Forstwirtschaft",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Begriff der Nachhaltigkeit stammt ursprünglich aus der <strong>Forstwirtschaft</strong>."
+        },
+        {
+          "text": "Energiewirtschaft",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl Nachhaltigkeit in der <strong>Energiewirtschaft</strong> wichtig ist, ist dies nicht der Ursprung des Begriffs."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches der folgenden Beispiele gehört zur ökologischen Nachhaltigkeit?</p>",
+      "options": [
+        {
+          "text": "Schaffung von Arbeitsplätzen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Schaffung von Arbeitsplätzen</strong> ist ein Beispiel für <strong>ökonomische oder soziale Nachhaltigkeit</strong>, nicht ökologische."
+        },
+        {
+          "text": "Sozialer Ausgleich",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>soziale Ausgleich</strong> ist ein Beispiel für <strong>soziale Nachhaltigkeit</strong>."
+        },
+        {
+          "text": "Artenvielfalt",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Artenvielfalt</strong> ist ein Beispiel für <strong>ökologische Nachhaltigkeit</strong>, da sie den Schutz der Natur und Umwelt betrifft."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Jahr fand der Erdgipfel in Rio de Janeiro statt, der nachhaltige Entwicklung als internationales Leitprinzip anerkannte?</p>",
+      "options": [
+        {
+          "text": "1992",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Erdgipfel in <strong>Rio de Janeiro</strong>, der nachhaltige Entwicklung als internationales Leitprinzip anerkannte, fand <strong>1992</strong> statt."
+        },
+        {
+          "text": "2015",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>2015</strong> war das Jahr des <strong>Pariser Klimaabkommens</strong>, nicht des Erdgipfels in Rio."
+        },
+        {
+          "text": "2021",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>2021</strong> war das Jahr des <strong>Glasgow Climate Pacts</strong>, nicht des Erdgipfels in Rio."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Hauptziel wurde im Pariser Klimaabkommen von 2015 vereinbart?</p>",
+      "options": [
+        {
+          "text": "Die Erderwärmung auf weniger als 2 Grad Celsius begrenzen",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das <strong>Pariser Klimaabkommen</strong> zielte darauf ab, die <strong>Erderwärmung auf weniger als 2 Grad Celsius zu begrenzen</strong>, wenn möglich sogar auf 1,5 Grad."
+        },
+        {
+          "text": "Den Treibhausgasausstoss bis 2050 um 50 Prozent zu reduzieren",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>Pariser Abkommen</strong> setzte ein allgemeineres Ziel zur <strong>Begrenzung der Erderwärmung</strong>, nicht spezifisch eine 50% Reduktion bis 2050."
+        },
+        {
+          "text": "Die Kohlekraft weltweit bis 2030 abzuschaffen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Kohleausstieg</strong> ist zwar ein Thema, aber das <strong>Pariser Abkommen</strong> enthielt kein solches konkretes Ziel."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches der folgenden umweltpolitischen Instrumente ist ein Beispiel für einen Anreiz?</p>",
+      "options": [
+        {
+          "text": "FCKW-Verbot",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>FCKW-Verbot</strong> ist ein Beispiel für ein <strong>Verbot/Beschränkung</strong>, kein Anreiz."
+        },
+        {
+          "text": "CO2-Abgabe",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>CO2-Abgabe</strong> ist zwar eine Lenkungsabgabe, wird aber im Text unter <strong>Anreize</strong> genannt."
+        },
+        {
+          "text": "Weniger Mfz-Steuern für «saubere» Autos",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Weniger Mfz-Steuern für «saubere» Autos</strong> ist ein <strong>Anreiz</strong>, um umweltfreundlicheres Verhalten zu fördern."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Begriff der Nachhaltigkeit stammt ursprünglich aus der Energiewirtschaft.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch. Der Begriff stammt ursprünglich aus der <strong>Forstwirtschaft</strong>.",
+      "feedback_incorrect": "❌ Falsch. Der Begriff stammt ursprünglich aus der <strong>Forstwirtschaft</strong>, nicht aus der Energiewirtschaft."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Kyoto-Protokoll schreibt erstmals völkerrechtlich verbindliche Zielwerte für den Ausstoss von Treibhausgasen fest.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Das <strong>Kyoto-Protokoll</strong> war das erste Abkommen, das <strong>völkerrechtlich verbindliche Zielwerte für Treibhausgasemissionen</strong> festlegte.",
+      "feedback_incorrect": "❌ Falsch. Das <strong>Kyoto-Protokoll</strong> war tatsächlich das erste Abkommen mit <strong>völkerrechtlich verbindlichen Zielwerten</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Energiestrategie 2050 der Schweiz beinhaltet den schrittweisen Ausstieg aus der Kernenergie.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die <strong>Energiestrategie 2050</strong> der Schweiz sieht den <strong>schrittweisen Ausstieg aus der Kernenergie</strong> vor.",
+      "feedback_incorrect": "❌ Falsch. Der <strong>Ausstieg aus der Kernenergie</strong> ist ein zentraler Bestandteil der <strong>Energiestrategie 2050</strong>."
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es wichtig, dass ökologische, ökonomische und soziale Nachhaltigkeit gleichrangig angestrebt werden?</p>",
+      "options": [
+        {
+          "text": "Weil nur so kurzfristige Gewinne maximiert werden können.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Maximierung <strong>kurzfristiger Gewinne</strong> widerspricht dem Prinzip der Nachhaltigkeit, das auf <strong>Langfristigkeit</strong> ausgerichtet ist."
+        },
+        {
+          "text": "Weil nur so ein ökologisches Gleichgewicht, ökonomische Sicherheit und soziale Gerechtigkeit erreicht werden können.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Nur durch die <strong>gleichrangige Betrachtung aller drei Aspekte</strong> kann ein <strong>umfassendes und stabiles Gleichgewicht</strong> erreicht werden."
+        },
+        {
+          "text": "Weil ökologische Aspekte automatisch soziale Gerechtigkeit garantieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Ökologische Aspekte</strong> allein garantieren nicht automatisch <strong>soziale Gerechtigkeit</strong>. Alle drei Dimensionen müssen bewusst berücksichtigt werden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Hauptzweck des Kyoto-Protokolls?</p>",
+      "options": [
+        {
+          "text": "Die weltweite Artenvielfalt zu schützen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Schutz der <strong>Artenvielfalt</strong> ist zwar wichtig für die Nachhaltigkeit, aber nicht der <strong>Hauptzweck des Kyoto-Protokolls</strong>."
+        },
+        {
+          "text": "Völkerrechtlich verbindliche Zielwerte für den Ausstoss von Treibhausgasen festzuschreiben.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der <strong>Hauptzweck des Kyoto-Protokolls</strong> war es, erstmals <strong>völkerrechtlich verbindliche Zielwerte für den Ausstoss von Treibhausgasen</strong> festzulegen."
+        },
+        {
+          "text": "Die Entwicklungsländer finanziell zu unterstützen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>finanzielle Unterstützung von Entwicklungsländern</strong> ist zwar ein Aspekt internationaler Klimaabkommen, aber nicht der <strong>Hauptzweck des Kyoto-Protokolls</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum verteuert eine CO2-Abgabe fossile Brenn- und Treibstoffe?</p>",
+      "options": [
+        {
+          "text": "Um die Nachsorge von Umweltschäden zu finanzieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Nachsorge von Umweltschäden</strong> ist ein anderer Bereich der Umweltpolitik, nicht der direkte Zweck der CO2-Abgabe."
+        },
+        {
+          "text": "Um das Verursacherprinzip umzusetzen und die effektiven Kosten des Handelns zu internalisieren.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>CO2-Abgabe</strong> verteuert fossile Brennstoffe, um das <strong>Verursacherprinzip</strong> umzusetzen, bei dem die Verursacher die Kosten tragen."
+        },
+        {
+          "text": "Um Appelle an die Bevölkerung zu finanzieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Appelle an die Bevölkerung</strong> sind ein anderes umweltpolitisches Instrument und werden nicht direkt durch die CO2-Abgabe finanziert."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum werden erneuerbare Energien im Rahmen der Energiestrategie 2050 gefördert?</p>",
+      "options": [
+        {
+          "text": "Weil sie kurzfristig die günstigste Energiequelle sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Erneuerbare Energien</strong> sind <strong>nicht immer kurzfristig die günstigste Option</strong>, aber ihre langfristigen Vorteile überwiegen."
+        },
+        {
+          "text": "Weil sie im Gegensatz zur Kernenergie nachhaltig sind und sich aus unbeschränkt verfügbaren Ressourcen gewinnen lassen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Erneuerbare Energien</strong> werden gefördert, weil sie <strong>nachhaltig</strong> sind und auf <strong>nahezu unerschöpflichen Ressourcen</strong> basieren."
+        },
+        {
+          "text": "Weil sie die Abhängigkeit von Energieimporten erhöhen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Erneuerbare Energien</strong> sollen die <strong>Abhängigkeit von Energieimporten reduzieren</strong>, nicht erhöhen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet die Umsetzung der 2000-Watt-Gesellschaft für die Schweiz?</p>",
+      "options": [
+        {
+          "text": "Dass die Schweiz ihren Energieverbrauch verdreifachen muss.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>2000-Watt-Gesellschaft</strong> zielt auf eine <strong>Reduktion des Energieverbrauchs</strong>, nicht auf eine Verdreifachung."
+        },
+        {
+          "text": "Dass der durchschnittliche Energieverbrauch pro Kopf auf 2000 Watt gesenkt werden soll.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>2000-Watt-Gesellschaft</strong> sieht vor, den <strong>durchschnittlichen Energieverbrauch pro Kopf auf 2000 Watt zu senken</strong>."
+        },
+        {
+          "text": "Dass die Schweiz weiterhin auf Kernenergie setzen soll.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>2000-Watt-Gesellschaft</strong> ist Teil der <strong>Energiestrategie 2050</strong>, die den <strong>Ausstieg aus der Kernenergie</strong> vorsieht."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Nachhaltigkeit bezieht sich ausschliesslich auf ökologische Aspekte.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch. Nachhaltigkeit umfasst <strong>ökologische, ökonomische und soziale Aspekte</strong>.",
+      "feedback_incorrect": "❌ Falsch. Nachhaltigkeit ist <strong>umfassender</strong> und beinhaltet <strong>ökologische, ökonomische und soziale Aspekte</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Appelle sind das wirksamste umweltpolitische Instrument, da sie direkt zu Verhaltensänderungen führen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch. <strong>Appelle</strong> sind zwar ein Instrument, aber oft <strong>weniger wirksam</strong> als Anreize oder Verbote, da sie <strong>keine Verpflichtungen</strong> schaffen.",
+      "feedback_incorrect": "❌ Falsch. <strong>Appelle</strong> sind oft <strong>weniger wirksam</strong>, da sie <strong>keine direkten Verpflichtungen</strong> schaffen und der Druck zur Verhaltensänderung gering ist."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die 2000-Watt-Gesellschaft kann in der Schweiz nur durch technologische Entwicklung und nicht durch persönlichen Verzicht erreicht werden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch. Die <strong>2000-Watt-Gesellschaft</strong> erfordert sowohl <strong>technologische Entwicklung</strong> als auch <strong>persönlichen Verzicht</strong>.",
+      "feedback_incorrect": "❌ Falsch. Sowohl <strong>technologische Entwicklung</strong> als auch <strong>persönlicher Verzicht</strong> sind notwendig, um die <strong>2000-Watt-Gesellschaft</strong> zu erreichen."
+    }
+  ]
+}

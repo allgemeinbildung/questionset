@@ -1,0 +1,151 @@
+{
+  "title": "Das Wichtigste zum Klima und Klimawandel",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "text",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "correct_sentence": "Der natürliche Treibhauseffekt ist für das Leben auf der Erde unerlässlich, da er die Durchschnittstemperatur auf +15°C erhöht.",
+      "wrong_alternatives": [
+        "Obwohl der natürliche Treibhauseffekt zur Erwärmung der Erde beiträgt, ist er für das Leben auf der Erde nicht zwingend notwendig, da sich Organismen auch an kältere Bedingungen anpassen könnten.",
+        "Der natürliche Treibhauseffekt ist zwar ein Faktor für die Erdtemperatur, aber seine Bedeutung für das Leben wird oft überschätzt, da andere Faktoren wie die Sonneneinstrahlung eine grössere Rolle spielen."
+      ],
+    },
+    {
+      "correct_sentence": "Treibhausgase wie Wasserdampf, Kohlenstoffdioxid und Methan sind entscheidend für den natürlichen Treibhauseffekt.",
+      "wrong_alternatives": [
+        "Obwohl Wasserdampf, Kohlenstoffdioxid und Methan in der Atmosphäre vorhanden sind, spielen sie eine untergeordnete Rolle im Treibhauseffekt, da Stickstoff und Sauerstoff die Hauptbestandteile der Atmosphäre sind.",
+        "Treibhausgase wie Wasserdampf, Kohlenstoffdioxid und Methan sind zwar in der Atmosphäre vorhanden, aber ihre Wirkung auf den Treibhauseffekt ist minimal, da ihre Konzentration im Vergleich zu anderen Gasen sehr gering ist."
+      ],
+    },
+    {
+      "correct_sentence": "Der Mensch verstärkt den natürlichen Treibhauseffekt seit der industriellen Revolution durch den Ausstoss von Treibhausgasen.",
+      "wrong_alternatives": [
+        "Der natürliche Treibhauseffekt wird hauptsächlich durch natürliche Prozesse verstärkt, während der menschliche Einfluss, wie der Ausstoss von Treibhausgasen, eine vernachlässigbare Rolle spielt.",
+        "Obwohl der Mensch Treibhausgase ausstösst, hat dies keinen signifikanten Einfluss auf den natürlichen Treibhauseffekt, da die natürlichen Schwankungen des Klimas viel grösser sind."
+      ],
+    },
+    {
+      "correct_sentence": "Dieser vom Menschen verursachte, anthropogene Treibhauseffekt führt zu einer globalen Erwärmung.",
+      "wrong_alternatives": [
+        "Der anthropogene Treibhauseffekt trägt zwar zur globalen Durchschnittstemperatur bei, aber es gibt keine wissenschaftliche Einigkeit darüber, dass er tatsächlich zu einer globalen Erwärmung führt.",
+        "Obwohl der anthropogene Treibhauseffekt existiert, ist seine Auswirkung auf die globale Erwärmung minimal, da natürliche Faktoren wie Vulkanausbrüche und Sonnenaktivität einen viel grösseren Einfluss haben."
+      ],
+    },
+    {
+      "correct_sentence": "Ozon (O3) ist eine chemische Verbindung, die aus drei Sauerstoffatomen besteht und eine Schutzschicht gegen UV-Strahlen bildet.",
+      "wrong_alternatives": [
+        "Ozon besteht zwar aus Sauerstoffatomen, aber es ist eine instabile und kurzlebige Verbindung, die keine wesentliche Schutzfunktion gegen UV-Strahlen in der Atmosphäre ausüben kann.",
+        "Ozon ist eine chemische Verbindung, die zwar in der Atmosphäre vorkommt, aber ihre Schutzfunktion gegen UV-Strahlen ist minimal, da andere atmosphärische Gase und Partikel einen grösseren Teil der UV-Strahlung absorbieren."
+      ],
+    },
+    {
+      "correct_sentence": "Das Ozonloch, hauptsächlich über den Polen, wird durch langlebige Schadstoffe wie FCKW verursacht.",
+      "wrong_alternatives": [
+        "Das Ozonloch ist ein natürliches Phänomen, das periodisch auftritt und wieder verschwindet, und wird nicht durch menschliche Schadstoffe wie FCKW verursacht.",
+        "Obwohl FCKW in der Atmosphäre vorhanden sind, spielen sie eine untergeordnete Rolle bei der Entstehung des Ozonlochs, da natürliche Faktoren wie vulkanische Gase und kosmische Strahlung die Hauptursachen sind."
+      ],
+    },
+    {
+      "correct_sentence": "Eine Folge des Ozonlochs ist, dass mehr schädliche UV-Strahlung die Erdoberfläche erreicht.",
+      "wrong_alternatives": [
+        "Das Ozonloch hat zwar Auswirkungen auf die Atmosphäre, aber es führt nicht zu einer erhöhten UV-Strahlung auf der Erdoberfläche, da die Atmosphäre andere Schutzmechanismen besitzt.",
+        "Obwohl das Ozonloch die Ozonschicht verdünnt, ist die Zunahme der UV-Strahlung auf der Erdoberfläche minimal und stellt keine signifikante Gefahr für Mensch und Umwelt dar."
+      ],
+    },
+    {
+      "correct_sentence": "Der Klimawandel führt weltweit zu unterschiedlichen Folgen wie Hitzewellen, Dürren und stärkeren Regenfällen.",
+      "wrong_alternatives": [
+        "Der Klimawandel äussert sich weltweit in einheitlichen Veränderungen, wobei alle Regionen die gleichen Auswirkungen wie beispielsweise gleichmässige Temperaturerhöhungen und Niederschlagsmuster erleben.",
+        "Obwohl es regionale Unterschiede im Klima gibt, sind die Auswirkungen des Klimawandels weltweit gesehen minimal und beschränken sich auf geringfügige Veränderungen in einigen wenigen isolierten Gebieten."
+      ],
+    },
+    {
+      "correct_sentence": "Durch den Klimawandel steigt die Wassertemperatur der Ozeane, was die Entstehung von Stürmen begünstigt.",
+      "wrong_alternatives": [
+        "Die Wassertemperatur der Ozeane wird zwar durch natürliche Zyklen beeinflusst, aber der Klimawandel hat keinen direkten Einfluss auf die Ozeantemperatur und somit auch nicht auf die Entstehung von Stürmen.",
+        "Obwohl der Klimawandel die globale Temperatur beeinflusst, hat er keine Auswirkungen auf die Wassertemperatur der Ozeane, da diese hauptsächlich durch Meeresströmungen und Sonneneinstrahlung bestimmt wird."
+      ],
+    },
+    {
+      "correct_sentence": "Das Schmelzen der Eismassen an den Polen durch den Klimawandel führt zu einem Anstieg des Meeresspiegels.",
+      "wrong_alternatives": [
+        "Das Schmelzen von Eis an den Polen trägt zwar zum Wasservolumen der Ozeane bei, aber es hat keinen messbaren Einfluss auf den Meeresspiegel, da das Volumen des geschmolzenen Eises im Vergleich zum Ozeanvolumen zu gering ist.",
+        "Obwohl das Eis an den Polen schmilzt, wird der Meeresspiegel nicht ansteigen, da das schmelzende Eis bereits im Wasser schwimmt und somit keine zusätzliche Wassermenge in die Ozeane gelangt."
+      ],
+    },
+    {
+      "correct_sentence": "Die Schweiz ist vom Klimawandel stark betroffen, mit einem Temperaturanstieg von zwei Grad seit 1864.",
+      "wrong_alternatives": [
+        "Die Schweiz ist aufgrund ihrer geografischen Lage und Topografie nicht vom Klimawandel betroffen, und die gemessenen Temperaturveränderungen sind innerhalb der natürlichen Klimaschwankungen.",
+        "Obwohl es in der Schweiz zu leichten Temperaturveränderungen gekommen ist, sind diese minimal und haben keine signifikanten Auswirkungen auf das Klima oder die Umwelt des Landes."
+      ],
+    },
+    {
+      "correct_sentence": "In der Schweiz werden Trocken- und Hitzeperioden durch den Klimawandel immer häufiger.",
+      "wrong_alternatives": [
+        "In der Schweiz werden Trocken- und Hitzeperioden seltener, da der Klimawandel zu einer generellen Abkühlung und vermehrten Niederschlägen in den Alpen führt.",
+        "Obwohl es natürliche Schwankungen im Wetter gibt, hat der Klimawandel keinen Einfluss auf die Häufigkeit von Trocken- und Hitzeperioden in der Schweiz, da diese durch lokale Wetterbedingungen bestimmt werden."
+      ],
+    },
+    {
+      "correct_sentence": "Der Klimawandel verlängert und intensiviert die Pollensaison in der Schweiz, was Allergien verstärkt.",
+      "wrong_alternatives": [
+        "Der Klimawandel verkürzt die Pollensaison in der Schweiz, da die veränderten Klimabedingungen das Wachstum von Pflanzen, die Pollen produzieren, hemmen.",
+        "Obwohl es Allergien gibt, hat der Klimawandel keinen Einfluss auf die Pollensaison oder die Intensität von Allergien in der Schweiz, da diese hauptsächlich durch genetische Faktoren und individuelle Empfindlichkeiten bedingt sind."
+      ],
+    },
+    {
+      "correct_sentence": "Alpengletscher haben seit 1850 bereits einen erheblichen Teil ihres Volumens verloren und schmelzen weiter.",
+      "wrong_alternatives": [
+        "Alpengletscher haben in den letzten Jahrzehnten an Volumen zugenommen, da vermehrte Schneefälle und kühlere Temperaturen zu einem Wachstum der Gletscher geführt haben.",
+        "Obwohl es natürliche Schwankungen in der Grösse von Gletschern gibt, hat der Klimawandel keinen Einfluss auf das Volumen der Alpengletscher, da diese hauptsächlich durch lokale Niederschlagsmuster und geologische Bedingungen bestimmt werden."
+      ],
+    },
+    {
+      "correct_sentence": "Permafrostböden in den Alpen tauen durch die Erderwärmung auf und können zu Bergstürzen und Erdrutschen führen.",
+      "wrong_alternatives": [
+        "Permafrostböden in den Alpen werden durch die Erderwärmung stabiler, da das Auftauen des Bodens zu einer besseren Durchwurzelung und Verfestigung des Erdreichs führt.",
+        "Obwohl es in den Alpen zu geologischen Ereignissen wie Bergstürzen kommt, hat das Auftauen von Permafrostböden keinen Einfluss auf diese Ereignisse, da diese hauptsächlich durch tektonische Aktivitäten und natürliche Erosion verursacht werden."
+      ],
+    },
+    {
+      "correct_sentence": "Reiche Industrieländer können mit den Folgen des Klimawandels tendenziell besser umgehen als ärmere Länder.",
+      "wrong_alternatives": [
+        "Ärmere Länder sind besser in der Lage, mit den Folgen des Klimawandels umzugehen, da sie traditionell nachhaltigere Lebensweisen pflegen und weniger auf moderne Technologien angewiesen sind.",
+        "Die Fähigkeit, mit den Folgen des Klimawandels umzugehen, ist unabhängig vom wirtschaftlichen Entwicklungsstand eines Landes, da alle Länder gleichermassen anfällig für Naturkatastrophen und Umweltveränderungen sind."
+      ],
+    },
+    {
+      "correct_sentence": "Die Schweiz hat ein Interesse daran, den CO2-Ausstoss rasch zu vermindern, um die Folgen des Klimawandels zu minimieren.",
+      "wrong_alternatives": [
+        "Die Schweiz sollte ihre CO2-Emissionen nicht weiter reduzieren, da dies die wirtschaftliche Entwicklung des Landes beeinträchtigen würde und andere Länder ohnehin mehr zum globalen CO2-Ausstoss beitragen.",
+        "Obwohl es Bemühungen zur Reduktion des CO2-Ausstosses gibt, ist dies für die Schweiz nicht von vorrangiger Bedeutung, da das Land im globalen Vergleich nur einen geringen Beitrag zum CO2-Ausstoss leistet und die Auswirkungen des Klimawandels in der Schweiz begrenzt sind."
+      ],
+    },
+    {
+      "correct_sentence": "Der natürliche Treibhauseffekt ist ein Prozess, der die Erde ohne menschlichen Einfluss bewohnbar macht.",
+      "wrong_alternatives": [
+        "Der natürliche Treibhauseffekt ist ein schädlicher Prozess, der die Erde überhitzt und ohne menschliches Eingreifen zu einer unbewohnbaren Wüste machen würde.",
+        "Obwohl der natürliche Treibhauseffekt existiert, ist seine Rolle für die Bewohnbarkeit der Erde minimal, da andere Faktoren wie die geologische Beschaffenheit und die Zusammensetzung der Atmosphäre eine grössere Bedeutung haben."
+      ],
+    },
+    {
+      "correct_sentence": "Der anthropogene Treibhauseffekt verstärkt die globale Erwärmung durch zusätzliche Treibhausgase aus menschlichen Quellen.",
+      "wrong_alternatives": [
+        "Der anthropogene Treibhauseffekt hat keinen Einfluss auf die globale Erwärmung, da die natürlichen Klimazyklen und die Sonnenaktivität die einzigen relevanten Faktoren für die Erdtemperatur sind.",
+        "Obwohl der Mensch Treibhausgase ausstösst, ist der anthropogene Treibhauseffekt vernachlässigbar, da die natürlichen Treibhausgasemissionen der Erde viel grösser sind und den menschlichen Beitrag überwiegen."
+      ],
+    },
+    {
+      "correct_sentence": "Die Wissenschaft ist sich weitgehend einig, dass der anthropogene Treibhauseffekt die Hauptursache der globalen Erwärmung ist.",
+      "wrong_alternatives": [
+        "In der Wissenschaft herrscht Uneinigkeit darüber, ob der anthropogene Treibhauseffekt tatsächlich existiert, und viele Forscher sehen natürliche Faktoren als Hauptursache für die globale Erwärmung.",
+        "Obwohl der anthropogene Treibhauseffekt von einigen Wissenschaftlern anerkannt wird, gibt es keine breite wissenschaftliche Übereinstimmung darüber, dass er die Hauptursache der globalen Erwärmung ist, und viele alternative Theorien werden diskutiert."
+      ]
+    }
+  ]
+}

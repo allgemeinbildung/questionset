@@ -1,0 +1,151 @@
+{
+  "title": "Zuordnungsübung: Inflation und Deflation",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "correct_sentence": "Inflation beschreibt einen anhaltenden Anstieg des allgemeinen Preisniveaus in einer Volkswirtschaft.",
+      "wrong_alternatives": [
+        "Inflation beschreibt einen kurzfristigen Rückgang des allgemeinen Preisniveaus in einzelnen Branchen.",
+        "Inflation beschreibt eine einmalige Anpassung des Preisniveaus an veränderte Marktbedingungen."
+      ]
+    },
+    {
+      "correct_sentence": "Eine Hauptursache für Inflation ist ein übermässig grosser Geldstrom im Verhältnis zum Güterstrom.",
+      "wrong_alternatives": [
+        "Eine Hauptursache für Inflation ist ein übermässig geringer Geldstrom im Verhältnis zum Güterstrom, der zu Angebotsengpässen führt.",
+        "Eine Hauptursache für Inflation ist eine staatlich verordnete Preissenkung in Schlüsselindustrien."
+      ]
+    },
+    {
+      "correct_sentence": "Durch Inflation sinkt die Kaufkraft des Geldes, da man für denselben Geldbetrag weniger Güter kaufen kann.",
+      "wrong_alternatives": [
+        "Durch Inflation steigt die Kaufkraft des Geldes, da die Produkte im Wert zunehmen.",
+        "Durch Inflation bleibt die Kaufkraft des Geldes konstant, jedoch ändern sich die angebotenen Gütermengen."
+      ]
+    },
+    {
+      "correct_sentence": "Deflation ist das Gegenteil von Inflation und bezeichnet einen anhaltenden Rückgang des allgemeinen Preisniveaus.",
+      "wrong_alternatives": [
+        "Deflation ist eine beschleunigte Form der Inflation, bei der die Preise extrem schnell steigen.",
+        "Deflation beschreibt einen Zustand stagnierender Preise bei gleichzeitiger wirtschaftlicher Stagnation."
+      ]
+    },
+    {
+      "correct_sentence": "Deflation entsteht, wenn der Güterstrom übermässig viel grösser ist als der Geldstrom in einer Volkswirtschaft.",
+      "wrong_alternatives": [
+        "Deflation entsteht, wenn der Geldstrom und der Güterstrom sich in einem instabilen Gleichgewicht befinden.",
+        "Deflation entsteht, wenn staatliche Eingriffe die Geldmenge künstlich verknappen."
+      ]
+    },
+    {
+      "correct_sentence": "Eine Deflation kann volkswirtschaftlich problematischer sein als eine Inflation, da sie zu einer Abwärtsspirale führen kann.",
+      "wrong_alternatives": [
+        "Eine Deflation ist volkswirtschaftlich unproblematisch, da sinkende Preise immer positiv für die Konsumenten sind.",
+        "Eine Deflation ist lediglich eine kurzfristige Erscheinung ohne langfristige Auswirkungen auf die Wirtschaft."
+      ]
+    },
+    {
+      "correct_sentence": "Der Landesindex der Konsumentenpreise (LIK) misst die Preisentwicklung von Waren und Dienstleistungen für private Haushalte in der Schweiz.",
+      "wrong_alternatives": [
+        "Der Landesindex der Konsumentenpreise (LIK) misst ausschliesslich die Entwicklung der Immobilienpreise in der Schweiz.",
+        "Der Landesindex der Konsumentenpreise (LIK) misst die Produktionskosten von Schweizer Unternehmen im internationalen Vergleich."
+      ]
+    },
+    {
+      "correct_sentence": "Der LIK basiert auf einem Warenkorb, der die wichtigsten Konsumgüter und Dienstleistungen der privaten Haushalte repräsentiert.",
+      "wrong_alternatives": [
+        "Der LIK basiert auf einem Aktienportfolio, das die Wertentwicklung der grössten Schweizer Unternehmen abbildet.",
+        "Der LIK basiert auf den Exportzahlen der Schweizer Wirtschaft und deren Preisentwicklung auf dem Weltmarkt."
+      ]
+    },
+    {
+      "correct_sentence": "Der LIK dient unter anderem zur Beurteilung der Wirtschaftslage und als Grundlage für die Geldpolitik der Schweizerischen Nationalbank.",
+      "wrong_alternatives": [
+        "Der LIK dient primär der Berechnung der jährlichen Lohnanpassungen im öffentlichen Sektor.",
+        "Der LIK dient als Richtlinie für die Preisfestsetzung durch einzelne Unternehmen in der Schweiz."
+      ]
+    },
+    {
+      "correct_sentence": "Die Schweizerische Nationalbank (SNB) strebt Preisstabilität an, typischerweise eine Inflationsrate von unter 2 Prozent.",
+      "wrong_alternatives": [
+        "Die Schweizerische Nationalbank (SNB) strebt eine Inflationsrate von genau 0 Prozent an, um jegliche Preissteigerungen zu vermeiden.",
+        "Die Schweizerische Nationalbank (SNB) strebt eine moderate Deflation an, um die Wettbewerbsfähigkeit der Schweizer Exportwirtschaft zu stärken."
+      ]
+    },
+    {
+      "correct_sentence": "Zur Bekämpfung von Inflation kann die SNB die Geldmenge verkleinern, was tendenziell die Zinsen erhöht.",
+      "wrong_alternatives": [
+        "Zur Bekämpfung von Inflation erhöht die SNB die Geldmenge, um die Nachfrage anzukurbeln und die Preise zu stabilisieren.",
+        "Zur Bekämpfung von Inflation setzt die SNB direkt auf staatliche Preiskontrollen und Regulierungen."
+      ]
+    },
+    {
+      "correct_sentence": "Zur Bekämpfung von Deflation kann die SNB die Geldmenge ausweiten und die Zinsen senken, um Konsum und Investitionen anzuregen.",
+      "wrong_alternatives": [
+        "Zur Bekämpfung von Deflation verknappt die SNB die Geldmenge, um die Währung zu stärken und Importe zu verteuern.",
+        "Zur Bekämpfung von Deflation setzt die SNB auf Steuererhöhungen, um die Staatsausgaben zu finanzieren und die Nachfrage zu dämpfen."
+      ]
+    },
+    {
+      "correct_sentence": "Sparer können durch Inflation benachteiligt werden, insbesondere wenn die Zinsen niedriger sind als die Teuerungsrate.",
+      "wrong_alternatives": [
+        "Sparer profitieren immer von Inflation, da der Nominalwert ihrer Ersparnisse steigt.",
+        "Sparer sind von Inflation nicht betroffen, da ihre Ersparnisse in Sachwerten angelegt sind."
+      ]
+    },
+    {
+      "correct_sentence": "Gläubiger, die Geld verleihen, können durch Inflation benachteiligt werden, da der reale Wert des zurückgezahlten Geldes sinkt.",
+      "wrong_alternatives": [
+        "Gläubiger profitieren von Inflation, da sie höhere Zinsen für verliehenes Geld erhalten.",
+        "Gläubiger sind vor Inflation geschützt, da ihre Forderungen indexiert sind."
+      ]
+    },
+    {
+      "correct_sentence": "Schuldner können tendenziell von Inflation profitieren, da ihre Schulden in realer Rechnung weniger wert werden.",
+      "wrong_alternatives": [
+        "Schuldner werden durch Inflation zusätzlich belastet, da die Zinsen auf Kredite steigen.",
+        "Schuldner sind von Inflation unberührt, da die Höhe ihrer Schulden fixiert ist."
+      ]
+    },
+    {
+      "correct_sentence": "Eine anhaltende Inflation kann eine Lohn-Preis-Spirale auslösen, bei der sich Löhne und Preise gegenseitig hochtreiben.",
+      "wrong_alternatives": [
+        "Eine anhaltende Inflation führt automatisch zu sinkenden Löhnen, da Unternehmen Kosten senken müssen.",
+        "Eine anhaltende Inflation hat keinen Einfluss auf die Lohnentwicklung, da Löhne unabhängig vom Preisniveau festgelegt werden."
+      ]
+    },
+    {
+      "correct_sentence": "Die Staatsverschuldung der Schweiz hat in den letzten Jahrzehnten tendenziell zugenommen.",
+      "wrong_alternatives": [
+        "Die Staatsverschuldung der Schweiz ist in den letzten Jahrzehnten kontinuierlich gesunken.",
+        "Die Staatsverschuldung der Schweiz ist seit Jahrzehnten konstant geblieben."
+      ]
+    },
+    {
+      "correct_sentence": "Die Schuldenbremse wurde in der Schweiz eingeführt, um eine nachhaltige Staatsfinanzierung zu gewährleisten und die Verschuldung zu begrenzen.",
+      "wrong_alternatives": [
+        "Die Schuldenbremse wurde in der Schweiz eingeführt, um die Staatsverschuldung kurzfristig zu erhöhen und Konjunkturprogramme zu finanzieren.",
+        "Die Schuldenbremse ist ein Instrument zur direkten Steuerung der Inflationsrate durch den Staat."
+      ]
+    },
+    {
+      "correct_sentence": "Kriterien für 'Swissness' beinhalten unter anderem einen tatsächlichen Verwaltungssitz und wesentliche Herstellungskosten in der Schweiz.",
+      "wrong_alternatives": [
+        "Kriterien für 'Swissness' beschränken sich ausschliesslich auf die Verwendung Schweizer Rohstoffe, unabhängig vom Produktionsort.",
+        "Kriterien für 'Swissness' sind rein symbolischer Natur und haben keine rechtliche Relevanz für die Kennzeichnung von Produkten."
+      ]
+    },
+    {
+      "correct_sentence": "Zu den Stärken des Wirtschaftsstandorts Schweiz zählen politische Stabilität, hohe Lebensqualität und gut ausgebildete Fachkräfte.",
+      "wrong_alternatives": [
+        "Zu den Stärken des Wirtschaftsstandorts Schweiz zählen vor allem niedrige Lohnkosten und geringe Umweltauflagen.",
+        "Zu den Stärken des Wirtschaftsstandorts Schweiz zählt primär die geografische Nähe zu Rohstoffvorkommen und grossen Absatzmärkten."
+      ]
+    }
+  ]
+}

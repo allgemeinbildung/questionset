@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Konjunktur und Wirtschaftspolitik",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was misst das Bruttoinlandprodukt (BIP) grundsätzlich?</p>",
+      "options": [
+        {
+          "text": "Den Wert aller Vorleistungen eines Landes.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das BIP misst den Wert der <strong>Endprodukte</strong>, nicht der Vorleistungen."
+        },
+        {
+          "text": "Den Marktwert aller in einem Land hergestellten Güter und Dienstleistungen innerhalb eines Jahres.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das BIP misst den <strong>Marktwert aller Güter und Dienstleistungen</strong>, die in einem Land innerhalb eines Jahres hergestellt werden."
+        },
+        {
+          "text": "Nur die Exporte eines Landes.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das BIP berücksichtigt sowohl <strong>Exporte als auch Importe</strong> und den <strong>gesamten Wert der Produktion</strong> im Inland."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden Berechnungsarten gehört NICHT zum BIP?</p>",
+      "options": [
+        {
+          "text": "Entstehung des BIP",
+          "is_correct": false,
+          "feedback": "✅ Falsch. Die <strong>Entstehung des BIP</strong> ist eine der drei Berechnungsarten."
+        },
+        {
+          "text": "Verwendung des BIP",
+          "is_correct": false,
+          "feedback": "✅ Falsch. Die <strong>Verwendung des BIP</strong> ist eine der drei Berechnungsarten."
+        },
+        {
+          "text": "Import des BIP",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der <strong>Import des BIP</strong> ist keine Berechnungsart. Die korrekten sind Entstehung, Verwendung und Verteilung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Phasen umfasst der Konjunkturzyklus typischerweise?</p>",
+      "options": [
+        {
+          "text": "Zwei",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es sind mehr als zwei Phasen."
+        },
+        {
+          "text": "Vier",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Konjunkturzyklus umfasst typischerweise <strong>vier Phasen</strong>: Aufschwung, Hochkonjunktur, Abschwung und Rezession."
+        },
+        {
+          "text": "Sechs",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es sind weniger als sechs Phasen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches der folgenden Ziele gehört NICHT zu den Hauptzielen der Wirtschaftspolitik?</p>",
+      "options": [
+        {
+          "text": "Hoher Wohlstand",
+          "is_correct": false,
+          "feedback": "✅ Falsch. <strong>Hoher Wohlstand</strong> ist ein Hauptziel der Wirtschaftspolitik."
+        },
+        {
+          "text": "Tiefe Arbeitslosigkeit",
+          "is_correct": false,
+          "feedback": "✅ Falsch. <strong>Tiefe Arbeitslosigkeit</strong> ist ein Hauptziel der Wirtschaftspolitik."
+        },
+        {
+          "text": "Maximale Inflation",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Maximale Inflation</strong> ist kein Ziel. Im Gegenteil, Wirtschaftspolitik zielt auf <strong>stabile Preise und tiefe Inflation</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Grafik wird verwendet, um die Einkommensverteilung darzustellen?</p>",
+      "options": [
+        {
+          "text": "Balkendiagramm",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Balkendiagramm ist für andere Darstellungen geeignet."
+        },
+        {
+          "text": "Lorenzkurve",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Lorenzkurve</strong> wird verwendet, um die Verteilung von Einkommen und Vermögen grafisch darzustellen."
+        },
+        {
+          "text": "Kreisdiagramm",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Kreisdiagramm ist für andere Darstellungen geeignet."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Hauptunterschied zwischen nominalem und realem BIP?</p>",
+      "options": [
+        {
+          "text": "Nominales BIP berücksichtigt die Inflation, reales BIP nicht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist genau umgekehrt."
+        },
+        {
+          "text": "Reales BIP berücksichtigt die Inflation, nominales BIP nicht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das <strong>reale BIP</strong> ist <strong>inflationsbereinigt</strong>, während das <strong>nominale BIP</strong> die aktuellen Preise verwendet."
+        },
+        {
+          "text": "Es gibt keinen Unterschied, beide Begriffe sind austauschbar.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt einen wesentlichen Unterschied bezüglich der Berücksichtigung der Inflation."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet eine 'bauchigere' Lorenzkurve?</p>",
+      "options": [
+        {
+          "text": "Eine gleichmässigere Einkommensverteilung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine bauchigere Kurve zeigt das Gegenteil an."
+        },
+        {
+          "text": "Eine ungleichmässigere Einkommensverteilung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Je 'bauchiger' die Lorenzkurve, desto <strong>ungleichmässiger</strong> ist die <strong>Einkommensverteilung</strong>."
+        },
+        {
+          "text": "Keine Aussage über die Einkommensverteilung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Form der Lorenzkurve gibt direkt Auskunft über die Einkommensverteilung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>In welcher Phase des Konjunkturzyklus sind die Zinsen typischerweise am niedrigsten?</p>",
+      "options": [
+        {
+          "text": "Hochkonjunktur",
+          "is_correct": false,
+          "feedback": "❌ Falsch. In der Hochkonjunktur steigen die Zinsen eher."
+        },
+        {
+          "text": "Rezession",
+          "is_correct": true,
+          "feedback": "✅ Richtig! In der <strong>Rezession</strong> sind die <strong>Zinsen typischerweise niedrig</strong>, um die Wirtschaft anzukurbeln."
+        },
+        {
+          "text": "Aufschwung",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Aufschwung beginnen die Zinsen meist zu steigen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum dividiert man das reale BIP durch die Bevölkerungszahl (BIP pro Kopf)?</p>",
+      "options": [
+        {
+          "text": "Um das nominale BIP zu erhalten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das BIP pro Kopf hat nichts mit dem nominalen BIP zu tun."
+        },
+        {
+          "text": "Um den internationalen Vergleich des Wohlstands zu ermöglichen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das <strong>BIP pro Kopf</strong> ermöglicht den <strong>internationalen Vergleich</strong> des Wohlstands zwischen Ländern unterschiedlicher Grösse."
+        },
+        {
+          "text": "Um die Inflation zu berechnen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Inflation wird anders berechnet."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet 'Staatsversagen' im Kontext der sozialen Marktwirtschaft?</p>",
+      "options": [
+        {
+          "text": "Der Staat greift nicht genug in die Wirtschaft ein.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Staatsversagen beschreibt eher das Gegenteil."
+        },
+        {
+          "text": "Staatliche Massnahmen führen zu schlechteren Ergebnissen, als wenn der Staat nicht eingegriffen hätte.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Staatsversagen</strong> bedeutet, dass staatliche Massnahmen <strong>negative, unbeabsichtigte Folgen</strong> haben und die Situation verschlechtern können."
+        },
+        {
+          "text": "Der Staat verzichtet vollständig auf wirtschaftspolitische Massnahmen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Staatsversagen beschreibt die Folgen von Interventionen, nicht das Fehlen von ihnen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wohlstand und Wohlfahrt sind exakt dasselbe.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Wohlstand bezieht sich auf den materiellen Lebensstandard, während Wohlfahrt ein umfassenderes Konzept der Lebensqualität ist.",
+      "feedback_incorrect": "Richtig. Wohlstand und Wohlfahrt sind nicht dasselbe. Wohlfahrt ist ein umfassenderer Begriff als Wohlstand."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das BIP erfasst Schwarzarbeit und illegale Tätigkeiten.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Schwarzarbeit und illegale Tätigkeiten werden im BIP nicht erfasst.",
+      "feedback_incorrect": "Richtig. Das BIP erfasst gerade keine Schwarzarbeit und illegale Tätigkeiten, da diese nicht offiziell registriert sind."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>In der Hochkonjunktur sinkt das BIP.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. In der Hochkonjunktur steigt das BIP oder stagniert auf hohem Niveau.",
+      "feedback_incorrect": "Richtig. In der Hochkonjunktur sinkt das BIP nicht. Es ist typisch für eine Phase des Booms."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Das reale BIP ist immer höher als das nominale BIP.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Das reale BIP kann niedriger sein als das nominale BIP, wenn die Inflation hoch ist.",
+      "feedback_incorrect": "Richtig. Das ist nicht immer der Fall. Wenn die Preise (Inflation) steigen, kann das nominale BIP höher sein als das reale BIP."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Staatliche Konjunkturpolitik zielt darauf ab, Konjunkturschwankungen vollständig zu verhindern.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Ziel ist es, die Schwankungen zu dämpfen, nicht sie komplett zu verhindern.",
+      "feedback_incorrect": "Richtig. Es ist unrealistisch, Konjunkturschwankungen komplett zu verhindern. Die Politik versucht sie abzuschwächen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine 'bauchige' Lorenzkurve deutet auf eine relativ gerechte Einkommensverteilung hin.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Falsch. Eine 'bauchige' Lorenzkurve zeigt eine ungleiche Verteilung an.",
+      "feedback_incorrect": "Richtig. Eine 'bauchige' Lorenzkurve zeigt eben keine gerechte, sondern eine ungleiche Verteilung."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "title": "Mobilität in der Schweiz - Drag and Drop Sätze",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "correct_sentence": "Prognosen zeigen, dass der öffentliche Verkehr in der Schweiz bis 2045 um 51 Prozent wachsen wird.",
+      "wrong_alternatives": [
+        "Bis 2045 wird der motorisierte Individualverkehr in der Schweiz den öffentlichen Verkehr in Bezug auf das Wachstum übertreffen, da immer mehr Menschen auf private Fahrzeuge umsteigen werden.",
+        "Der Langsamverkehr, einschliesslich Fussgänger und Velofahrer, wird bis 2045 das stärkste Wachstum aller Verkehrsarten in der Schweiz verzeichnen, da Nachhaltigkeit immer wichtiger wird."
+      ]
+    },
+    {
+      "correct_sentence": "Schweizer Stadtregionen wie Zürich und Basel stehen vor grossen Herausforderungen in Mobilität und Infrastruktur.",
+      "wrong_alternatives": [
+        "Ländliche Regionen der Schweiz werden in den nächsten Jahren die grössten Herausforderungen im Bereich Mobilität erleben, da die Infrastruktur dort weniger entwickelt ist.",
+        "Die Herausforderungen in der Mobilität werden sich gleichmässig über alle Regionen der Schweiz verteilen, ohne dass städtische Gebiete besonders betroffen sind."
+      ]
+    },
+    {
+      "correct_sentence": "Die Verkehrsinfrastruktur in der Schweiz beansprucht etwa 2 Prozent der gesamten Landesfläche.",
+      "wrong_alternatives": [
+        "Die Verkehrsinfrastruktur der Schweiz benötigt einen überraschend geringen Anteil der Landesfläche, nämlich weniger als 0,5 Prozent, was die Effizienz der Raumnutzung im Verkehrssektor beweist.",
+        "Ein signifikanter Anteil der Schweizer Landesfläche, etwa 15 Prozent, ist der Verkehrsinfrastruktur gewidmet, was die hohe Bedeutung der Mobilität für das Land unterstreicht."
+      ]
+    },
+    {
+      "correct_sentence": "Der Verkehrssektor war 2019 mit 38 Prozent der grösste Endenergieverbraucher in der Schweiz.",
+      "wrong_alternatives": [
+        "Haushalte waren 2019 der grösste Endenergieverbraucher in der Schweiz, wobei der Verkehrssektor nur einen geringen Anteil von etwa 15 Prozent ausmachte.",
+        "Die Industrie dominierte 2019 den Endenergieverbrauch in der Schweiz, während der Verkehrssektor mit etwa 25 Prozent eine moderate Rolle spielte."
+      ]
+    },
+    {
+      "correct_sentence": "Der Energiebedarf des Verkehrs in der Schweiz wurde 2019 zu 94 Prozent mit Erdölprodukten gedeckt.",
+      "wrong_alternatives": [
+        "Erneuerbare Energien deckten 2019 den grössten Teil des Energiebedarfs des Schweizer Verkehrs, was die Fortschritte in der nachhaltigen Mobilität des Landes zeigt.",
+        "Atomenergie war 2019 die Hauptquelle für den Energiebedarf des Verkehrs in der Schweiz, da sie eine zuverlässige und kosteneffiziente Energieversorgung sicherstellt."
+      ]
+    },
+    {
+      "correct_sentence": "Die CO2-Emissionen des Verkehrs in der Schweiz beliefen sich 2019 auf 14,8 Millionen Tonnen.",
+      "wrong_alternatives": [
+        "Die CO2-Emissionen des Verkehrs in der Schweiz waren 2019 mit nur 5 Millionen Tonnen erstaunlich niedrig, was auf effektive Massnahmen zur Emissionsreduktion hindeutet.",
+        "Mit 25 Millionen Tonnen übertrafen die CO2-Emissionen des Verkehrs in der Schweiz 2019 deutlich die anderer Sektoren und verdeutlichten die dringende Notwendigkeit von Klimaschutzmassnahmen."
+      ]
+    },
+    {
+      "correct_sentence": "Verkehrsbedingte CO2-Emissionen in der Schweiz nahmen zwischen 1990 und 2018 um 2 Prozent zu.",
+      "wrong_alternatives": [
+        "Dank umfassender Umweltmassnahmen konnten die verkehrsbedingten CO2-Emissionen in der Schweiz zwischen 1990 und 2018 um beachtliche 20 Prozent gesenkt werden.",
+        "Die verkehrsbedingten CO2-Emissionen in der Schweiz blieben zwischen 1990 und 2018 nahezu konstant, was auf eine Stagnation der Bemühungen zur Emissionsreduktion hindeutet."
+      ]
+    },
+    {
+      "correct_sentence": "Pilotprojekte zum Mobility Pricing werden ab 2024 in fast der Hälfte der Kantone und grösseren Gemeinden durchgeführt.",
+      "wrong_alternatives": [
+        "Mobility Pricing wurde in der Schweiz bereits im Jahr 2010 landesweit eingeführt und hat sich als effektives Instrument zur Verkehrssteuerung etabliert.",
+        "Aufgrund von Widerstand in der Bevölkerung und Bedenken hinsichtlich der sozialen Gerechtigkeit wurden alle Pilotprojekte zum Mobility Pricing in der Schweiz eingestellt."
+      ]
+    },
+    {
+      "correct_sentence": "Mobility Pricing soll die Verkehrsspitzen glätten und die Kapazitäten von Strasse und Schiene besser ausnutzen.",
+      "wrong_alternatives": [
+        "Das Hauptziel von Mobility Pricing ist die Erhöhung der Staatseinnahmen durch höhere Gebühren für die Verkehrsnutzung, unabhängig von der Tageszeit oder der Verkehrslage.",
+        "Mobility Pricing zielt primär darauf ab, den öffentlichen Verkehr zu entlasten, indem es den Individualverkehr verteuert und somit mehr Menschen zum Umsteigen auf Bus und Bahn bewegt."
+      ]
+    },
+    {
+      "correct_sentence": "Der Trend in der Mobilität heisst Elektrifizierung, weg von Diesel und Benzin.",
+      "wrong_alternatives": [
+        "Obwohl Elektrofahrzeuge an Bedeutung gewinnen, bleibt Diesel der dominierende Antriebstyp im Schweizer Verkehrssektor, insbesondere im Schwerlastverkehr und in ländlichen Gebieten.",
+        "Eine Renaissance des Wasserstoffantriebs wird erwartet, der Diesel und Benzin als wichtigste Energiequellen im Verkehrssektor der Schweiz in den nächsten Jahren ablösen könnte."
+      ]
+    },
+    {
+      "correct_sentence": "E-Bikes haben seit Beginn der 2010er-Jahre sehr hohe Zuwachsraten in der Schweiz.",
+      "wrong_alternatives": [
+        "Trotz des Umweltbewusstseins der Schweizer Bevölkerung stagniert der Absatz von E-Bikes seit Jahren, da sie als zu teuer und unpraktisch für den täglichen Gebrauch gelten.",
+        "Klassische Fahrräder ohne elektrische Unterstützung erleben in der Schweiz eine Renaissance, da sich immer mehr Menschen für eine umweltfreundliche und sportliche Fortbewegung entscheiden."
+      ]
+    },
+    {
+      "correct_sentence": "E-Scooter haben sich in den letzten Jahren explosionsartig in vielen Ländern verbreitet.",
+      "wrong_alternatives": [
+        "E-Scooter haben sich aufgrund strenger Regulierungen und Sicherheitsbedenken in den meisten Ländern als Nischenprodukt etabliert und spielen im urbanen Verkehr kaum eine Rolle.",
+        "Die Verbreitung von E-Scootern ist weltweit rückläufig, da sich viele Städte aufgrund von Unfällen und Vandalismus gegen deren Nutzung im öffentlichen Raum entschieden haben."
+      ]
+    },
+    {
+      "correct_sentence": "E-Autos spielten schon zu Beginn der Automobilentwicklung um 1900 eine wichtige Rolle.",
+      "wrong_alternatives": [
+        "Verbrennungsmotoren dominierten von Anfang an die Automobilentwicklung, während Elektroautos erst in den letzten Jahren aufgrund technologischer Fortschritte relevant wurden.",
+        "Dampfbetriebene Fahrzeuge waren zu Beginn der Automobilentwicklung die wichtigste Antriebsart, bevor sie im Laufe des 20. Jahrhunderts von Verbrennungs- und Elektromotoren abgelöst wurden."
+      ]
+    },
+    {
+      "correct_sentence": "Der weltweite Bestand an E-Autos hat sich bis 2020 nahezu versechsfacht.",
+      "wrong_alternatives": [
+        "Der weltweite Bestand an E-Autos ist in den letzten Jahren nur moderat um etwa 20 Prozent gestiegen, da die Technologie noch nicht ausgereift und die Infrastruktur unzureichend ist.",
+        "Obwohl Elektroautos an Popularität gewinnen, hat sich der weltweite Bestand bis 2020 nur verdoppelt, da der Umstieg auf Elektromobilität langsamer voranschreitet als erwartet."
+      ]
+    },
+    {
+      "correct_sentence": "Brennstoffzellenautos könnten sich für die Langstrecke durchsetzen, Batterieautos eher für Pendler.",
+      "wrong_alternatives": [
+        "Batterieautos werden sich aufgrund ihrer höheren Reichweite und schnelleren Betankung als ideale Lösung für Langstrecken etablieren, während Brennstoffzellenautos eher eine Nischenrolle spielen werden.",
+        "Plug-in-Hybride werden in Zukunft die dominierende Antriebsart sein, da sie die Vorteile von Batterie- und Verbrennungsmotoren kombinieren und somit für alle Nutzungsarten geeignet sind."
+      ]
+    },
+    {
+      "correct_sentence": "Elektrische Systeme im Bahnverkehr sind seit Ende des 19. Jahrhunderts etabliert.",
+      "wrong_alternatives": [
+        "Der Bahnverkehr in der Schweiz basiert hauptsächlich auf Dieselantrieb, da die Elektrifizierung des Schienennetzes aufgrund der Topographie und der hohen Kosten nur langsam vorankommt.",
+        "Obwohl es einige wenige elektrische Strecken gibt, dominiert der Dampfantrieb immer noch den Bahnverkehr in der Schweiz, insbesondere auf touristischen Routen und historischen Eisenbahnlinien."
+      ]
+    },
+    {
+      "correct_sentence": "Veloschnellrouten sollen den Anteil des Veloverkehrs am Gesamtverkehr erhöhen.",
+      "wrong_alternatives": [
+        "Veloschnellrouten dienen primär der Entlastung von Fussgängerwegen und sollen Konflikte zwischen Velofahrern und Fussgängern in städtischen Zentren reduzieren.",
+        "Das Hauptziel von Veloschnellrouten ist die Förderung des motorisierten Individualverkehrs, indem sie als Zubringerstrassen zu Autobahnen und Schnellstrassen dienen."
+      ]
+    },
+    {
+      "correct_sentence": "Carsharing macht vor allem in städtischen Gebieten und Agglomerationen Sinn.",
+      "wrong_alternatives": [
+        "Carsharing ist besonders in ländlichen Regionen und Berggebieten sinnvoll, wo die Anbindung an den öffentlichen Verkehr schlecht ist und individuelle Mobilität eine grosse Rolle spielt.",
+        "Carsharing eignet sich vor allem für Berufspendler und den täglichen Gebrauch, da es eine flexible und kostengünstige Alternative zum eigenen Auto für den Arbeitsweg darstellt."
+      ]
+    },
+    {
+      "correct_sentence": "Autonomes Fahren verspricht Optimierungspotenziale in Sicherheit, Verkehrsfluss und Energieverbrauch.",
+      "wrong_alternatives": [
+        "Autonomes Fahren wird voraussichtlich zu einer Verschlechterung der Verkehrssicherheit führen, da Computer anfälliger für Fehler und Hackerangriffe sind als menschliche Fahrer.",
+        "Der Energieverbrauch wird durch autonomes Fahren tendenziell steigen, da die komplexen Systeme und Sensoren in autonomen Fahrzeugen einen hohen Strombedarf haben."
+      ]
+    },
+    {
+      "correct_sentence": "Für autonomes Fahren ist eine zeitgemäss ausgebaute Strasseninfrastruktur notwendig.",
+      "wrong_alternatives": [
+        "Autonomes Fahren wird die bestehende Strasseninfrastruktur überflüssig machen, da sich autonome Fahrzeuge unabhängig von Strassenmarkierungen und Verkehrsschildern orientieren können.",
+        "Eine veraltete und schlecht gewartete Strasseninfrastruktur ist ideal für autonomes Fahren, da sie die Fahrzeuge zu besonders vorsichtigem und sicherheitsbewusstem Verhalten zwingt."
+      ]
+    }
+  ]
+}

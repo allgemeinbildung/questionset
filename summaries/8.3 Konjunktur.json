@@ -1,0 +1,151 @@
+{
+  "title": "Wissenstest Konjunktur",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "correct_sentence": "Wohlfahrt umfasst die Lebensqualität einer Person, einschliesslich materiellem Standard, Gesundheit und Gerechtigkeit.",
+      "wrong_alternatives": [
+        "Wohlfahrt beschränkt sich ausschliesslich auf den materiellen Lebensstandard und ignoriert immaterielle Aspekte wie Gesundheit oder Gerechtigkeit vollständig.",
+        "Wohlfahrt ist ein rein wirtschaftlicher Begriff, der die ökologische Nachhaltigkeit und persönliche Freiheit komplett ausser Acht lässt."
+      ]
+    },
+    {
+      "correct_sentence": "Wohlstand ist ein Teil der Wohlfahrt und beschreibt den materiellen Lebensstandard oder Reichtum.",
+      "wrong_alternatives": [
+        "Wohlstand ist ein umfassenderer Begriff als Wohlfahrt und beinhaltet alle Aspekte der Lebensqualität, einschliesslich immaterieller Werte.",
+        "Wohlstand und Wohlfahrt sind synonyme Begriffe und können in allen Kontexten ohne Bedeutungsverlust ausgetauscht werden."
+      ]
+    },
+    {
+      "correct_sentence": "Das Bruttoinlandprodukt (BIP) misst den Marktwert aller Güter und Dienste eines Landes innerhalb eines Jahres.",
+      "wrong_alternatives": [
+        "Das Bruttoinlandprodukt (BIP) erfasst den Marktwert aller Güter und Dienstleistungen weltweit und beinhaltet somit auch internationale Handelsaktivitäten.",
+        "Das Bruttoinlandprodukt (BIP) misst ausschliesslich den Wert der exportierten Güter und Dienstleistungen eines Landes und vernachlässigt den Binnenmarkt."
+      ]
+    },
+    {
+      "correct_sentence": "Das BIP wird auf drei Arten berechnet: Entstehung, Verwendung und Verteilung, wobei immer der gleiche Betrag resultiert.",
+      "wrong_alternatives": [
+        "Obwohl es drei Berechnungsarten des BIP gibt, führt jede Methode aufgrund unterschiedlicher statistischer Grundlagen zu signifikant abweichenden Ergebnissen.",
+        "Die drei Berechnungsarten des BIP (Entstehung, Verwendung, Verteilung) werden nur in der Theorie gelehrt, in der Praxis wird nur die Entstehungsmethode angewendet."
+      ]
+    },
+    {
+      "correct_sentence": "Das nominale BIP wird zu laufenden Preisen berechnet, während das reale BIP die Inflation berücksichtigt.",
+      "wrong_alternatives": [
+        "Nominales und reales BIP unterscheiden sich nur in der Berechnungsmethode, nicht aber in der Art und Weise, wie sie Preisänderungen berücksichtigen.",
+        "Das reale BIP wird zu aktuellen Preisen berechnet und das nominale BIP wird rückwirkend an die Inflation angepasst, was zu unterschiedlichen Werten führt."
+      ]
+    },
+    {
+      "correct_sentence": "Das reale BIP pro Kopf wird für Ländervergleiche verwendet, um den Wohlstand unabhängig von der Grösse des Landes zu messen.",
+      "wrong_alternatives": [
+        "Für internationale Vergleiche des Wohlstands ist das nominale BIP pro Kopf aussagekräftiger, da es die aktuellen Marktpreise widerspiegelt.",
+        "Das BIP pro Kopf ist für Ländervergleiche irrelevant, da nur das absolute BIP die tatsächliche Wirtschaftskraft eines Landes angemessen darstellt."
+      ]
+    },
+    {
+      "correct_sentence": "Wirtschaftswachstum ist der langfristige Anstieg des realen BIP, während Konjunkturschwankungen kurzfristige Bewegungen sind.",
+      "wrong_alternatives": [
+        "Konjunkturschwankungen beschreiben den langfristigen Trend des BIP, während Wirtschaftswachstum die kurzfristigen, saisonalen Anpassungen der Wirtschaft darstellt.",
+        "Wirtschaftswachstum und Konjunkturschwankungen sind identische Phänomene, die beide die kurzfristigen Auf- und Abbewegungen des nominalen BIP beschreiben."
+      ]
+    },
+    {
+      "correct_sentence": "Die Lorenzkurve zeigt die Einkommensverteilung; je 'bauchiger' sie ist, desto ungleicher ist die Verteilung.",
+      "wrong_alternatives": [
+        "Die Lorenzkurve visualisiert die Verteilung des BIP auf verschiedene Branchen und Sektoren innerhalb einer Volkswirtschaft.",
+        "Eine 'bauchige' Lorenzkurve deutet auf eine sehr gleichmässige Einkommensverteilung hin, bei der der Grossteil der Bevölkerung über ähnliche Einkommen verfügt."
+      ]
+    },
+    {
+      "correct_sentence": "Die soziale Marktwirtschaft kombiniert freie Märkte mit staatlicher Regulierung.",
+      "wrong_alternatives": [
+        "Die soziale Marktwirtschaft basiert ausschliesslich auf freien Märkten ohne jegliche staatliche Eingriffe oder Regulierungen.",
+        "In einer sozialen Marktwirtschaft dominiert die zentrale Planwirtschaft, wobei der Staat alle Produktions- und Verteilungsentscheidungen trifft."
+      ]
+    },
+    {
+      "correct_sentence": "Der Staat hat in der sozialen Marktwirtschaft Aufgaben wie Rechtssystem, Umverteilung und Korrektur von Marktversagen.",
+      "wrong_alternatives": [
+        "In der sozialen Marktwirtschaft beschränken sich die Staatsaufgaben auf die reine Aufrechterhaltung der öffentlichen Ordnung und Sicherheit, ohne wirtschaftliche Eingriffe.",
+        "Die Hauptaufgabe des Staates in der sozialen Marktwirtschaft ist die direkte Steuerung der Produktionsprozesse und die Festlegung von Preisen und Löhnen."
+      ]
+    },
+    {
+      "correct_sentence": "Wirtschaftspolitik zielt darauf ab, die Lebensqualität zu verbessern, mit Zielen wie hohem Wohlstand und tiefer Arbeitslosigkeit.",
+      "wrong_alternatives": [
+        "Das primäre Ziel der Wirtschaftspolitik ist die Maximierung der Staatsverschuldung, um kurzfristige Konsumanreize zu schaffen und die Wählergunst zu gewinnen.",
+        "Wirtschaftspolitik hat das vorrangige Ziel, die Inflation auf ein maximales Niveau zu treiben, um die Wettbewerbsfähigkeit der nationalen Wirtschaft zu steigern."
+      ]
+    },
+    {
+      "correct_sentence": "Konjunkturzyklen verlaufen in vier Phasen: Aufschwung, Hochkonjunktur, Abschwung und Rezession.",
+      "wrong_alternatives": [
+        "Konjunkturzyklen bestehen aus lediglich zwei Phasen, Boom und Rezession, die sich in regelmässigen Abständen wiederholen.",
+        "Der Konjunkturzyklus umfasst fünf Phasen: Expansion, Boom, Stagnation, Rezession und Depression, die in einer linearen Abfolge aufeinander folgen."
+      ]
+    },
+    {
+      "correct_sentence": "In der Rezession sinkt das BIP und die Arbeitslosigkeit steigt.",
+      "wrong_alternatives": [
+        "Während einer Rezession steigt das BIP typischerweise stark an, begleitet von einem deutlichen Rückgang der Arbeitslosigkeit.",
+        "In einer Rezession bleiben BIP und Arbeitslosigkeit weitgehend unverändert, da es sich um eine Phase wirtschaftlicher Stabilität handelt."
+      ]
+    },
+    {
+      "correct_sentence": "Konjunkturpolitik versucht, grosse Konjunkturschwankungen durch staatliche Eingriffe abzudämpfen.",
+      "wrong_alternatives": [
+        "Das Ziel der Konjunkturpolitik ist es, Konjunkturschwankungen zu verstärken, um den Wettbewerb anzukurbeln und Innovationen zu fördern.",
+        "Konjunkturpolitik hat keinen Einfluss auf Konjunkturschwankungen, da diese natürliche und unbeeinflussbare wirtschaftliche Zyklen darstellen."
+      ]
+    },
+    {
+      "correct_sentence": "Der Staat kann in der Rezession Staatsaufträge ausweiten oder Steuern senken, um die Wirtschaft anzukurbeln.",
+      "wrong_alternatives": [
+        "Um eine Rezession zu bekämpfen, sollte der Staat die Staatsausgaben drastisch kürzen und die Steuern erhöhen, um das Haushaltsdefizit zu reduzieren.",
+        "In einer Rezession ist es ratsam, dass der Staat keinerlei wirtschaftliche Massnahmen ergreift, um den Markt sich selbst regulieren zu lassen."
+      ]
+    },
+    {
+      "correct_sentence": "Kurzarbeit ist ein Instrument, um in Rezessionen Kündigungen zu vermeiden und Auftragsengpässe zu überbrücken.",
+      "wrong_alternatives": [
+        "Kurzarbeit dient primär dazu, in Boomphasen Arbeitskräfte flexibler einzusetzen und Produktionsspitzen besser abzufangen.",
+        "Kurzarbeit ist eine Massnahme, die in erster Linie von Arbeitnehmern initiiert wird, um ihre Arbeitszeit flexibler zu gestalten und mehr Freizeit zu gewinnen."
+      ]
+    },
+    {
+      "correct_sentence": "Armut ist auch in der reichen Schweiz ein Problem, insbesondere betroffen sind Alleinerziehende und Familien mit vielen Kindern.",
+      "wrong_alternatives": [
+        "Armut ist in der Schweiz kein relevantes Problem, da der hohe Wohlstand des Landes sicherstellt, dass alle Bürger ein gutes Leben führen können.",
+        "Armut betrifft in der Schweiz hauptsächlich ältere Menschen, da die Altersvorsorge im Allgemeinen unzureichend ist und keine jüngeren Bevölkerungsgruppen."
+      ]
+    },
+    {
+      "correct_sentence": "Working Poor bezeichnet Menschen, die trotz Erwerbstätigkeit unter der Armutsgrenze leben.",
+      "wrong_alternatives": [
+        "Working Poor sind Personen, die arbeitslos sind, aber dennoch über ein ausreichendes Einkommen aus informellen Tätigkeiten verfügen.",
+        "Der Begriff 'Working Poor' beschreibt ausschliesslich Rentner, die trotz ihrer Altersrente unterhalb der Armutsgrenze leben müssen."
+      ]
+    },
+    {
+      "correct_sentence": "Die Bundesverfassung garantiert einen Anspruch auf Hilfe für Notdürftige.",
+      "wrong_alternatives": [
+        "Die Schweizerische Bundesverfassung schliesst jeglichen Anspruch auf staatliche Hilfe für Notdürftige kategorisch aus.",
+        "Der Anspruch auf Hilfe für Notdürftige ist in der Schweiz ausschliesslich auf ausländische Staatsbürger beschränkt, nicht aber auf Schweizer Bürger."
+      ]
+    },
+    {
+      "correct_sentence": "Der Bund bekämpft Armut in der Schweiz mit einem nationalen Programm, dessen Schwerpunkt Bildung ist.",
+      "wrong_alternatives": [
+        "Der Bund überlässt die Armutsbekämpfung vollständig den Kantonen und Gemeinden und beteiligt sich nicht an nationalen Programmen.",
+        "Das nationale Programm des Bundes zur Armutsbekämpfung konzentriert sich primär auf finanzielle Soforthilfen und vernachlässigt langfristige Massnahmen wie Bildung."
+      ]
+    }
+  ]
+}

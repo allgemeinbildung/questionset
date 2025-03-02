@@ -1,0 +1,151 @@
+{
+  "title": "Drag the Words - Arbeitslosigkeit",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "correct_sentence": "Arbeitslosigkeit betrifft alle Staaten und kann jede Person unabhängig vom Alter treffen.",
+      "wrong_alternatives": [
+        "Arbeitslosigkeit ist ein Problem, das nur in Entwicklungsländern auftritt und hauptsächlich ältere Menschen betrifft.",
+        "Arbeitslosigkeit ist ein vorübergehendes Phänomen, das nur wenige Menschen in bestimmten Berufsfeldern betrifft."
+      ]
+    },
+    {
+      "correct_sentence": "In der Schweiz sind Arbeitnehmende gegen Arbeitslosigkeit versichert und erhalten finanzielle Unterstützung.",
+      "wrong_alternatives": [
+        "In der Schweiz gibt es keine Arbeitslosenversicherung, da der Staat davon ausgeht, dass jeder Bürger immer Arbeit findet.",
+        "In der Schweiz erhalten nur Beamte und Staatsangestellte finanzielle Unterstützung bei Arbeitslosigkeit, während andere leer ausgehen."
+      ]
+    },
+    {
+      "correct_sentence": "Jugendarbeitslosigkeit bezieht sich auf die Altersgruppe der 15- bis 24-Jährigen.",
+      "wrong_alternatives": [
+        "Jugendarbeitslosigkeit betrifft hauptsächlich Personen über 50 Jahre, die Schwierigkeiten haben, sich an neue Technologien anzupassen.",
+        "Jugendarbeitslosigkeit umfasst alle Personen unter 35 Jahren, die nach einer Ausbildung keine feste Anstellung finden."
+      ]
+    },
+    {
+      "correct_sentence": "Die Arbeitslosenzahlen in der Schweiz erfassen Personen, die bei den RAV gemeldet und sofort vermittelbar sind.",
+      "wrong_alternatives": [
+        "In der Schweiz werden nur Personen als arbeitslos gezählt, die zuvor mindestens fünf Jahre ununterbrochen gearbeitet haben.",
+        "Die Arbeitslosenzahlen in der Schweiz beinhalten auch Personen, die sich in Umschulungsmassnahmen befinden oder eine Weiterbildung absolvieren."
+      ]
+    },
+    {
+      "correct_sentence": "Die ILO-Standards basieren auf Umfragen zur Erwerbstätigkeit, um Arbeitslosigkeit international vergleichbar zu machen.",
+      "wrong_alternatives": [
+        "Die ILO-Standards zur Messung von Arbeitslosigkeit basieren ausschliesslich auf den Angaben der nationalen Arbeitslosenregister.",
+        "Die ILO-Standards werden nur in Entwicklungsländern angewendet, da Industrieländer eigene, genauere Methoden verwenden."
+      ]
+    },
+    {
+      "correct_sentence": "Schüler und Studenten, deren Haupttätigkeit das Lernen ist, werden nicht zur Jugendarbeitslosenquote gezählt.",
+      "wrong_alternatives": [
+        "Schüler und Studenten, die nebenbei jobben, werden automatisch zur Jugendarbeitslosenquote hinzugezählt, auch wenn sie ihre Ausbildung fortsetzen.",
+        "Alle Personen unter 25 Jahren, unabhängig von ihrer Haupttätigkeit, werden in der Schweiz in der Jugendarbeitslosenstatistik erfasst."
+      ]
+    },
+    {
+      "correct_sentence": "Die Jugendarbeitslosenquote bezieht sich auf den Anteil der Arbeitslosen an den gleichaltrigen Erwerbspersonen.",
+      "wrong_alternatives": [
+        "Die Jugendarbeitslosenquote gibt den Prozentsatz der Arbeitslosen an der gesamten Bevölkerungsgruppe der 15- bis 24-Jährigen an.",
+        "Die Jugendarbeitslosenquote umfasst auch Rentner und Frühpensionierte, die dem Arbeitsmarkt nicht mehr zur Verfügung stehen."
+      ]
+    },
+    {
+      "correct_sentence": "Die Schweiz hat im europäischen Vergleich eine relativ niedrige Arbeitslosenquote.",
+      "wrong_alternatives": [
+        "Die Schweiz hat die höchste Arbeitslosenquote in Europa, da viele junge Menschen nach der Ausbildung keine Stelle finden.",
+        "Die Arbeitslosenquote der Schweiz ist vergleichbar mit der von Krisenstaaten wie Griechenland und Spanien."
+      ]
+    },
+    {
+      "correct_sentence": "Gründe für Arbeitslosigkeit werden in friktionelle, saisonale, konjunkturelle und strukturelle Arbeitslosigkeit unterteilt.",
+      "wrong_alternatives": [
+        "Arbeitslosigkeit wird hauptsächlich in freiwillige und unfreiwillige Arbeitslosigkeit sowie in kurz- und langfristige Arbeitslosigkeit unterschieden.",
+        "Die Hauptkategorien der Arbeitslosigkeit sind demografische, geografische und technologische Arbeitslosigkeit, die alle staatlich bedingt sind."
+      ]
+    },
+    {
+      "correct_sentence": "Friktionelle Arbeitslosigkeit entsteht beim Übergang von einer Arbeitsstelle zur nächsten.",
+      "wrong_alternatives": [
+        "Friktionelle Arbeitslosigkeit ist eine langfristige Form der Arbeitslosigkeit, die durch mangelnde Qualifikation der Arbeitnehmer bedingt ist.",
+        "Friktionelle Arbeitslosigkeit tritt nur in bestimmten Branchen auf, in denen es häufig zu Entlassungen und Betriebsschliessungen kommt."
+      ]
+    },
+    {
+      "correct_sentence": "Konjunkturelle Arbeitslosigkeit tritt bei einer Schwächung der Wirtschaft auf.",
+      "wrong_alternatives": [
+        "Konjunkturelle Arbeitslosigkeit ist eine Folge von Naturkatastrophen oder unvorhergesehenen Ereignissen, die die Wirtschaft plötzlich lahmlegen.",
+        "Konjunkturelle Arbeitslosigkeit entsteht durch staatliche Eingriffe in den Markt, die zu Wettbewerbsverzerrungen und Arbeitsplatzverlusten führen."
+      ]
+    },
+    {
+      "correct_sentence": "Kurzarbeitsentschädigung hilft, konjunkturelle Arbeitslosigkeit zu mildern.",
+      "wrong_alternatives": [
+        "Kurzarbeitsentschädigung ist eine Massnahme zur Bekämpfung der saisonalen Arbeitslosigkeit in der Landwirtschaft und im Tourismus.",
+        "Kurzarbeitsentschädigung wird nur an Grossunternehmen gezahlt, um deren Wettbewerbsfähigkeit im internationalen Markt zu sichern."
+      ]
+    },
+    {
+      "correct_sentence": "Strukturelle Arbeitslosigkeit entsteht durch grundlegende Veränderungen in der Wirtschaftsstruktur.",
+      "wrong_alternatives": [
+        "Strukturelle Arbeitslosigkeit ist eine vorübergehende Erscheinung, die sich mit einer raschen Erholung der Konjunktur von selbst erledigt.",
+        "Strukturelle Arbeitslosigkeit betrifft hauptsächlich gering qualifizierte Arbeitskräfte in ländlichen Regionen ohne Industrie."
+      ]
+    },
+    {
+      "correct_sentence": "Technologischer Fortschritt kann zu struktureller Arbeitslosigkeit führen, indem er Arbeitskräfte ersetzt.",
+      "wrong_alternatives": [
+        "Technologischer Fortschritt schafft immer mehr neue Arbeitsplätze, sodass strukturelle Arbeitslosigkeit ausgeschlossen ist.",
+        "Technologischer Fortschritt betrifft nur hochqualifizierte Berufe und hat keinen Einfluss auf die Arbeitslosigkeit in einfachen Tätigkeiten."
+      ]
+    },
+    {
+      "correct_sentence": "Regionale Verschiebungen können strukturelle Arbeitslosigkeit verursachen, wenn Unternehmen abwandern.",
+      "wrong_alternatives": [
+        "Regionale Verschiebungen führen immer zu einer gleichmässigen Verteilung der Arbeitsplätze im ganzen Land, sodass Arbeitslosigkeit kein Thema ist.",
+        "Regionale Verschiebungen sind irrelevant für die Arbeitslosigkeit, da Arbeitnehmer heutzutage sehr mobil und flexibel sind."
+      ]
+    },
+    {
+      "correct_sentence": "Langzeitarbeitslosigkeit kann aus konjunktureller Arbeitslosigkeit entstehen, wenn die Erholung langsam ist.",
+      "wrong_alternatives": [
+        "Langzeitarbeitslosigkeit ist eine seltene Ausnahme und betrifft nur Menschen, die sich nicht ausreichend um eine neue Stelle bemühen.",
+        "Langzeitarbeitslosigkeit ist immer strukturell bedingt und hat nichts mit konjunkturellen Schwankungen zu tun."
+      ]
+    },
+    {
+      "correct_sentence": "Saisonale Arbeitslosigkeit tritt in Branchen mit jahreszeitlich schwankender Nachfrage auf.",
+      "wrong_alternatives": [
+        "Saisonale Arbeitslosigkeit ist ein Mythos, da moderne Unternehmen ihre Produktion und Dienstleistungen das ganze Jahr über konstant halten können.",
+        "Saisonale Arbeitslosigkeit betrifft nur Führungskräfte und Manager, deren Positionen von der Jahreszeit abhängig sind."
+      ]
+    },
+    {
+      "correct_sentence": "Baugewerbe, Forstwirtschaft und Tourismus sind Beispiele für saisonale Arbeitslosigkeit.",
+      "wrong_alternatives": [
+        "Baugewerbe, Forstwirtschaft und Tourismus sind Branchen, die völlig unabhängig von saisonalen Schwankungen und Arbeitslosigkeit sind.",
+        "Saisonale Arbeitslosigkeit betrifft hauptsächlich den Finanzsektor und die IT-Branche, die stark von globalen Märkten abhängig sind."
+      ]
+    },
+    {
+      "correct_sentence": "Saisonale Arbeitslosigkeit bedeutet, dass in der Nebensaison nicht alle Arbeitnehmenden beschäftigt werden können.",
+      "wrong_alternatives": [
+        "Saisonale Arbeitslosigkeit bedeutet, dass in der Hauptsaison mehr Arbeitskräfte benötigt werden, als tatsächlich verfügbar sind.",
+        "Saisonale Arbeitslosigkeit führt dazu, dass Unternehmen gezwungen sind, ihre Preise in der Hauptsaison drastisch zu senken, um wettbewerbsfähig zu bleiben."
+      ]
+    },
+    {
+      "correct_sentence": "Saisonale Arbeitslosigkeit ist vorhersehbar und branchenabhängig.",
+      "wrong_alternatives": [
+        "Saisonale Arbeitslosigkeit ist völlig unvorhersehbar und kann jede Branche unerwartet treffen, unabhängig von der Jahreszeit.",
+        "Saisonale Arbeitslosigkeit ist ein rein städtisches Phänomen und betrifft ländliche Regionen überhaupt nicht."
+      ]
+    }
+  ]
+}

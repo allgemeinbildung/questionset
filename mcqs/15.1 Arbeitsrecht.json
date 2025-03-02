@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Arbeitsrecht",
+  "headerImage": "img1.png",
+  "media": {
+      "type": "",
+      "url": "",
+      "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Gesetz sind die Vorschriften über den Einzelarbeitsvertrag (EAV) hauptsächlich geregelt?</p>",
+      "options": [
+        {
+          "text": "Arbeitsgesetz (ArG)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>Arbeitsgesetz (ArG)</strong> enthält <strong>Mindestvorschriften</strong> zum Schutz der Arbeitnehmenden, aber die detaillierten Regelungen zum <strong>Einzelarbeitsvertrag (EAV)</strong> finden sich im <strong>Obligationenrecht (OR)</strong>."
+        },
+        {
+          "text": "Obligationenrecht (OR)",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das <strong>Obligationenrecht (OR)</strong> enthält die zentralen <strong>Vorschriften</strong> über den <strong>Einzelarbeitsvertrag (EAV)</strong>."
+        },
+        {
+          "text": "Gesamtarbeitsvertrag (GAV)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Gesamtarbeitsvertrag (GAV)</strong> wird zwischen <strong>Arbeitgeberverbänden</strong> und <strong>Gewerkschaften</strong> abgeschlossen und regelt branchenspezifische Arbeitsbedingungen, nicht den individuellen Arbeitsvertrag."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Gesetz enthält zwingende öffentlich-rechtliche Mindestvorschriften zum Schutz der Arbeitnehmenden?</p>",
+      "options": [
+        {
+          "text": "Obligationenrecht (OR)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>Obligationenrecht (OR)</strong> regelt vor allem den <strong>Einzelarbeitsvertrag</strong>, aber die <strong>Mindestvorschriften zum Schutz der Arbeitnehmenden</strong> sind im <strong>Arbeitsgesetz (ArG)</strong> festgelegt."
+        },
+        {
+          "text": "Zivilgesetzbuch (ZGB)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>Zivilgesetzbuch (ZGB)</strong> regelt andere Bereiche des Zivilrechts, aber nicht die <strong>Mindestvorschriften zum Schutz der Arbeitnehmenden</strong> im Arbeitsverhältnis."
+        },
+        {
+          "text": "Arbeitsgesetz (ArG)",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das <strong>Arbeitsgesetz (ArG)</strong> enthält <strong>zwingende öffentlich-rechtliche Mindestvorschriften</strong> zum Schutz der Arbeitnehmenden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange dauert die Probezeit in einem unbefristeten Arbeitsverhältnis normalerweise?</p>",
+      "options": [
+        {
+          "text": "Drei Monate",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>maximale Probezeit</strong> kann <strong>drei Monate</strong> betragen, aber die <strong>normale Probezeit</strong> dauert <strong>einen Monat</strong>."
+        },
+        {
+          "text": "Einen Monat",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Probezeit</strong> dauert normalerweise <strong>einen Monat</strong>, kann aber <strong>vertraglich auf maximal drei Monate verlängert</strong> werden."
+        },
+        {
+          "text": "Sechs Monate",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>maximale Probezeit</strong> beträgt <strong>drei Monate</strong>, <strong>sechs Monate</strong> sind im Normalfall <strong>nicht zulässig</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Mit welchem Lohnzuschlag müssen Überstunden gemäss Gesetz mindestens entschädigt werden, wenn sie nicht durch Freizeit ausgeglichen werden?</p>",
+      "options": [
+        {
+          "text": "10 Prozent",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der gesetzliche <strong>Lohnzuschlag</strong> für Überstunden beträgt <strong>nicht 10 Prozent</strong>."
+        },
+        {
+          "text": "25 Prozent",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der gesetzliche <strong>Lohnzuschlag</strong> für Überstunden beträgt <strong>mindestens 25 Prozent</strong>, wenn sie nicht durch Freizeit ausgeglichen werden."
+        },
+        {
+          "text": "50 Prozent",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein <strong>Lohnzuschlag von 50 Prozent</strong> gilt üblicherweise für <strong>Sonntagsarbeit</strong>, nicht für <strong>Überstunden</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Kündigungsfrist gilt während der Probezeit, sofern vertraglich nichts anderes vereinbart wurde?</p>",
+      "options": [
+        {
+          "text": "Ein Monat",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine <strong>Kündigungsfrist von einem Monat</strong> gilt <strong>nach der Probezeit</strong> im ersten Dienstjahr, aber <strong>nicht während der Probezeit</strong>."
+        },
+        {
+          "text": "Zwei Wochen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Kündigungsfrist von zwei Wochen</strong> ist <strong>nicht korrekt</strong> für die Probezeit gemäss Lehrmittel."
+        },
+        {
+          "text": "Sieben Tage",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Während der <strong>Probezeit</strong> gilt eine <strong>Kündigungsfrist von sieben Tagen</strong>, sofern vertraglich nichts anderes vereinbart wurde."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Hauptunterschied zwischen dem Obligationenrecht (OR) und dem Arbeitsgesetz (ArG) im Bereich des Arbeitsrechts?</p>",
+      "options": [
+        {
+          "text": "Das OR regelt nur die Pflichten der Arbeitnehmenden, während das ArG nur die Pflichten der Arbeitgebenden regelt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sowohl das <strong>OR</strong> als auch das <strong>ArG</strong> regeln <strong>Pflichten für Arbeitnehmende und Arbeitgebende</strong>."
+        },
+        {
+          "text": "Das OR enthält detaillierte Regelungen zum Einzelarbeitsvertrag, während das ArG Mindeststandards zum Schutz der Arbeitnehmenden festlegt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das <strong>OR</strong> fokussiert auf den <strong>Einzelarbeitsvertrag</strong>, während das <strong>ArG</strong> <strong>Mindeststandards zum Schutz der Arbeitnehmenden</strong> vorgibt."
+        },
+        {
+          "text": "Das ArG ist für alle Branchen verbindlich, während das OR nur für bestimmte Branchen gilt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sowohl das <strong>OR</strong> als auch das <strong>ArG</strong> sind <strong>grundsätzlich für alle Branchen relevant</strong>, wobei der <strong>Geltungsbereich</strong> durch <strong>Gesamtarbeitsverträge (GAV)</strong> ergänzt werden kann."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist die Treuepflicht der Arbeitnehmenden gegenüber dem Arbeitgeber von grosser Bedeutung?</p>",
+      "options": [
+        {
+          "text": "Weil sie dem Arbeitgeber erlaubt, die Freizeit der Arbeitnehmenden zu kontrollieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Treuepflicht</strong> dient <strong>nicht der Kontrolle der Freizeit</strong>, sondern dem <strong>Schutz der Interessen des Arbeitgebers</strong> im Arbeitsverhältnis."
+        },
+        {
+          "text": "Weil sie sicherstellt, dass Arbeitnehmende die Anweisungen des Arbeitgebers immer ohne Widerspruch befolgen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Treuepflicht</strong> bedeutet <strong>nicht bedingungslosen Gehorsam</strong>, sondern <strong>verantwortungsbewusstes Verhalten</strong> und die <strong>Wahrung der Interessen des Arbeitgebers</strong>."
+        },
+        {
+          "text": "Weil sie das Vertrauensverhältnis schützt und verhindert, dass Arbeitnehmende dem Arbeitgeber Schaden zufügen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Treuepflicht</strong> dient dem <strong>Schutz des Vertrauensverhältnisses</strong> und soll <strong>Schäden für den Arbeitgeber verhindern</strong>, z.B. durch <strong>Geheimnisverrat</strong> oder <strong>Konkurrenzierung</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet der Begriff 'Sperrfrist' im Zusammenhang mit Kündigungen im Arbeitsrecht?</p>",
+      "options": [
+        {
+          "text": "Eine Frist, innerhalb derer der Arbeitnehmer keine Ferien beziehen darf.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine <strong>Sperrfrist</strong> hat <strong>nichts mit Ferien</strong> zu tun, sondern bezieht sich auf den <strong>Kündigungsschutz</strong>."
+        },
+        {
+          "text": "Eine Frist, innerhalb derer der Arbeitgeber einem Arbeitnehmer nicht kündigen darf, z.B. während Krankheit oder Schwangerschaft.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Eine <strong>Sperrfrist</strong> ist ein <strong>zeitlicher Kündigungsschutz</strong>, der Arbeitnehmende in bestimmten Situationen wie <strong>Krankheit</strong> oder <strong>Schwangerschaft</strong> vor einer <strong>Kündigung schützt</strong>."
+        },
+        {
+          "text": "Eine Frist, innerhalb derer der Arbeitnehmer nach einer Kündigung keine neue Stelle antreten darf.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine <strong>Sperrfrist</strong> schränkt <strong>nicht die Stellensuche des Arbeitnehmers</strong> ein, sondern <strong>beschränkt das Recht des Arbeitgebers zu kündigen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen Hauptvorteil bietet ein Gesamtarbeitsvertrag (GAV) in der Regel für Arbeitnehmende im Vergleich zum Obligationenrecht (OR)?</p>",
+      "options": [
+        {
+          "text": "Er ermöglicht es Arbeitgebern, flexiblere Arbeitszeiten anzuordnen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>GAV</strong> zielen darauf ab, die <strong>Arbeitsbedingungen für Arbeitnehmende zu verbessern</strong>, nicht die <strong>Flexibilität für Arbeitgeber zu erhöhen</strong>."
+        },
+        {
+          "text": "Er enthält oft günstigere Regelungen für Arbeitnehmende, z.B. bezüglich Mindestlöhne, Ferien oder Kündigungsfristen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>GAV</strong> enthalten häufig <strong>günstigere Regelungen für Arbeitnehmende</strong> als das <strong>OR</strong>, insbesondere in Bezug auf <strong>Mindestlöhne</strong>, <strong>Ferien</strong> und <strong>Kündigungsfristen</strong>."
+        },
+        {
+          "text": "Er vereinfacht die Kündigung von Arbeitsverhältnissen für Arbeitgeber.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>GAV</strong> dienen <strong>nicht der Vereinfachung von Kündigungen</strong>, sondern dem <strong>Schutz der Arbeitnehmenden</strong> und der <strong>Regelung fairer Arbeitsbedingungen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist eine gütliche Einigung bei arbeitsrechtlichen Streitigkeiten oft einer gerichtlichen Auseinandersetzung vorzuziehen?</p>",
+      "options": [
+        {
+          "text": "Weil Gerichtsverfahren in Arbeitsrechtsstreitigkeiten immer kostenlos sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Gerichtsverfahren</strong> können <strong>Kosten verursachen</strong>, insbesondere bei <strong>höheren Streitwerten</strong>."
+        },
+        {
+          "text": "Weil eine gütliche Einigung in der Regel schneller, kostengünstiger und weniger belastend für die Parteien ist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Eine <strong>gütliche Einigung</strong> ist meistens <strong>schneller</strong>, <strong>kostengünstiger</strong> und <strong>weniger belastend</strong> für die Beziehung zwischen den Parteien als ein <strong>Gerichtsverfahren</strong>."
+        },
+        {
+          "text": "Weil ein Gerichtsurteil immer für beide Parteien zufriedenstellend ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein <strong>Gerichtsurteil</strong> kann für eine Partei <strong>ungünstig</strong> ausfallen und die <strong>Beziehung</strong> zwischen den Parteien <strong>weiter belasten</strong>."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Einzelarbeitsvertrag (EAV) muss zwingend schriftlich abgeschlossen werden, um gültig zu sein.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der <strong>Einzelarbeitsvertrag (EAV)</strong> ist <strong>formlos gültig</strong> und muss <strong>nicht zwingend schriftlich</strong> abgeschlossen werden.",
+      "feedback_incorrect": "❌ Falsch. Der <strong>Einzelarbeitsvertrag (EAV)</strong> ist <strong>formlos gültig</strong> und muss <strong>nicht zwingend schriftlich</strong> abgeschlossen werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Überzeit muss immer zwingend mit Freizeit von gleicher Dauer kompensiert werden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! <strong>Überzeit</strong> kann entweder mit <strong>Freizeit von gleicher Dauer</strong> oder mit einem <strong>Lohnzuschlag von 25 Prozent</strong> abgegolten werden.",
+      "feedback_incorrect": "❌ Falsch. <strong>Überzeit</strong> kann entweder mit <strong>Freizeit von gleicher Dauer</strong> oder mit einem <strong>Lohnzuschlag von 25 Prozent</strong> abgegolten werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine missbräuchliche Kündigung ist im Schweizer Arbeitsrecht automatisch ungültig.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Eine <strong>missbräuchliche Kündigung</strong> ist <strong>nicht ungültig</strong>, sondern berechtigt den Arbeitnehmer zu einer <strong>Entschädigung</strong>.",
+      "feedback_incorrect": "❌ Falsch. Eine <strong>missbräuchliche Kündigung</strong> ist <strong>nicht ungültig</strong>, sondern berechtigt den Arbeitnehmer zu einer <strong>Entschädigung</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Das Arbeitsgesetz (ArG) dient einem stärkeren Schutz der Arbeitnehmenden als das Obligationenrecht (OR).</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Das <strong>Arbeitsgesetz (ArG)</strong> enthält <strong>zwingende Mindestvorschriften</strong>, die dem <strong>Schutz der Gesundheit und des Wohls der Arbeitnehmenden</strong> dienen und somit einen <strong>stärkeren Schutz</strong> bieten als die allgemeineren Regelungen im <strong>OR</strong>.",
+      "feedback_incorrect": "❌ Falsch. Das <strong>Arbeitsgesetz (ArG)</strong> enthält <strong>zwingende Mindestvorschriften</strong>, die dem <strong>Schutz der Gesundheit und des Wohls der Arbeitnehmenden</strong> dienen und somit einen <strong>stärkeren Schutz</strong> bieten als die allgemeineren Regelungen im <strong>OR</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein Gesamtarbeitsvertrag (GAV) darf die Bestimmungen des Einzelarbeitsvertrages (EAV) auch zum Nachteil der Arbeitnehmenden verändern, wenn dies im GAV so vereinbart ist.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Ein <strong>Gesamtarbeitsvertrag (GAV)</strong> darf nur <strong>günstigere Bedingungen für Arbeitnehmende</strong> festlegen als das <strong>OR</strong> oder der <strong>EAV</strong>. <strong>Verschlechterungen</strong> im Vergleich zum <strong>EAV</strong> sind <strong>nicht zulässig</strong>.",
+      "feedback_incorrect": "❌ Falsch. Ein <strong>Gesamtarbeitsvertrag (GAV)</strong> darf nur <strong>günstigere Bedingungen für Arbeitnehmende</strong> festlegen als das <strong>OR</strong> oder der <strong>EAV</strong>. <strong>Verschlechterungen</strong> im Vergleich zum <strong>EAV</strong> sind <strong>nicht zulässig</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Bei arbeitsrechtlichen Streitigkeiten mit einem Streitwert von weniger als 30'000 Franken fallen in der Regel keine Gerichtskosten an.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Für <strong>Streitigkeiten mit einem Streitwert bis zu 30'000 Franken</strong> fallen in vielen Kantonen tatsächlich <strong>keine Gerichtskosten</strong> an, was den <strong>Zugang zum Recht erleichtern</strong> soll.",
+      "feedback_incorrect": "❌ Falsch. Für <strong>Streitigkeiten mit einem Streitwert bis zu 30'000 Franken</strong> fallen in vielen Kantonen tatsächlich <strong>keine Gerichtskosten</strong> an, was den <strong>Zugang zum Recht erleichtern</strong> soll."
+    }
+  ]
+}
