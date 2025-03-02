@@ -1,0 +1,151 @@
+{
+  "title": "Kaufvertragsarten - Sätze Zuordnen",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "correct_sentence": "Beim Leasing wird dem Leasingnehmer ein Gegenstand zum Gebrauch überlassen, wobei das Eigentum bei der Leasinggeberin verbleibt.",
+      "wrong_alternatives": [
+        "Beim Leasing erwirbt der Leasingnehmer automatisch das Eigentum am Gegenstand nach Ablauf der Leasingdauer, was Leasing zu einer Kaufoption macht.",
+        "Beim Leasing handelt es sich um einen sofortigen Eigentumsübergang des Gegenstandes an den Leasingnehmer, ähnlich wie bei einem herkömmlichen Barkauf."
+      ],
+    },
+    {
+      "correct_sentence": "Die Leasinggebühr setzt sich aus der Abschreibung des Gegenstandes und den Zinsen für das eingesetzte Kapital zusammen.",
+      "wrong_alternatives": [
+        "Die Leasinggebühr beinhaltet lediglich die reinen Betriebskosten des Leasinggegenstandes, wie beispielsweise Wartung und Reparaturen, jedoch keine Kapitalkosten.",
+        "Die Leasinggebühr ist eine einmalige Zahlung zu Beginn des Vertrags und deckt die gesamte Nutzungsdauer des Leasinggegenstandes ab."
+      ],
+    },
+    {
+      "correct_sentence": "Viele Leasingverträge für Privatpersonen unterliegen dem Konsumkreditgesetz (KKG), das Konsumentenschutzbestimmungen vorsieht.",
+      "wrong_alternatives": [
+        "Leasingverträge für Privatpersonen sind vom Konsumkreditgesetz (KKG) ausgenommen und unterliegen keinen spezifischen Konsumentenschutzbestimmungen.",
+        "Das Konsumkreditgesetz (KKG) findet ausschliesslich auf Unternehmenskredite Anwendung, während private Leasingverträge durch das Obligationenrecht geregelt werden."
+      ],
+    },
+    {
+      "correct_sentence": "Beim Miet-Kauf-Vertrag mietet der Käufer einen Gegenstand und kann ihn später kaufen, wobei Mietraten angerechnet werden.",
+      "wrong_alternatives": [
+        "Beim Miet-Kauf-Vertrag handelt es sich um eine reine Mietvereinbarung ohne Kaufoption, bei der der Mieter den Gegenstand nach Vertragsende zurückgeben muss.",
+        "Der Miet-Kauf-Vertrag verpflichtet den Mieter automatisch zum Kauf des Gegenstandes am Ende der Mietdauer, unabhängig von seiner aktuellen finanziellen Situation."
+      ],
+    },
+    {
+      "correct_sentence": "Im Gegensatz zum Leasing gibt es beim Miet-Kauf-Vertrag kein gesetzliches Rücktrittsrecht.",
+      "wrong_alternatives": [
+        "Der Miet-Kauf-Vertrag beinhaltet ein gesetzliches Rücktrittsrecht von 30 Tagen, das dem Konsumenten zusätzlichen Schutz bietet.",
+        "Das Rücktrittsrecht beim Miet-Kauf-Vertrag ist identisch mit dem beim Leasing und beträgt 14 Tage nach Vertragsabschluss."
+      ],
+    },
+    {
+      "correct_sentence": "Der Kauf mit Konsumkreditvertrag ermöglicht es, Waren sofort zu erhalten und den Kaufpreis in Raten abzubezahlen.",
+      "wrong_alternatives": [
+        "Beim Kauf mit Konsumkreditvertrag muss der Käufer den vollen Kaufpreis im Voraus bezahlen, bevor er die Ware erhält, was eine sofortige Liquidität erfordert.",
+        "Der Kauf mit Konsumkreditvertrag sieht keine Ratenzahlung vor, sondern eine einmalige Zahlung des Restbetrags am Ende der vereinbarten Laufzeit."
+      ],
+    },
+    {
+      "correct_sentence": "Beim Kauf mit Konsumkreditvertrag kann die Verkäuferin einen Eigentumsvorbehalt geltend machen.",
+      "wrong_alternatives": [
+        "Beim Kauf mit Konsumkreditvertrag geht das Eigentum an der Ware sofort und ohne Bedingungen auf den Käufer über, ein Eigentumsvorbehalt ist ausgeschlossen.",
+        "Ein Eigentumsvorbehalt ist beim Kauf mit Konsumkreditvertrag gesetzlich verboten, um die Rechte des Käufers zu schützen und Unsicherheiten zu vermeiden."
+      ],
+    },
+    {
+      "correct_sentence": "Ein Eigentumsvorbehalt bewirkt, dass die Ware bis zur vollständigen Bezahlung im Eigentum der Verkäuferin bleibt.",
+      "wrong_alternatives": [
+        "Ein Eigentumsvorbehalt hat keine Auswirkungen auf die Eigentumsverhältnisse und dient lediglich der statistischen Erfassung von Ratenkäufen.",
+        "Der Eigentumsvorbehalt bewirkt, dass der Käufer sofort vollständiger Eigentümer wird, aber die Verkäuferin ein Rückgaberecht unter bestimmten Bedingungen erhält."
+      ],
+    },
+    {
+      "correct_sentence": "Kleindarlehen sind Barkredite, die oft für Konsumzwecke eingesetzt werden und meist teurer sind.",
+      "wrong_alternatives": [
+        "Kleindarlehen sind spezielle Förderkredite des Staates für Konsumgüterkäufe mit besonders niedrigen Zinsen und langen Laufzeiten.",
+        "Kleindarlehen sind in der Regel zinsfrei und dienen ausschliesslich der Finanzierung von Bildungsmassnahmen und Gesundheitsausgaben."
+      ],
+    },
+    {
+      "correct_sentence": "Auch Kleindarlehen unterliegen dem Konsumkreditgesetz (KKG), einschliesslich Rücktrittsrecht und Kreditfähigkeitsprüfung.",
+      "wrong_alternatives": [
+        "Kleindarlehen sind vom Konsumkreditgesetz (KKG) ausgenommen, da sie als geringfügige Finanzhilfen betrachtet werden und keiner besonderen Regulierung bedürfen.",
+        "Das Konsumkreditgesetz (KKG) gilt nur für Konsumkreditverträge und Leasing, nicht aber für Kleindarlehen, die unter das Bankengesetz fallen."
+      ],
+    },
+    {
+      "correct_sentence": "Beim Leasing beträgt der gesetzliche Höchstzins 10 Prozent.",
+      "wrong_alternatives": [
+        "Beim Leasing gibt es keinen gesetzlichen Höchstzins, da die Leasinggebühren frei verhandelbar sind und sich nach dem Markt richten.",
+        "Der gesetzliche Höchstzins beim Leasing beträgt 20 Prozent und dient dem Schutz der Leasinggeber vor Zahlungsausfällen."
+      ],
+    },
+    {
+      "correct_sentence": "Vor Vertragsabschluss muss beim Leasing die Kreditfähigkeit des Leasingnehmers überprüft werden.",
+      "wrong_alternatives": [
+        "Eine Kreditfähigkeitsprüfung ist beim Leasing nicht erforderlich, da das Leasingobjekt als Sicherheit dient und das Risiko für die Leasinggeberin gering ist.",
+        "Die Kreditfähigkeitsprüfung beim Leasing erfolgt erst nach Vertragsabschluss und dient der nachträglichen Anpassung der Leasingraten an die finanzielle Situation des Leasingnehmers."
+      ],
+    },
+    {
+      "correct_sentence": "Eine normale Leasinggebühr setzt sich zusammen aus der Abschreibung des Autos und den Zinsen für das eingesetzte Kapital.",
+      "wrong_alternatives": [
+        "Eine normale Leasinggebühr beinhaltet ausschliesslich die Kosten für die Versicherung des Autos und die Mehrwertsteuer, jedoch keine Abschreibung oder Zinsen.",
+        "Die Leasinggebühr ist eine pauschale Gebühr, die unabhängig von der Abschreibung des Autos oder den Zinsen für das eingesetzte Kapital festgelegt wird."
+      ],
+    },
+    {
+      "correct_sentence": "Zusätzliche Kosten beim Autoleasing sind beispielsweise die obligatorische Vollkaskoversicherung und Haftpflichtversicherung.",
+      "wrong_alternatives": [
+        "Beim Autoleasing sind alle Versicherungen, einschliesslich Vollkasko und Haftpflicht, bereits in der monatlichen Leasingrate enthalten und verursachen keine zusätzlichen Kosten.",
+        "Obligatorische Versicherungen wie Vollkasko und Haftpflicht entfallen beim Autoleasing, da das Fahrzeug im Eigentum der Leasinggeberin verbleibt und diese die Versicherungen trägt."
+      ],
+    },
+    {
+      "correct_sentence": "Eine vorzeitige Auflösung des Leasingvertrages kann zu beträchtlichen Nachzahlungen führen.",
+      "wrong_alternatives": [
+        "Bei vorzeitiger Auflösung eines Leasingvertrages erhält der Leasingnehmer in der Regel eine Rückerstattung der bereits gezahlten Leasingraten für die verbleibende Vertragslaufzeit.",
+        "Eine vorzeitige Auflösung des Leasingvertrages ist ohne finanzielle Konsequenzen möglich, da der Leasingnehmer lediglich den Gegenstand zurückgibt und keine weiteren Verpflichtungen hat."
+      ],
+    },
+    {
+      "correct_sentence": "Beim Kauf mit Konsumkreditvertrag wird in der Regel der Käufer Eigentümer der Sache.",
+      "wrong_alternatives": [
+        "Auch beim Kauf mit Konsumkreditvertrag bleibt der Verkäufer dauerhaft Eigentümer der Sache, unabhängig von der vollständigen Ratenzahlung durch den Käufer.",
+        "Beim Kauf mit Konsumkreditvertrag wird das Eigentum an der Sache automatisch auf eine dritte Partei übertragen, beispielsweise eine Bank oder ein Inkassounternehmen."
+      ],
+    },
+    {
+      "correct_sentence": "Beim Kauf mit Konsumkreditvertrag hat der Käufer ein Rücktrittsrecht innert 14 Tagen nach Erhalt des Vertragsdoppels.",
+      "wrong_alternatives": [
+        "Beim Kauf mit Konsumkreditvertrag besteht kein Rücktrittsrecht, da der Vertrag mit der Übergabe der Ware sofort wirksam wird und bindend ist.",
+        "Das Rücktrittsrecht beim Kauf mit Konsumkreditvertrag beträgt lediglich 7 Tage und muss zwingend persönlich in der Filiale des Verkäufers geltend gemacht werden."
+      ],
+    },
+    {
+      "correct_sentence": "Bei Kleindarlehen müssen oft keine Sicherheiten hinterlegt werden, meistens reicht der Nachweis einer Arbeitsstelle.",
+      "wrong_alternatives": [
+        "Für Kleindarlehen ist die Hinterlegung von umfangreichen Sicherheiten, wie beispielsweise Immobilien oder Wertpapiere, zwingend erforderlich, um das Risiko für die Bank zu minimieren.",
+        "Kleindarlehen werden ausschliesslich an Personen ohne festen Wohnsitz oder Arbeitsstelle vergeben, da diese Personengruppe keinen Zugang zu herkömmlichen Kreditformen hat."
+      ],
+    },
+    {
+      "correct_sentence": "Kleindarlehen sind oft sehr teuer (bis zu 10 Prozent Jahreszins) wegen des hohen Risikos für die Bank.",
+      "wrong_alternatives": [
+        "Kleindarlehen zeichnen sich durch besonders niedrige Zinsen aus und sind staatlich subventioniert, um Konsumenten mit geringem Einkommen zu unterstützen.",
+        "Der Jahreszins für Kleindarlehen ist gesetzlich auf maximal 2 Prozent begrenzt und dient lediglich der Deckung der Verwaltungskosten der Banken."
+      ],
+    },
+    {
+      "correct_sentence": "Form und Inhalt der Verträge mit Kleindarlehen sind im Konsumkreditgesetz (KKG) geregelt.",
+      "wrong_alternatives": [
+        "Verträge mit Kleindarlehen unterliegen keinen gesetzlichen Regelungen und können formfrei abgeschlossen werden, da es sich um geringfügige Darlehen handelt.",
+        "Die Form und der Inhalt von Verträgen mit Kleindarlehen werden ausschliesslich durch die Allgemeinen Geschäftsbedingungen (AGB) der jeweiligen Banken bestimmt und sind gesetzlich nicht geregelt."
+      ]
+    }
+  ]
+}

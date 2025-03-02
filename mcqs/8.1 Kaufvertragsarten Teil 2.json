@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Kaufvertragsarten",
+  "headerImage": "img1.png",
+  "media": {
+      "type": "",
+      "url": "",
+      "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Aussage beschreibt die Eigentumsverhältnisse beim Leasing korrekt?</p>",
+      "options": [
+        {
+          "text": "Der Leasingnehmer wird sofort Eigentümer des Leasingobjekts.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Beim Leasing bleibt das <strong>Eigentum</strong> immer bei der <strong>Leasinggeberin</strong>."
+        },
+        {
+          "text": "Das Eigentum am Leasingobjekt geht nach Ablauf des Leasingvertrages automatisch auf den Leasingnehmer über.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Auch nach Ablauf des Leasingvertrages wird der Leasingnehmer <strong>nicht automatisch Eigentümer</strong>."
+        },
+        {
+          "text": "Der Leasingnehmer wird nie Eigentümer des Leasingobjekts.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Beim Leasing wird der Leasingnehmer <strong>nie Eigentümer</strong> des Leasingobjekts."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Gesetz regelt viele Leasingverträge, die von Privatpersonen abgeschlossen werden?</p>",
+      "options": [
+        {
+          "text": "Das Schweizerische Zivilgesetzbuch (ZGB).",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das ZGB regelt allgemeine zivilrechtliche Verhältnisse, aber nicht spezifisch Leasingverträge im Konsumbereich."
+        },
+        {
+          "text": "Das Konsumkreditgesetz (KKG).",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Viele Leasingverträge für Privatpersonen unterstehen dem <strong>Konsumkreditgesetz (KKG)</strong>."
+        },
+        {
+          "text": "Das Obligationenrecht (OR).",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das OR regelt zwar Verträge allgemein, aber das <strong>KKG</strong> ist für Konsumkredite und bestimmte Leasingverträge spezifischer."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden Kosten ist typischerweise KEIN Bestandteil der Leasinggebühr?</p>",
+      "options": [
+        {
+          "text": "Die Abschreibung des Leasingobjekts.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Abschreibung</strong> (Wertverminderung) ist ein wesentlicher Bestandteil der Leasinggebühr."
+        },
+        {
+          "text": "Die Zinsen für das eingesetzte Kapital der Leasinggeberin.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Zinsen</strong> für das Kapital sind ebenfalls ein Bestandteil der Leasinggebühr."
+        },
+        {
+          "text": "Die Treibstoffkosten für das Leasingobjekt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Treibstoffkosten</strong> sind zusätzliche Kosten, die der Leasingnehmer <strong>selbst tragen muss</strong> und nicht Teil der Leasinggebühr sind."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange beträgt das gesetzliche Rücktrittsrecht beim Kauf mit Konsumkreditvertrag?</p>",
+      "options": [
+        {
+          "text": "7 Tage.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Rücktrittsrecht ist länger als 7 Tage."
+        },
+        {
+          "text": "10 Tage.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Rücktrittsrecht ist länger als 10 Tage."
+        },
+        {
+          "text": "14 Tage.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Beim Kauf mit Konsumkreditvertrag beträgt das Rücktrittsrecht <strong>14 Tage</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wo muss ein Eigentumsvorbehalt eingetragen werden?</p>",
+      "options": [
+        {
+          "text": "Im Handelsregister.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Eigentumsvorbehalt wird nicht im Handelsregister eingetragen."
+        },
+        {
+          "text": "Im Grundbuch.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Grundbuch ist für Grundeigentum zuständig, nicht für bewegliche Sachen."
+        },
+        {
+          "text": "Im Eigentumsvorbehaltsregister beim Betreibungsamt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein Eigentumsvorbehalt muss im <strong>Eigentumsvorbehaltsregister beim Betreibungsamt</strong> am Wohnort des Käufers eingetragen werden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es wichtig, beim Leasing nicht nur auf die Leasingrate zu achten?</p>",
+      "options": [
+        {
+          "text": "Weil die Leasingrate bereits alle Kosten beinhaltet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Leasingrate ist <strong>nicht die einzige Kostenquelle</strong> beim Leasing."
+        },
+        {
+          "text": "Weil zusätzlich zur Leasingrate noch weitere obligatorische Kosten anfallen können.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Neben der Leasingrate fallen oft noch <strong>obligatorische Versicherungen</strong>, <strong>Servicekosten</strong> und andere <strong>zusätzliche Kosten</strong> an."
+        },
+        {
+          "text": "Weil die Leasingrate immer günstiger ist als ein Barkauf.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Leasing ist <strong>nicht immer günstiger</strong> als ein Barkauf und die Gesamtkosten können höher sein."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet 'Bonitätsprüfung' im Zusammenhang mit Konsumkreditverträgen und Leasing?</p>",
+      "options": [
+        {
+          "text": "Die Prüfung, ob der Leasinggegenstand in gutem Zustand ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Bonitätsprüfung bezieht sich auf die <strong>finanzielle Situation des Konsumenten</strong>, nicht auf den Zustand des Gegenstandes."
+        },
+        {
+          "text": "Die Überprüfung der Kreditfähigkeit des Konsumenten, um Überschuldung zu vermeiden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Bonitätsprüfung dient dazu, die <strong>Kreditfähigkeit des Konsumenten zu prüfen</strong> und <strong>Überschuldung zu verhindern</strong>."
+        },
+        {
+          "text": "Die Kontrolle des Konsumentenverhaltens nach Vertragsabschluss.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Bonitätsprüfung findet <strong>vor Vertragsabschluss</strong> statt, nicht danach."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum kann eine vorzeitige Auflösung eines Leasingvertrages zu Nachzahlungen führen?</p>",
+      "options": [
+        {
+          "text": "Weil bei kürzerer Leasingdauer die Abschreibung weniger ins Gewicht fällt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bei kürzerer Leasingdauer fällt die <strong>Abschreibung</strong> gerade <strong>mehr ins Gewicht</strong>, nicht weniger."
+        },
+        {
+          "text": "Weil die Leasingraten bei vorzeitiger Auflösung neu berechnet werden und die Abschreibung stärker berücksichtigt wird.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Bei vorzeitiger Auflösung werden die Leasingraten <strong>neu berechnet</strong>, wobei die <strong>stärkere Abschreibung</strong> in der kürzeren Laufzeit zu <strong>Nachzahlungen</strong> führen kann."
+        },
+        {
+          "text": "Weil die Leasinggeberin bei vorzeitiger Auflösung eine Entschädigung für entgangene Gewinne verlangen darf.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl es zu Kosten kommen kann, ist der Hauptgrund die <strong>Neuberechnung der Abschreibung</strong>, nicht primär entgangene Gewinne."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist ein wesentlicher Unterschied zwischen einem Kauf mit Konsumkreditvertrag und einem Kleindarlehen?</p>",
+      "options": [
+        {
+          "text": "Beim Kauf mit Konsumkreditvertrag wird man sofort Eigentümer, beim Kleindarlehen nicht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist genau umgekehrt: Beim <strong>Kleindarlehen</strong> wird man <strong>sofort Eigentümer</strong>, beim <strong>Konsumkreditvertrag</strong> oft erst nach Ratenzahlung (Eigentumsvorbehalt)."
+        },
+        {
+          "text": "Beim Kleindarlehen erhält man Bargeld, das man für den Kauf verwenden kann, beim Konsumkreditvertrag finanziert man direkt den Kaufgegenstand.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das <strong>Kleindarlehen</strong> ist ein <strong>Barkredit</strong>, während der <strong>Konsumkreditvertrag</strong> direkt an den <strong>Kauf des Gegenstandes gebunden</strong> ist."
+        },
+        {
+          "text": "Kleindarlehen sind durch das KKG weniger stark reguliert als Konsumkreditverträge.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Beide Formen, <strong>Kleindarlehen und Konsumkreditverträge</strong>, sind durch das <strong>KKG reguliert</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Aussage beschreibt den Miet-Kauf-Vertrag im Vergleich zum Leasing am besten?</p>",
+      "options": [
+        {
+          "text": "Der Miet-Kauf-Vertrag bietet einen stärkeren gesetzlichen Schutz als Leasing.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Miet-Kauf-Vertrag ist <strong>weniger stark gesetzlich geregelt</strong> als Leasing und bietet daher <strong>weniger Schutz</strong>."
+        },
+        {
+          "text": "Beim Miet-Kauf-Vertrag besteht immer ein Rücktrittsrecht, anders als beim Leasing.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Beim Miet-Kauf-Vertrag gibt es <strong>kein gesetzliches Rücktrittsrecht</strong>, im Gegensatz zum Leasing (KKG)."
+        },
+        {
+          "text": "Der Miet-Kauf-Vertrag kann eine Möglichkeit sein, später Eigentümer zu werden, während Leasing dies nicht vorsieht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Miet-Kauf-Vertrag bietet die Option, durch einen abschliessenden Kauf <strong>Eigentümer zu werden</strong>, was beim Leasing nicht der Fall ist."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Beim Leasing wird der Leasingnehmer automatisch Eigentümer des Autos nach Vertragsende.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch. Beim Leasing wird der Leasingnehmer <strong>nie Eigentümer</strong>.",
+      "feedback_incorrect": "❌ Falsch. Beim Leasing wird der Leasingnehmer <strong>nie Eigentümer</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Für Miet-Kauf-Verträge gilt in der Schweiz ein gesetzliches Rücktrittsrecht von 14 Tagen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch. Für Miet-Kauf-Verträge gibt es <strong>kein gesetzliches Rücktrittsrecht</strong>.",
+      "feedback_incorrect": "❌ Falsch. Für Miet-Kauf-Verträge gibt es <strong>kein gesetzliches Rücktrittsrecht</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Eigentumsvorbehalt muss im Betreibungsamt am Wohnort des Käufers eingetragen werden.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig. Ein Eigentumsvorbehalt muss im <strong>Eigentumsvorbehaltsregister beim Betreibungsamt</strong> eingetragen werden.",
+      "feedback_incorrect": "❌ Falsch. Ein Eigentumsvorbehalt muss im <strong>Eigentumsvorbehaltsregister beim Betreibungsamt</strong> eingetragen werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die monatliche Leasingrate ist die einzige Kosten, die beim Autoleasing anfallen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch. Neben der Leasingrate fallen noch <strong>zusätzliche Kosten</strong> wie Versicherungen, Service usw. an.",
+      "feedback_incorrect": "❌ Falsch. Neben der Leasingrate fallen noch <strong>zusätzliche Kosten</strong> wie Versicherungen, Service usw. an."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein Miet-Kauf-Vertrag bietet Konsumenten in der Regel mehr Sicherheit als ein Leasingvertrag, da er stärker gesetzlich reguliert ist.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch. Der Miet-Kauf-Vertrag ist <strong>weniger stark gesetzlich reguliert</strong> und bietet daher <strong>weniger Sicherheit</strong> als Leasing (KKG).",
+      "feedback_incorrect": "❌ Falsch. Der Miet-Kauf-Vertrag ist <strong>weniger stark gesetzlich reguliert</strong> und bietet daher <strong>weniger Sicherheit</strong> als Leasing (KKG)."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Kleindarlehen sind oft teurer als andere Kreditformen, weil sie meist ohne Sicherheiten vergeben werden.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig. Da bei Kleindarlehen oft <strong>Sicherheiten fehlen</strong>, ist das Risiko für die Bank höher, was zu <strong>höheren Zinsen</strong> führt.",
+      "feedback_incorrect": "❌ Falsch. Da bei Kleindarlehen oft <strong>Sicherheiten fehlen</strong>, ist das Risiko für die Bank höher, was zu <strong>höheren Zinsen</strong> führt."
+    }
+  ]
+}

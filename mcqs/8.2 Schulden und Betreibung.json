@@ -1,0 +1,278 @@
+{
+  "title": "Verständnisfragen zu Schulden und Betreibung",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Altersgruppe hat laut Bundesamt für Statistik den höchsten Steuerrückstand?</p>",
+      "options": [
+        {
+          "text": "Personen im Alter von 18 bis 24 Jahren.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das <strong>Bundesamt für Statistik</strong> gibt an, dass die <strong>18- bis 24-Jährigen</strong> den höchsten Steuerrückstand haben."
+        },
+        {
+          "text": "Personen im Alter von 25 bis 35 Jahren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es sind die <strong>18- bis 24-Jährigen</strong>, die den höchsten Steuerrückstand aufweisen, nicht die 25- bis 35-Jährigen."
+        },
+        {
+          "text": "Personen im Alter von 36 bis 50 Jahren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Altersgruppe mit dem höchsten Steuerrückstand ist <strong>jünger</strong>, nämlich 18 bis 24 Jahre."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Bundesgesetz liefert die gesetzliche Grundlage für Betreibungen in der Schweiz?</p>",
+      "options": [
+        {
+          "text": "Bundesgesetz über Schuldbetreibung und Konkurs (SchKG).",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! Das <strong>Bundesgesetz über Schuldbetreibung und Konkurs (SchKG)</strong> ist die massgebende gesetzliche Grundlage."
+        },
+        {
+          "text": "Schweizerisches Zivilgesetzbuch (ZGB).",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>SchKG</strong>, und nicht das <strong>ZGB</strong>, regelt die Schuldbetreibung und den Konkurs."
+        },
+        {
+          "text": "Obligationenrecht (OR).",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>OR</strong> ist zwar wichtig für Vertragsrecht, aber das <strong>SchKG</strong> ist spezifisch für Schuldbetreibung und Konkurs zuständig."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden Betreibungsarten ist für einzelne, natürliche Personen vorgesehen?</p>",
+      "options": [
+        {
+          "text": "Betreibung auf Pfändung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Betreibung auf Pfändung</strong> ist speziell für <strong>einzelne, natürliche Personen</strong> vorgesehen."
+        },
+        {
+          "text": "Betreibung auf Konkurs.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Betreibung auf Konkurs</strong> ist für <strong>im Handelsregister eingetragene Gesellschaften oder Firmen</strong> gedacht."
+        },
+        {
+          "text": "Betreibung auf Pfandverwertung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Betreibung auf Pfandverwertung</strong> kommt zum Zug, wenn ein <strong>Pfand</strong> existiert, unabhängig von der Art der Person."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Innerhalb welcher Frist kann ein Schuldner Rechtsvorschlag erheben, wenn er mit der Forderung nicht einverstanden ist?</p>",
+      "options": [
+        {
+          "text": "10 Tagen.",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! Der <strong>Rechtsvorschlag</strong> muss innerhalb von <strong>10 Tagen</strong> erhoben werden."
+        },
+        {
+          "text": "20 Tagen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Frist für den Rechtsvorschlag beträgt <strong>10 Tage</strong>, 20 Tage ist die Frist für den Zahlungsbefehl."
+        },
+        {
+          "text": "30 Tagen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>30 Tage</strong> ist die Frist im Zusammenhang mit dem <strong>Verwertungsbegehren</strong>, nicht mit dem Rechtsvorschlag."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Verlustschein im Betreibungsverfahren?</p>",
+      "options": [
+        {
+          "text": "Eine Bestätigung für den Gläubiger über verbleibende Schulden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein <strong>Verlustschein</strong> bestätigt die <strong>verbleibenden Schulden</strong>, die nicht gedeckt werden konnten."
+        },
+        {
+          "text": "Ein Dokument, das die Betreibung sofort beendet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein <strong>Verlustschein</strong> beendet die <strong>aktuelle Betreibung</strong>, erlaubt aber eine <strong>erneute Betreibung</strong> später."
+        },
+        {
+          "text": "Eine Garantie für den Schuldner, dass keine weiteren Betreibungen folgen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Verlustschein</strong> ist <strong>keine Garantie</strong> für den Schuldner, sondern ein Recht für den Gläubiger auf zukünftige Betreibung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es empfehlenswert, bei Lehrbeginn ein separates Sparkonto neben dem Lohnkonto zu eröffnen?</p>",
+      "options": [
+        {
+          "text": "Um Geld zurückzustellen, das nicht für laufende Rechnungen benötigt wird und so Schulden zu vermeiden.",
+          "is_correct": true,
+          "feedback": "✅ Genau! Ein <strong>Sparkonto</strong> hilft, <strong>Geld separat zu verwalten</strong> und <strong>Schulden durch Überziehung zu vermeiden</strong>."
+        },
+        {
+          "text": "Um höhere Zinsen auf den gesamten Lohn zu erhalten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hauptgrund ist die <strong>Schuldenprävention</strong>, nicht primär höhere Zinsen."
+        },
+        {
+          "text": "Weil das Gesetz dies so vorschreibt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist eine <strong>Empfehlung zur Budgetplanung</strong>, keine gesetzliche Vorschrift."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet ein 'Rechtsvorschlag' im Betreibungsverfahren praktisch für den Schuldner?</p>",
+      "options": [
+        {
+          "text": "Er verschafft dem Schuldner Zeit und die Möglichkeit, die Forderung zu prüfen und allenfalls zu bestreiten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der <strong>Rechtsvorschlag</strong> ist ein wichtiges <strong>Recht des Schuldners</strong>, um das Verfahren zu verlangsamen und die Forderung zu prüfen."
+        },
+        {
+          "text": "Er bedeutet, dass die Betreibung automatisch gestoppt wird und die Forderung hinfällig ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Rechtsvorschlag stoppt die Betreibung nicht automatisch und macht die Forderung nicht hinfällig</strong>, sondern erfordert weitere Schritte des Gläubigers."
+        },
+        {
+          "text": "Er verpflichtet den Schuldner sofort zur Zahlung der gesamten geforderten Summe.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Rechtsvorschlag</strong> hat die <strong>entgegengesetzte Wirkung</strong>; er ist ein Mittel des Schuldners, sich gegen die Forderung zu wehren."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Inwiefern unterscheidet sich die Betreibung auf Konkurs von der Betreibung auf Pfändung?</p>",
+      "options": [
+        {
+          "text": "Die Betreibung auf Konkurs zielt auf die Liquidation einer Firma, während die Betreibung auf Pfändung auf das individuelle Vermögen einer Person abzielt.",
+          "is_correct": true,
+          "feedback": "✅ Korrekt! Der Hauptunterschied liegt im <strong>Ziel und im Schuldner</strong>: <strong>Konkurs für Firmenliquidation</strong>, <strong>Pfändung für individuelles Vermögen</strong>."
+        },
+        {
+          "text": "Die Betreibung auf Konkurs ist schneller und kostengünstiger als die Betreibung auf Pfändung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Komplexität und Dauer</strong> können je nach Fall variieren, aber die <strong>Zielsetzung</strong> ist der wesentliche Unterschied."
+        },
+        {
+          "text": "Es gibt keinen wesentlichen Unterschied, beide Betreibungsarten führen zum gleichen Ergebnis.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Betreibungsarten unterscheiden sich grundlegend</strong> in Bezug auf <strong>Zielgruppe und Vorgehen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Hauptzweck des Betreibungsamtes im Betreibungsverfahren?</p>",
+      "options": [
+        {
+          "text": "Die neutrale Durchführung des Verfahrens und die Sicherstellung der Einhaltung der gesetzlichen Vorgaben.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das <strong>Betreibungsamt</strong> agiert als <strong>neutrale Instanz</strong>, die den <strong>Prozess gemäss SchKG</strong> durchführt."
+        },
+        {
+          "text": "Die Vertretung der Interessen des Gläubigers gegenüber dem Schuldner.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>Betreibungsamt ist neutral</strong> und vertritt <strong>nicht die Interessen einer Partei</strong>."
+        },
+        {
+          "text": "Die Beratung des Schuldners, um Schulden abzubauen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Schuldnerberatung</strong> ist <strong>nicht Aufgabe des Betreibungsamtes</strong>, sondern spezialisierter Beratungsstellen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es wichtig, sich einen Überblick über die eigene finanzielle Situation zu verschaffen, wenn man in Schulden gerät?</p>",
+      "options": [
+        {
+          "text": "Um zu erkennen, wie viel Geld für Rückzahlungen zur Verfügung steht und realistische Rückzahlungspläne zu erstellen.",
+          "is_correct": true,
+          "feedback": "✅ Genau! Der <strong>Überblick</strong> ermöglicht eine <strong>realistische Einschätzung</strong> der Lage und die <strong>Planung von Rückzahlungen</strong>."
+        },
+        {
+          "text": "Um die Betreibung durch den Gläubiger zu beschleunigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Überblick dient der eigenen Handlungsfähigkeit</strong>, nicht der Beschleunigung der Betreibung."
+        },
+        {
+          "text": "Weil das Betreibungsamt dies als ersten Schritt verlangt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist eine <strong>eigenverantwortliche Massnahme</strong>, nicht eine formale Anforderung des Betreibungsamtes."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Betreibungsbegehren kann in der Schweiz ohne Belege beim Betreibungsamt eingeleitet werden.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Für die Einleitung eines <strong>Betreibungsbegehrens</strong> sind <strong>keine Belege erforderlich</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Bei einer Betreibung auf Pfändung wird immer das gesamte Vermögen des Schuldners gepfändet.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Bei der <strong>Betreibung auf Pfändung</strong> wird <strong>nur so viel gepfändet</strong>, wie zur <strong>Schuldenbegleichung nötig</strong> ist."
+      , "feedback_incorrect": "❌ Falsch! Es wird <strong>nicht das gesamte Vermögen</strong> gepfändet, sondern nur der zur Deckung der Schuld notwendige Teil."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Verlustschein ist unbegrenzt gültig und verjährt nie.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Ein <strong>Verlustschein</strong> ist <strong>20 Jahre gültig</strong>, danach verjährt er."
+      , "feedback_incorrect": "❌ Falsch! Die Gültigkeit eines <strong>Verlustscheins</strong> ist auf <strong>20 Jahre begrenzt</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Eröffnung eines Sparkontos dient primär dazu, kurzfristig höhere Renditen zu erzielen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Der Hauptzweck eines <strong>Sparkontos</strong> ist die <strong>Schuldenprävention</strong> und das <strong>langfristige Sparen</strong>, nicht kurzfristige Rendite."
+      , "feedback_incorrect": "❌ Falsch! Es geht primär um <strong>Budgetplanung und Schuldenvermeidung</strong>, nicht um kurzfristige Rendite."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein Rechtsvorschlag des Schuldners führt automatisch zum Ende des Betreibungsverfahrens.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! Ein <strong>Rechtsvorschlag stoppt das Verfahren nicht automatisch</strong>, sondern erfordert weitere Schritte des Gläubigers, um es fortzusetzen."
+      , "feedback_incorrect": "❌ Falsch! Der <strong>Rechtsvorschlag unterbricht das Verfahren nur vorübergehend</strong>, es endet nicht automatisch."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Kenntnisse über Betreibung sind nur für Personen relevant, die bereits Schulden haben.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Falsch! <strong>Kenntnisse über Betreibung</strong> sind auch für <strong>Schuldenprävention</strong> und ein <strong>verantwortungsvolles Finanzmanagement</strong> wichtig."
+      , "feedback_incorrect": "❌ Falsch! Das Wissen ist <strong>präventiv wertvoll</strong> und hilft, <strong>finanzielle Risiken zu vermeiden</strong>."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "title": "Sätze Drag and Drop zu Schulden und Betreibung",
+  "headerImage": "img1.png",
+  "media": {
+    "type": "",
+    "url": "",
+    "source": ""
+  },
+  "questions": [
+    {
+      "correct_sentence": "Verschuldung entsteht, wenn man mehr Geld ausgibt, als man zur Verfügung hat.",
+      "wrong_alternatives": [
+        "Verschuldung ist die Folge von zu geringem Einkommen bei sparsamer Lebensweise.",
+        "Verschuldung tritt nur bei Personen auf, die keine feste Anstellung haben."
+      ],
+    },
+    {
+      "correct_sentence": "Ein realistisches Budget ist ein wichtiges Instrument zur Vermeidung von Schulden.",
+      "wrong_alternatives": [
+        "Ein Budget ist nur für Personen mit hohen Einkommen relevant, um den Überblick zu behalten.",
+        "Ein Budget zu erstellen ist kompliziert und im Alltag kaum umsetzbar."
+      ],
+    },
+    {
+      "correct_sentence": "Bei Lehrbeginn empfiehlt es sich, ein Lohnkonto und ein Sparkonto zu eröffnen.",
+      "wrong_alternatives": [
+        "Bei Lehrbeginn ist es ratsam, nur ein Konto zu führen, um die Übersicht zu behalten.",
+        "Ein Sparkonto ist nur für Personen sinnvoll, die bereits über ein grosses Vermögen verfügen."
+      ],
+    },
+    {
+      "correct_sentence": "Ein Sparkonto dient dazu, Geld für unvorhergesehene Ausgaben oder Sparziele zurückzulegen.",
+      "wrong_alternatives": [
+        "Ein Sparkonto ist primär für kurzfristige Geldanlagen gedacht, um schnell Gewinne zu erzielen.",
+        "Auf einem Sparkonto sollte man das gesamte verfügbare Einkommen parken, um Zinsen zu maximieren."
+      ],
+    },
+    {
+      "correct_sentence": "Um Schulden zu vermeiden, sollte man Bargeldbezüge am Bankautomaten kontrollieren.",
+      "wrong_alternatives": [
+        "Um Schulden zu vermeiden, ist es wichtig, möglichst viel Bargeld zu Hause zu lagern.",
+        "Bargeldbezüge am Bankautomaten sind irrelevant für die Schuldenprävention."
+      ],
+    },
+    {
+      "correct_sentence": "Prepaid-Handyabos oder Abos mit Kostenlimite helfen, unerwartete Handyrechnungen zu vermeiden.",
+      "wrong_alternatives": [
+        "Flatrate-Handyabos ohne Kostenkontrolle sind die beste Wahl, um immer erreichbar zu sein.",
+        "Handykosten spielen bei der Schuldenprävention keine wesentliche Rolle."
+      ],
+    },
+    {
+      "correct_sentence": "Wer bereits Schulden hat, sollte zuerst einen Überblick über seine finanzielle Situation gewinnen.",
+      "wrong_alternatives": [
+        "Bei Schulden ist es am wichtigsten, sofort einen neuen Kredit aufzunehmen, um die alten Schulden zu tilgen.",
+        "Schulden sind ein unvermeidliches Schicksal, gegen das man nichts unternehmen kann."
+      ],
+    },
+    {
+      "correct_sentence": "Das Bundesgesetz über Schuldbetreibung und Konkurs (SchKG) regelt das Betreibungswesen in der Schweiz.",
+      "wrong_alternatives": [
+        "Das Betreibungswesen in der Schweiz basiert auf Gewohnheitsrecht und ungeschriebenen Regeln.",
+        "Das SchKG ist ein veraltetes Gesetz, das im modernen Wirtschaftsleben keine Bedeutung mehr hat."
+      ],
+    },
+    {
+      "correct_sentence": "Betrieben werden können handlungsfähige natürliche und juristische Personen sowie bedingt handlungsfähige Personen im Rahmen ihres Lohnes.",
+      "wrong_alternatives": [
+        "Betrieben werden können nur volljährige Personen mit Schweizer Bürgerrecht.",
+        "Minderjährige und juristische Personen sind grundsätzlich vor Betreibungen geschützt."
+      ],
+    },
+    {
+      "correct_sentence": "Es gibt drei Betreibungsarten: Betreibung auf Pfändung, Betreibung auf Pfandverwertung und Betreibung auf Konkurs.",
+      "wrong_alternatives": [
+        "In der Schweiz gibt es nur eine einheitliche Betreibungsart für alle Fälle.",
+        "Neben den drei Hauptarten gibt es noch zahlreiche weitere, weniger bedeutende Betreibungsarten."
+      ],
+    },
+    {
+      "correct_sentence": "Die Betreibung auf Pfändung wird bei einzelnen, natürlichen Personen angewendet.",
+      "wrong_alternatives": [
+        "Die Betreibung auf Pfändung ist das Standardverfahren für Firmenbetreibungen.",
+        "Betreibung auf Pfändung wird nur bei sehr hohen Schuldbeträgen angewendet."
+      ],
+    },
+    {
+      "correct_sentence": "Bei der Betreibung auf Pfandverwertung besitzt der Gläubiger bereits ein Pfand des Schuldners.",
+      "wrong_alternatives": [
+        "Die Pfandverwertung erfolgt erst nach erfolgloser Betreibung auf Pfändung.",
+        "Bei der Pfandverwertung wird kein bestehendes Pfand benötigt, es wird erst im Verfahren geschaffen."
+      ],
+    },
+    {
+      "correct_sentence": "Die Betreibung auf Konkurs betrifft im Handelsregister eingetragene Gesellschaften oder Firmen.",
+      "wrong_alternatives": [
+        "Konkursbetreibungen sind auch gegen Privatpersonen möglich, unabhängig von ihrer wirtschaftlichen Situation.",
+        "Eine Konkursbetreibung führt nicht zur Auflösung der Firma, sondern nur zu einer Umschuldung."
+      ],
+    },
+    {
+      "correct_sentence": "Ein Betreibungsverfahren beginnt mit dem Betreibungsbegehren des Gläubigers beim Betreibungsamt.",
+      "wrong_alternatives": [
+        "Ein Betreibungsverfahren startet automatisch, sobald eine Rechnung unbezahlt bleibt.",
+        "Der Schuldner muss zuerst ein Betreibungsverfahren gegen sich selbst einleiten."
+      ],
+    },
+    {
+      "correct_sentence": "Das Betreibungsamt erlässt nach dem Betreibungsbegehren einen Zahlungsbefehl an den Schuldner.",
+      "wrong_alternatives": [
+        "Der Zahlungsbefehl wird direkt vom Gläubiger an den Schuldner versandt, ohne Beteiligung des Betreibungsamtes.",
+        "Ein Zahlungsbefehl wird nur bei sehr hohen Forderungen ausgestellt, bei geringeren Beträgen erfolgt direkt die Pfändung."
+      ],
+    },
+    {
+      "correct_sentence": "Der Schuldner kann gegen den Zahlungsbefehl Rechtsvorschlag erheben, wenn er die Forderung bestreitet.",
+      "wrong_alternatives": [
+        "Ein Rechtsvorschlag kann nur von juristischen Personen, nicht von natürlichen Personen erhoben werden.",
+        "Ein Rechtsvorschlag hat keine aufschiebende Wirkung und das Betreibungsverfahren läuft unverändert weiter."
+      ],
+    },
+    {
+      "correct_sentence": "Ohne Rechtsvorschlag kann der Gläubiger nach 20 Tagen das Fortsetzungsbegehren stellen.",
+      "wrong_alternatives": [
+        "Das Fortsetzungsbegehren kann direkt nach dem Zahlungsbefehl, ohne Wartefrist, gestellt werden.",
+        "Ein Fortsetzungsbegehren ist nur bei Betreibungen auf Konkurs möglich, nicht bei Pfändung."
+      ],
+    },
+    {
+      "correct_sentence": "Nach dem Fortsetzungsbegehren folgt die Pfändungsankündigung und anschliessend die Pfändung.",
+      "wrong_alternatives": [
+        "Die Pfändung erfolgt überraschend und ohne Vorankündigung, um den Schuldner nicht zu warnen.",
+        "Eine Pfändungsankündigung ist nur eine formale Mitteilung ohne praktische Konsequenzen."
+      ],
+    },
+    {
+      "correct_sentence": "Gepfändet werden kann Vermögen des Schuldners, ausser dem Existenzminimum und berufsnotwendigen Gegenständen.",
+      "wrong_alternatives": [
+        "Bei einer Pfändung wird immer das gesamte Vermögen des Schuldners beschlagnahmt, ohne Rücksicht auf das Existenzminimum.",
+        "Berufsnotwendige Gegenstände werden grundsätzlich immer mitgepfändet, um den Schuldner zur Zahlung zu zwingen."
+      ],
+    },
+    {
+      "correct_sentence": "Ein Verlustschein ermöglicht dem Gläubiger, die Betreibung während 20 Jahren erneut einzuleiten, falls der Schuldner zu neuem Vermögen kommt.",
+      "wrong_alternatives": [
+        "Ein Verlustschein bedeutet, dass die Schuld endgültig erlassen ist und der Gläubiger keine weiteren Schritte unternehmen kann.",
+        "Ein Verlustschein ist unbegrenzt gültig und kann auch nach 20 Jahren noch zur Betreibung verwendet werden."
+      ],
+    }
+  ]
+}
