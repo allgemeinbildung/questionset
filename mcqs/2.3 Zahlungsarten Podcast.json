@@ -1,0 +1,175 @@
+{
+    "title": "Zahlungsarten",
+    "media": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/awDGUKzEI-0",
+        "source": "https://www.youtube.com/watch?v=awDGUKzEI-0"      
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was ist ein wesentlicher Vorteil der Barzahlung?</p>",
+        "options": [
+          {
+            "text": "Direkte Kontrolle und Anonymität",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Bei Barzahlung hast du volle Kontrolle über dein Geld und bleibst anonym."
+          },
+          {
+            "text": "Keine Gefahr von Diebstahl",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Bargeld kann gestohlen oder verloren gehen."
+          },
+          {
+            "text": "Immer die sicherste Zahlungsmethode",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Barzahlung bietet zwar Anonymität, aber nicht immer höchste Sicherheit."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Aussage über bargeldlose Zahlungen ist richtig?</p>",
+        "options": [
+          {
+            "text": "Sie sind bequemer, aber datenabhängig.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Bargeldlose Zahlungen sind praktisch, bergen aber Datenschutzrisiken."
+          },
+          {
+            "text": "Sie sind immer sicherer als Barzahlungen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Datenmissbrauch und technische Fehler sind mögliche Risiken."
+          },
+          {
+            "text": "Sie werden nur mit Kreditkarten durchgeführt.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Auch Debitkarten und Online-Zahlungssysteme gehören dazu."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Zahlungsmethode belastet das Konto sofort?</p>",
+        "options": [
+          {
+            "text": "Debitkarte",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Debitkarten buchen den Betrag sofort vom Konto ab."
+          },
+          {
+            "text": "Kreditkarte",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Kreditkartenabrechnungen erfolgen erst später."
+          },
+          {
+            "text": "Mobile Payment",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Mobile Payment kann sowohl mit Debit- als auch Kreditkarten verbunden sein."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welcher Nachteil ist mit Barzahlung verbunden?</p>",
+        "options": [
+          {
+            "text": "Das Risiko, Geld zu verlieren oder bestohlen zu werden",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Bargeld kann verloren gehen oder gestohlen werden."
+          },
+          {
+            "text": "Technische Störungen beim Bezahlen",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Technische Probleme betreffen eher bargeldlose Zahlungsmethoden."
+          },
+          {
+            "text": "Höhere Gebühren als Kreditkarten",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Barzahlung hat in der Regel keine Gebühren."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum ist Mobile Payment immer beliebter geworden?</p>",
+        "options": [
+          {
+            "text": "Weil es schnell und bequem ist",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Mobile Payment bietet eine einfache und schnelle Zahlungsmöglichkeit."
+          },
+          {
+            "text": "Weil Bargeld nicht mehr existiert",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Bargeld ist weiterhin eine gängige Zahlungsmethode."
+          },
+          {
+            "text": "Weil es keine Datenschutzrisiken gibt",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Mobile Payment birgt Datenschutz- und Sicherheitsrisiken."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum ist eine Kreditkarte für größere Ausgaben oft besser geeignet?</p>",
+        "options": [
+          {
+            "text": "Weil sie einen Kreditrahmen bietet",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Mit einer Kreditkarte kannst du erst später bezahlen."
+          },
+          {
+            "text": "Weil sie keine Gebühren hat",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Kreditkarten können Gebühren für Nutzung oder verspätete Zahlungen haben."
+          },
+          {
+            "text": "Weil das Geld sofort abgebucht wird",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Das gilt für Debitkarten, nicht für Kreditkarten."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Bargeldlose Zahlungen sind immer sicherer als Barzahlungen.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Datenschutz- und Sicherheitsrisiken bestehen auch bei bargeldlosen Zahlungen.",
+        "feedback_incorrect": "Falsch. Es gibt Risiken wie Datenmissbrauch und technische Störungen."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Bargeld wird in naher Zukunft komplett verschwinden.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Bargeld bleibt besonders für kleine Beträge und bestimmte Situationen wichtig.",
+        "feedback_incorrect": "Falsch. Obwohl bargeldlose Zahlungen zunehmen, bleibt Bargeld relevant."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Eine Debitkarte eignet sich besonders gut zur Kontrolle der eigenen Ausgaben.</p>",
+        "correct_answer": true,
+        "feedback_correct": "Richtig! Das Geld wird sofort vom Konto abgebucht, sodass du den Überblick behältst.",
+        "feedback_incorrect": "Falsch. Debitkarten helfen, da sie keine Kreditlinie haben und direkt abbuchen."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Beim bargeldlosen Bezahlen gibt es kein Risiko für technische Probleme.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Es kann zu Systemausfällen oder Kartensperrungen kommen.",
+        "feedback_incorrect": "Falsch. Technische Probleme sind ein mögliches Risiko bei bargeldlosen Zahlungen."
+      }
+    ]
+  }
+  

@@ -1,0 +1,153 @@
+{
+    "title": "Preisbildung und wirtschaftliche Konzepte",
+    "media": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/lbFWMVqWdhk",
+        "source": "https://www.youtube.com/watch?v=lbFWMVqWdhk"      
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Annahme über die Bedürfnispyramide von Maslow ist falsch?</p>",
+        "options": [
+          {
+            "text": "Jede Stufe muss vollständig erfüllt sein, bevor die nächste erreicht werden kann.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Bedürfnisse können gleichzeitig existieren und müssen nicht strikt nacheinander erfüllt werden."
+          },
+          {
+            "text": "Die Pyramide beschreibt verschiedene Kategorien menschlicher Bedürfnisse.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Pyramide teilt Bedürfnisse in verschiedene Stufen ein, das ist korrekt."
+          },
+          {
+            "text": "Selbstverwirklichung ist eine der obersten Stufen der Pyramide.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Selbstverwirklichung steht tatsächlich an einer der obersten Positionen."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was ist ein typisches Missverständnis über Angebot und Nachfrage?</p>",
+        "options": [
+          {
+            "text": "Höhere Preise bedeuten automatisch höhere Gewinne für Unternehmen.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Hohe Preise können die Nachfrage senken und damit den Umsatz verringern."
+          },
+          {
+            "text": "Preise entstehen durch das Zusammenspiel von Angebot, Nachfrage und Produktionskosten.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Diese Aussage ist korrekt, da Preise durch mehrere Faktoren beeinflusst werden."
+          },
+          {
+            "text": "Unternehmen können Preise völlig willkürlich festlegen.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Preise werden durch den Markt bestimmt und sind nicht einfach frei festlegbar."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Aussage über Güter und Bedürfnisse ist richtig?</p>",
+        "options": [
+          {
+            "text": "Bedürfnisse sind Wünsche oder Mangelgefühle, Güter sind Mittel zu deren Befriedigung.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Bedürfnisse sind nicht gleichzusetzen mit Gütern, sondern werden durch diese befriedigt."
+          },
+          {
+            "text": "Ein Auto ist ein Bedürfnis, nicht ein Gut.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Ein Auto ist ein Gut, das ein Bedürfnis (z. B. Mobilität) erfüllen kann."
+          },
+          {
+            "text": "Dienstleistungen sind keine wirtschaftlichen Güter.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Dienstleistungen sind immaterielle wirtschaftliche Güter."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum ist die Preiselastizität wichtig?</p>",
+        "options": [
+          {
+            "text": "Sie zeigt, wie stark die Nachfrage auf Preisänderungen reagiert.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die Preiselastizität misst die Nachfrageveränderung bei Preisänderungen."
+          },
+          {
+            "text": "Sie zeigt, ob ein Unternehmen profitabel ist.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Preiselastizität beschreibt die Reaktion der Konsumenten auf Preisveränderungen."
+          },
+          {
+            "text": "Sie bestimmt die Produktionskosten eines Produkts.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Produktionskosten beeinflussen den Preis, aber nicht die Preiselastizität."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum greift der Staat in die Preisbildung ein?</p>",
+        "options": [
+          {
+            "text": "Um soziale Ungleichheiten zu verringern.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Maßnahmen wie Mindestlöhne und Mietpreisbremsen sollen soziale Gerechtigkeit fördern."
+          },
+          {
+            "text": "Um Unternehmen mehr Gewinn zu ermöglichen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Staat greift eher regulierend ein, nicht zur Gewinnmaximierung von Firmen."
+          },
+          {
+            "text": "Um die Preise für Konsumenten willkürlich festzulegen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Staatliche Eingriffe sind gezielt und nicht völlig willkürlich."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Die Bedürfnispyramide von Maslow ist eine wissenschaftlich unumstrittene Theorie.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Die Pyramide ist ein theoretisches Modell, aber nicht unumstritten oder empirisch bewiesen.",
+        "feedback_incorrect": "Falsch. Maslows Modell ist nicht endgültig bewiesen und es gibt alternative Motivationstheorien."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Güter und Bedürfnisse sind dasselbe.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Bedürfnisse sind Wünsche oder Mangelgefühle, während Güter diese Bedürfnisse befriedigen.",
+        "feedback_incorrect": "Falsch. Güter dienen der Bedürfnisbefriedigung, sind aber nicht mit den Bedürfnissen selbst gleichzusetzen."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Ein niedriger Preis bedeutet immer eine hohe Nachfrage.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Die Nachfrage hängt auch von anderen Faktoren ab, nicht nur vom Preis.",
+        "feedback_incorrect": "Falsch. Selbst günstige Produkte werden nicht immer stark nachgefragt."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Der Strukturwandel betrifft nur die Schweiz.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Strukturwandel findet weltweit statt, nicht nur in der Schweiz.",
+        "feedback_incorrect": "Falsch. Viele Industrieländer durchlaufen diesen Wandel vom Agrar- zum Dienstleistungssektor."
+      }
+    ]
+  }
+  
