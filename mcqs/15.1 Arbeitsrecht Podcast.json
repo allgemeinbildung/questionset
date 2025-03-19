@@ -1,0 +1,257 @@
+{
+  "title": "Grundlagen des Schweizer Arbeitsrechts",
+  "media": {
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/ZTOZweGLmPU",
+    "source": "https://www.youtube.com/embed/ZTOZweGLmPU"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Gesetz regelt in der Schweiz hauptsächlich den Einzelarbeitsvertrag?</p>",
+      "options": [
+        {
+          "text": "Obligationenrecht (OR)",
+          "is_correct": true,
+          "feedback": "<strong>Richtig!</strong> Das Obligationenrecht (OR) regelt in der Schweiz hauptsächlich den Einzelarbeitsvertrag."
+        },
+        {
+          "text": "Arbeitsgesetz (ArG)",
+          "is_correct": false,
+          "feedback": "<strong>Falsch.</strong> Das Arbeitsgesetz (ArG) enthält Vorschriften über den Gesundheitsschutz und Arbeitszeiten, regelt jedoch nicht den Einzelarbeitsvertrag."
+        },
+        {
+          "text": "Gesamtarbeitsvertrag (GAV)",
+          "is_correct": false,
+          "feedback": "<strong>Falsch.</strong> Der Gesamtarbeitsvertrag (GAV) ist eine Vereinbarung zwischen Gewerkschaften und Arbeitgeberverbänden und regelt kollektive Arbeitsbedingungen, nicht den Einzelarbeitsvertrag."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden Rechtsquellen ist KEINE Grundlage des Schweizer Arbeitsrechts?</p>",
+      "options": [
+        {
+          "text": "Schweizerisches Strafgesetzbuch (StGB)",
+          "is_correct": true,
+          "feedback": "<strong>Richtig!</strong> Das Schweizerische Strafgesetzbuch (StGB) ist keine Grundlage des Arbeitsrechts, sondern regelt strafrechtliche Belange."
+        },
+        {
+          "text": "Obligationenrecht (OR)",
+          "is_correct": false,
+          "feedback": "<strong>Falsch.</strong> Das Obligationenrecht (OR) ist eine zentrale Grundlage des Schweizer Arbeitsrechts."
+        },
+        {
+          "text": "Arbeitsgesetz (ArG)",
+          "is_correct": false,
+          "feedback": "<strong>Falsch.</strong> Das Arbeitsgesetz (ArG) ist eine wichtige Rechtsquelle des Schweizer Arbeitsrechts."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was versteht man unter einem Gesamtarbeitsvertrag (GAV)?</p>",
+      "options": [
+        {
+          "text": "Eine Vereinbarung zwischen Gewerkschaften und Arbeitgeberverbänden über Arbeitsbedingungen in einer Branche.",
+          "is_correct": true,
+          "feedback": "<strong>Richtig!</strong> Ein Gesamtarbeitsvertrag (GAV) ist eine Vereinbarung zwischen Gewerkschaften und Arbeitgeberverbänden über Arbeitsbedingungen in einer bestimmten Branche."
+        },
+        {
+          "text": "Ein individueller Vertrag zwischen einem Arbeitnehmer und einem Arbeitgeber.",
+          "is_correct": false,
+          "feedback": "<strong>Falsch.</strong> Ein individueller Vertrag zwischen einem Arbeitnehmer und einem Arbeitgeber wird als Einzelarbeitsvertrag (EAV) bezeichnet."
+        },
+        {
+          "text": "Ein Gesetz, das die Arbeitsbedingungen in der Schweiz regelt.",
+          "is_correct": false,
+          "feedback": "<strong>Falsch.</strong> Ein GAV ist kein Gesetz, sondern eine Vereinbarung zwischen Sozialpartnern über Arbeitsbedingungen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Pflicht hat ein Arbeitnehmer gemäß Einzelarbeitsvertrag (EAV)?</p>",
+      "options": [
+        {
+          "text": "Persönliche Arbeitsleistung erbringen.",
+          "is_correct": true,
+          "feedback": "<strong>Richtig!</strong> Ein Arbeitnehmer ist verpflichtet, seine Arbeitsleistung persönlich zu erbringen."
+        },
+        {
+          "text": "Den Arbeitsplatz jederzeit wechseln.",
+          "is_correct": false,
+          "feedback": "<strong>Falsch.</strong> Der Arbeitsplatzwechsel erfolgt in der Regel nach Absprache mit dem Arbeitgeber und ist nicht einseitig vom Arbeitnehmer bestimmbar."
+        },
+        {
+          "text": "Überstunden ohne Einschränkung leisten.",
+          "is_correct": false,
+          "feedback": "<strong>Falsch.</strong> Überstunden sind nur zu leisten, wenn sie betrieblich notwendig und zumutbar sind."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden Aussagen trifft auf das Arbeitsgesetz (ArG) zu?</p>",
+      "options": [
+        {
+          "text": "Es enthält Vorschriften über den Gesundheitsschutz und Arbeitszeiten.",
+          "is_correct": true,
+          "feedback": "<strong>Richtig!</strong> Das Arbeitsgesetz (ArG) enthält Vorschriften über den Gesundheitsschutz und die Regelung von Arbeits- und Ruhezeiten."
+        },
+        {
+          "text": "Es regelt ausschließlich die Lohnzahlung.",
+          "is_correct": false,
+          "feedback": "<strong>Falsch.</strong> Die Lohnzahlung wird hauptsächlich im Obligationenrecht (OR) geregelt, nicht im Arbeitsgesetz (ArG)."
+        },
+        {
+          "text": "Es definiert die Anforderungen an Arbeitszeugnisse.",
+          "is_correct": false,
+          "feedback": "<strong>Falsch.</strong> Die Anforderungen an Arbeitszeugnisse werden im Obligationenrecht (OR) definiert."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es wichtig, bestimmte Punkte wie Kündigungsfristen oder Lohn schriftlich im Arbeitsvertrag festzuhalten?</p>",
+      "options": [
+        {
+          "text": "Um das Arbeitsverhältnis klar zu regeln und Missverständnisse zu vermeiden.",
+          "is_correct": true,
+          "feedback": "<strong>Richtig!</strong> Schriftliche Festlegungen von wichtigen Punkten wie Kündigungsfristen oder Lohn helfen, das Arbeitsverhältnis klar zu regeln und Missverständnisse zu vermeiden."
+        },
+        {
+          "text": "Weil mündliche Absprachen in der Schweiz generell ungültig sind.",
+          "is_correct": false,
+          "feedback": "<strong>Falsch.</strong> Mündliche Absprachen sind in der Schweiz gültig, jedoch können schriftliche Vereinbarungen Klarheit schaffen und dienen als Nachweis."
+        },
+        {
+          "text": "Um dem Arbeitgeber mehr Flexibilität bei Vertragsänderungen zu ermöglichen.",
+          "is_correct": false,
+          "feedback": "<strong>Falsch.</strong> Schriftliche Festlegungen dienen der Klarheit und Transparenz, nicht der Flexibilität des Arbeitgebers."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Rolle spielt das Arbeitsrecht für Lehrbetriebe?</p>",
+      "options": [
+        {
+          "text": "Es ist auch für Lehrbetriebe verbindlich und regelt die Arbeitsbedingungen von Lernenden.",
+          "is_correct": true,
+          "feedback": "<strong>Richtig!</strong> Das Arbeitsrecht gilt für alle Unternehmen, einschließlich Lehrbetriebe, und regelt die Arbeitsbedingungen von Lernenden."
+        },
+        {
+          "text": "Es gilt nur für große Unternehmen mit mehr als 50 Mitarbeitenden.",
+          "is_correct": false,
+          "feedback": "<strong>Falsch.</strong> Das Arbeitsrecht gilt für alle Unternehmen, unabhängig von ihrer Größe."
+        },
+        {
+          "text": "Lehrbetriebe können selbst entscheiden, ob sie das Arbeitsrecht anwenden möchten.",
+          "is_correct": false,
+          "feedback": "<strong>Falsch.</strong> Lehrbetriebe müssen sich an die gesetzlichen Vorschriften des Arbeitsrechts halten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum gibt es im Arbeitsgesetz (ArG) Schutzbestimmungen für Arbeitnehmende?</p>",
+      "options": [
+        {
+          "text": "Um die Gesundheit und Sicherheit der Arbeitnehmenden zu gewährleisten.",
+          "is_correct": true,
+          "feedback": "<strong>Richtig!</strong> Das Arbeitsgesetz enthält Schutzbestimmungen, um die Gesundheit und Sicherheit der Arbeitnehmenden zu gewährleisten."
+        },
+        {
+          "text": "Damit Arbeitgebende weniger Verantwortung für ihre Angestellten übernehmen müssen.",
+          "is_correct": false,
+          "feedback": "<strong>Falsch.</strong> Das Arbeitsgesetz verpflichtet Arbeitgebende zur Einhaltung von Schutzmaßnahmen für ihre Angestellten."
+        },
+        {
+          "text": "Weil Arbeitnehmende keine individuellen Rechte im Arbeitsvertrag haben.",
+          "is_correct": false,
+          "feedback": "<strong>Falsch.</strong> Arbeitnehmende haben individuelle Rechte, die sowohl im Obligationenrecht als auch im Arbeitsgesetz geregelt sind."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Unter welchen Bedingungen sind Überstunden für Arbeitnehmende verpflichtend?</p>",
+      "options": [
+        {
+          "text": "Wenn sie betrieblich notwendig und zumutbar sind.",
+          "is_correct": true,
+          "feedback": "<strong>Richtig!</strong> Überstunden sind verpflichtend, wenn sie betrieblich notwendig und für die Arbeitnehmenden zumutbar sind."
+        },
+        {
+          "text": "Immer, wenn der Arbeitgeber es verlangt.",
+          "is_correct": false,
+          "feedback": "<strong>Falsch.</strong> Überstunden müssen betrieblich notwendig und zumutbar sein, eine unbegrenzte Verpflichtung besteht nicht."
+        },
+        {
+          "text": "Nur, wenn sie im Arbeitsvertrag explizit erwähnt sind.",
+          "is_correct": false,
+          "feedback": "<strong>Falsch.</strong> Auch ohne explizite Erwähnung im Vertrag können Überstunden verpflichtend sein, sofern sie notwendig und zumutbar sind."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Obligationenrecht (OR) regelt die grundlegenden Bestimmungen für Einzelarbeitsverträge.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Das Obligationenrecht (OR) legt die grundlegenden Bestimmungen für Einzelarbeitsverträge fest.",
+      "feedback_incorrect": "Falsch. Das Obligationenrecht (OR) ist die zentrale gesetzliche Grundlage für Einzelarbeitsverträge."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Gesamtarbeitsvertrag (GAV) ist ein persönlicher Vertrag zwischen einem Arbeitnehmer und einem Arbeitgeber.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Ein Gesamtarbeitsvertrag (GAV) ist keine individuelle Vereinbarung, sondern ein kollektiver Vertrag zwischen Gewerkschaften und Arbeitgeberverbänden.",
+      "feedback_incorrect": "Falsch. Ein GAV regelt die Arbeitsbedingungen für eine Branche und ist keine individuelle Vereinbarung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Arbeitsgesetz (ArG) enthält Vorschriften zum Schutz der Arbeitnehmenden.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Das Arbeitsgesetz (ArG) enthält Schutzbestimmungen, um die Rechte und Sicherheit der Arbeitnehmenden zu gewährleisten.",
+      "feedback_incorrect": "Falsch. Das Arbeitsgesetz (ArG) dient dem Schutz der Arbeitnehmenden und enthält Vorschriften zu Arbeitszeiten, Gesundheitsschutz und Ruhezeiten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine mündliche Vereinbarung über den Lohn ist in der Schweiz immer ungültig.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Mündliche Vereinbarungen sind grundsätzlich gültig, jedoch ist eine schriftliche Fixierung empfehlenswert, um Missverständnisse zu vermeiden.",
+      "feedback_incorrect": "Falsch. Mündliche Vereinbarungen über den Lohn sind gültig, aber schriftliche Verträge bieten mehr Sicherheit."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Das Arbeitsrecht ist nur für große Unternehmen mit mehr als 50 Mitarbeitenden relevant.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Das Arbeitsrecht gilt für alle Unternehmen, unabhängig von ihrer Größe.",
+      "feedback_incorrect": "Falsch. Das Arbeitsrecht ist für alle Unternehmen verbindlich, nicht nur für große Betriebe."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Arbeitnehmende müssen Überstunden immer akzeptieren, egal unter welchen Bedingungen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Überstunden sind nur verpflichtend, wenn sie betrieblich notwendig und zumutbar sind.",
+      "feedback_incorrect": "Falsch. Überstunden sind nicht uneingeschränkt verpflichtend, sie müssen betrieblich notwendig und zumutbar sein."
+    }
+  ]
+}
+  
