@@ -1,0 +1,278 @@
+{
+    "title": "Weiterbildung in der Schweiz",
+    "media": {
+      "type": "youtube",
+      "url": "https://www.youtube.com/embed/epgpzWk-HfU",
+      "source": "https://www.youtube.com"
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche drei Haupttypen von Weiterbildung gibt es in der Schweiz?</p>",
+        "options": [
+          {
+            "text": "Kurse, höhere Berufsbildung, Hochschulformate",
+            "is_correct": true,
+            "feedback": "<strong>Richtig!</strong> Diese drei Haupttypen sind in der Schweiz verbreitet."
+          },
+          {
+            "text": "Online-Kurse, Workshops, Seminare",
+            "is_correct": false,
+            "feedback": "<strong>Falsch.</strong> Diese sind keine Haupttypen der Weiterbildung in der Schweiz."
+          },
+          {
+            "text": "Praktika, Ausbildungen, Studiengänge",
+            "is_correct": false,
+            "feedback": "<strong>Falsch.</strong> Diese Begriffe beziehen sich nicht auf die Haupttypen der Weiterbildung."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was ist ein häufiges Missverständnis über Weiterbildungen?</p>",
+        "options": [
+          {
+            "text": "Alle Weiterbildungen sind gleichwertig.",
+            "is_correct": true,
+            "feedback": "<strong>Richtig!</strong> Es wird oft fälschlicherweise angenommen, dass alle Weiterbildungen gleichwertig sind."
+          },
+          {
+            "text": "Weiterbildungen sind nur für Fachkräfte.",
+            "is_correct": false,
+            "feedback": "<strong>Falsch.</strong> Dieses Missverständnis wurde nicht erwähnt."
+          },
+          {
+            "text": "Weiterbildungen sind immer kostenlos.",
+            "is_correct": false,
+            "feedback": "<strong>Falsch.</strong> Dieses Missverständnis wurde nicht erwähnt."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was bietet der Bund für Personen, die sich auf eidgenössische Prüfungen vorbereiten?</p>",
+        "options": [
+          {
+            "text": "Finanzielle Unterstützung",
+            "is_correct": true,
+            "feedback": "<strong>Richtig!</strong> Der Bund bietet finanzielle Unterstützung für diese Personen."
+          },
+          {
+            "text": "Kostenlose Lehrbücher",
+            "is_correct": false,
+            "feedback": "<strong>Falsch.</strong> Das wurde nicht erwähnt."
+          },
+          {
+            "text": "Persönliche Tutoren",
+            "is_correct": false,
+            "feedback": "<strong>Falsch.</strong> Das wurde nicht erwähnt."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche Weiterbildung endet mit einem schulzertifikat?</p>",
+        "options": [
+          {
+            "text": "Kurse",
+            "is_correct": true,
+            "feedback": "<strong>Richtig!</strong> Kurse enden oft mit einem schulzertifikat."
+          },
+          {
+            "text": "Höhere Berufsbildung",
+            "is_correct": false,
+            "feedback": "<strong>Falsch.</strong> Diese führt zu einem eidgenössischen Fachausweis oder Diplom."
+          },
+          {
+            "text": "Hochschulformate",
+            "is_correct": false,
+            "feedback": "<strong>Falsch.</strong> Diese führen zu einem Hochschuldiplom."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was ist der Hauptunterschied zwischen Kursen und Lehrgängen der höheren Berufsbildung?</p>",
+        "options": [
+          {
+            "text": "Staatliche Anerkennung",
+            "is_correct": true,
+            "feedback": "<strong>Richtig!</strong> Der Hauptunterschied liegt in der staatlichen Anerkennung."
+          },
+          {
+            "text": "Dauer der Ausbildung",
+            "is_correct": false,
+            "feedback": "<strong>Falsch.</strong> Die Dauer ist nicht der Hauptunterschied."
+          },
+          {
+            "text": "Kosten der Ausbildung",
+            "is_correct": false,
+            "feedback": "<strong>Falsch.</strong> Die Kosten sind nicht der Hauptunterschied."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum ist ein eidgenössischer Fachausweis wertvoller als ein Kurszertifikat?</p>",
+        "options": [
+          {
+            "text": "Weil er staatlich anerkannt ist.",
+            "is_correct": true,
+            "feedback": "<strong>Richtig!</strong> Ein eidgenössischer Fachausweis hat einen höheren Marktwert, da er staatlich anerkannt ist."
+          },
+          {
+            "text": "Weil er kostenlos ist.",
+            "is_correct": false,
+            "feedback": "<strong>Falsch.</strong> Die Kosten sind nicht der Grund für den höheren Wert."
+          },
+          {
+            "text": "Weil er schneller zu erlangen ist.",
+            "is_correct": false,
+            "feedback": "<strong>Falsch.</strong> Die Geschwindigkeit ist nicht der Grund für den höheren Wert."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Welche Weiterbildung wäre sinnvoll für eine Führungsposition im Projektmanagement?</p>",
+        "options": [
+          {
+            "text": "Ein Diplomlehrgang auf Stufe höhere Fachschule",
+            "is_correct": true,
+            "feedback": "<strong>Richtig!</strong> Ein Diplomlehrgang auf Stufe höhere Fachschule wäre sinnvoll für eine Führungsposition."
+          },
+          {
+            "text": "Ein kurzer Kurs",
+            "is_correct": false,
+            "feedback": "<strong>Falsch.</strong> Ein kurzer Kurs reicht für eine Führungsposition nicht aus."
+          },
+          {
+            "text": "Ein Praktikum",
+            "is_correct": false,
+            "feedback": "<strong>Falsch.</strong> Ein Praktikum ist nicht ausreichend für eine Führungsposition."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Wie könnte ein Lehrgang der höheren Berufsbildung die Karrierechancen verbessern?</p>",
+        "options": [
+          {
+            "text": "Er bietet anerkannte Abschlüsse.",
+            "is_correct": true,
+            "feedback": "<strong>Richtig!</strong> Ein Lehrgang der höheren Berufsbildung bietet anerkannte Abschlüsse, die die Karrierechancen verbessern."
+          },
+          {
+            "text": "Er ist kürzer als ein Kurs.",
+            "is_correct": false,
+            "feedback": "<strong>Falsch.</strong> Die Dauer ist nicht der Grund für die Verbesserung der Karrierechancen."
+          },
+          {
+            "text": "Er ist günstiger als ein Kurs.",
+            "is_correct": false,
+            "feedback": "<strong>Falsch.</strong> Die Kosten sind nicht der Grund für die Verbesserung der Karrierechancen."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum könnte ein kurzer Kurs im Social Media Marketing nützlich sein?</p>",
+        "options": [
+          {
+            "text": "Er vermittelt die Grundlagen.",
+            "is_correct": true,
+            "feedback": "<strong>Richtig!</strong> Ein kurzer Kurs kann die Grundlagen im Social Media Marketing vermitteln."
+          },
+          {
+            "text": "Er führt zu einem Hochschuldiplom.",
+            "is_correct": false,
+            "feedback": "<strong>Falsch.</strong> Ein kurzer Kurs führt nicht zu einem Hochschuldiplom."
+          },
+          {
+            "text": "Er garantiert eine Führungsposition.",
+            "is_correct": false,
+            "feedback": "<strong>Falsch.</strong> Ein kurzer Kurs garantiert keine Führungsposition."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was könnte ein Anreiz für anerkannte Abschlüsse sein?</p>",
+        "options": [
+          {
+            "text": "Finanzielle Unterstützung vom Bund",
+            "is_correct": true,
+            "feedback": "<strong>Richtig!</strong> Finanzielle Unterstützung vom Bund kann ein Anreiz für anerkannte Abschlüsse sein."
+          },
+          {
+            "text": "Kostenlose Prüfungen",
+            "is_correct": false,
+            "feedback": "<strong>Falsch.</strong> Kostenlose Prüfungen wurden nicht als Anreiz erwähnt."
+          },
+          {
+            "text": "Garantie für eine Anstellung",
+            "is_correct": false,
+            "feedback": "<strong>Falsch.</strong> Eine Anstellungsgarantie wurde nicht als Anreiz erwähnt."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Kurse in der Schweiz enden mit einem eidgenössischen Fachausweis.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Kurse enden meist mit einem schulzertifikat und nicht mit einem eidgenössischen Fachausweis.",
+        "feedback_incorrect": "Falsch. Kurse enden meist mit einem schulzertifikat und nicht mit einem eidgenössischen Fachausweis."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Ein häufiges Missverständnis ist, dass alle Weiterbildungen denselben Marktwert haben.</p>",
+        "correct_answer": true,
+        "feedback_correct": "Richtig! Es wird oft angenommen, dass alle Weiterbildungen denselben Marktwert haben.",
+        "feedback_incorrect": "Falsch. Es wird oft angenommen, dass alle Weiterbildungen denselben Marktwert haben."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>In der Schweiz gibt es finanzielle Unterstützung für Personen, die sich auf eidgenössische Prüfungen vorbereiten.</p>",
+        "correct_answer": true,
+        "feedback_correct": "Richtig! Der Bund bietet finanzielle Unterstützung für solche Personen.",
+        "feedback_incorrect": "Falsch. Der Bund bietet tatsächlich finanzielle Unterstützung für solche Personen."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Ein kurzer Kurs im Social Media Marketing vermittelt die Grundlagen des Fachs.</p>",
+        "correct_answer": true,
+        "feedback_correct": "Richtig! Ein kurzer Kurs kann die Grundlagen im Social Media Marketing vermitteln.",
+        "feedback_incorrect": "Falsch. Ein kurzer Kurs kann tatsächlich die Grundlagen im Social Media Marketing vermitteln."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Ein Lehrgang der höheren Berufsbildung ist genauso wertvoll wie ein einfacher Kurs.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Ein Lehrgang der höheren Berufsbildung ist wertvoller als ein einfacher Kurs.",
+        "feedback_incorrect": "Falsch. Ein Lehrgang der höheren Berufsbildung ist wertvoller als ein einfacher Kurs."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Für eine Führungsposition im Projektmanagement kann ein einfacher Kurs ausreichend sein.</p>",
+        "correct_answer": false,
+        "feedback_correct": "Richtig! Für eine Führungsposition wäre ein Diplomlehrgang sinnvoller.",
+        "feedback_incorrect": "Falsch. Für eine Führungsposition wäre ein Diplomlehrgang sinnvoller."
+      }
+    ]
+  }

@@ -1,4 +1,152 @@
-staatlich anerkannten Abschluss führen."
+{
+    "title": "Weiterbildung in der Schweiz",
+    "media": {
+      "type": "youtube",
+      "url": "https://www.youtube.com/embed/AEyBGOWQ8xY",
+      "source": "https://www.youtube.com/watch?v=AEyBGOWQ8xY"
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welche drei Haupttypen der Weiterbildung gibt es in der Schweiz?</p>",
+        "options": [
+          {
+            "text": "Kurse mit Schulzertifikat, höhere Berufsbildung mit eidgenössischem Fachausweis oder Diplom, Hochschulformate mit Hochschuldiplom",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die drei Haupttypen der Weiterbildung in der Schweiz sind Kurse mit Schulzertifikat, höhere Berufsbildung mit eidgenössischem Fachausweis oder Diplom und Hochschulformate mit Hochschuldiplom."
+          },
+          {
+            "text": "Berufsausbildung, Sprachkurse, Freizeitkurse",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Berufsausbildung, Sprachkurse und Freizeitkurse sind keine Haupttypen der Weiterbildung in der Schweiz."
+          },
+          {
+            "text": "Online-Kurse, Präsenzkurse, Hybridkurse",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Online-, Präsenz- und Hybridkurse beziehen sich auf die Unterrichtsform, nicht auf die Haupttypen der Weiterbildung."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was ist ein Merkmal von Kursen mit Schulzertifikat?</p>",
+        "options": [
+          {
+            "text": "Sie sind oft kürzer und weniger formal.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Kurse mit Schulzertifikat sind oft kürzer und weniger formal."
+          },
+          {
+            "text": "Sie führen zu einem eidgenössischen Fachausweis.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Kurse mit Schulzertifikat führen nicht zu einem eidgenössischen Fachausweis."
+          },
+          {
+            "text": "Sie sind staatlich anerkannt.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Kurse mit Schulzertifikat sind in der Regel nicht staatlich anerkannt."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welcher Abschluss ist typisch für die höhere Berufsbildung?</p>",
+        "options": [
+          {
+            "text": "Eidgenössischer Fachausweis oder Diplom",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die höhere Berufsbildung führt typischerweise zu einem eidgenössischen Fachausweis oder Diplom."
+          },
+          {
+            "text": "Schulzertifikat",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Ein Schulzertifikat ist kein typischer Abschluss der höheren Berufsbildung."
+          },
+          {
+            "text": "Teilnahmebestätigung",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Eine Teilnahmebestätigung ist kein typischer Abschluss der höheren Berufsbildung."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was ist ein Merkmal von Hochschulformaten in der Weiterbildung?</p>",
+        "options": [
+          {
+            "text": "Sie führen zu einem Hochschuldiplom.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Hochschulformate in der Weiterbildung führen zu einem Hochschuldiplom."
+          },
+          {
+            "text": "Sie sind kürzer und weniger formal.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Hochschulformate sind in der Regel nicht kürzer und weniger formal."
+          },
+          {
+            "text": "Sie enden mit einem Schulzertifikat.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Hochschulformate enden nicht mit einem Schulzertifikat."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Was versteht man unter der höheren Berufsbildung in der Schweiz?</p>",
+        "options": [
+          {
+            "text": "Eine Weiterbildung, die zu einem eidgenössischen Fachausweis oder Diplom führt.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die höhere Berufsbildung führt zu einem eidgenössischen Fachausweis oder Diplom."
+          },
+          {
+            "text": "Eine Weiterbildung, die mit einem Schulzertifikat abschließt.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die höhere Berufsbildung schließt nicht mit einem Schulzertifikat ab."
+          },
+          {
+            "text": "Ein kurzer Kurs ohne formalen Abschluss.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die höhere Berufsbildung ist kein kurzer Kurs ohne formalen Abschluss."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum könnte ein Lehrgang der höheren Berufsbildung vorteilhafter sein als ein einfacher Kurs?</p>",
+        "options": [
+          {
+            "text": "Weil er zu einem staatlich anerkannten Abschluss führt.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Ein Lehrgang der höheren Berufsbildung führt zu einem staatlich anerkannten Abschluss, was die Chancen auf dem Arbeitsmarkt erhöht."
+          },
+          {
+            "text": "Weil er kürzer und weniger intensiv ist.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Lehrgänge der höheren Berufsbildung sind in der Regel länger und intensiver als einfache Kurse."
+          },
+          {
+            "text": "Weil er keine Berufserfahrung voraussetzt.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Lehrgänge der höheren Berufsbildung setzen oft Berufserfahrung voraus."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Wie unterscheiden sich Kurse und Lehrgänge der höheren Berufsbildung in Bezug auf die staatliche Anerkennung?</p>",
+        "options": [
+          {
+            "text": "Kurse enden meist mit einem nicht offiziell anerkannten Schulzertifikat, während Lehrgänge der höheren Berufsbildung zu einem staatlich anerkannten eidgenössischen Fachausweis oder Diplom führen.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Kurse enden oft mit einem nicht offiziell anerkannten Schulzertifikat, während Lehrgänge der höheren Berufsbildung zu einem staatlich anerkannten Abschluss führen."
         },
         {
           "text": "Kurse und Lehrgänge der höheren Berufsbildung sind beide staatlich anerkannt.",
