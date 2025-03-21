@@ -1,0 +1,108 @@
+staatlich anerkannten Abschluss führen."
+        },
+        {
+          "text": "Kurse und Lehrgänge der höheren Berufsbildung sind beide staatlich anerkannt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kurse sind in der Regel nicht staatlich anerkannt, während Lehrgänge der höheren Berufsbildung zu einem anerkannten Abschluss führen."
+        },
+        {
+          "text": "Beide enden mit einem Hochschuldiplom.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Hochschuldiplome gehören zu den Hochschulformaten, nicht zur höheren Berufsbildung oder zu Kursen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum wird der eidgenössische Fachausweis als wertvoller als ein Schulzertifikat angesehen?</p>",
+      "options": [
+        {
+          "text": "Weil er staatlich anerkannt ist und auf dem Arbeitsmarkt höher bewertet wird.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der eidgenössische Fachausweis ist staatlich anerkannt und bietet bessere Chancen auf dem Arbeitsmarkt."
+        },
+        {
+          "text": "Weil er kostenlos angeboten wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der eidgenössische Fachausweis ist nicht kostenlos."
+        },
+        {
+          "text": "Weil er schneller zu erwerben ist als ein Schulzertifikat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Erwerb eines eidgenössischen Fachausweises ist meist aufwendiger als der eines Schulzertifikats."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Weiterbildung wäre für eine Führungskarriere im Projektmanagement am besten geeignet?</p>",
+      "options": [
+        {
+          "text": "Ein Diplomlehrgang auf Stufe höhere Fachschule oder ein Certificate of Advanced Studies (CAS).",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Für eine Führungskarriere im Projektmanagement sind ein Diplomlehrgang auf Stufe höhere Fachschule oder ein CAS sinnvoll."
+        },
+        {
+          "text": "Ein eintägiger Kurs über Projektmanagement-Grundlagen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein eintägiger Kurs vermittelt nur Grundlagen, reicht aber nicht für eine Führungskarriere."
+        },
+        {
+          "text": "Ein Sprachkurs in Englisch.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sprachkenntnisse können hilfreich sein, ersetzen aber keine spezifische Weiterbildung im Projektmanagement."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Bund bietet finanzielle Unterstützung für alle Arten von Weiterbildungen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Die finanzielle Unterstützung des Bundes gilt nur für eidgenössische Prüfungen, nicht für alle Arten von Weiterbildungen.",
+      "feedback_incorrect": "Falsch. Der Bund unterstützt nur Weiterbildungen, die zu eidgenössischen Prüfungen führen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Kurse mit Schulzertifikat sind immer staatlich anerkannt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Schulzertifikate sind in der Regel nicht staatlich anerkannt.",
+      "feedback_incorrect": "Falsch. Schulzertifikate sind meist nicht offiziell anerkannt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Hochschuldiplom ist eine mögliche Abschlussform in der Weiterbildung.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Hochschulformate der Weiterbildung führen oft zu einem Hochschuldiplom.",
+      "feedback_incorrect": "Falsch. Hochschulweiterbildungen können zu einem Hochschuldiplom führen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein kurzer Kurs reicht in der Regel aus, um eine Führungsposition zu erreichen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Für eine Führungsposition sind meist umfassendere Weiterbildungen erforderlich, wie ein Diplomlehrgang oder ein CAS.",
+      "feedback_incorrect": "Falsch. Ein kurzer Kurs reicht oft nicht aus, um eine Führungsposition zu erreichen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein Zertifikat von einem Kurs ist genauso wertvoll wie ein eidgenössischer Fachausweis.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Ein eidgenössischer Fachausweis ist staatlich anerkannt und hat einen höheren Marktwert als ein Kurszertifikat.",
+      "feedback_incorrect": "Falsch. Ein Fachausweis ist wertvoller als ein einfaches Kurszertifikat, da er staatlich anerkannt ist."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine Weiterbildung im sozialen Marketing kann sowohl mit einem kurzen Kurs als auch mit einem Diplomlehrgang erfolgen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Ein kurzer Kurs kann Grundlagen vermitteln, während ein Diplomlehrgang tiefere Kenntnisse und bessere Karrierechancen bietet.",
+      "feedback_incorrect": "Falsch. Es gibt verschiedene Möglichkeiten zur Weiterbildung im sozialen Marketing, je nach gewünschtem Qualifikationsniveau."
+    }
+  ]
+}
