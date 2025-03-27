@@ -1,0 +1,278 @@
+{
+  "title": "Kaufvertragsarten: Leasing, Miet-Kauf-Verträge, Konsumkreditverträge und Kleindarlehen",
+  "media": {
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/bUydlb9RSyc",
+    "source": "https://www.youtube.com/watch?v=bUydlb9RSyc&feature=youtu.be"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein charakteristisches Merkmal eines Leasingvertrags?</p>",
+      "options": [
+        {
+          "text": "Der Leasingnehmer erwirbt sofort das Eigentum am Objekt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Beim Leasing bleibt das Eigentum während der Vertragslaufzeit beim Leasinggeber."
+        },
+        {
+          "text": "Der Leasingnehmer zahlt regelmäßige Raten für die Nutzung eines Objekts.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Beim Leasing zahlt der Leasingnehmer regelmäßige Raten für die Nutzung des Objekts, ohne Eigentümer zu werden."
+        },
+        {
+          "text": "Der Leasingnehmer hat kein Rückgaberecht am Ende der Laufzeit.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. In der Regel gibt es am Ende der Laufzeit Optionen wie Rückgabe, Kauf oder Verlängerung des Leasingvertrags."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Gesetz regelt in der Schweiz den Konsumkreditvertrag?</p>",
+      "options": [
+        {
+          "text": "Das Obligationenrecht (OR)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Obligationenrecht regelt allgemeine Vertragsbestimmungen, aber nicht spezifisch Konsumkreditverträge."
+        },
+        {
+          "text": "Das Konsumkreditgesetz (KKG)",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Konsumkreditgesetz (KKG) regelt in der Schweiz die Bestimmungen zu Konsumkreditverträgen."
+        },
+        {
+          "text": "Das Zivilgesetzbuch (ZGB)",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Zivilgesetzbuch enthält grundlegende Bestimmungen des Privatrechts, aber nicht spezifisch zu Konsumkreditverträgen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was passiert typischerweise am Ende eines Miet-Kauf-Vertrags?</p>",
+      "options": [
+        {
+          "text": "Der Mieter muss das Objekt zurückgeben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Beim Miet-Kauf-Vertrag geht das Eigentum nach Zahlung aller Raten auf den Mieter über."
+        },
+        {
+          "text": "Der Mieter hat die Option, das Objekt zu kaufen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Beim Miet-Kauf-Vertrag ist der Erwerb des Eigentums nach Ablauf der Mietzeit und Zahlung aller Raten bereits vereinbart."
+        },
+        {
+          "text": "Das Eigentum am Objekt geht auf den Mieter über.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Beim Miet-Kauf-Vertrag wird das Eigentum nach vollständiger Zahlung der vereinbarten Raten auf den Mieter übertragen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche der folgenden Aussagen trifft auf ein Kleindarlehen zu?</p>",
+      "options": [
+        {
+          "text": "Es handelt sich um einen langfristigen Kredit mit niedrigen Zinsen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kleindarlehen sind oft kurzfristig und können höhere Zinsen aufweisen."
+        },
+        {
+          "text": "Es ist ein kleiner Kreditbetrag, der oft schnell und mit wenigen Sicherheiten vergeben wird.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Kleindarlehen sind kleinere Kreditbeträge, die häufig schnell und ohne umfangreiche Sicherheiten vergeben werden."
+        },
+        {
+          "text": "Kleindarlehen unterliegen nicht dem Konsumkreditgesetz.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kleindarlehen fallen unter das Konsumkreditgesetz und unterliegen dessen Bestimmungen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Eigentumsvorbehalt bei einem Kauf mit Konsumkreditvertrag?</p>",
+      "options": [
+        {
+          "text": "Der Käufer wird sofort Eigentümer der Ware, unabhängig von der Zahlung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Beim Eigentumsvorbehalt bleibt der Verkäufer Eigentümer, bis der volle Kaufpreis bezahlt ist."
+        },
+        {
+          "text": "Der Verkäufer behält sich das Recht vor, die Ware bei Zahlungsverzug zurückzufordern.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Eigentumsvorbehalt bedeutet, dass der Verkäufer Eigentümer bleibt und die Ware bei Nichtzahlung zurückverlangen kann."
+        },
+        {
+          "text": "Der Käufer kann die Ware jederzeit zurückgeben und erhält den vollen Kaufpreis zurück.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Eigentumsvorbehalt betrifft das Eigentumsrecht bis zur vollständigen Bezahlung, nicht ein generelles Rückgaberecht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es wichtig, beim Leasing nicht nur auf die monatlichen Raten zu achten?</p>",
+      "options": [
+        {
+          "text": "Weil zusätzliche Kosten wie Versicherungen und Wartung anfallen können.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Neben den Leasingraten können weitere Kosten wie Versicherungen und Wartung entstehen, die die Gesamtkosten erhöhen."
+        },
+        {
+          "text": "Weil die monatlichen Raten immer gleich bleiben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die monatlichen Raten können variieren und sollten im Vertrag genau geprüft werden."
+        },
+        {
+          "text": "Weil Leasingverträge keine zusätzlichen Kosten verursachen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Leasingverträge können durchaus zusätzliche Kosten beinhalten, daher ist eine genaue Prüfung wichtig."
+        }
+      ]
+    },
+        {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist ein zentraler Unterschied zwischen einem Leasingvertrag und einem Miet-Kauf-Vertrag?</p>",
+      "options": [
+        {
+          "text": "Beim Miet-Kauf-Vertrag wird das Objekt sofort Eigentum des Mieters.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Eigentum geht erst nach der vollständigen Bezahlung beim Miet-Kauf-Vertrag auf den Mieter über."
+        },
+        {
+          "text": "Beim Leasingvertrag wird das Objekt nach Vertragsende automatisch Eigentum des Nutzers.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Beim Leasing geht das Eigentum nicht automatisch über; es bleibt beim Leasinggeber."
+        },
+        {
+          "text": "Beim Miet-Kauf-Vertrag ist der spätere Eigentumsübergang vertraglich vorgesehen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Beim Miet-Kauf ist vertraglich vorgesehen, dass das Objekt nach der Laufzeit in das Eigentum des Käufers übergeht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum schützt das Konsumkreditgesetz (KKG) Konsumenten bei Kreditverträgen?</p>",
+      "options": [
+        {
+          "text": "Weil es den Verkäufern erlaubt, hohe Zinsen zu verlangen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das KKG schützt Konsumenten und begrenzt unter anderem die Zinshöhe."
+        },
+        {
+          "text": "Weil es Informationspflichten und ein Rücktrittsrecht vorschreibt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das KKG schreibt wichtige Schutzmaßnahmen wie Informationspflichten und Rücktrittsrecht vor."
+        },
+        {
+          "text": "Weil es nur bei Kleindarlehen zur Anwendung kommt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das KKG gilt für verschiedene Arten von Konsumkrediten, nicht nur für Kleindarlehen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist ein Risiko bei einem Kleindarlehen trotz schneller Auszahlung?</p>",
+      "options": [
+        {
+          "text": "Kleindarlehen haben keine gesetzlichen Vorgaben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kleindarlehen unterliegen gesetzlichen Vorgaben wie dem KKG."
+        },
+        {
+          "text": "Die Zinsen sind oft sehr hoch, was zu einer Schuldenfalle führen kann.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die hohen Zinsen bei Kleindarlehen können zu finanziellen Problemen führen."
+        },
+        {
+          "text": "Man erhält das Geld in Raten ausgezahlt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kleindarlehen werden in der Regel als Einmalbetrag ausbezahlt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist ein Miet-Kauf-Vertrag rechtlich weniger sicher als ein Leasingvertrag?</p>",
+      "options": [
+        {
+          "text": "Weil er keinen Vertrag enthält.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Auch ein Miet-Kauf-Vertrag basiert auf einem Vertrag."
+        },
+        {
+          "text": "Weil das Konsumkreditgesetz (KKG) für Miet-Kauf-Verträge nicht in gleichem Maße gilt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Miet-Kauf-Verträge sind rechtlich weniger stark durch das KKG geschützt als Leasingverträge."
+        },
+        {
+          "text": "Weil man jederzeit zurücktreten kann.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gerade weil man beim Miet-Kauf kein Rücktrittsrecht hat, ist der Schutz schwächer."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Beim Leasing gehört das Objekt am Ende der Laufzeit automatisch dem Leasingnehmer.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Das Objekt bleibt Eigentum des Leasinggebers, es sei denn, es wird separat gekauft.",
+      "feedback_incorrect": "Falsch. Der Leasingnehmer wird nicht automatisch Eigentümer nach Vertragsende."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Miet-Kauf-Vertrag beinhaltet typischerweise kein Rücktrittsrecht.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Bei Miet-Kauf-Verträgen besteht meist kein Rücktrittsrecht.",
+      "feedback_incorrect": "Falsch. Miet-Kauf-Verträge bieten in der Regel kein Rücktrittsrecht."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Kleindarlehen unterliegen dem Konsumkreditgesetz (KKG).</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Auch Kleindarlehen sind durch das KKG geregelt.",
+      "feedback_incorrect": "Falsch. Das KKG gilt auch für Kleindarlehen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Das Konsumkreditgesetz schützt Konsumenten unter anderem durch Informationspflichten und ein Rücktrittsrecht.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Diese Regelungen sind zentrale Schutzmechanismen im KKG.",
+      "feedback_incorrect": "Falsch. Das KKG enthält explizit solche Schutzmaßnahmen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein Miet-Kauf-Vertrag ist rechtlich durch das Konsumkreditgesetz genauso stark geschützt wie ein Leasingvertrag.</p>",
+      "correct_answer": false,
+      "feedback_correct": "Richtig! Miet-Kauf-Verträge sind rechtlich schwächer abgesichert.",
+      "feedback_incorrect": "Falsch. Das KKG schützt Leasingverträge umfassender als Miet-Kauf-Verträge."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Leasing kann teurer sein als Kaufen, wenn man alle Zusatzkosten berücksichtigt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "Richtig! Zusatzkosten wie Versicherungen und Service können Leasing teurer machen.",
+      "feedback_incorrect": "Falsch. Die Gesamtkosten beim Leasing können höher sein als beim Kauf."
+    }
+  ]
+}
