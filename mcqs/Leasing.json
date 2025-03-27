@@ -1,0 +1,279 @@
+{
+    "title": "Verständnisfragen Leasing",
+    "headerImage": "img1.jpg",
+    "media": {
+      "type": "mp3",
+      "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2014/11/Espresso_21-11-2014-0836.mp3",
+      "source": "https://www.srf.ch/audio/espresso/leasing-bei-vorzeitige-rueckgabe-schnappt-die-schuldenfalle-zu?partId=7e668471-81cb-42e0-9955-6fc32bd33c1e#autoplay"
+    },
+    "questions": [
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wie viele Autos wurden gemäss dem Text im letzten Jahr in der Schweiz ungefähr geleast?</p>",
+        "options": [
+          {
+            "text": "20'000",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Es waren fast <strong>200'000</strong> Autos, nicht 20'000."
+          },
+          {
+            "text": "200'000",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Gemäss dem Text wurden im letzten Jahr fast <strong>200'000</strong> Autos in der Schweiz geleast."
+          },
+          {
+            "text": "2'000'000",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Es waren deutlich weniger, nämlich fast <strong>200'000</strong> Autos."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wie heisst die Leasing-Bank, die im Fall von Manuela Gehrig im Text erwähnt wird?</p>",
+        "options": [
+          {
+            "text": "Bank Coop",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die erwähnte Leasing-Bank heisst <strong>Cashgate</strong>."
+          },
+          {
+            "text": "Cashgate",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Die Leasing-Bank im Text heisst <strong>Cashgate</strong>."
+          },
+          {
+            "text": "Credit Suisse",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die erwähnte Leasing-Bank ist <strong>Cashgate</strong>, nicht Credit Suisse."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Aus welchem Grund musste Manuela Gehrig ihr geleastes Auto vorzeitig zurückgeben?</p>",
+        "options": [
+          {
+            "text": "Weil ihr das Auto nicht mehr gefiel.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Grund war nicht, dass ihr das Auto nicht mehr gefiel, sondern ihre <strong>Krankheit</strong>."
+          },
+          {
+            "text": "Weil sie krank wurde und nicht mehr arbeiten konnte.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Manuela Gehrig musste das Auto wegen <strong>Krankheit</strong> und <strong>Arbeitsunfähigkeit</strong> zurückgeben."
+          },
+          {
+            "text": "Weil sie einen Unfall mit dem Auto hatte.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Ein Unfall war nicht der Grund, sondern ihre <strong>Krankheit</strong>."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Welchen Beruf übt Mario Roncoroni aus, der im Text als Experte zitiert wird?</p>",
+        "options": [
+          {
+            "text": "Autoverkäufer",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Mario Roncoroni ist kein Autoverkäufer, sondern ein <strong>Rechtsanwalt</strong> und <strong>Schuldenberater</strong>."
+          },
+          {
+            "text": "Rechtsanwalt und Schuldenberater",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Mario Roncoroni ist <strong>Rechtsanwalt</strong> und <strong>Co-Leiter der Berner Schuldenberatung</strong>."
+          },
+          {
+            "text": "Bankberater",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Mario Roncoroni ist kein Bankberater, sondern ein <strong>Rechtsanwalt</strong> und <strong>Schuldenberater</strong>."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Erinnern",
+        "question": "<p>Wie heisst die Sendung von SRF, in der der Beitrag über Manuela Gehrigs Leasing-Fall ausgestrahlt wurde?</p>",
+        "options": [
+          {
+            "text": "Kassensturz",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Beitrag wurde in der Sendung <strong>Espresso</strong> ausgestrahlt."
+          },
+          {
+            "text": "Espresso",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Der Beitrag wurde in der Sendung <strong>Espresso</strong> auf SRF ausgestrahlt."
+          },
+          {
+            "text": "10vor10",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Beitrag lief in der Sendung <strong>Espresso</strong>, nicht in 10vor10."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Warum kritisiert Mario Roncoroni die Kreditfähigkeitsprüfung von Cashgate im Fall von Manuela Gehrig?</p>",
+        "options": [
+          {
+            "text": "Weil Manuela Gehrig falsche Angaben gemacht hat.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Kritik richtet sich gegen <strong>Cashgate</strong>, weil die Prüfung nicht seriös genug war, nicht gegen Manuela Gehrig."
+          },
+          {
+            "text": "Weil Cashgate die finanzielle Situation von Manuela Gehrig nicht ausreichend geprüft hat, obwohl ihr Lohn kaum reichte.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Roncoroni kritisiert, dass <strong>Cashgate</strong> die <strong>Risiken bewusst in Kauf genommen</strong> hat, da Manuela Gehrigs Lohn kaum ausreichte."
+          },
+          {
+            "text": "Weil Kreditfähigkeitsprüfungen bei Leasing-Verträgen generell unnötig sind.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Kreditfähigkeitsprüfungen sind wichtig, aber Roncoroni kritisiert, dass sie im Fall von <strong>Cashgate</strong> nicht <strong>seriös</strong> durchgeführt wurde."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Welchen Hauptvorteil sieht Mario Roncoroni darin, einen Kredit aufzunehmen, um ein Auto zu kaufen, anstatt es zu leasen, wenn man nicht genügend Ersparnisse hat?</p>",
+        "options": [
+          {
+            "text": "Leasing ist immer günstiger als ein Kredit.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Roncoroni argumentiert genau <strong>andersherum</strong>. Leasing ist oft teurer und risikoreicher."
+          },
+          {
+            "text": "Beim Kredit kann man das Auto bei finanziellen Problemen verkaufen und erhält noch Geld zurück, während man beim Leasing draufzahlen muss.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Bei finanziellen Schwierigkeiten kann man ein <strong>gekauftes Auto verkaufen</strong> und erhält Geld zurück, während man beim <strong>Leasing bei vorzeitiger Rückgabe draufzahlen</strong> muss."
+          },
+          {
+            "text": "Kredite sind einfacher zu bekommen als Leasing-Verträge.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Ob Kredite einfacher zu bekommen sind, ist hier nicht der Punkt. Roncoroni fokussiert auf die <strong>finanziellen Konsequenzen</strong> bei Problemen."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Welche zusätzlichen Kosten kommen typischerweise zu den Leasingraten eines Autos hinzu?</p>",
+        "options": [
+          {
+            "text": "Nur die Kosten für Benzin.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Neben Benzin fallen noch weitere Kosten an, wie <strong>Vollkaskoversicherung</strong> und <strong>Unterhalt</strong>."
+          },
+          {
+            "text": "Die Kosten für die Vollkaskoversicherung und den Unterhalt.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Zu den Leasingraten kommen noch die Kosten für die <strong>Vollkaskoversicherung</strong> und der <strong>Unterhalt</strong> hinzu."
+          },
+          {
+            "text": "Keine zusätzlichen Kosten, Leasingraten decken alles ab.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Leasingraten decken nicht alles ab. Es fallen zusätzliche Kosten für <strong>Versicherung</strong> und <strong>Unterhalt</strong> an."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Was war das erste Angebot von Cashgate an Manuela Gehrig, nachdem sich «Espresso» eingeschaltet hatte?</p>",
+        "options": [
+          {
+            "text": "Sie verzichteten auf die gesamte Forderung.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Sie verzichteten nicht auf die gesamte Forderung, sondern nur auf die Kosten für die <strong>Mehrkilometer</strong>."
+          },
+          {
+            "text": "Sie verzichteten auf die Kosten für die Mehrkilometer.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! Cashgate bot an, zumindest auf die Kosten für die <strong>Mehrkilometer</strong> zu verzichten."
+          },
+          {
+            "text": "Sie boten ihr ein neues Leasing-Auto zu besseren Konditionen an.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Es wurde kein neues Leasing-Auto angeboten, sondern ein <strong>Verzicht auf die Mehrkilometer-Kosten</strong>."
+          }
+        ]
+      },
+      {
+        "type": "MultipleChoice",
+        "bloom_level": "Verstehen",
+        "question": "<p>Welche allgemeine Schlussfolgerung zieht die Sendung «Espresso» bezüglich des Leasings von Autos?</p>",
+        "options": [
+          {
+            "text": "Leasing ist eine günstige und unkomplizierte Art, Auto zu fahren.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. «Espresso» betont, dass Leasing ein <strong>Risiko</strong> und ein <strong>teurer Spass</strong> sein kann."
+          },
+          {
+            "text": "Leasing ist immer ein Risiko und sollte gut überlegt sein, da es teuer werden kann.",
+            "is_correct": true,
+            "feedback": "✅ Richtig! «Espresso» kommt zum Schluss, dass <strong>Leasing immer ein Risiko</strong> und auf jeden Fall <strong>teuer</strong> ist und gut überlegt sein sollte."
+          },
+          {
+            "text": "Leasing ist nur für Personen mit sehr hohem Einkommen geeignet.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Sendung warnt generell vor <strong>Leasing als Risiko</strong>, unabhängig vom Einkommen."
+          }
+        ]
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Manuela Gehrig hat ihr geleastes Auto planmässig nach vier Jahren zurückgegeben.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Manuela Gehrig musste ihr Auto <strong>vorzeitig</strong>, nach nur einem Jahr, zurückgeben.",
+        "feedback_incorrect": "❌ Falsch! Manuela Gehrig musste ihr Auto <strong>vorzeitig</strong> zurückgeben, nicht nach vier Jahren."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Cashgate hat nach der Anfrage von «Espresso» sofort alle Vorwürfe zugegeben.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Cashgate hat die Vorwürfe <strong>nicht sofort zugegeben</strong>, sondern zunächst keine Stellungnahme abgegeben und dann eine individuelle Lösung angeboten.",
+        "feedback_incorrect": "❌ Falsch! Cashgate hat die Vorwürfe <strong>nicht sofort zugegeben</strong>."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Erinnern",
+        "question": "<p>Mario Roncoroni hält den Leasing-Vertrag von Manuela Gehrig für gültig.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Mario Roncoroni hält den Vertrag aufgrund eines <strong>falschen Jahreszinses für ungültig</strong>.",
+        "feedback_incorrect": "❌ Falsch! Mario Roncoroni hält den Vertrag gerade <strong>nicht für gültig</strong>."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Laut Mario Roncoroni ist es finanziell riskanter, ein Auto zu leasen als einen Kredit für den Autokauf aufzunehmen, wenn man wenig Ersparnisse hat.</p>",
+        "correct_answer": true,
+        "feedback_correct": "✅ Richtig! Roncoroni argumentiert, dass Leasing <strong>riskanter</strong> ist, da man bei Problemen draufzahlt, während man ein gekauftes Auto verkaufen kann.",
+        "feedback_incorrect": "❌ Falsch! Roncoroni sieht Leasing als <strong>riskanter</strong> an als einen Kredit in dieser Situation."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Der Artikel suggeriert, dass Leasing-Verträge immer leicht verständlich und transparent sind.</p>",
+        "correct_answer": false,
+        "feedback_correct": "✅ Richtig! Der Artikel deutet eher darauf hin, dass Leasing-Verträge <strong>komplex</strong> sein können und <strong>Fallen</strong> enthalten können.",
+        "feedback_incorrect": "❌ Falsch! Der Artikel impliziert eher, dass Leasing-Verträge <strong>nicht immer transparent</strong> sind."
+      },
+      {
+        "type": "TrueFalse",
+        "bloom_level": "Verstehen",
+        "question": "<p>Der Fall von Manuela Gehrig zeigt, dass eine vorzeitige Beendigung eines Leasing-Vertrags hohe Kosten verursachen kann.</p>",
+        "correct_answer": true,
+        "feedback_correct": "✅ Richtig! Der Fall von Manuela Gehrig ist ein Beispiel dafür, wie <strong>teuer</strong> eine <strong>vorzeitige Rückgabe</strong> eines Leasing-Autos sein kann.",
+        "feedback_incorrect": "❌ Falsch! Der Fall zeigt deutlich die <strong>hohen Kosten</strong>, die bei einer vorzeitigen Vertragsbeendigung entstehen können."
+      }
+    ]
+  }
