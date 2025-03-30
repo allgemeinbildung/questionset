@@ -1,0 +1,329 @@
+{
+  "title": "Verständnisfragen Kündigung Arbeitsvertrag",
+  "headerImage": "img1.jpg",
+  "media": {
+      "type": "mp3",
+      "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2024/05/Rechtsfrage-Empfang.MP3",
+      "source": "https://www.srf.ch/sendungen/kassensturz-espresso/rechtsfragen/arbeitsrecht/kuendigung-gilt-die-kuendigung-auch-wenn-sie-nicht-eingeschrieben-kommt"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welcher Zeitpunkt ist gemäss dem Beitrag für den Beginn der Kündigungsfrist bei einem Arbeitsverhältnis massgebend?</p>",
+      "options": [
+        {
+          "text": "Das Datum des Poststempels, an dem der Arbeitgeber den Brief aufgegeben hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag erklärt, dass der <strong>Poststempel nicht massgebend</strong> ist für den Beginn der Kündigungsfrist."
+        },
+        {
+          "text": "Der Zeitpunkt, an dem der Empfänger oder die Empfängerin die Kündigung tatsächlich erhält und zur Kenntnis nehmen kann.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Massgebend ist, wann die <strong>Kündigung beim Empfänger eintrifft</strong> und er oder sie davon <strong>Kenntnis nehmen kann</strong>."
+        },
+        {
+          "text": "Das Datum, an dem der Arbeitgeber die Kündigung geschrieben hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Datum der Erstellung der Kündigung ist für den Fristenlauf <strong>nicht relevant</strong>."
+        },
+        {
+          "text": "Der Zeitpunkt, an dem die Post den Brief zustellt, unabhängig davon, ob der Empfänger anwesend ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es kommt darauf an, wann der Empfänger die Kündigung <strong>effektiv erhalten</strong> und <strong>lesen kann</strong>, nicht nur auf die reine Zustellung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Warum endete das Arbeitsverhältnis des Hörers im Beispiel erst Ende Mai und nicht Ende April?</p>",
+      "options": [
+        {
+          "text": "Weil der Arbeitgeber die Kündigung zu spät abgeschickt hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Arbeitgeber hat die Kündigung <strong>rechtzeitig abgeschickt</strong>, aber sie kam verspätet an."
+        },
+        {
+          "text": "Weil ein Fehler bei der Postzustellung dazu führte, dass der Hörer die Kündigung erst Mitte März erhielt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Aufgrund eines <strong>Fehlers bei der Post</strong> erhielt der Hörer die Kündigung <strong>erst Mitte März</strong>, wodurch sich die zweimonatige Kündigungsfrist bis <strong>Ende Mai</strong> verschob."
+        },
+        {
+          "text": "Weil der Hörer eine längere Kündigungsfrist ausgehandelt hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Verschiebung ergab sich aus dem <strong>verspäteten Empfang</strong> der Kündigung, nicht aus einer Verhandlung."
+        },
+        {
+          "text": "Weil die Kündigung nicht eingeschrieben versandt wurde.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Kündigung wurde <strong>eingeschrieben versandt</strong>, das Problem war die <strong>verspätete Zustellung</strong> durch die Post."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Muss eine Kündigung im Arbeitsrecht gemäss Gesetz immer schriftlich erfolgen?</p>",
+      "options": [
+        {
+          "text": "Ja, das Gesetz schreibt immer die Schriftform vor.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Gesetz sieht im Arbeitsrecht <strong>keine zwingende Formvorschrift</strong> vor."
+        },
+        {
+          "text": "Nein, von Gesetzes wegen gibt es keine Formvorschriften; auch mündlich, per Mail oder SMS ist möglich.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Im Arbeitsrecht gibt es laut Gesetz <strong>keine Formvorschriften</strong>, daher sind auch <strong>mündliche Kündigungen</strong> oder solche per <strong>Mail/SMS</strong> grundsätzlich gültig."
+        },
+        {
+          "text": "Ja, aber nur, wenn sie per Einschreiben geschickt wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Gesetz schreibt <strong>weder Schriftlichkeit noch Einschreiben</strong> zwingend vor."
+        },
+        {
+          "text": "Nein, aber sie muss immer auf einem offiziellen Formular erfolgen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein offizielles Formular ist im <strong>Arbeitsrecht nicht vorgeschrieben</strong> (im Gegensatz zum Mietrecht)."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>In welchem Rechtsbereich wird erwähnt, dass eine Kündigung schriftlich und auf einem amtlichen Formular erfolgen muss?</p>",
+      "options": [
+        {
+          "text": "Im Arbeitsrecht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Arbeitsrecht gibt es <strong>keine gesetzliche Formvorschrift</strong> für die Kündigung."
+        },
+        {
+          "text": "Im Mietrecht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Beitrag erwähnt, dass im <strong>Mietrecht</strong> die Kündigung durch den Vermieter <strong>schriftlich</strong> und auf einem <strong>amtlichen Formular</strong> erfolgen muss."
+        },
+        {
+          "text": "Im Kaufvertragsrecht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Kaufvertragsrecht wird im Zusammenhang mit Kündigungsformalitäten <strong>nicht erwähnt</strong>."
+        },
+        {
+          "text": "Im Erbrecht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Erbrecht wird im Zusammenhang mit Kündigungsformalitäten <strong>nicht erwähnt</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was hat der Hörer im Beispiel unternommen, als er die verspätete Kündigung erhielt?</p>",
+      "options": [
+        {
+          "text": "Er hat die Kündigung ignoriert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer hat <strong>reagiert</strong>, um seine Rechte zu wahren."
+        },
+        {
+          "text": "Er hat sofort seinen Anwalt kontaktiert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag erwähnt nicht, dass er sofort einen Anwalt kontaktiert hat, sondern dass er dem Arbeitgeber <strong>geschrieben</strong> hat."
+        },
+        {
+          "text": "Er hat dem Arbeitgeber geschrieben, dass er die Kündigung erst jetzt erhalten hat.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Hörer hat <strong>gut reagiert</strong>, indem er dem Arbeitgeber mitteilte, die Kündigung <strong>erst jetzt erhalten</strong> zu haben."
+        },
+        {
+          "text": "Er hat bei der Post eine Beschwerde eingereicht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl die Post den Fehler bestätigte, wird nicht erwähnt, dass der Hörer die Beschwerde eingereicht hat. Er hat primär den <strong>Arbeitgeber informiert</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet die Regel, dass der Empfangszeitpunkt der Kündigung massgebend ist, für einen Arbeitnehmer, der während der Zustellung im Spital ist?</p>",
+      "options": [
+        {
+          "text": "Die Kündigung ist ungültig, da er sie nicht sofort lesen konnte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Kündigung wird dadurch nicht ungültig, aber die <strong>Frist beginnt später</strong> zu laufen."
+        },
+        {
+          "text": "Die Kündigungsfrist beginnt erst zu laufen, wenn er aus dem Spital zurück ist und den Brief effektiv lesen kann.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Frist beginnt erst, wenn der Arbeitnehmer die <strong>Möglichkeit hat</strong>, die Kündigung zur <strong>Kenntnis zu nehmen</strong>, also typischerweise nach der Rückkehr."
+        },
+        {
+          "text": "Die Kündigungsfrist beginnt an dem Tag zu laufen, an dem der Brief im Briefkasten liegt, auch wenn er im Spital ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Entscheidend ist nicht der Einwurf, sondern wann der Empfänger <strong>davon Kenntnis nehmen kann</strong>."
+        },
+        {
+          "text": "Der Arbeitgeber muss die Kündigung persönlich im Spital übergeben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine persönliche Übergabe im Spital ist <strong>nicht erforderlich</strong>; der Beginn der Frist verschiebt sich."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es für einen Arbeitnehmer ratsam, den späten Erhalt einer Kündigung zu dokumentieren oder zu beweisen?</p>",
+      "options": [
+        {
+          "text": "Um den Arbeitgeber für den Fehler der Post verantwortlich zu machen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht nicht darum, dem Arbeitgeber die Schuld zuzuweisen (er hat ggf. alles richtig gemacht), sondern um die <strong>korrekte Berechnung der Frist</strong>."
+        },
+        {
+          "text": "Um beweisen zu können, dass die Kündigungsfrist erst später zu laufen begann und das Arbeitsverhältnis somit länger dauert.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Beweis des <strong>späteren Empfangs</strong> ist entscheidend, um den <strong>korrekten Beginn der Kündigungsfrist</strong> und damit das <strong>korrekte Enddatum</strong> des Arbeitsverhältnisses festzulegen."
+        },
+        {
+          "text": "Um eine Entschädigung von der Post für die verspätete Zustellung zu erhalten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das primäre Ziel ist die Klärung der <strong>Kündigungsfrist gegenüber dem Arbeitgeber</strong>, nicht eine Entschädigung von der Post."
+        },
+        {
+          "text": "Um die Kündigung als Ganzes für ungültig erklären zu lassen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der späte Empfang macht die Kündigung in der Regel <strong>nicht ungültig</strong>, sondern verschiebt nur den <strong>Beginn der Frist</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welches Prinzip gilt laut Beitrag, wenn ein Arbeitnehmer behauptet, eine Kündigung erst später erhalten zu haben?</p>",
+      "options": [
+        {
+          "text": "Der Arbeitgeber muss immer beweisen, dass die Kündigung rechtzeitig angekommen ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Arbeitgeber muss zwar den Versand belegen können (z.B. durch Einschreiben), aber die <strong>Beweislast für den verspäteten Empfang</strong> liegt beim Arbeitnehmer."
+        },
+        {
+          "text": "Die Post muss bestätigen, wann der Brief zugestellt wurde.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Bestätigung der Post kann helfen, ist aber nicht das grundlegende Prinzip. Das Prinzip ist die <strong>Beweislastverteilung</strong>."
+        },
+        {
+          "text": "Die Partei, die etwas behauptet (hier der Arbeitnehmer den späten Erhalt), muss dies beweisen oder glaubhaft machen können.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Grundsätzlich gilt: Wer <strong>etwas behauptet</strong>, trägt die <strong>Beweislast</strong>. Der Arbeitnehmer muss den <strong>späteren Erhalt beweisen</strong> oder glaubhaft machen."
+        },
+        {
+          "text": "Es wird automatisch angenommen, dass die Kündigung am Tag nach dem Poststempel angekommen ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt <strong>keine solche automatische Annahme</strong>; der tatsächliche Empfangszeitpunkt ist entscheidend."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Obwohl das Gesetz keine Schriftform für Arbeitsvertragskündigungen vorschreibt, wann muss eine Kündigung dennoch schriftlich erfolgen?</p>",
+      "options": [
+        {
+          "text": "Immer, wenn die Kündigungsfrist länger als einen Monat ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Länge der Kündigungsfrist hat <strong>keinen Einfluss</strong> auf die gesetzliche Formvorschrift."
+        },
+        {
+          "text": "Nur bei Kündigungen von leitenden Angestellten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Position des Angestellten ändert nichts an den <strong>grundsätzlichen gesetzlichen Formvorschriften</strong>."
+        },
+        {
+          "text": "Wenn dies im individuellen Arbeitsvertrag oder in einem Gesamtarbeitsvertrag (GAV) so vereinbart wurde.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Eine <strong>schriftliche Kündigung</strong> ist erforderlich, wenn der <strong>Arbeitsvertrag</strong> oder ein anwendbarer <strong>Gesamtarbeitsvertrag (GAV)</strong> dies explizit <strong>vorschreibt</strong>."
+        },
+        {
+          "text": "Nur, wenn der Arbeitgeber dies wünscht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der einseitige Wunsch des Arbeitgebers reicht nicht aus; es muss eine <strong>vertragliche Grundlage</strong> (Arbeitsvertrag, GAV) dafür geben."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Hauptunterschied bei den Formvorschriften für eine Kündigung im Arbeitsrecht verglichen mit dem Mietrecht (aus Sicht des Vermieters)?</p>",
+      "options": [
+        {
+          "text": "Im Arbeitsrecht ist Mündlichkeit nie erlaubt, im Mietrecht schon.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist umgekehrt: Im Arbeitsrecht ist Mündlichkeit <strong>grundsätzlich erlaubt</strong>, im Mietrecht (Vermieterkündigung) <strong>nicht</strong>."
+        },
+        {
+          "text": "Im Arbeitsrecht gibt es keine gesetzliche Formvorschrift, im Mietrecht muss die Vermieterkündigung schriftlich und auf einem amtlichen Formular erfolgen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Hauptunterschied liegt darin, dass das <strong>Arbeitsrecht keine Form</strong> vorschreibt, während das <strong>Mietrecht für Vermieterkündigungen Schriftlichkeit</strong> und ein <strong>amtliches Formular</strong> verlangt."
+        },
+        {
+          "text": "Beide Rechtsbereiche verlangen immer eine eingeschriebene Sendung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine eingeschriebene Sendung ist in beiden Fällen aus Beweisgründen oft sinnvoll, aber <strong>gesetzlich nicht immer zwingend</strong> vorgeschrieben (im Arbeitsrecht gar nicht)."
+        },
+        {
+          "text": "Im Mietrecht genügt eine E-Mail, im Arbeitsrecht nicht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Mietrecht (Vermieterkündigung) genügt eine E-Mail <strong>nicht</strong> (Schriftform + Formular nötig), im Arbeitsrecht kann eine E-Mail <strong>gültig sein</strong> (wenn nicht vertraglich anders geregelt)."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Für den Beginn der Kündigungsfrist bei einem Arbeitsvertrag ist das Datum entscheidend, an dem der Kündigungsbrief bei der Post aufgegeben wird (Poststempel).</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig, diese Aussage ist falsch. Der Beitrag stellt klar, dass nicht der Poststempel, sondern der Zeitpunkt des Empfangs durch den Arbeitnehmer massgebend ist.",
+      "feedback_incorrect": "❌ Falsch, diese Aussage ist falsch. Laut Beitrag ist nicht der Poststempel, sondern der Zeitpunkt des Empfangs durch den Arbeitnehmer entscheidend für den Beginn der Kündigungsfrist."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine Kündigung des Arbeitsvertrages kann gemäss Gesetz auch mündlich erfolgen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig, diese Aussage ist korrekt. Das Gesetz schreibt im Arbeitsrecht keine bestimmte Form vor, daher ist auch eine mündliche Kündigung gültig (ausser der Vertrag oder GAV sehen Schriftlichkeit vor).",
+      "feedback_incorrect": "❌ Falsch, diese Aussage ist korrekt. Der Beitrag erklärt, dass im Arbeitsrecht von Gesetzes wegen keine Formvorschriften bestehen und somit auch mündlich gekündigt werden kann."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Kündigung eines Mietvertrages durch den Vermieter muss immer schriftlich und auf einem amtlichen Formular erfolgen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig, diese Aussage ist korrekt. Der Beitrag erwähnt dies als Beispiel für eine gesetzlich vorgeschriebene Schriftlichkeit und Formularpflicht.",
+      "feedback_incorrect": "❌ Falsch, diese Aussage ist korrekt. Im Gegensatz zum Arbeitsrecht gibt es im Mietrecht für die Kündigung durch den Vermieter diese strengen Formvorschriften."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wenn der Arbeitgeber die Kündigung korrekt und rechtzeitig per Einschreiben verschickt, trägt er kein Risiko, falls die Post den Brief verspätet zustellt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig, diese Aussage ist falsch. Obwohl der Arbeitgeber alles richtig gemacht hat, beginnt die Kündigungsfrist erst mit dem tatsächlichen (verspäteten) Empfang. Das Risiko der Verspätung trägt somit der Absender (Arbeitgeber), da sich der Fristbeginn verschiebt.",
+      "feedback_incorrect": "❌ Falsch, diese Aussage ist falsch. Auch wenn der Arbeitgeber keine Schuld trägt, verschiebt sich der Beginn der Kündigungsfrist auf den tatsächlichen Empfangszeitpunkt. Das Risiko dieser Verschiebung liegt beim Arbeitgeber."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein Arbeitnehmer kann den Beginn der Kündigungsfrist hinauszögern, indem er einen eingeschriebenen Brief absichtlich nicht bei der Post abholt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig, diese Aussage ist falsch. Die Kündigung gilt in der Regel als zugestellt, wenn der Empfänger sie erstmals bei der Post abholen könnte (meist am Tag nach dem Hinterlassen der Abholungseinladung). Ein absichtliches Nicht-Abholen verhindert die Zustellung nicht.",
+      "feedback_incorrect": "❌ Falsch, diese Aussage ist falsch. Die Rechtsprechung geht davon aus, dass die Kündigung als zugestellt gilt, sobald der Empfänger sie bei der Post abholen könnte. Man kann den Fristbeginn nicht durch absichtliches Nicht-Abholen hinauszögern."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Frage, ob eine Kündigung schriftlich erfolgen muss, hängt im Arbeitsrecht ausschliesslich davon ab, was im individuellen Arbeitsvertrag oder einem GAV steht, da das Gesetz selbst keine Schriftform vorschreibt.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig, diese Aussage ist korrekt. Da das Obligationenrecht (OR) für die Kündigung des Arbeitsvertrages keine Form vorschreibt, ist eine allfällige Pflicht zur Schriftlichkeit nur gegeben, wenn dies vertraglich (im Einzelarbeitsvertrag oder GAV) vereinbart wurde.",
+      "feedback_incorrect": "❌ Falsch, diese Aussage ist korrekt. Das Gesetz enthält keine Formvorschrift. Eine Pflicht zur Schriftform ergibt sich im Arbeitsrecht nur aus einer entsprechenden Vereinbarung im Arbeitsvertrag oder einem Gesamtarbeitsvertrag (GAV)."
+    }
+  ]
+}

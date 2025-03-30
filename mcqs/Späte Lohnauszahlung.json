@@ -1,0 +1,329 @@
+{
+  "title": "Verständnisfragen Späte Lohnauszahlung",
+  "headerImage": "img1.jpg",
+  "media": {
+      "type": "mp3",
+      "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2024/02/Espresso-radio-4bfbcfef-8959-4cde-8848-576fc0f6e109.mp3",
+      "source": "https://www.srf.ch/sendungen/kassensturz-espresso/rechtsfragen/arbeitsrecht/spaete-lohnauszahlung-darf-mein-chef-den-lohn-erst-ende-des-naechsten-monats-zahlen"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Bis wann muss der Lohn gemäss Gesetz spätestens ausbezahlt werden?</p>",
+      "options": [
+        {
+          "text": "Bis zum 15. des Folgemonats.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Gesetz nennt einen <strong>früheren Zeitpunkt</strong> als den 15. des Folgemonats als grundsätzliche Regel."
+        },
+        {
+          "text": "Bis zum letzten Tag des Monats.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Laut Gesetz muss der Lohn bis zum <strong>letzten Tag des Monats</strong> bezahlt werden, in dem die Arbeit geleistet wurde."
+        },
+        {
+          "text": "Bis zum 21. des Folgemonats.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Auszahlung erst am 21. des Folgemonats ist gemäss Gesetz <strong>zu spät</strong>."
+        },
+        {
+          "text": "Es gibt keine gesetzliche Frist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt eine <strong>klare gesetzliche Regelung</strong> zur Fälligkeit des Lohns."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Dokument kann eine spätere Lohnauszahlung als Ende Monat erlauben (jedoch nicht später als am 15. des Folgemonats)?</p>",
+      "options": [
+        {
+          "text": "Ein interner Firmennewsletter.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Firmennewsletter ist <strong>rechtlich nicht bindend</strong> für die Lohnauszahlungsfrist."
+        },
+        {
+          "text": "Eine mündliche Absprache mit dem Chef.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl mündliche Absprachen existieren können, ist für eine gültige Abweichung von der gesetzlichen Regelung in der Regel eine <strong>schriftliche Grundlage</strong> wie ein GAV oder Arbeitsvertrag nötig."
+        },
+        {
+          "text": "Ein Gesamtarbeitsvertrag (GAV) oder der individuelle Arbeitsvertrag.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein <strong>Gesamtarbeitsvertrag (GAV)</strong> oder der <strong>individuelle Arbeitsvertrag</strong> können eine spätere Auszahlung vorsehen, maximal aber bis zum 15. des Folgemonats."
+        },
+        {
+          "text": "Ein Antrag des Arbeitgebers bei der kantonalen Arbeitsbehörde.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine solche Genehmigung durch eine Behörde ist für die <strong>übliche Verschiebung</strong> der Lohnzahlung nicht vorgesehen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist gemäss Bundesgericht der absolut späteste Zeitpunkt, bis zu dem der Lohn ausbezahlt werden muss, selbst wenn es abweichende Regelungen gibt?</p>",
+      "options": [
+        {
+          "text": "Ende des Monats.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das ist die <strong>gesetzliche Grundregel</strong>, aber das Bundesgericht hat eine spätere absolute Grenze definiert."
+        },
+        {
+          "text": "Am 15. des Folgemonats.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Bundesgericht hat entschieden, dass eine Regelung, die eine Auszahlung <strong>nach dem 15. des Folgemonats</strong> vorsieht, nicht gültig ist."
+        },
+        {
+          "text": "Am 21. des Folgemonats.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dieser Zeitpunkt liegt <strong>nach der vom Bundesgericht</strong> festgelegten maximalen Frist."
+        },
+        {
+          "text": "Ende des Folgemonats.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das wäre <strong>deutlich zu spät</strong> gemäss der Rechtsprechung des Bundesgerichts."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welchen Grund gibt der Chef im Beispiel für die späte Lohnauszahlung an?</p>",
+      "options": [
+        {
+          "text": "Er hat finanzielle Probleme.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beispiel wird ein <strong>anderer Grund</strong> genannt, der mit der Lohnberechnung zusammenhängt."
+        },
+        {
+          "text": "Er muss zuerst die Stunden genau abrechnen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Chef argumentiert, dass er Zeit für die <strong>genaue Abrechnung der Stunden</strong> benötigt, da viele im Stundenlohn angestellt sind."
+        },
+        {
+          "text": "Die Bank benötigt lange für die Überweisung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Banklaufzeiten werden im Beispiel <strong>nicht als Grund</strong> für die Verzögerung genannt."
+        },
+        {
+          "text": "Er wartet auf Kundenzahlungen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Grund im Beispiel ist <strong>interner Natur</strong> und betrifft die Lohnadministration."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist der erste wichtige Schritt, wenn der Arbeitgeber den Lohn gar nicht auszahlt?</p>",
+      "options": [
+        {
+          "text": "Sofort kündigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Kündigung ist ein drastischer Schritt; zuerst sollte man den Arbeitgeber <strong>formal zur Zahlung auffordern</strong>."
+        },
+        {
+          "text": "Den Arbeitgeber mündlich zur Rede stellen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine mündliche Aufforderung ist gut, aber für rechtliche Schritte ist eine <strong>schriftliche Mahnung</strong> entscheidend."
+        },
+        {
+          "text": "Sofort schriftlich mahnen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Es ist ganz wichtig, den Arbeitgeber bei ausbleibender Lohnzahlung <strong>sofort schriftlich zu mahnen</strong>."
+        },
+        {
+          "text": "Direkt das Betreibungsamt einschalten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Bevor man das Betreibungsamt einschaltet, ist eine <strong>schriftliche Mahnung</strong> der übliche und notwendige erste Schritt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum stellt die gesetzliche Regelung (Lohnzahlung bis Ende Monat) Arbeitgeber mit vielen Stundenlöhnern manchmal vor Probleme?</p>",
+      "options": [
+        {
+          "text": "Weil Stundenlöhner generell weniger zuverlässig sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Problem liegt nicht bei den Angestellten, sondern im <strong>administrativen Aufwand</strong> der Lohnberechnung."
+        },
+        {
+          "text": "Weil die genaue Erfassung und Abrechnung der geleisteten Stunden Zeit braucht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Erfassung und genaue Berechnung</strong> der oft variablen Stunden dauert, was die Einhaltung der Frist bis Monatsende erschwert."
+        },
+        {
+          "text": "Weil das Gesetz für Stundenlöhne andere Fristen vorsieht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Gesetz macht <strong>keinen grundsätzlichen Unterschied</strong>; die Schwierigkeit ergibt sich aus der praktischen Umsetzung bei Stundenlöhnen."
+        },
+        {
+          "text": "Weil Stundenlöhne immer bar ausbezahlt werden müssen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Auszahlungsart (bar oder Überweisung) ist <strong>nicht der Grund</strong> für die zeitlichen Schwierigkeiten bei der Abrechnung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Grundgedanke hinter der bundesgerichtlichen Begrenzung der Lohnzahlung auf den 15. des Folgemonats?</p>",
+      "options": [
+        {
+          "text": "Arbeitgeber sollen mehr Zeit für die Buchhaltung haben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl Arbeitgeber Zeit brauchen, steht der <strong>Schutz der Arbeitnehmenden</strong> im Vordergrund der gerichtlichen Überlegung."
+        },
+        {
+          "text": "Arbeitnehmende müssen ihre regelmässigen Rechnungen bezahlen können.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Frist soll sicherstellen, dass Arbeitnehmende <strong>nicht unangemessen lange</strong> auf ihren Lohn warten müssen, um ihre finanziellen Verpflichtungen zu erfüllen."
+        },
+        {
+          "text": "Die Banken sollen genügend Zeit für die Transaktionen haben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Banklaufzeiten sind in der Regel kurz und <strong>nicht der Hauptgrund</strong> für diese rechtliche Grenze."
+        },
+        {
+          "text": "Die Einhaltung von Gesamtarbeitsverträgen soll vereinfacht werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Regelung des Bundesgerichts <strong>setzt eine Grenze</strong>, auch wenn GAV oder Arbeitsverträge Abweichungen zulassen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen Vorteil bietet die vorgeschlagene Lösung, den Lohn Ende Monat zu schätzen und später zu korrigieren?</p>",
+      "options": [
+        {
+          "text": "Der Arbeitgeber spart dadurch Lohnkosten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht nicht um Einsparungen, sondern um eine <strong>zeitgerechte</strong>, wenn auch vorläufige, Lohnzahlung."
+        },
+        {
+          "text": "Die Angestellten erhalten pünktlich einen Grossteil ihres Lohns und können Rechnungen bezahlen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Diese Methode stellt sicher, dass die Angestellten <strong>Ende Monat Geld erhalten</strong>, auch wenn die Endabrechnung noch aussteht, und vermeidet Zahlungsschwierigkeiten."
+        },
+        {
+          "text": "Die genaue Stundenabrechnung wird überflüssig.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die genaue Abrechnung muss <strong>im Folgemonat nachgeholt</strong> und der Lohn entsprechend korrigiert werden."
+        },
+        {
+          "text": "Es entspricht der gesetzlichen Vorgabe für Stundenlöhne.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist eine <strong>praktikable Lösung</strong>, aber keine explizite gesetzliche Vorgabe für das Vorgehen bei Stundenlöhnen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum dürfen Arbeitgeber das Problem der aufwändigen Stundenabrechnung nicht einfach auf die Angestellten abwälzen, indem sie den Lohn sehr spät zahlen?</p>",
+      "options": [
+        {
+          "text": "Weil die Angestellten sonst kündigen könnten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kündigungsrecht ist eine Folge, aber der <strong>Grundsatz</strong> liegt in der Fürsorgepflicht und den gesetzlichen/vertraglichen Pflichten des Arbeitgebers."
+        },
+        {
+          "text": "Weil die pünktliche Lohnzahlung eine Hauptpflicht des Arbeitgebers ist und Angestellte auf das Geld angewiesen sind.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>rechtzeitige Lohnzahlung</strong> ist eine zentrale Verpflichtung des Arbeitgebers, und Angestellte benötigen das Geld zur Deckung ihrer <strong>Lebenshaltungskosten</strong>."
+        },
+        {
+          "text": "Weil die Gewerkschaften dies verbieten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Gewerkschaften setzen sich dafür ein, aber das Verbot basiert primär auf <strong>Gesetz und Rechtsprechung</strong>."
+        },
+        {
+          "text": "Weil es technisch unmöglich ist, den Lohn später als am 15. zu überweisen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Technisch wäre es möglich, aber es ist <strong>rechtlich nicht zulässig</strong> gemäss Bundesgericht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der wesentliche Unterschied zwischen der gesetzlichen Regelung zur Lohnfälligkeit und einer möglichen Regelung in einem GAV oder Arbeitsvertrag?</p>",
+      "options": [
+        {
+          "text": "Die gesetzliche Regelung ist nur eine Empfehlung, der GAV/Arbeitsvertrag ist bindend.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>gesetzliche Regelung ist bindend</strong>, kann aber unter bestimmten Bedingungen durch GAV/Arbeitsvertrag modifiziert werden."
+        },
+        {
+          "text": "Das Gesetz erlaubt nur Zahlung Ende Monat, GAV/Arbeitsvertrag können eine frühere Zahlung vorschreiben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kürzere Fristen (frühere Zahlung) sind <strong>grundsätzlich immer erlaubt</strong>. GAV/Arbeitsvertrag können aber unter Umständen eine <strong>spätere Zahlung</strong> (bis max. 15. des Folgemonats) regeln."
+        },
+        {
+          "text": "Das Gesetz setzt die Fälligkeit auf Ende Monat fest, GAV/Arbeitsvertrag können diese Frist bis maximal zum 15. des Folgemonats verlängern.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Gesetz sagt <strong>Ende Monat</strong>, aber GAV oder Arbeitsvertrag können eine <strong>spätere Zahlung</strong> erlauben, jedoch nur bis zur vom Bundesgericht bestätigten Grenze vom <strong>15. des Folgemonats</strong>."
+        },
+        {
+          "text": "Es gibt keinen Unterschied, GAV und Arbeitsverträge müssen immer die gesetzliche Regelung übernehmen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. GAV und Arbeitsverträge <strong>können von der gesetzlichen Regelung abweichen</strong>, allerdings nur innerhalb gewisser Grenzen."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Laut Gesetz muss der Lohn spätestens am 15. des Folgemonats auf dem Konto sein.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Diese Aussage ist falsch. Das Gesetz schreibt vor, dass der Lohn bis zum letzten Tag des Monats bezahlt werden muss.",
+      "feedback_incorrect": "❌ Falsch. Das Gesetz nennt den letzten Tag des Monats als Frist. Der 15. des Folgemonats ist die äusserste Grenze, die das Bundesgericht auch bei abweichenden Vereinbarungen (GAV, Arbeitsvertrag) toleriert."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Gesamtarbeitsvertrag (GAV) kann erlauben, dass der Lohn erst nach dem 15. des Folgemonats ausbezahlt wird.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Diese Aussage ist falsch. Gemäss Bundesgericht ist eine Regelung, die eine Auszahlung nach dem 15. des Folgemonats vorsieht, nicht gültig, auch wenn sie in einem GAV steht.",
+      "feedback_incorrect": "❌ Falsch. Das Bundesgericht hat klargestellt, dass der 15. des Folgemonats die absolute Obergrenze ist, auch wenn ein GAV oder Arbeitsvertrag etwas anderes vorsieht."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Arbeitgeber im beschriebenen Fall zahlt den Lohn jeweils zwischen dem 17. und 21. des Folgemonats aus.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Gemäss der Schilderung der Hörerin überweist ihr Arbeitgeber den Lohn immer erst zwischen dem 17. und 21. des Folgemonats.",
+      "feedback_incorrect": "❌ Falsch. Die Hörerin gibt genau diesen Zeitraum (17. bis 21. des Folgemonats) an, in dem sie ihren Lohn erhält."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Arbeitgeber dürfen die Schwierigkeiten bei der Stundenabrechnung als Grund nutzen, um die Lohnzahlung unbegrenzt hinauszuzögern.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Diese Aussage ist falsch. Arbeitgeber dürfen das Problem nicht auf die Angestellten abwälzen und müssen die rechtlichen Fristen (spätestens 15. des Folgemonats) einhalten.",
+      "feedback_incorrect": "❌ Falsch. Auch wenn die Abrechnung Zeit braucht, entbindet dies den Arbeitgeber nicht von seiner Pflicht zur rechtzeitigen Lohnzahlung. Die Angestellten müssen ihre Rechnungen bezahlen können, und das Bundesgericht hat eine klare Obergrenze gesetzt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine mögliche Lösung für das Problem der späten Lohnzahlung bei Stundenlöhnen ist, Ende Monat einen geschätzten Betrag auszuzahlen und die Differenz im nächsten Monat zu korrigieren.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Dies wird im Beitrag als eine denkbare Lösung vorgeschlagen, um sicherzustellen, dass Angestellte rechtzeitig Geld erhalten.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag erwähnt explizit die Schätzung des Lohns bis Ende Monat mit späterer Korrektur als eine praktikable Lösungsmöglichkeit."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Gesetzgebung zur Lohnzahlung hat die spezifischen Herausforderungen bei der Abrechnung von Stundenlöhnen von Anfang an umfassend berücksichtigt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Diese Aussage ist falsch. Im Beitrag wird erwähnt, dass man bei der Gesetzgebung schlicht nicht daran gedacht hat, was beim Stundenlohn gilt.",
+      "feedback_incorrect": "❌ Falsch. Laut der Rechtsexpertin hat man bei der Schaffung des Gesetzes die spezifische Problematik der Stundenlohn-Abrechnung nicht ausreichend bedacht."
+    }
+  ]
+}

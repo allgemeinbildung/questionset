@@ -1,0 +1,329 @@
+{
+  "title": "Verständnisfragen Lohnzahlung",
+  "headerImage": "img1.jpg",
+  "media": {
+      "type": "mp3",
+      "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2024/08/Espresso-radio-007ed7f4-7097-4a49-80b9-d474a7a96ae1.mp3",
+      "source": "https://www.srf.ch/sendungen/kassensturz-espresso/rechtsfragen/arbeitsrecht/pensumserhoehung-bis-wann-muss-mein-voller-lohn-da-sein"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Bis wann muss der Lohn gemäss Gesetz normalerweise auf dem Konto des Mitarbeitenden sein?</p>",
+      "options": [
+        {
+          "text": "Bis zur Mitte des Monats.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Gesetz schreibt einen <strong>späteren Zeitpunkt</strong> für die Lohnzahlung vor."
+        },
+        {
+          "text": "Bis zum letzten Tag des Monats.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Laut Gesetz muss der Lohn bis zum <strong>letzten Tag des Monats</strong> auf dem Konto sein, sofern nichts anderes vereinbart wurde."
+        },
+        {
+          "text": "Erst im Folgemonat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Bundesgerichtsentscheid bestätigt, dass eine Auszahlung erst im <strong>Folgemonat unzulässig</strong> ist."
+        },
+        {
+          "text": "Innerhalb der ersten Woche des Monats.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die gesetzliche Frist für die Lohnzahlung ist das <strong>Monatsende</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was hat der Arbeitgeber der Hörerin im ersten Monat der Pensumserhöhung überwiesen?</p>",
+      "options": [
+        {
+          "text": "Den vollen Lohn inklusive der Erhöhung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Arbeitgeber hat eben <strong>nicht den vollen, erhöhten Lohn</strong> überwiesen."
+        },
+        {
+          "text": "Nur die 20% Lohnerhöhung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin hat ihren <strong>alten Lohn</strong> erhalten, nicht nur die Erhöhung."
+        },
+        {
+          "text": "Den alten Lohn ohne die vereinbarte Erhöhung.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Hörerin stellte fest, dass ihr der Arbeitgeber nur den <strong>alten Lohn</strong> überwiesen hatte, also zu wenig."
+        },
+        {
+          "text": "Gar keinen Lohn.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Hörerin hat Lohn erhalten, aber <strong>zu wenig</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Versandart wird für eine schriftliche Mahnung an den Arbeitgeber empfohlen, um einen Beweis zu haben?</p>",
+      "options": [
+        {
+          "text": "Normaler A-Post Brief.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein normaler Brief bietet <strong>keinen sicheren Zustellnachweis</strong>."
+        },
+        {
+          "text": "E-Mail ohne Lesebestätigung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ohne Lesebestätigung ist der <strong>Zugang schwer beweisbar</strong>."
+        },
+        {
+          "text": "Eingeschriebener Brief.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein <strong>eingeschriebener Brief</strong> dient als <strong>Beweis</strong>, dass die Mahnung zugestellt wurde."
+        },
+        {
+          "text": "Persönliche Übergabe ohne Zeugen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ohne Zeugen oder Quittung ist die <strong>Übergabe schwer nachweisbar</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was passiert rechtlich, wenn man dreimal hintereinander einen tieferen Lohn ohne Protest annimmt?</p>",
+      "options": [
+        {
+          "text": "Der Arbeitgeber muss den fehlenden Betrag automatisch nachzahlen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ohne Protest riskiert man, den <strong>Anspruch zu verlieren</strong>."
+        },
+        {
+          "text": "Man hat rechtlich gesehen den tieferen Lohn akzeptiert.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Nimmt man dreimal ohne Protest einen tieferen Lohn an, gilt dies rechtlich als <strong>Akzeptanz des tieferen Lohns</strong>."
+        },
+        {
+          "text": "Man kann den vollen Lohn noch bis zu fünf Jahre später einfordern.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Durch die <strong>stillschweigende Annahme</strong> verzichtet man auf den fehlenden Lohnteil."
+        },
+        {
+          "text": "Der Arbeitsvertrag wird automatisch ungültig.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vertrag bleibt bestehen, aber die <strong>Lohnhöhe</strong> kann sich durch stillschweigende Annahme ändern."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Recht hat eine Angestellte, wenn der Arbeitgeber den Lohn nach Ablauf einer gesetzten Frist immer noch nicht zahlt?</p>",
+      "options": [
+        {
+          "text": "Sie muss trotzdem weiterarbeiten, kann aber Zinsen fordern.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Angestellte hat das Recht, die <strong>Arbeit niederzulegen</strong>."
+        },
+        {
+          "text": "Sie darf fristlos kündigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das primäre Recht in dieser Situation ist die <strong>Arbeitsverweigerung</strong>, nicht unbedingt die fristlose Kündigung."
+        },
+        {
+          "text": "Sie darf die Arbeit einstellen (zu Hause bleiben).",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Wenn der Arbeitgeber nach Fristablauf nicht zahlt, hat die Angestellte das Recht, die <strong>Arbeit einzustellen</strong>."
+        },
+        {
+          "text": "Sie muss den Arbeitgeber zuerst betreiben, bevor sie zu Hause bleiben darf.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Recht, zu Hause zu bleiben, entsteht bereits nach <strong>fruchtlosem Fristablauf</strong> der Mahnung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es gemäss Bundesgerichtsentscheid nicht zulässig, den Lohn für geleistete Arbeit erst im Folgemonat zu überweisen?</p>",
+      "options": [
+        {
+          "text": "Weil es die Buchhaltung des Arbeitgebers zu kompliziert macht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Entscheid fokussiert auf die <strong>Rechte der Arbeitnehmenden</strong>, nicht auf die Komplexität für den Arbeitgeber."
+        },
+        {
+          "text": "Weil Arbeitnehmende in der Regel auf die pünktliche Zahlung des vollen Lohns angewiesen sind.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Grundsatz ist, dass der <strong>Lohn für geleistete Arbeit</strong> zeitnah, also bis <strong>Monatsende</strong>, fällig ist, da Arbeitnehmende davon leben."
+        },
+        {
+          "text": "Weil dadurch Steuern hinterzogen werden könnten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Steuerliche Aspekte sind nicht der <strong>Hauptgrund</strong> für die Regelung der Fälligkeit."
+        },
+        {
+          "text": "Weil es gegen internationale Arbeitsabkommen verstösst.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Regelung basiert auf <strong>schweizerischem Recht</strong> und dessen Interpretation durch das Bundesgericht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen Zweck verfolgt man, wenn man eine Mahnung per Einschreiben sendet?</p>",
+      "options": [
+        {
+          "text": "Um höhere Portokosten zu verursachen und den Arbeitgeber zu ärgern.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Zweck ist <strong>rechtlicher Natur</strong>, nicht Schikane."
+        },
+        {
+          "text": "Um sicherzustellen, dass der Brief schneller ankommt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eingeschriebene Briefe sind nicht zwingend schneller, aber ihre <strong>Zustellung ist nachweisbar</strong>."
+        },
+        {
+          "text": "Um einen rechtlich gültigen Beweis für den Versand und den Erhalt der Mahnung zu haben.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Einschreiben dient als <strong>Beweismittel</strong>, dass die Mahnung mit Fristsetzung den Arbeitgeber erreicht hat, was für spätere Schritte wichtig ist."
+        },
+        {
+          "text": "Um dem Arbeitgeber zu zeigen, dass man einen Anwalt eingeschaltet hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Einschreiben kann man selbst versenden, es impliziert nicht automatisch einen <strong>Anwalt</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet die Aussage \"Reden lohnt sich\" im Kontext des Falls der Hörerin?</p>",
+      "options": [
+        {
+          "text": "Dass man nur durch Reden eine Lohnerhöhung bekommt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht um die <strong>Klärung eines Problems</strong>, nicht um eine generelle Lohnerhöhung."
+        },
+        {
+          "text": "Dass die Hörerin durch das Gespräch mehr Lohn erhielt, als ihr zustand.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sie erhielt eine faire Lösung für den <strong>ausstehenden Lohn</strong> und die entstandenen Umtriebe (Überstundenzuschlag)."
+        },
+        {
+          "text": "Dass das direkte Gespräch mit dem Chef oft der erste und erfolgreichste Schritt zur Lösung eines Problems ist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Gespräch führte zu einer <strong>Einigung und Entschuldigung</strong>, was zeigt, dass Kommunikation oft hilft, bevor man weitere Schritte einleitet."
+        },
+        {
+          "text": "Dass man immer zuerst reden sollte, bevor man einen eingeschriebenen Brief schickt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl Reden oft hilft, ist es nicht immer erfolgreich. Die Empfehlung betont die <strong>Effektivität des Gesprächs</strong> in diesem Fall, schliesst aber andere Schritte nicht aus."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welches Risiko gehen Arbeitnehmende ein, wenn sie über längere Zeit einen zu tiefen Lohn erhalten und nicht protestieren?</p>",
+      "options": [
+        {
+          "text": "Sie riskieren, dass der Arbeitgeber denkt, sie seien mit weniger Lohn zufrieden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Rechtlich wird dies als <strong>stillschweigende Zustimmung</strong> zum tieferen Lohn interpretiert, man verliert den Anspruch auf die Differenz."
+        },
+        {
+          "text": "Sie riskieren, dass der Arbeitgeber sie wegen Unzufriedenheit kündigt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Risiko liegt im <strong>Verlust des Lohnanspruchs</strong>, nicht primär in einer Kündigung."
+        },
+        {
+          "text": "Sie riskieren, dass die Pensionskasse tiefere Beiträge erhält, was aber später korrigiert wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die tieferen Beiträge werden nicht automatisch korrigiert, wenn der Lohnanspruch als <strong>verwirkt</strong> gilt."
+        },
+        {
+          "text": "Sie riskieren nichts, da der volle Lohnanspruch gesetzlich garantiert ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Anspruch kann durch <strong>passives Verhalten</strong> (Nicht-Protestieren) verloren gehen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist die Bedeutung des Rechts, die Arbeit einzustellen, wenn der Lohn ausbleibt?</p>",
+      "options": [
+        {
+          "text": "Es ist eine symbolische Geste ohne rechtliche Konsequenzen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist ein <strong>gesetzlich verankertes Recht</strong> mit erheblichen Konsequenzen (keine Nacharbeitspflicht)."
+        },
+        {
+          "text": "Es ermöglicht dem Arbeitnehmenden, Druck auf den Arbeitgeber auszuüben, um die Zahlung zu erhalten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Arbeitsverweigerung ist ein <strong>Druckmittel</strong>, da der Arbeitgeber die Arbeitsleistung nicht erhält, solange der Lohn aussteht."
+        },
+        {
+          "text": "Es führt automatisch zur Auflösung des Arbeitsvertrages.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Arbeitsverhältnis <strong>besteht weiter</strong>, die Arbeitspflicht ruht nur vorübergehend."
+        },
+        {
+          "text": "Es gibt dem Arbeitnehmenden Zeit, sich eine neue Stelle zu suchen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hauptzweck ist die <strong>Durchsetzung des Lohnanspruchs</strong>, nicht die Stellensuche."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Arbeitgeber im beschriebenen Fall wollte den zusätzlichen Lohn für die 20% Pensumserhöhung erst nach Ablauf der zwei Monate vollständig auszahlen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Chef sagte der Hörerin, dass er die 20% mehr Lohn erst am Ende der zwei Monate überweisen würde.",
+      "feedback_incorrect": "❌ Falsch. Genau das war der Plan des Chefs, gegen den die Hörerin protestierte und der rechtlich nicht zulässig ist."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Laut Bundesgerichtsentscheid ist es zulässig, den Lohn für geleistete Arbeit erst im nächsten Monat zu überweisen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der zitierte Bundesgerichtsentscheid besagt explizit, dass dies unzulässig ist.",
+      "feedback_incorrect": "❌ Falsch. Der Bundesgerichtsentscheid hält fest, dass es unzulässig ist, den Lohn für geleistete Arbeit erst im Folgemonat zu zahlen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Hörerin musste den Arbeitgeber betreiben, um ihren vollen Lohn zu erhalten.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Hörerin konnte das Problem durch ein Gespräch mit dem Chef lösen; eine Betreibung war nicht nötig.",
+      "feedback_incorrect": "❌ Falsch. Im Fall der Hörerin reichte ein Gespräch aus, um eine Einigung zu erzielen. Sie musste keine Betreibung einleiten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wenn ein Arbeitgeber finanzielle Schwierigkeiten hat, entbindet ihn das automatisch von der Pflicht, den Lohn pünktlich und vollständig zu zahlen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Finanzielle Schwierigkeiten ändern nichts an der grundsätzlichen Zahlungspflicht und den Rechten der Arbeitnehmenden bei Zahlungsverzug.",
+      "feedback_incorrect": "❌ Falsch. Auch bei finanziellen Engpässen bleibt die Lohnzahlungspflicht bestehen. Arbeitnehmende behalten ihre Rechte, wie Mahnung und Arbeitsverweigerung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Zeit, während der ein Angestellter die Arbeit wegen ausstehendem Lohn rechtmässig verweigert, muss später nicht nachgearbeitet werden.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Wenn die Arbeitsverweigerung wegen Lohnverzug berechtigt ist, muss die ausgefallene Arbeitszeit nicht nachgeholt werden.",
+      "feedback_incorrect": "❌ Falsch. Die Rechtsexpertin bestätigt, dass diese Zeit nicht nachgearbeitet werden muss, wenn die Arbeitsverweigerung rechtmässig war."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine Betreibung des Arbeitgebers durch den Arbeitnehmenden ist eine harmlose Massnahme ohne grosse Konsequenzen für das Unternehmen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Eine Betreibung ist ein ernsthafter Schritt, der zu einem Konkursverfahren führen und somit existenzbedrohend für den Arbeitgeber sein kann.",
+      "feedback_incorrect": "❌ Falsch. Eine Betreibung ist ein ernster Schritt, der weitreichende Folgen haben kann, bis hin zum Konkursverfahren für den Arbeitgeber."
+    }
+  ]
+}

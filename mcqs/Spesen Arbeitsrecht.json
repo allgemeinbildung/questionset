@@ -1,0 +1,329 @@
+{
+  "title": "Verständnisfragen Spesen Arbeitsrecht",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2024/09/Halbtax-Abo.MP3",
+    "source": "https://www.srf.ch/sendungen/kassensturz-espresso/rechtsfragen/arbeitsrecht/reisespesen-was-muss-mir-der-arbeitgeber-an-mein-halbtax-bezahlen"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was besagt das Obligationenrecht grundsätzlich bezüglich der Verrechnung von Spesen durch Angestellte?</p>",
+      "options": [
+        {
+          "text": "Angestellte können alle Kosten verrechnen, die im Zusammenhang mit der Arbeit entstehen, einschliesslich Abonnementskosten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Obligationenrecht erwähnt spezifisch, dass nur die <strong>tatsächlich entstandenen Kosten</strong> verrechnet werden können, was die Situation bei Abos kompliziert macht."
+        },
+        {
+          "text": "Angestellte können nur die Kosten als Spesen verrechnen, die sie tatsächlich für die spezifische Dienstreise hatten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Laut Obligationenrecht können Angestellte nur die <strong>Kosten als Spesen verrechnen</strong>, die sie <strong>tatsächlich hatten</strong>, z.B. den Preis für das reduzierte Billett."
+        },
+        {
+          "text": "Angestellte müssen alle Kosten für Dienstreisen selbst tragen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Obligationenrecht sieht vor, dass Arbeitgeber notwendige <strong>Spesen erstatten</strong> müssen, die Frage ist nur, in welcher Höhe."
+        },
+        {
+          "text": "Angestellte können pauschal einen festen Betrag pro Reisekilometer abrechnen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Obligationenrecht basiert auf den <strong>tatsächlich entstandenen Kosten</strong>, nicht zwingend auf Pauschalen, obwohl diese in Reglementen vorkommen können."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Halbtax-Abo im Kontext des Schweizer ÖV?</p>",
+      "options": [
+        {
+          "text": "Ein Abonnement, das zur kostenlosen Nutzung des gesamten ÖV berechtigt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das beschreibt eher ein <strong>Generalabonnement (GA)</strong>. Ein Halbtax gibt nur Anrecht auf reduzierte Preise."
+        },
+        {
+          "text": "Ein Abonnement, mit dem man Billette zum halben Preis kaufen kann.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das <strong>Halbtax-Abo</strong> berechtigt zum Kauf von <strong>ÖV-Billetten zum reduzierten Preis</strong> (meistens die Hälfte)."
+        },
+        {
+          "text": "Ein spezielles Billett nur für Geschäftsreisen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Halbtax ist ein <strong>allgemeines Abonnement</strong> und kann privat sowie geschäftlich genutzt werden."
+        },
+        {
+          "text": "Ein Abonnement, das nur für Reisen während der halben Woche gültig ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Name 'Halbtax' bezieht sich auf den <strong>halben Preis der Billette</strong>, nicht auf eine zeitliche Einschränkung der Gültigkeit."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist ein Generalabonnement (GA)?</p>",
+      "options": [
+        {
+          "text": "Ein Abonnement für vergünstigte Erstklass-Billette.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein GA bietet <strong>freie Fahrt</strong>, nicht nur Vergünstigungen für die 1. Klasse."
+        },
+        {
+          "text": "Ein Abonnement, das zur freien Fahrt auf dem grössten Teil des Schweizer ÖV-Netzes berechtigt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein <strong>Generalabonnement (GA)</strong> erlaubt die <strong>freie Fahrt</strong> auf einem Grossteil des öffentlichen Verkehrsnetzes in der Schweiz."
+        },
+        {
+          "text": "Ein Abonnement, das nur von Firmen für ihre Angestellten gekauft werden kann.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein GA kann auch von <strong>Privatpersonen</strong> gekauft werden, auch wenn Firmen es manchmal für Mitarbeitende übernehmen."
+        },
+        {
+          "text": "Ein Abonnement, das dem Halbtax entspricht, aber teurer ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein GA bietet <strong>freie Fahrt</strong>, während das Halbtax nur <strong>reduzierte Billette</strong> ermöglicht. Es ist ein anderes Produkt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ergab die Nachfrage bei zehn grösseren Firmen bezüglich der Handhabung von Halbtax-Kosten?</p>",
+      "options": [
+        {
+          "text": "Keine der befragten Firmen beteiligt sich an den Halbtax-Kosten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Nachfrage zeigte, dass <strong>alle befragten Firmen</strong> sich unter bestimmten Bedingungen beteiligen."
+        },
+        {
+          "text": "Alle befragten Firmen zahlen das Halbtax, wenn Mitarbeitende regelmässig den ÖV für die Arbeit nutzen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Nachfrage ergab, dass <strong>alle zehn befragten Firmen</strong> das Halbtax zahlen, wenn Mitarbeitende <strong>regelmässig den ÖV</strong> geschäftlich nutzen."
+        },
+        {
+          "text": "Nur die Hälfte der befragten Firmen hat klare Regeln dazu.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Text besagt, dass die befragten Firmen <strong>klare, detaillierte und faire Regeln</strong> haben."
+        },
+        {
+          "text": "Die Firmen zahlen das Halbtax nur, wenn die Angestellten ausschliesslich mit der 1. Klasse reisen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Bedingung ist die <strong>regelmässige geschäftliche Nutzung des ÖV</strong>, nicht die Reiseklasse."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Option erwähnen Firmen für Angestellte, die sehr viel reisen müssen?</p>",
+      "options": [
+        {
+          "text": "Sie erhalten ein Firmenfahrzeug.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl dies möglich ist, erwähnt der Text spezifisch eine <strong>ÖV-Lösung</strong> für Vielreisende."
+        },
+        {
+          "text": "Sie erhalten von der Firma ein Generalabonnement (GA).",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Für Angestellte, die <strong>sehr viel reisen</strong> müssen, stellen Firmen oft ein <strong>Generalabonnement (GA)</strong> zur Verfügung."
+        },
+        {
+          "text": "Sie erhalten eine höhere Spesenpauschale.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Text nennt explizit die Bereitstellung eines <strong>GA</strong> als Lösung."
+        },
+        {
+          "text": "Sie müssen die Reisen privat finanzieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Firmen übernehmen in der Regel die Kosten für <strong>notwendige Geschäftsreisen</strong>, insbesondere bei Vielreisenden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist die Frage der Kostenbeteiligung des Arbeitgebers am Halbtax rechtlich umstritten?</p>",
+      "options": [
+        {
+          "text": "Weil das Obligationenrecht die Nutzung von privaten Abos für Geschäftszwecke verbietet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Obligationenrecht <strong>verbietet die Nutzung nicht</strong>, es regelt nur die <strong>Erstattung der tatsächlichen Kosten</strong>, was zu Interpretationsspielraum führt."
+        },
+        {
+          "text": "Weil es kein spezifisches Gesetz oder Gerichtsurteil gibt, das diese Frage klar regelt, und es unterschiedliche juristische Argumentationen gibt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Situation ist umstritten, da es <strong>kein klares Gesetz</strong> oder <strong>Gerichtsurteil</strong> gibt und Juristen argumentieren, dass der Arbeitgeber vom Halbtax profitiert (<strong>tatsächliche Kosten vs. Nutzen</strong>)."
+        },
+        {
+          "text": "Weil Arbeitgeber grundsätzlich nie für private Abonnemente aufkommen müssen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Praxis zeigt, dass viele Arbeitgeber sich beteiligen, und die <strong>rechtliche Argumentation</strong> für eine Beteiligung existiert."
+        },
+        {
+          "text": "Weil das Halbtax nur für private Reisen gedacht ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Halbtax kann sowohl <strong>privat als auch geschäftlich</strong> genutzt werden, was gerade die Spesenfrage aufwirft."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Analogie wird verwendet, um zu argumentieren, dass sich der Arbeitgeber an den Halbtax-Kosten beteiligen sollte?</p>",
+      "options": [
+        {
+          "text": "Die Beteiligung an den Kosten für Berufskleidung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese Analogie wird im Text nicht erwähnt."
+        },
+        {
+          "text": "Die Vergütung für die Nutzung des privaten Mobiltelefons für Geschäftsanrufe.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese Analogie wird im Text nicht verwendet."
+        },
+        {
+          "text": "Die Vergütung für die Nutzung eines Privatautos für Geschäftsreisen (Benzin plus Abnutzung).",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Es wird argumentiert, dass ähnlich wie bei der <strong>Nutzung eines Privatautos</strong> (Kosten für <strong>Benzin und Abnutzung</strong>), auch beim Halbtax eine Kostenbeteiligung erfolgen sollte, da der Arbeitgeber profitiert."
+        },
+        {
+          "text": "Die Übernahme von Weiterbildungskosten durch den Arbeitgeber.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Diese Analogie wird im Text nicht genannt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Kern des Arguments, warum sich ein Arbeitgeber an den Kosten des Halbtax beteiligen sollte, obwohl nur das reduzierte Billett als Spesen anfällt?</p>",
+      "options": [
+        {
+          "text": "Der Arbeitgeber ist gesetzlich dazu verpflichtet, alle Abos zu zahlen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt <strong>keine klare gesetzliche Verpflichtung</strong>; es ist eine Frage der Argumentation und Praxis."
+        },
+        {
+          "text": "Der Arbeitgeber profitiert finanziell davon, dass der Angestellte ein Halbtax besitzt, da die Reisekosten niedriger sind.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Hauptargument ist, dass der <strong>Arbeitgeber finanziell profitiert</strong> (niedrigere Billettkosten), weil der Angestellte die Kosten für das Halbtax privat trägt. Daher sollte er sich beteiligen."
+        },
+        {
+          "text": "Das Halbtax ist eine Form des Lohns.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Halbtax wird in diesem Kontext als <strong>Mittel zur Reduzierung von Spesen</strong> betrachtet, nicht als Lohnbestandteil."
+        },
+        {
+          "text": "Die Angestellte könnte sonst die vollen Billettkosten verrechnen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sie kann nur die <strong>tatsächlich bezahlten Kosten</strong> verrechnen. Das Argument ist, dass der Arbeitgeber ohne Halbtax <strong>höhere Kosten hätte</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen praktischen Rat gibt der Beitrag der Angestellten bezüglich der Halbtax-Kosten?</p>",
+      "options": [
+        {
+          "text": "Sie soll die vollen Billettkosten einreichen und hoffen, dass es nicht bemerkt wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das wäre unredlich und widerspricht der Regelung der <strong>tatsächlichen Kosten</strong>."
+        },
+        {
+          "text": "Sie soll direkt vor Gericht gehen, da ihr Anspruch eindeutig ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag betont, dass die Rechtslage <strong>nicht eindeutig</strong> ist und es <strong>kein Gerichtsurteil</strong> gibt."
+        },
+        {
+          "text": "Sie soll das Gespräch mit dem Arbeitgeber suchen und eine faire Regelung vorschlagen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Rat lautet, mit dem <strong>Arbeitgeber zu sprechen</strong>, die Argumente darzulegen und einen <strong>Vorschlag für eine künftige Handhabung</strong> zu machen."
+        },
+        {
+          "text": "Sie soll das Halbtax kündigen, um höhere Spesen abrechnen zu können.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das löst das Problem nicht und könnte als unkooperativ wahrgenommen werden. Der Rat zielt auf eine <strong>Verhandlungslösung</strong> ab."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was lässt sich aus der Praxis der befragten Grossfirmen bezüglich der Spesenregelungen ableiten?</p>",
+      "options": [
+        {
+          "text": "Grossfirmen ignorieren das Obligationenrecht bei Spesenregelungen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sie erstellen <strong>detaillierte Regeln</strong>, die oft über die Minimalanforderungen hinausgehen, aber das Gesetz nicht ignorieren."
+        },
+        {
+          "text": "Es gibt keine einheitliche Praxis, jede Firma entscheidet willkürlich.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die befragten Firmen haben <strong>klare und faire Regeln</strong>, was auf eine überlegte Praxis hindeutet, auch wenn die Regeln variieren können."
+        },
+        {
+          "text": "Viele Grossfirmen haben pragmatische und faire Lösungen gefunden, die über die reine Erstattung der Billettkosten hinausgehen können.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Praxis zeigt, dass viele Firmen <strong>faire und pragmatische Lösungen</strong> wie die Bezahlung des Halbtax oder die Abgabe eines GA etabliert haben, was auf eine <strong>Anerkennung des Nutzens</strong> für beide Seiten hindeutet."
+        },
+        {
+          "text": "Grossfirmen zahlen grundsätzlich nie für private Abonnemente wie das Halbtax.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Umfrage zeigt das Gegenteil: <strong>Alle befragten Firmen zahlen</strong> unter bestimmten Bedingungen für das Halbtax."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Laut Obligationenrecht müssen Arbeitgeber immer die vollen Kosten für ein ÖV-Billett erstatten, auch wenn der Angestellte ein Halbtax besitzt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig. Das Obligationenrecht besagt, dass nur die tatsächlich entstandenen Kosten erstattet werden müssen, also der reduzierte Preis.",
+      "feedback_incorrect": "❌ Falsch. Das Obligationenrecht fordert die Erstattung der tatsächlich entstandenen Kosten. Mit Halbtax sind das die Kosten für das reduzierte Billett."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Beitrag erwähnt ein spezifisches Gerichtsurteil, das die Frage der Halbtax-Kostenerstattung abschliessend klärt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig. Der Beitrag stellt klar, dass es kein Gesetz und auch kein Gerichtsurteil gibt, das diese Frage eindeutig regelt.",
+      "feedback_incorrect": "❌ Falsch. Im Beitrag wird explizit erwähnt, dass es kein klares Gesetz und kein Gerichtsurteil zu dieser Frage gibt."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Generalabonnement (GA) wird von Firmen manchmal an Mitarbeitende abgegeben, die sehr häufig geschäftlich reisen müssen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig. Der Text besagt, dass Mitarbeitende, die sehr viel reisen müssen, von der Firma oft ein GA erhalten.",
+      "feedback_incorrect": "❌ Falsch. Der Text erwähnt ausdrücklich, dass Firmen für Vielreisende oft ein GA zur Verfügung stellen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Argumentation für eine Kostenbeteiligung des Arbeitgebers am Halbtax basiert darauf, dass der Arbeitgeber durch das Abo des Angestellten Geld spart.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig. Ein Kernargument ist, dass der Arbeitgeber von den niedrigeren Billettkosten profitiert und sich deshalb an den Kosten des Abos beteiligen sollte.",
+      "feedback_incorrect": "❌ Falsch. Das ist ein zentrales Argument: Der Arbeitgeber hat tiefere Spesen (reduzierte Billette) dank dem Halbtax des Angestellten und sollte daher einen Beitrag leisten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Analogie zur Autonutzung besagt, dass der Arbeitgeber nur die Benzinkosten, nicht aber die Abnutzung des Fahrzeugs vergüten muss.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig. Die Analogie besagt, dass der Arbeitgeber bei Privatfahrzeugnutzung eben nicht nur das Benzin, sondern auch einen Anteil an Unterhalt und Abnutzung zahlt.",
+      "feedback_incorrect": "❌ Falsch. Die Analogie im Text beinhaltet explizit, dass bei der Nutzung des Privatautos nicht nur das Benzin, sondern auch ein Anteil an Unterhalt und Abnutzung vergütet wird."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Aufgrund der unklaren Rechtslage ist es für Angestellte ratsam, das Gespräch mit dem Arbeitgeber zu suchen, anstatt sofort rechtliche Schritte einzuleiten.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig. Da es keine eindeutige Regelung gibt, wird im Beitrag empfohlen, das Gespräch zu suchen und eine Einigung anzustreben.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag empfiehlt genau dies: das Gespräch mit dem Arbeitgeber zu suchen, da die Rechtslage umstritten ist und kein klares Urteil existiert."
+    }
+  ]
+}

@@ -1,236 +1,329 @@
 {
-  "title": "Arztzeugnis",
+  "title": "Verständnisfragen Arztzeugnis",
+  "headerImage": "img1.jpg",
   "media": {
-    "type": "",
-    "url": "",
-    "source": ""
+      "type": "mp3",
+      "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2023/12/Espresso_21-12-2023-0810.mp3",
+      "source": "https://www.srf.ch/sendungen/kassensturz-espresso/rechtsfragen/arbeitsrecht/migraene-muss-ich-bei-jeder-migraene-zum-arzt-und-ein-zeugnis-verlangen"
   },
   "questions": [
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Warum möchte die Hörerin nicht jedes Mal zum Arzt gehen, wenn sie einen Migräneanfall hat?</p>",
+      "question": "<p>Worum geht es im Kern des Problems, das die Hörerin mit ihrem Chef hat?</p>",
       "options": [
         {
-          "text": "Weil ihr der Arztbesuch zu teuer ist.",
+          "text": "Es geht um eine Auseinandersetzung bezüglich des Lohns.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die Hörerin leidet unter starken Migräneanfällen, die sie buchstäblich lahmlegen. Ein Arztbesuch während eines solchen Anfalls ist für sie eine Qual."
+          "feedback": "❌ Falsch. Im Text geht es nicht um Lohnfragen, sondern um die <strong>Krankmeldung</strong> bei Migräne."
         },
         {
-          "text": "Weil sie keine Krankenversicherung hat.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Die Hörerin leidet unter starken Migräneanfällen, die sie buchstäblich lahmlegen. Ein Arztbesuch während eines solchen Anfalls ist für sie eine Qual."
-        },
-        {
-          "text": "Weil ihr der Arzt bei einem Migräneanfall nicht helfen kann und es ihr zu schlecht geht, um das Haus zu verlassen.",
+          "text": "Es geht um die Forderung des Chefs, bei jeder Migräneattacke ein Arztzeugnis vorzulegen.",
           "is_correct": true,
-          "feedback": "✅ Richtig!"
+          "feedback": "✅ Richtig! Der Chef verlangt bei jeder kurzen Abwesenheit wegen <strong>Migräne ein Arztzeugnis</strong>, was für die Hörerin problematisch ist."
         },
         {
-          "text": "Weil sie Angst vor Ärzten hat.",
+          "text": "Es geht um die Planung von Ferien.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die Hörerin leidet unter starken Migräneanfällen, die sie buchstäblich lahmlegen. Ein Arztbesuch während eines solchen Anfalls ist für sie eine Qual."
+          "feedback": "❌ Falsch. Ferienplanung wird im Text nicht erwähnt. Das zentrale Thema ist das <strong>Arztzeugnis bei Krankheit</strong>."
+        },
+        {
+          "text": "Es geht um die Regelung von Überstunden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Überstunden sind nicht das Thema des Beitrags. Es dreht sich um die <strong>Abwesenheit wegen Migräne</strong>."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Ab wann darf der Chef ein Arztzeugnis verlangen?</p>",
+      "question": "<p>Wie lange kann die Hörerin gemäss dem Text typischerweise nicht arbeiten, wenn sie einen Migränenanfall hat?</p>",
       "options": [
         {
-          "text": "Ab dem ersten Krankheitstag.",
+          "text": "Einige Stunden.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Im Gesetz ist nicht festgelegt, ab wann ein Arztzeugnis vorgelegt werden muss. Dies kann im Arbeitsvertrag oder Gesamtarbeitsvertrag geregelt sein."
+          "feedback": "❌ Falsch. Der Text erwähnt, dass die Ausfälle länger dauern. Die Hörerin ist <strong>buchstäblich lahmgelegt</strong>."
         },
         {
-          "text": "Ab dem dritten Krankheitstag.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Im Gesetz ist nicht festgelegt, ab wann ein Arztzeugnis vorgelegt werden muss. Dies kann im Arbeitsvertrag oder Gesamtarbeitsvertrag geregelt sein."
-        },
-        {
-          "text": "Ab dem fünften Krankheitstag.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Im Gesetz ist nicht festgelegt, ab wann ein Arztzeugnis vorgelegt werden muss. Dies kann im Arbeitsvertrag oder Gesamtarbeitsvertrag geregelt sein."
-        },
-        {
-          "text": "Das ist im Gesetz nicht geregelt.",
+          "text": "Einen oder zwei Tage.",
           "is_correct": true,
-          "feedback": "✅ Richtig!"
+          "feedback": "✅ Richtig! Im Text heisst es: \"Arbeiten kann sie dann <strong>einen oder zwei Tage</strong> nicht mehr.\""
+        },
+        {
+          "text": "Genau drei Tage.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Drei Tage ist die häufig genannte Frist für Arztzeugnisse, aber nicht die Dauer der <strong>Migräne-bedingten Abwesenheit</strong> der Hörerin."
+        },
+        {
+          "text": "Eine ganze Woche.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Text spricht von kürzeren, aber intensiven Ausfällen von <strong>ein bis zwei Tagen</strong>."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Was ist die gängige Praxis in Arbeitsverträgen und Gesamtarbeitsverträgen bezüglich der Arztzeugnispflicht?</p>",
+      "question": "<p>Was ist laut der Rechtsexpertin eine sehr häufige Regelung in Arbeitsverträgen bezüglich der Vorlagepflicht eines Arztzeugnisses?</p>",
       "options": [
         {
-          "text": "Ein Arztzeugnis wird in der Regel nach drei Krankheitstagen verlangt.",
+          "text": "Ein Arztzeugnis muss immer ab dem ersten Krankheitstag vorgelegt werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl dies vorkommt und zulässig ist, wird im Text eine andere Frist als <strong>sehr häufig</strong> genannt."
+        },
+        {
+          "text": "Ein Arztzeugnis wird meistens nach drei Tagen Krankheit verlangt.",
           "is_correct": true,
-          "feedback": "✅ Richtig!"
+          "feedback": "✅ Richtig! Die Expertin sagt: \"Und das ist <strong>meistens nach drei Tagen</strong>. Drei Tage ist sehr häufig.\""
         },
         {
-          "text": "Ein Arztzeugnis wird in der Regel nach einer Woche verlangt.",
+          "text": "Ein Arztzeugnis wird in der Regel erst nach einer Woche Krankheit benötigt.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die meisten Arbeitsverträge und Gesamtarbeitsverträge sehen vor, dass ein Arztzeugnis nach drei Krankheitstagen vorgelegt werden muss."
+          "feedback": "❌ Falsch. Das kommt zwar vor, aber <strong>drei Tage</strong> ist laut Expertin die häufigste Regelung."
         },
         {
-          "text": "Ein Arztzeugnis wird in der Regel ab dem ersten Krankheitstag verlangt.",
+          "text": "Ein Arztzeugnis muss nur bei schweren Erkrankungen vorgelegt werden.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die meisten Arbeitsverträge und Gesamtarbeitsverträge sehen vor, dass ein Arztzeugnis nach drei Krankheitstagen vorgelegt werden muss."
-        },
-        {
-          "text": "Es gibt keine gängige Praxis.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Die meisten Arbeitsverträge und Gesamtarbeitsverträge sehen vor, dass ein Arztzeugnis nach drei Krankheitstagen vorgelegt werden muss."
+          "feedback": "❌ Falsch. Die Pflicht hängt meist von der <strong>Dauer der Abwesenheit</strong> ab, nicht primär von der Schwere der Krankheit."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Welche Probleme sieht die Rechtsexpertin in der Forderung des Chefs, bei jedem Migräneanfall ein Arztzeugnis vorzulegen?</p>",
+      "question": "<p>Wer muss gemäss Zivilgesetzbuch (ZGB) eine Behauptung, wie z.B. krank zu sein, beweisen?</p>",
       "options": [
         {
-          "text": "Sie sieht die Gefahr von Schikane und Rechtsmissbrauch.",
+          "text": "Der Arbeitgeber muss beweisen, dass der Arbeitnehmer nicht krank ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>Zivilgesetzbuch</strong> legt die Beweislast anders fest."
+        },
+        {
+          "text": "Der Arzt muss die Krankheit gegenüber dem Arbeitgeber beweisen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Arzt stellt ein Zeugnis aus, aber die <strong>Beweislast</strong> liegt nicht primär bei ihm."
+        },
+        {
+          "text": "Die Person, die etwas behauptet (hier: die Angestellte), muss dies beweisen.",
           "is_correct": true,
-          "feedback": "✅ Richtig!"
+          "feedback": "✅ Richtig! Im Text steht: \"Im Zivilgesetzbuch steht, dass der, der etwas behauptet, das <strong>beweisen muss</strong>. Die Angestellte behauptet ..., sie habe Migräne. Das muss sie ... beweisen.\""
         },
         {
-          "text": "Sie findet die Forderung des Chefs unnötig und übertrieben.",
+          "text": "Die Krankenkasse muss die Arbeitsunfähigkeit bestätigen.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die Rechtsexpertin findet die Forderung des Chefs, bei jedem Migräneanfall ein Arztzeugnis vorzulegen, absurd und an der Grenze zu Schikane."
-        },
-        {
-          "text": "Sie befürchtet, dass die Hörerin ihren Arbeitsplatz verlieren könnte.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Die Rechtsexpertin findet die Forderung des Chefs, bei jedem Migräneanfall ein Arztzeugnis vorzulegen, absurd und an der Grenze zu Schikane."
-        },
-        {
-          "text": "Sie hat keine Probleme mit der Forderung des Chefs.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Die Rechtsexpertin findet die Forderung des Chefs, bei jedem Migräneanfall ein Arztzeugnis vorzulegen, absurd und an der Grenze zu Schikane."
+          "feedback": "❌ Falsch. Die Krankenkasse spielt hierbei keine direkte Rolle bezüglich der <strong>Beweislast gegenüber dem Arbeitgeber</strong>."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Welche Lösungsansätze schlägt die Rechtsexpertin der Hörerin vor?</p>",
+      "question": "<p>Ist es rechtlich zulässig, dass ein Arbeitgeber ein Arztzeugnis bereits ab dem ersten Tag der Abwesenheit verlangt?</p>",
       "options": [
         {
-          "text": "Sie soll sich einen neuen Job suchen.",
+          "text": "Nein, das ist grundsätzlich verboten.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die Rechtsexpertin rät der Hörerin, mit dem Arzt zu sprechen und ein Zeugnis über die chronische Erkrankung und die Arbeitsausfälle ausstellen zu lassen. Dieses Zeugnis soll dem Arbeitgeber vorgelegt werden, um eine gemeinsame Lösung zu finden."
+          "feedback": "❌ Falsch. Die Expertin bestätigt, dass dies <strong>rechtlich möglich</strong> ist."
         },
         {
-          "text": "Sie soll mit dem Chef sprechen und ihm die Situation erklären.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Die Rechtsexpertin rät der Hörerin, mit dem Arzt zu sprechen und ein Zeugnis über die chronische Erkrankung und die Arbeitsausfälle ausstellen zu lassen. Dieses Zeugnis soll dem Arbeitgeber vorgelegt werden, um eine gemeinsame Lösung zu finden."
-        },
-        {
-          "text": "Sie soll sich krankschreiben lassen.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Die Rechtsexpertin rät der Hörerin, mit dem Arzt zu sprechen und ein Zeugnis über die chronische Erkrankung und die Arbeitsausfälle ausstellen zu lassen. Dieses Zeugnis soll dem Arbeitgeber vorgelegt werden, um eine gemeinsame Lösung zu finden."
-        },
-        {
-          "text": "Sie soll mit dem Arzt sprechen und ein Zeugnis über die chronische Erkrankung und die damit verbundenen Arbeitsausfälle ausstellen lassen.",
+          "text": "Ja, das ist zulässig, wenn es so vereinbart ist.",
           "is_correct": true,
-          "feedback": "✅ Richtig!"
+          "feedback": "✅ Richtig! Die Expertin sagt über Regelungen in Arbeitsverträgen: \"Andere [Betriebe verlangen es] <strong>ab dem ersten Tag</strong>. Das alles ist <strong>zulässig</strong>.\""
+        },
+        {
+          "text": "Das ist nur erlaubt, wenn die Krankheit länger als eine Woche dauert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Zulässigkeit hängt nicht von der Krankheitsdauer ab, sondern von der <strong>Vereinbarung im Arbeitsvertrag</strong> oder GAV."
+        },
+        {
+          "text": "Das ist nur bei bestimmten ansteckenden Krankheiten erlaubt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Art der Krankheit ist nicht das Kriterium für die Zulässigkeit, ein <strong>Zeugnis ab Tag 1</strong> zu verlangen."
         }
       ]
     },
     {
       "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Wie kann ein Arzt in dieser Situation helfen?</p>",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es für die Hörerin besonders mühsam und wenig sinnvoll, bei jedem Migräneanfall zum Arzt zu gehen?</p>",
       "options": [
         {
-          "text": "Er kann der Hörerin Medikamente gegen Migräne verschreiben.",
+          "text": "Weil die Arzttermine immer sehr lange dauern.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Ein Arztzeugnis über die chronische Erkrankung und die Arbeitsausfälle kann die Situation der Hörerin gegenüber dem Arbeitgeber stärken."
+          "feedback": "❌ Falsch. Die Dauer des Termins ist nicht der Hauptgrund. Es geht um die <strong>Umstände während eines Anfalls</strong>."
         },
         {
-          "text": "Er kann die Hörerin krankschreiben.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Ein Arztzeugnis über die chronische Erkrankung und die Arbeitsausfälle kann die Situation der Hörerin gegenüber dem Arbeitgeber stärken."
-        },
-        {
-          "text": "Er kann ein Zeugnis über die chronische Erkrankung und die Arbeitsausfälle ausstellen.",
+          "text": "Weil sie während eines Anfalls starke Schmerzen und Sehstörungen hat, das Haus zu verlassen eine Qual ist und der Arzt oft wenig tun kann.",
           "is_correct": true,
-          "feedback": "✅ Richtig!"
+          "feedback": "✅ Richtig! Der Text beschreibt die <strong>Symptome (Schmerzen, Sehstörungen)</strong>, die <strong>Qual, das Haus zu verlassen</strong>, und dass der Arzt <strong>wenig tun kann</strong>."
         },
         {
-          "text": "Er kann den Chef der Hörerin überzeugen, dass sie kein Arztzeugnis vorlegen muss.",
+          "text": "Weil ihr Arbeitgeber ihr die Arztbesuche während der Arbeitszeit verbietet.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Ein Arztzeugnis über die chronische Erkrankung und die Arbeitsausfälle kann die Situation der Hörerin gegenüber dem Arbeitgeber stärken."
+          "feedback": "❌ Falsch. Es geht nicht um ein Verbot, sondern um die <strong>praktische Unmöglichkeit und Qual</strong> während eines Anfalls."
+        },
+        {
+          "text": "Weil sie die Kosten für das Arztzeugnis jedes Mal selbst tragen muss.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kosten werden im Text nicht als Hauptproblem genannt. Die <strong>physische Belastung</strong> steht im Vordergrund."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wie beurteilt die Rechtsexpertin die Forderung des Chefs nach einem Arztzeugnis für jede kurze Abwesenheit bei bekannter Migräne?</p>",
+      "options": [
+        {
+          "text": "Als absolut korrekt und im Rahmen des Üblichen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Expertin äussert Bedenken und bezeichnet es als <strong>grenzwertig</strong>."
+        },
+        {
+          "text": "Als möglicherweise übertrieben und an der Grenze zur Schikane.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Sie sagt: \"Was der Chef hier verlangt, ist schon etwas absurd. Und es ist auch an der <strong>Grenze zu Schikanen</strong>. Das wäre sogar <strong>rechtsmissbräuchlich</strong>.\""
+        },
+        {
+          "text": "Als eindeutig illegal und gesetzeswidrig.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sie nennt es zwar <strong>rechtsmissbräuchlich</strong> (was eine rechtliche Kategorie ist), aber nicht per se illegal im Sinne eines Gesetzesverstosses, sondern eher als problematische Ausübung eines Rechts."
+        },
+        {
+          "text": "Als Zeichen besonderer Fürsorge des Chefs um die Gesundheit der Mitarbeiterin.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Einschätzung der Expertin geht in die entgegengesetzte Richtung; sie sieht es als <strong>potenzielle Schikane</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen Zweck verfolgt der Vorschlag der Expertin, ein allgemeines Arztzeugnis über die chronische Erkrankung einzuholen?</p>",
+      "options": [
+        {
+          "text": "Damit die Hörerin beweisen kann, dass ihr Chef im Unrecht ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht nicht darum, den Chef des Unrechts zu überführen, sondern eine <strong>praktikable Lösung</strong> zu finden."
+        },
+        {
+          "text": "Um eine höhere Lohnfortzahlung bei Krankheit zu erreichen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Lohnfortzahlung ist nicht das Thema des Vorschlags. Es geht um den <strong>Nachweis der Krankheit</strong>."
+        },
+        {
+          "text": "Um dem Arbeitgeber die chronische Natur der Erkrankung zu bestätigen und so die Notwendigkeit einzelner Zeugnisse für kurze Ausfälle zu vermeiden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Zeugnis soll bestätigen, dass sie wegen einer <strong>chronischen Erkrankung</strong> solche <strong>kurzen Ausfälle</strong> hat, um eine Einigung zu erzielen, dass sie <strong>nicht jedes Mal zum Arzt</strong> muss."
+        },
+        {
+          "text": "Um einen Grund für einen Arztwechsel zu dokumentieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Vorschlag zielt auf die <strong>Kommunikation mit dem Arbeitgeber</strong> ab, nicht auf einen Arztwechsel."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchem grundlegenden Zweck dient die Vorlage eines Arztzeugnisses im Arbeitsverhältnis normalerweise?</p>",
+      "options": [
+        {
+          "text": "Um sicherzustellen, dass der Arbeitnehmer die bestmögliche medizinische Behandlung erhält.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die medizinische Behandlung ist Sache des Arbeitnehmers. Das Zeugnis dient dem <strong>Nachweis gegenüber dem Arbeitgeber</strong>."
+        },
+        {
+          "text": "Um dem Arbeitgeber einen Beleg für die geltend gemachte Arbeitsunfähigkeit zu liefern.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Es dient als <strong>Beweis</strong> dafür, dass der Arbeitnehmer aus <strong>gesundheitlichen Gründen</strong> nicht arbeiten kann, wie im Text bezüglich der Beweislast erwähnt."
+        },
+        {
+          "text": "Um Krankheiten für statistische Zwecke des Bundesamtes für Gesundheit zu erfassen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Arztzeugnis dient primär dem <strong>Arbeitsverhältnis</strong>, nicht allgemeinen statistischen Erhebungen."
+        },
+        {
+          "text": "Um die Personalabteilung bei der Berechnung der Fehltage zu entlasten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es dient der <strong>Begründung der Fehltage</strong>, nicht primär der Entlastung der HR-Abteilung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum könnte es laut Expertin problematisch sein, dem Chef direkt vorzuwerfen, sein Verhalten sei schikanös?</p>",
+      "options": [
+        {
+          "text": "Weil der Chef dann beweisen müsste, dass es keine Schikane ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Beweislast für Schikane liegt eher beim Arbeitnehmer. Das Problem liegt in der <strong>Beziehungsebene</strong>."
+        },
+        {
+          "text": "Weil eine solche Konfrontation die angespannte Situation wahrscheinlich verschlimmern statt verbessern würde.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Expertin meint: \"Aber wenn sie ihm das sagt, dass das Schikane ist ..., wird die <strong>Situation kaum entspannen</strong>, sondern im Gegenteil.\""
+        },
+        {
+          "text": "Weil der Begriff 'Schikane' rechtlich nicht klar definiert ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Begriff ist zwar nicht immer einfach anzuwenden, aber das Hauptproblem ist die <strong>Eskalation des Konflikts</strong>."
+        },
+        {
+          "text": "Weil dies automatisch zur fristlosen Kündigung führen würde.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Kündigung wäre nicht automatisch die Folge, aber die <strong>Arbeitsbeziehung</strong> würde leiden."
         }
       ]
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>Die Hörerin hat Angst, ihren Arbeitsplatz zu verlieren.</p>",
+      "question": "<p>Das Gesetz schreibt klar vor, dass ein Arztzeugnis spätestens am vierten Tag der Krankheit vorgelegt werden muss.</p>",
       "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Im Text wird nicht erwähnt, dass die Hörerin Angst hat, ihren Arbeitsplatz zu verlieren.",
-      "feedback_incorrect": "❌ Richtig. Im Text wird nicht erwähnt, dass die Hörerin Angst hat, ihren Arbeitsplatz zu verlieren."
+      "feedback_correct": "✅ Richtig! Im Text wird erklärt, dass das Gesetz dies nicht regelt, sondern dass dies meist in Arbeitsverträgen oder Gesamtarbeitsverträgen festgelegt wird.",
+      "feedback_incorrect": "❌ Falsch. Laut Text ist im Gesetz nicht geregelt, ab wann ein Arztzeugnis verlangt werden darf. Übliche Fristen (wie z.B. drei Tage) ergeben sich aus Verträgen."
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>Der Chef der Hörerin hat Verständnis für ihre Situation.</p>",
-      "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Der Chef der Hörerin verlangt bei jedem Migräneanfall ein Arztzeugnis, was auf wenig Verständnis für ihre Situation schliessen lässt.",
-      "feedback_incorrect": "❌ Richtig. Der Chef der Hörerin verlangt bei jedem Migräneanfall ein Arztzeugnis, was auf wenig Verständnis für ihre Situation schliessen lässt."
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Die Rechtsexpertin findet die Forderung des Chefs nach einem Arztzeugnis bei jedem Migräneanfall gerechtfertigt.</p>",
-      "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Die Rechtsexpertin findet die Forderung des Chefs absurd und an der Grenze zu Schikane.",
-      "feedback_incorrect": "❌ Richtig. Die Rechtsexpertin findet die Forderung des Chefs absurd und an der Grenze zu Schikane."
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Ein Arztzeugnis ist der einzige Beweis für eine Arbeitsunfähigkeit.</p>",
-      "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Auch andere Beweise, wie z.B. die Aussage eines Zeugen, können eine Arbeitsunfähigkeit belegen.",
-      "feedback_incorrect": "❌ Richtig. Auch andere Beweise, wie z.B. die Aussage eines Zeugen, können eine Arbeitsunfähigkeit belegen."
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Die Hörerin sollte sich einen neuen Job suchen.</p>",
-      "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Die Rechtsexpertin rät der Hörerin nicht, sich einen neuen Job zu suchen, sondern schlägt andere Lösungsansätze vor.",
-      "feedback_incorrect": "❌ Richtig. Die Rechtsexpertin rät der Hörerin nicht, sich einen neuen Job zu suchen, sondern schlägt andere Lösungsansätze vor."
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Die Hörerin sollte das Gespräch mit ihrem Chef suchen.</p>",
+      "question": "<p>Die Migräneanfälle der Hörerin führen dazu, dass sie jeweils für einen oder zwei Tage arbeitsunfähig ist.</p>",
       "correct_answer": true,
-      "feedback_correct": "✅ Richtig! Die Rechtsexpertin rät der Hörerin, das Gespräch mit dem Chef zu suchen und gemeinsam eine Lösung zu finden.",
-      "feedback_incorrect": "❌ Falsch. Die Rechtsexpertin rät der Hörerin, das Gespräch mit dem Chef zu suchen und gemeinsam eine Lösung zu finden."
+      "feedback_correct": "✅ Richtig! Der Text besagt: \"Arbeiten kann sie dann einen oder zwei Tage nicht mehr.\"",
+      "feedback_incorrect": "❌ Falsch. Der Text erwähnt explizit, dass die Arbeitsunfähigkeit bei einem Anfall einen oder zwei Tage dauert."
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>Es ist wichtig, dass Arbeitnehmer und Arbeitgeber eine gemeinsame Lösung für den Umgang mit Krankheit am Arbeitsplatz finden.</p>",
-      "correct_answer": true,
-      "feedback_correct": "✅ Richtig! Eine gemeinsame Lösung für den Umgang mit Krankheit am Arbeitsplatz ist wichtig, um Konflikte zu vermeiden und ein gutes Arbeitsklima zu erhalten.",
-      "feedback_incorrect": "❌ Falsch. Eine gemeinsame Lösung für den Umgang mit Krankheit am Arbeitsplatz ist wichtig, um Konflikte zu vermeiden und ein gutes Arbeitsklima zu erhalten."
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Migräne ist eine Krankheit, die nur Frauen betrifft.</p>",
+      "question": "<p>Ein Arztzeugnis ist die einzige Möglichkeit, eine krankheitsbedingte Arbeitsunfähigkeit zu beweisen.</p>",
       "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Migräne kann sowohl Frauen als auch Männer betreffen.",
-      "feedback_incorrect": "❌ Richtig. Migräne kann sowohl Frauen als auch Männer betreffen."
+      "feedback_correct": "✅ Richtig! Die Expertin erwähnt, dass ein Arztzeugnis zwar ein möglicher Beweis ist, aber vor Gericht auch andere Beweise zugelassen werden (z.B. Zeugenaussagen).",
+      "feedback_incorrect": "❌ Falsch. Laut Text ist ein Arztzeugnis zwar ein üblicher, aber nicht der einzig mögliche Beweis. Andere Beweismittel sind theoretisch denkbar."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Rechtsexpertin rät der Hörerin, die Forderung des Chefs nach Arztzeugnissen einfach zu ignorieren, da sie schikanös ist.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Expertin rät nicht zum Ignorieren, sondern schlägt einen konstruktiven Weg vor: Gespräch mit Arzt und Arbeitgeber suchen und ein allgemeines Zeugnis vorlegen.",
+      "feedback_incorrect": "❌ Falsch. Die Expertin empfiehlt eine proaktive Lösungsstrategie, einschliesslich eines Gesprächs mit dem Arzt und dem Arbeitgeber sowie der Vorlage eines allgemeinen Attests, anstatt die Forderung zu ignorieren."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Forderung, bei jeder kurzen Abwesenheit wegen einer bekannten chronischen Krankheit wie Migräne ein Arztzeugnis zu verlangen, kann als missbräuchliche Ausübung des Rechts des Arbeitgebers betrachtet werden.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Expertin bezeichnet ein solches Verhalten als \"an der Grenze zu Schikanen\" und \"sogar rechtsmissbräuchlich\".",
+      "feedback_incorrect": "❌ Falsch. Die Expertin deutet genau dies an, indem sie das Verhalten des Chefs als potenziell schikanös und rechtsmissbräuchlich einstuft."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Der Hauptgrund, warum die Hörerin während eines Migräneanfalls nicht zum Arzt gehen möchte, sind die hohen Kosten für die Konsultation.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Text nennt als Gründe die starken Schmerzen, Sehstörungen und die damit verbundene Qual, das Haus verlassen zu müssen, sowie die Tatsache, dass der Arzt während des Anfalls oft wenig tun kann.",
+      "feedback_incorrect": "❌ Falsch. Die im Text genannten Hauptgründe sind die körperliche Qual während eines Anfalls (Schmerzen, Sehstörungen, Schwierigkeit, das Haus zu verlassen) und die begrenzte medizinische Hilfe, die der Arzt in diesem Moment leisten kann."
     }
   ]
 }

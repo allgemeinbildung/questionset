@@ -1,274 +1,279 @@
 {
-  "title": "Minusstunden",
+  "title": "Verständnisfragen Minusstunden",
+  "headerImage": "img1.jpg",
   "media": {
-    "type": "",
-    "url": "",
-    "source": ""
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2023/02/Espresso_02-02-2023-815.mp3",
+    "source": "https://www.srf.ch/sendungen/kassensturz-espresso/rechtsfragen/arbeitsrecht/minusstunden-darf-der-chef-meine-minusstunden-mit-ferientagen-verrechnen"
   },
   "questions": [
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Was ist das Thema des Radiobeitrags?</p>",
+      "question": "<p>Was sind Minusstunden im Kontext des Textes?</p>",
       "options": [
         {
-          "text": "Überstunden im Gastgewerbe",
+          "text": "Stunden, die Angestellte freiwillig weniger arbeiten möchten.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Der Beitrag behandelt die Frage, ob Arbeitgeber Minusstunden mit Ferientagen verrechnen dürfen."
+          "feedback": "❌ Falsch. Minusstunden entstehen hier, weil der <strong>Arbeitgeber zu wenig Arbeit</strong> hat und die Angestellten deshalb nicht oder weniger arbeiten lässt."
         },
         {
-          "text": "Minusstunden und Ferienverrechnung",
+          "text": "Stunden, die Angestellte zu wenig arbeiten, weil der Betrieb nicht genügend Arbeit für sie hat.",
           "is_correct": true,
-          "feedback": "✅ Richtig!"
+          "feedback": "✅ Richtig! Minusstunden entstehen, wenn <strong>zu wenig Arbeit</strong> vorhanden ist und die Angestellten deshalb <strong>nicht arbeiten müssen</strong> oder weniger eingeplant werden."
         },
         {
-          "text": "Kurzarbeit während der Pandemie",
+          "text": "Stunden, die Angestellte zusätzlich arbeiten müssen, um einen Bonus zu erhalten.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Der Beitrag behandelt die Frage, ob Arbeitgeber Minusstunden mit Ferientagen verrechnen dürfen."
-        },
-        {
-          "text": "Lohnfortzahlung bei Krankheit",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Beitrag behandelt die Frage, ob Arbeitgeber Minusstunden mit Ferientagen verrechnen dürfen."
+          "feedback": "❌ Falsch. Minusstunden sind das Gegenteil von zusätzlichen Arbeitsstunden (Überstunden)."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>In welchem Sektor arbeitet der Partner des Hörers?</p>",
+      "question": "<p>Was besagt die allgemeine Regel, wenn der Arbeitgeber Angestellte wegen Arbeitsmangel nach Hause schickt?</p>",
       "options": [
         {
-          "text": "Detailhandel",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Hörer erwähnt, dass sein Partner im Service eines Restaurants arbeitet."
-        },
-        {
-          "text": "Gastgewerbe",
+          "text": "Der Arbeitgeber muss den Lohn trotzdem weiterzahlen.",
           "is_correct": true,
-          "feedback": "✅ Richtig!"
+          "feedback": "✅ Richtig! Das Gesetz besagt klar, dass der Arbeitgeber den <strong>Lohn weiterzahlen</strong> muss, auch wenn er die Angestellten nicht wie vereinbart arbeiten lässt."
         },
         {
-          "text": "Gesundheitswesen",
+          "text": "Die Angestellten müssen unbezahlten Urlaub nehmen.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Der Hörer erwähnt, dass sein Partner im Service eines Restaurants arbeitet."
+          "feedback": "❌ Falsch. Die Angestellten müssen <strong>keinen unbezahlten Urlaub</strong> nehmen; der Arbeitgeber trägt das Risiko des Arbeitsmangels."
         },
         {
-          "text": "Baugewerbe",
+          "text": "Die Angestellten müssen die ausgefallene Zeit später nacharbeiten.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Der Hörer erwähnt, dass sein Partner im Service eines Restaurants arbeitet."
-        }
-      ]
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Der Arbeitgeber darf Minusstunden immer mit den Ferientagen verrechnen.</p>",
-      "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Der Arbeitgeber darf Minusstunden nur unter bestimmten Bedingungen, wie z.B. bei Vorkompensation, mit Ferientagen verrechnen.",
-      "feedback_incorrect": "❌ Richtig. Der Arbeitgeber darf Minusstunden nur unter bestimmten Bedingungen, wie z.B. bei Vorkompensation, mit Ferientagen verrechnen."
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Vorkompensation bedeutet, dass der Arbeitnehmer in einer Woche weniger arbeitet und in der nächsten Woche mehr.</p>",
-      "correct_answer": true,
-      "feedback_correct": "✅ Richtig! Die Vorkompensation dient dazu, Minusstunden auszugleichen.",
-      "feedback_incorrect": "❌ Falsch. Die Vorkompensation dient dazu, Minusstunden auszugleichen."
-    },
-    {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Wie lange kann der Partner des Hörers seine Ansprüche geltend machen?</p>",
-      "options": [
-        {
-          "text": "2 Jahre",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Ansprüche aus dem Arbeitsverhältnis verjähren erst nach fünf Jahren."
-        },
-        {
-          "text": "3 Jahre",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Ansprüche aus dem Arbeitsverhältnis verjähren erst nach fünf Jahren."
-        },
-        {
-          "text": "5 Jahre",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "10 Jahre",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Ansprüche aus dem Arbeitsverhältnis verjähren erst nach fünf Jahren."
+          "feedback": "❌ Falsch. Grundsätzlich muss der Arbeitgeber den Lohn zahlen und kann nicht einfach verlangen, dass die <strong>Zeit nachgearbeitet</strong> wird oder <strong>Ferien genommen</strong> werden."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Was ist KEIN Beispiel für eine Situation, die zu Minusstunden führen kann?</p>",
+      "question": "<p>Wie heisst die spezielle Regelung im Gastgewerbe, die im Text erwähnt wird?</p>",
       "options": [
         {
-          "text": "Krankheit",
+          "text": "Überstundenkompensation",
           "is_correct": false,
-          "feedback": "❌ Falsch. Überstundenabbau führt zu weniger Arbeitszeit, aber nicht zu Minusstunden."
+          "feedback": "❌ Falsch. Überstundenkompensation bezieht sich auf den Abbau von bereits geleisteten Überstunden."
         },
         {
           "text": "Kurzarbeit",
           "is_correct": false,
-          "feedback": "❌ Falsch. Überstundenabbau führt zu weniger Arbeitszeit, aber nicht zu Minusstunden."
+          "feedback": "❌ Falsch. Kurzarbeit ist ein anderes Instrument und wurde im Text nicht als die spezielle Regelung im Gastgewerbe genannt."
         },
         {
-          "text": "Überstundenabbau",
+          "text": "Vorkompensation",
           "is_correct": true,
-          "feedback": "✅ Richtig!"
+          "feedback": "✅ Richtig! Im Gastgewerbe gibt es gemäss Gesamtarbeitsvertrag die Möglichkeit der <strong>Vorkompensation</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie lange ist die Verjährungsfrist für Ansprüche aus dem Arbeitsverhältnis laut Text?</p>",
+      "options": [
+        {
+          "text": "Ein Jahr",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die im Text genannte Frist ist länger."
         },
         {
-          "text": "Betriebsferien",
+          "text": "Fünf Jahre",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ansprüche aus dem Arbeitsverhältnis verjähren erst nach <strong>fünf Jahren</strong>."
+        },
+        {
+          "text": "Zehn Jahre",
           "is_correct": false,
-          "feedback": "❌ Falsch. Überstundenabbau führt zu weniger Arbeitszeit, aber nicht zu Minusstunden."
+          "feedback": "❌ Falsch. Die Verjährungsfrist ist kürzer als zehn Jahre."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Darf man laut Text ins Minus fallen, wenn man krank ist?</p>",
+      "options": [
+        {
+          "text": "Ja, Krankheit führt automatisch zu Minusstunden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Text sagt explizit das Gegenteil."
+        },
+        {
+          "text": "Nein, man darf nicht ins Minus fallen, wenn man krank ist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Text erwähnt am Ende klar, dass man <strong>nicht ins Minus fallen</strong> darf, wenn man <strong>krank</strong> ist."
+        },
+        {
+          "text": "Das hängt vom jeweiligen Arbeitsvertrag ab.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Text stellt dies als allgemeine Regel dar, dass Krankheit <strong>nicht zu Minusstunden</strong> führt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es grundsätzlich nicht erlaubt, Minusstunden mit Ferientagen zu verrechnen?</p>",
+      "options": [
+        {
+          "text": "Weil Ferientage nur für Erholungszwecke gedacht sind.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl Ferientage der Erholung dienen, ist der Hauptgrund für das Verbot der Verrechnung das <strong>Risiko des Arbeitgebers</strong>."
+        },
+        {
+          "text": "Weil der Arbeitgeber das Risiko von zu wenig Arbeit trägt und den Lohn trotzdem zahlen muss.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der <strong>Arbeitgeber trägt das Betriebsrisiko</strong>, dazu gehört auch Auftragsmangel. Er kann dieses Risiko nicht einfach durch <strong>Ferienabzug</strong> auf den Arbeitnehmer abwälzen."
+        },
+        {
+          "text": "Weil Angestellte immer das Recht haben, ihre Ferientage frei zu wählen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Zwar sollen Ferienwünsche berücksichtigt werden, aber der Hauptgrund liegt im <strong>Betriebsrisiko des Arbeitgebers</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet \"Vorkompensation\" im Gastgewerbe praktisch für einen Angestellten?</p>",
+      "options": [
+        {
+          "text": "Der Angestellte muss dauerhaft weniger Stunden arbeiten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Vorkompensation bedeutet einen <strong>Ausgleich über die Zeit</strong>, nicht eine dauerhafte Reduktion."
+        },
+        {
+          "text": "Der Angestellte arbeitet in einer Woche weniger und dafür in einer anderen Woche mehr, sofern dies zumutbar ist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Es bedeutet, dass der Arbeitgeber verlangen kann, dass der Angestellte <strong>in einer Woche weniger</strong> arbeitet und dies <strong>in einer anderen Woche nachholt</strong> (mehr arbeitet), wenn es <strong>zumutbar</strong> ist."
+        },
+        {
+          "text": "Der Angestellte erhält einen Vorschuss auf zukünftige Überstunden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist eher das Gegenteil: Man leistet die <strong>Kompensation im Voraus</strong> für potenziell anfallende Mehrarbeit oder gleicht Schwankungen aus."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist das Kernproblem im Fall des Partners des Hörers?</p>",
+      "options": [
+        {
+          "text": "Der Partner hat freiwillig zu wenig gearbeitet.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Problem ist nicht das Verhalten des Partners, sondern das des <strong>Arbeitgebers</strong>."
+        },
+        {
+          "text": "Der Arbeitgeber hat bewusst Minusstunden geplant und diese dann von den Ferientagen abgezogen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Problem ist, dass der Arbeitgeber die <strong>Minusstunden bewusst einplant</strong> und sie dann unzulässigerweise <strong>von den Ferien abzieht</strong>."
+        },
+        {
+          "text": "Der Partner möchte mehr Ferien, als ihm zustehen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht um den <strong>unrechtmässigen Abzug</strong> von zustehenden Ferientagen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchen Rat gibt die Expertin dem Betroffenen, dessen Ferientage wegen Minusstunden gekürzt wurden?</p>",
+      "options": [
+        {
+          "text": "Er soll sofort kündigen, da die Situation unhaltbar ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine sofortige Kündigung wird nicht als erster Schritt empfohlen."
+        },
+        {
+          "text": "Er soll die Situation akzeptieren, da es im Gastgewerbe üblich ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Expertin sagt klar, dass der <strong>Ferienabzug nicht rechtens</strong> ist, auch wenn Vorkompensation möglich wäre."
+        },
+        {
+          "text": "Er soll mit dem Chef sprechen und die Gutschrift der Ferientage verlangen oder die Forderung später geltend machen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Rat ist, das <strong>Gespräch mit dem Chef</strong> zu suchen und die <strong>Gutschrift zu verlangen</strong>. Alternativ kann der Anspruch wegen der <strong>fünfjährigen Verjährungsfrist</strong> auch später, z.B. bei Austritt, geltend gemacht werden."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist die Konsequenz, wenn der Angestellte aus Angst vor Problemen mit dem Chef die ungerechtfertigte Ferienkürzung vorerst hinnimmt?</p>",
+      "options": [
+        {
+          "text": "Er verliert seinen Anspruch auf die Ferientage sofort.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Anspruch geht nicht sofort verloren."
+        },
+        {
+          "text": "Er kann den Anspruch auf die Ferientage noch bis zu fünf Jahre später geltend machen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Dank der <strong>fünfjährigen Verjährungsfrist</strong> kann er die Forderung auch <strong>später</strong>, zum Beispiel nach einer Kündigung, noch stellen."
+        },
+        {
+          "text": "Der Arbeitgeber darf die Ferienkürzung dann als rechtmässig betrachten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Hinnehmen ändert nichts an der <strong>Unrechtmässigkeit</strong> der Handlung des Arbeitgebers."
         }
       ]
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>Der Partner des Hörers hat sich beim Arbeitgeber beschwert.</p>",
-      "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Im Text steht, dass der Partner des Hörers keine \"Lämpen\" will und sich deshalb nicht wehrt.",
-      "feedback_incorrect": "❌ Richtig. Im Text steht, dass der Partner des Hörers keine \"Lämpen\" will und sich deshalb nicht wehrt."
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Die Expertin im Beitrag rät dem Partner des Hörers, die Ferientage am Ende des Arbeitsverhältnisses zurückzufordern.</p>",
+      "question": "<p>Laut Text gibt es im Gastgewerbe einen Gesamtarbeitsvertrag, der spezielle Regelungen wie die Vorkompensation erlaubt.</p>",
       "correct_answer": true,
-      "feedback_correct": "✅ Richtig! Gabriela Baumgartner rät dazu, die Ansprüche nach Beendigung des Arbeitsverhältnisses geltend zu machen.",
-      "feedback_incorrect": "❌ Falsch. Gabriela Baumgartner rät dazu, die Ansprüche nach Beendigung des Arbeitsverhältnisses geltend zu machen."
-    },
-    {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Was ist ein Gesamtarbeitsvertrag?</p>",
-      "options": [
-        {
-          "text": "Ein Vertrag zwischen einem einzelnen Arbeitnehmer und dem Arbeitgeber.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Ein GAV regelt die Arbeitsbedingungen für eine ganze Branche."
-        },
-        {
-          "text": "Ein Vertrag zwischen allen Arbeitnehmern eines Betriebs und dem Arbeitgeber.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Ein GAV regelt die Arbeitsbedingungen für eine ganze Branche."
-        },
-        {
-          "text": "Ein Vertrag zwischen einer Gewerkschaft und dem Arbeitgeberverband.",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "Ein Vertrag zwischen dem Staat und den Arbeitgebern.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Ein GAV regelt die Arbeitsbedingungen für eine ganze Branche."
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Welches Recht schützt den Arbeitnehmer vor ungerechtfertigten Abzügen vom Lohn?</p>",
-      "options": [
-        {
-          "text": "Mietrecht",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Das Arbeitsrecht regelt die Rechte und Pflichten von Arbeitnehmern und Arbeitgebern."
-        },
-        {
-          "text": "Strafrecht",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Das Arbeitsrecht regelt die Rechte und Pflichten von Arbeitnehmern und Arbeitgebern."
-        },
-        {
-          "text": "Arbeitsrecht",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "Verfassungsrecht",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Das Arbeitsrecht regelt die Rechte und Pflichten von Arbeitnehmern und Arbeitgebern."
-        }
-      ]
+      "feedback_correct": "✅ Richtig! Der Text erwähnt explizit den <strong>Gesamtarbeitsvertrag</strong> im <strong>Gastgewerbe</strong> als Grundlage für die Ausnahme der <strong>Vorkompensation</strong>.",
+      "feedback_incorrect": "❌ Falsch. Der Text nennt den <strong>Gesamtarbeitsvertrag</strong> im <strong>Gastgewerbe</strong> als Grund für die Möglichkeit der <strong>Vorkompensation</strong>."
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>Minusstunden entstehen, wenn der Arbeitnehmer weniger arbeitet als vertraglich vereinbart.</p>",
-      "correct_answer": true,
-      "feedback_correct": "✅ Richtig! Minusstunden bedeuten, dass der Arbeitnehmer dem Arbeitgeber Arbeitszeit \"schuldet\".",
-      "feedback_incorrect": "❌ Falsch. Minusstunden bedeuten, dass der Arbeitnehmer dem Arbeitgeber Arbeitszeit \"schuldet\"."
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Der Radiobeitrag erwähnt die Corona-Erwerbsausfallentschädigung als Beispiel für Minusstunden.</p>",
+      "question": "<p>Die im Text genannte Verjährungsfrist für arbeitsrechtliche Ansprüche beträgt drei Jahre.</p>",
       "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Die Kurzarbeitsentschädigung wurde erwähnt, aber nicht als Beispiel für Minusstunden.",
-      "feedback_incorrect": "❌ Richtig. Die Kurzarbeitsentschädigung wurde erwähnt, aber nicht als Beispiel für Minusstunden."
+      "feedback_correct": "✅ Richtig! Die Aussage ist falsch. Die genannte Verjährungsfrist beträgt <strong>fünf Jahre</strong>.",
+      "feedback_incorrect": "❌ Falsch. Der Text nennt eine Verjährungsfrist von <strong>fünf Jahren</strong>, nicht drei."
     },
     {
-      "type": "MultipleChoice",
+      "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>Welcher Sender hat den Beitrag ausgestrahlt?</p>",
-      "options": [
-        {
-          "text": "SRF 1",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Beitrag stammt von der Sendung Kassensturz-Espresso."
-        },
-        {
-          "text": "SRF 2 Kultur",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Beitrag stammt von der Sendung Kassensturz-Espresso."
-        },
-        {
-          "text": "SRF 3",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Beitrag stammt von der Sendung Kassensturz-Espresso."
-        },
-        {
-          "text": "SRF Kassensturz-Espresso",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        }
-      ]
+      "question": "<p>Der Text erwähnt, dass während der Corona-Pandemie viele Angestellte Minusstunden ansammelten, weil Geschäfte geschlossen waren.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Text beginnt mit dem Beispiel der <strong>Corona-Pandemie</strong>, bei der Angestellte <strong>zuhause bleiben</strong> mussten, was zu Situationen führte, die Minusstunden ähneln (obwohl es Lohn/Entschädigung gab).",
+      "feedback_incorrect": "❌ Falsch. Der Text nutzt die <strong>Corona-Pandemie</strong> als einleitendes Beispiel für Situationen, in denen Angestellte <strong>nicht arbeiten</strong> konnten."
     },
     {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Aus welchem Kanton stammt der Hörer?</p>",
-      "options": [
-        {
-          "text": "Zürich",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "Bern",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Im Text wird erwähnt, dass der Hörer aus dem Kanton Zürich stammt."
-        },
-        {
-          "text": "Basel",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Im Text wird erwähnt, dass der Hörer aus dem Kanton Zürich stammt."
-        },
-        {
-          "text": "St. Gallen",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Im Text wird erwähnt, dass der Hörer aus dem Kanton Zürich stammt."
-        }
-      ]
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Gemäss der Expertin ist es rechtlich zulässig, dass ein Arbeitgeber bewusst weniger Arbeit einplant und die resultierenden Minusstunden von den Ferien abzieht.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Aussage ist falsch. Die Expertin stellt klar, dass das <strong>planmässige Erzeugen von Minusstunden</strong> und deren <strong>Abzug von den Ferien</strong> ganz klar <strong>nicht geht</strong>.",
+      "feedback_incorrect": "❌ Falsch. Die Expertin betont, dass genau dieses Vorgehen – <strong>Minusstunden planen</strong> und <strong>von Ferien abziehen</strong> – rechtlich <strong>nicht zulässig</strong> ist."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Regelung der \"Vorkompensation\" bedeutet, dass Angestellte im Gastgewerbe generell weniger Lohn für ihre Arbeit erhalten.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Aussage ist falsch. Vorkompensation bezieht sich auf die <strong>flexible Verteilung der Arbeitszeit</strong> (mal weniger, mal mehr arbeiten), nicht auf eine generelle Lohnkürzung.",
+      "feedback_incorrect": "❌ Falsch. Bei der <strong>Vorkompensation</strong> geht es um die <strong>zeitliche Verteilung der Arbeit</strong>, um Schwankungen auszugleichen, nicht um eine Reduzierung des Lohns."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein Angestellter, der sich aus Angst vor Konflikten nicht sofort gegen eine ungerechtfertigte Ferienkürzung wehrt, verliert dadurch seinen Anspruch endgültig.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Aussage ist falsch. Wegen der <strong>fünfjährigen Verjährungsfrist</strong> kann der Anspruch auch <strong>später noch geltend gemacht</strong> werden.",
+      "feedback_incorrect": "❌ Falsch. Der Anspruch bleibt bestehen und kann aufgrund der <strong>fünfjährigen Verjährungsfrist</strong> auch <strong>zu einem späteren Zeitpunkt</strong> eingefordert werden."
     }
   ]
 }

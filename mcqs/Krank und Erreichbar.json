@@ -1,0 +1,329 @@
+{
+  "title": "Verständnisfragen Krank und erreichbar",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2024/05/Espresso-radio-04d83ddb-0f38-45f0-8844-73baf84fad85.mp3",
+    "source": "https://www.srf.ch/sendungen/kassensturz-espresso/rechtsfragen/arbeitsrecht/arbeitsunfaehig-muss-ich-per-whatsapp-erreichbar-sein-wenn-ich-krank-bin"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was forderte die Chefin per WhatsApp von der kranken Mitarbeiterin, nachdem sie ihr gute Besserung gewünscht hatte?</p>",
+      "options": [
+        {
+          "text": "Sie solle sofort wieder zur Arbeit kommen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Chefin wünschte gute Besserung und bat darum, eine <strong>E-Mail zu beantworten</strong>, nicht sofort zur Arbeit zurückzukehren."
+        },
+        {
+          "text": "Sie solle eine E-Mail beantworten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Chefin bat die Mitarbeiterin, eine <strong>E-Mail zu beantworten</strong>, die sie ihr geschickt hatte."
+        },
+        {
+          "text": "Sie solle ein Arztzeugnis einreichen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Text wird erwähnt, dass man unter Umständen ein Arztzeugnis bringen muss, aber das war nicht die <strong>konkrete Forderung</strong> in der WhatsApp-Nachricht."
+        },
+        {
+          "text": "Sie solle an einer Telefonkonferenz teilnehmen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es wurde keine <strong>Telefonkonferenz</strong> erwähnt, sondern das Beantworten einer E-Mail."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wer beurteilt laut der Rechtsexpertin, ob eine Person ganz oder nur teilweise arbeitsunfähig ist?</p>",
+      "options": [
+        {
+          "text": "Die Chefin oder der Chef.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Chefin oder der Chef darf dies <strong>nicht beurteilen</strong>; es ist eine medizinische Frage."
+        },
+        {
+          "text": "Die Mitarbeiterin oder der Mitarbeiter selbst.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl man sich krank fühlt, ist die <strong>offizielle Beurteilung</strong> der Arbeitsunfähigkeit eine medizinische Angelegenheit."
+        },
+        {
+          "text": "Eine Ärztin oder ein Arzt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Beurteilung der <strong>Arbeitsunfähigkeit</strong> ist eine <strong>medizinische Frage</strong>, die von einer <strong>Ärztin oder einem Arzt</strong> vorgenommen wird."
+        },
+        {
+          "text": "Die Personalabteilung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Personalabteilung verwaltet zwar Krankmeldungen, aber die <strong>medizinische Beurteilung</strong> kommt vom Arzt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie nennt man die Pflicht der Angestellten, dem Arbeitgeber gegenüber loyal zu sein und bestimmte Informationen (z.B. Krankheit) zu melden?</p>",
+      "options": [
+        {
+          "text": "Informationspflicht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl das Melden von Informationen Teil davon ist, ist der <strong>übergeordnete Begriff</strong> die Treuepflicht."
+        },
+        {
+          "text": "Sorgfaltspflicht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Sorgfaltspflicht bezieht sich eher auf die <strong>Ausführung der Arbeit</strong> selbst."
+        },
+        {
+          "text": "Treuepflicht",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Pflicht, den Arbeitgeber z.B. über eine Krankheit zu informieren und dessen Interessen zu wahren, wird als <strong>Treuepflicht</strong> bezeichnet."
+        },
+        {
+          "text": "Meldepflicht",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Meldepflicht ist ein Teil der Treuepflicht, aber <strong>Treuepflicht</strong> ist der <strong>korrekte juristische Begriff</strong> im Kontext."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was müssen Angestellte gemäss ihrer Treuepflicht als Erstes tun, wenn sie krank werden?</p>",
+      "options": [
+        {
+          "text": "Ein Arztzeugnis organisieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Arztzeugnis ist eventuell später nötig (\"unter Umständen\"), aber die <strong>sofortige Information</strong> hat Priorität."
+        },
+        {
+          "text": "Die Arbeit von zu Hause erledigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Wenn man krank ist, muss man <strong>nicht arbeiten</strong>."
+        },
+        {
+          "text": "Den Arbeitgeber sofort informieren.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Teil der Treuepflicht ist es, den Arbeitgeber <strong>sofort über die Krankheit zu informieren</strong>."
+        },
+        {
+          "text": "Kollegen bitten, die Arbeit zu übernehmen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Information des Arbeitgebers</strong> ist der erste Schritt, nicht die Organisation der Vertretung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Art von Nachricht darf eine Chefin oder ein Chef einer kranken Mitarbeiterin auf ihr privates Handy senden, ohne dass es problematisch ist?</p>",
+      "options": [
+        {
+          "text": "Arbeitsaufträge für den nächsten Tag.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Arbeitsaufträge</strong> sind nicht in Ordnung, wenn jemand krankgeschrieben ist."
+        },
+        {
+          "text": "Eine Frage nach dem aktuellen Gesundheitszustand und Genesungswünsche.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Nach dem <strong>Wohlbefinden zu fragen</strong> oder <strong>gute Besserung zu wünschen</strong>, ist laut Expertin in der Regel erlaubt."
+        },
+        {
+          "text": "Eine Aufforderung, sofort zurückzurufen, um Arbeitsdetails zu besprechen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Besprechen von <strong>Arbeitsdetails</strong> fällt unter Arbeit und ist bei voller Arbeitsunfähigkeit nicht zumutbar."
+        },
+        {
+          "text": "Eine Kontrollfrage, ob die Mitarbeiterin wirklich zu Hause ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Kontrollnachrichten</strong> sind nicht erlaubt und können Druck erzeugen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es gemäss der Expertin generell nicht zulässig, von vollständig arbeitsunfähigen Mitarbeitenden die Erledigung von Aufgaben wie E-Mail-Beantwortung zu verlangen?</p>",
+      "options": [
+        {
+          "text": "Weil die Mitarbeitenden während der Krankheit keine Lohnfortzahlung erhalten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Lohnfortzahlung ist gesetzlich geregelt, aber der <strong>Grund für die Arbeitsbefreiung</strong> ist die Notwendigkeit der Erholung."
+        },
+        {
+          "text": "Weil die Mitarbeitenden sich auf ihre Genesung konzentrieren sollen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Wenn man krank ist, soll man <strong>nicht arbeiten</strong>, sondern sich <strong>erholen und gesund werden</strong>. Das ist der Hauptgrund."
+        },
+        {
+          "text": "Weil die Qualität der Arbeit während einer Krankheit nicht garantiert werden kann.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl die Qualität leiden könnte, ist der <strong>zentrale Grund</strong> die Notwendigkeit der Genesung und die Befreiung von der Arbeitspflicht."
+        },
+        {
+          "text": "Weil die Kommunikation per E-Mail während der Krankheit zu langsam ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Geschwindigkeit der Kommunikation</strong> ist hier nicht das relevante Argument."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Unter welcher Bedingung könnte die Kontaktaufnahme über private Kanäle wie WhatsApp im beruflichen Kontext laut der Expertin als üblich oder akzeptiert gelten?</p>",
+      "options": [
+        {
+          "text": "Wenn die Chefin keine andere Kontaktmöglichkeit hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>fehlende Alternative</strong> macht die Kontaktaufnahme nicht automatisch zulässig für Arbeitsanweisungen im Krankheitsfall."
+        },
+        {
+          "text": "Wenn es im Betrieb generell üblich ist, auch privat-beruflich zu kommunizieren.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Expertin sagt, es komme darauf an, was <strong>in einem Betrieb üblich</strong> ist, ob man auch über <strong>private Kanäle beruflich</strong> kommuniziert."
+        },
+        {
+          "text": "Wenn die Mitarbeiterin dem explizit für Krankheitsfälle zugestimmt hat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine explizite Zustimmung wird nicht als Kriterium genannt; es geht um die <strong>allgemeine betriebliche Übung</strong>."
+        },
+        {
+          "text": "Wenn es sich um einen Notfall handelt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Notfall könnte eine Ausnahme sein, aber die Expertin bezieht sich auf die <strong>generelle betriebliche Praxis</strong> als Hauptfaktor."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welchem Zweck dient primär die Pflicht der Angestellten, den Arbeitgeber über die voraussichtliche Dauer der krankheitsbedingten Abwesenheit zu informieren?</p>",
+      "options": [
+        {
+          "text": "Um Mitleid bei der Chefin zu erregen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Information dient <strong>sachlichen Zwecken</strong>, nicht emotionalen."
+        },
+        {
+          "text": "Um die Lohnfortzahlung sicherzustellen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Lohnfortzahlung hängt von der Krankmeldung und ggf. dem Arztzeugnis ab, aber die <strong>Information über die Dauer</strong> dient primär der Planung."
+        },
+        {
+          "text": "Damit der Arbeitgeber den Personaleinsatz planen kann.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Information über die <strong>voraussichtliche Dauer</strong> ermöglicht es dem Arbeitgeber, <strong>vernünftig zu planen</strong> (z.B. Vertretungen)."
+        },
+        {
+          "text": "Um zu beweisen, dass man wirklich krank ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beweis der Krankheit erfolgt primär durch das <strong>Arztzeugnis</strong>, nicht allein durch die Angabe der Dauer."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was beschreibt ein Beispiel für eine inakzeptable Kontaktaufnahme durch den Arbeitgeber während einer Krankheit, die über blosse Nachfragen hinausgeht?</p>",
+      "options": [
+        {
+          "text": "Eine einmalige Nachfrage per SMS, wie es der Mitarbeiterin geht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine <strong>einmalige Nachfrage</strong> nach dem Befinden ist laut Expertin in Ordnung."
+        },
+        {
+          "text": "Das Zusenden von Genesungswünschen per Postkarte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. <strong>Genesungswünsche</strong> sind eine normale soziale Geste und keine unzulässige Kontaktaufnahme."
+        },
+        {
+          "text": "Ständige Anrufe oder Nachrichten zur Kontrolle oder um Druck auszuüben.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! <strong>Ständige Anrufe oder SMS</strong> zur <strong>Kontrolle</strong> oder um ein <strong>schlechtes Gewissen</strong> zu machen, gehen laut Expertin zu weit."
+        },
+        {
+          "text": "Die Bitte, nach Genesung kurz über den Krankheitsverlauf zu berichten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine solche Bitte nach der Genesung ist nicht per se unzulässig, im Gegensatz zu <strong>ständiger Kontrolle während</strong> der Krankheit."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was empfiehlt die Rechtsexpertin, um Missverständnisse und Konflikte bezüglich der Erreichbarkeit während längerer Krankheitsphasen zu vermeiden?</p>",
+      "options": [
+        {
+          "text": "Den Kontakt zum Arbeitgeber komplett zu vermeiden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein kompletter Kontaktabbruch ist nicht ratsam und widerspricht der Treuepflicht bezüglich Updates zur Abwesenheit. Die Empfehlung zielt auf <strong>klare Regeln</strong>."
+        },
+        {
+          "text": "Nur noch schriftlich per Einschreiben zu kommunizieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Einschreiben ist nicht die empfohlene Methode; es geht um eine <strong>Vereinbarung über Kanäle und Häufigkeit</strong>."
+        },
+        {
+          "text": "Von Anfang an Kommunikationswege und -frequenzen klar abzumachen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Expertin empfiehlt, von Anfang an klar abzumachen, auf welchen <strong>Kanälen man in Kontakt</strong> bleiben will und in welchen <strong>Abständen man sich meldet</strong>."
+        },
+        {
+          "text": "Sich täglich beim Arbeitgeber zu melden, um Kooperation zu zeigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Tägliches Melden ist nicht gefordert und könnte über das Notwendige hinausgehen. Die Empfehlung ist eine <strong>individuelle Absprache</strong>."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Laut der Expertin darf die Chefin selbst entscheiden, ob eine Mitarbeiterin nur leicht krank ist und daher noch E-Mails beantworten kann.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Beurteilung der Arbeitsunfähigkeit ist eine medizinische Frage für einen Arzt oder eine Ärztin, nicht für die Chefin.",
+      "feedback_incorrect": "❌ Falsch. Die Chefin darf dies nicht entscheiden. Ob jemand arbeitsfähig ist oder nicht, muss eine Ärztin oder ein Arzt beurteilen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Gemäss der Expertin müssen Angestellte bei jeder Krankheit sofort ein Arztzeugnis vorlegen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Expertin sagt, man müsse \"unter Umständen\" ein Arztzeugnis bringen, also nicht zwingend sofort und bei jeder Krankheit. Die Pflicht dazu hängt oft von der Dauer der Abwesenheit oder den betrieblichen Regelungen ab.",
+      "feedback_incorrect": "❌ Falsch. Die Pflicht zum Vorlegen eines Arztzeugnisses besteht nicht immer sofort, sondern nur \"unter Umständen\", z.B. nach einer bestimmten Anzahl Krankheitstagen gemäss Arbeitsvertrag oder Gesetz."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Treuepflicht beinhaltet, dass Angestellte auch während der Krankheit für Arbeitsanfragen erreichbar sein müssen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Treuepflicht umfasst die Meldung der Krankheit und Informationen zur Dauer, aber nicht die Pflicht, während der Arbeitsunfähigkeit Arbeitsaufgaben zu erledigen oder dafür erreichbar zu sein.",
+      "feedback_incorrect": "❌ Falsch. Die Treuepflicht verpflichtet zur Information über die Abwesenheit, aber nicht zur Erledigung von Arbeit oder ständiger Erreichbarkeit für Arbeitsanweisungen während der Krankheit."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Kontaktaufnahme über das private Handy einer kranken Mitarbeiterin für Arbeitsaufträge ist grundsätzlich unzulässig, wenn diese vollständig arbeitsunfähig geschrieben ist.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Wenn jemand vollständig arbeitsunfähig ist, muss die Person nicht arbeiten. Arbeitsaufträge, auch via privatem Handy, sind dann nicht zulässig, da sie der Pflicht zur Genesung widersprechen.",
+      "feedback_incorrect": "❌ Falsch! Wenn eine Mitarbeiterin vollständig arbeitsunfähig ist, muss sie sich erholen und nicht arbeiten. Arbeitsaufträge sind daher unzulässig, unabhängig vom Kommunikationskanal."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein wesentlicher Grund für die Informationspflicht des Arbeitnehmers bezüglich seiner Krankheit ist die Wahrung der betrieblichen Planbarkeit für den Arbeitgeber.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Die Information, insbesondere über die voraussichtliche Dauer, ist wichtig, damit der Arbeitgeber planen kann (z.B. Einsatzplanung, Vertretung). Dies ist Teil der Treuepflicht.",
+      "feedback_incorrect": "❌ Falsch! Die Information über die Krankheit und deren Dauer dient tatsächlich massgeblich dazu, dem Arbeitgeber die notwendige Planung zu ermöglichen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine klare Absprache über die Kommunikation während der Krankheit kann Angestellten helfen, sich besser gegen unangemessene Kontaktaufnahmen durch den Arbeitgeber abzugrenzen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Wenn von Anfang an klar ist, wie und wann kommuniziert wird, können sich Angestellte eher darauf berufen und müssen nicht auf jede Nachricht reagieren, was zur Abgrenzung beiträgt.",
+      "feedback_incorrect": "❌ Falsch! Die Expertin empfiehlt genau dies: Klare Absprachen helfen, Erwartungen zu managen und sich abzugrenzen, wenn z.B. zu häufig oder zur falschen Zeit Kontakt aufgenommen wird."
+    }
+  ]
+}

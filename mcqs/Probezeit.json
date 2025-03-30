@@ -1,274 +1,329 @@
 {
-  "title": "Probezeit",
+  "title": "Verständnisfragen Probezeit",
+  "headerImage": "img1.jpg",
   "media": {
-    "type": "",
-    "url": "",
-    "source": ""
+      "type": "mp3",
+      "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2023/03/Espresso_09-03-2023-814.mp3",
+      "source": "https://www.srf.ch/sendungen/kassensturz-espresso/rechtsfragen/sonstiges-recht/probezeit-darf-mir-die-firma-kuendigen-wenn-ich-krank-bin"
   },
   "questions": [
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Was geschah mit dem Hörer während seiner Probezeit?</p>",
+      "question": "<p>Wie lange darf die Probezeit gemäss den Informationen im Beitrag maximal dauern?</p>",
       "options": [
         {
-          "text": "Er wurde befördert.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Hörer wurde während seiner Probezeit krank und anschliessend gekündigt."
-        },
-        {
-          "text": "Er wurde krank und erhielt die Kündigung.",
+          "text": "3 Monate",
           "is_correct": true,
-          "feedback": "✅ Richtig!"
+          "feedback": "✅ Richtig! Der Beitrag erwähnt, dass die Probezeit normalerweise <strong>nicht länger als drei Monate</strong> dauern darf."
         },
         {
-          "text": "Er kündigte selbst.",
+          "text": "6 Monate",
           "is_correct": false,
-          "feedback": "❌ Falsch. Der Hörer wurde während seiner Probezeit krank und anschliessend gekündigt."
+          "feedback": "❌ Falsch. Die gesetzliche <strong>Maximaldauer</strong> für die Probezeit beträgt <strong>drei Monate</strong>."
         },
         {
-          "text": "Er wechselte die Abteilung.",
+          "text": "1 Monat",
           "is_correct": false,
-          "feedback": "❌ Falsch. Der Hörer wurde während seiner Probezeit krank und anschliessend gekündigt."
+          "feedback": "❌ Falsch. Ein Monat ist eine mögliche Dauer, aber nicht die <strong>maximale Dauer</strong>. Die Probezeit darf bis zu <strong>drei Monate</strong> dauern."
+        },
+        {
+            "text": "Solange wie der Arbeitgeber möchte",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Dauer der Probezeit ist gesetzlich auf <strong>maximal drei Monate</strong> begrenzt."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Gilt der Kündigungsschutz während der Probezeit?</p>",
+      "question": "<p>Gilt der gesetzliche Kündigungsschutz während der Probezeit?</p>",
       "options": [
         {
-          "text": "Ja, uneingeschränkt.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Während der Probezeit gilt der Kündigungsschutz nicht."
-        },
-        {
-          "text": "Nein, gar nicht.",
+          "text": "Nein, der Kündigungsschutz gilt erst nach der Probezeit.",
           "is_correct": true,
-          "feedback": "✅ Richtig!"
+          "feedback": "✅ Richtig! Der Beitrag erklärt, dass der <strong>Kündigungsschutz</strong> (z.B. bei Krankheit, Unfall, Schwangerschaft) erst <strong>nach Ablauf der Probezeit</strong> greift."
         },
         {
-          "text": "Nur bei Krankheit.",
+          "text": "Ja, der Kündigungsschutz gilt ab dem ersten Arbeitstag.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Während der Probezeit gilt der Kündigungsschutz nicht."
+          "feedback": "❌ Falsch. Der <strong>Kündigungsschutz</strong> gilt gemäss Gesetz <strong>erst nach der Probezeit</strong>."
         },
         {
-          "text": "Nur bei Schwangerschaft.",
+          "text": "Nur bei Krankheit, aber nicht bei Unfall.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Während der Probezeit gilt der Kündigungsschutz nicht."
+          "feedback": "❌ Falsch. Der <strong>Kündigungsschutz</strong> umfasst verschiedene Situationen, gilt aber generell <strong>erst nach der Probezeit</strong>."
+        },
+        {
+            "text": "Ja, aber nur für Frauen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der <strong>Kündigungsschutz</strong> gilt für alle Angestellten, aber eben <strong>erst nach der Probezeit</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Darf ein Arbeitgeber einem Angestellten während der Probezeit kündigen, wenn dieser krank ist?</p>",
+      "options": [
+        {
+          "text": "Ja, eine Kündigung ist auch bei Krankheit während der Probezeit möglich.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Beitrag stellt klar, dass eine <strong>Kündigung während der Probezeit</strong> auch möglich ist, wenn der Angestellte <strong>krank</strong> ist, da der Kündigungsschutz noch nicht gilt."
+        },
+        {
+          "text": "Nein, bei Krankheit besteht immer ein Kündigungsschutz.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Kündigungsschutz bei Krankheit</strong> greift erst <strong>nach der Probezeit</strong>."
+        },
+        {
+          "text": "Nur, wenn die Krankheit länger als eine Woche dauert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Dauer der Krankheit spielt für die Möglichkeit der <strong>Kündigung während der Probezeit</strong> keine Rolle."
+        },
+        {
+            "text": "Nur mit Zustimmung des Arztes.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Zustimmung eines Arztes ist für eine <strong>Kündigung während der Probezeit</strong> nicht erforderlich."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ist der Arbeitgeber gesetzlich verpflichtet, den Lohn zu zahlen, wenn ein Angestellter während der Probezeit krank wird und deshalb nicht arbeiten kann?</p>",
+      "options": [
+        {
+          "text": "Nein, es besteht keine gesetzliche Pflicht zur Lohnzahlung bei Krankheit während der Probezeit.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Laut Gesetz besteht <strong>keine Pflicht zur Lohnfortzahlung</strong> bei Krankheit während der <strong>Probezeit</strong>, ausser es gibt eine Krankentaggeldversicherung."
+        },
+        {
+          "text": "Ja, der volle Lohn muss immer bezahlt werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Gesetz sieht <strong>keine Lohnfortzahlungspflicht</strong> während der <strong>Probezeit</strong> bei Krankheit vor."
+        },
+        {
+          "text": "Ja, aber nur für maximal drei Tage.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt <strong>keine gesetzliche Pflicht</strong> zur Lohnzahlung bei Krankheit während der <strong>Probezeit</strong>, unabhängig von der Dauer."
+        },
+        {
+            "text": "Nur, wenn der Arbeitnehmer eine Arztzeugnis vorlegt.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Auch mit Arztzeugnis besteht <strong>keine gesetzliche Pflicht</strong> zur Lohnzahlung bei Krankheit während der <strong>Probezeit</strong>."
+        }
+      ]
+    },
+     {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche typischen Dauern für eine Probezeit werden im Beitrag genannt?</p>",
+      "options": [
+        {
+          "text": "Ein, zwei oder drei Monate.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Beitrag erwähnt explizit <strong>einen, zwei oder drei Monate</strong> als übliche Dauer für die <strong>Probezeit</strong>."
+        },
+        {
+          "text": "Nur drei Monate.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Drei Monate ist die Maximaldauer, aber der Beitrag nennt auch <strong>ein oder zwei Monate</strong> als üblich."
+        },
+        {
+          "text": "Sechs Monate.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sechs Monate ist länger als die gesetzlich erlaubte <strong>Maximaldauer von drei Monaten</strong>."
+        },
+        {
+          "text": "Immer nur einen Monat.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Monat ist möglich, aber die Probezeit kann auch <strong>zwei oder drei Monate</strong> dauern."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist eine Kündigung während der Probezeit für den Arbeitgeber einfacher als nach der Probezeit?</p>",
+      "options": [
+        {
+          "text": "Weil der gesetzliche Kündigungsschutz für Angestellte noch nicht gilt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Hauptgrund ist, dass der <strong>Kündigungsschutz</strong> (z.B. bei Krankheit) während der <strong>Probezeit ausgesetzt</strong> ist."
+        },
+        {
+          "text": "Weil die Kündigungsfrist länger ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Kündigungsfrist während der Probezeit ist in der Regel <strong>kürzer</strong>, nicht länger."
+        },
+        {
+          "text": "Weil der Arbeitgeber keine Gründe angeben muss.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Auch nach der Probezeit muss der Arbeitgeber eine Kündigung nicht immer begründen (ausser auf Verlangen), der entscheidende Unterschied ist der fehlende <strong>Schutz vor Kündigung zur Unzeit</strong>."
+        },
+        {
+            "text": "Weil der Lohn während der Probezeit niedriger ist.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Lohn hat keinen direkten Einfluss auf die <strong>Einfachheit der Kündigung</strong>; der fehlende <strong>Kündigungsschutz</strong> ist entscheidend."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Weshalb war es im Fall des Hörers zulässig, nach dem Temporäreinsatz eine erneute Probezeit im festen Vertrag zu vereinbaren?</p>",
+      "options": [
+        {
+          "text": "Weil er während des Temporäreinsatzes wahrscheinlich bei einer Temporärfirma, nicht direkt bei der Einsatzfirma angestellt war.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Beitrag erklärt, dass dies zulässig ist, weil man bei <strong>Temporäreinsätzen</strong> oft bei einer <strong>Temporärfirma angestellt</strong> ist und somit das Arbeitsverhältnis mit der Einsatzfirma neu beginnt."
+        },
+        {
+          "text": "Weil er in eine andere Abteilung wechselte.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beispiel des Hörers ging es um eine <strong>Festanstellung nach einem Temporäreinsatz</strong>, nicht um einen internen Abteilungswechsel."
+        },
+        {
+          "text": "Weil er eine Führungsfunktion übernahm.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Dies wird als Grund für eine neue Probezeit bei einem internen Wechsel genannt, war aber im <strong>Fall des Hörers</strong> nicht die Begründung."
+        },
+        {
+            "text": "Weil der erste Vertrag mündlich war.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Die Vertragsform (mündlich/schriftlich) ist nicht der Grund; entscheidend ist das <strong>Anstellungsverhältnis</strong> (Temporärfirma vs. Einsatzfirma)."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Unter welcher Bedingung könnte eine neue Probezeit gerechtfertigt sein, wenn jemand innerhalb desselben Betriebs die Stelle wechselt?</p>",
+      "options": [
+        {
+          "text": "Wenn die neue Tätigkeit sich grundlegend von der alten unterscheidet oder eine Führungsfunktion beinhaltet.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Eine neue Probezeit kann gerechtfertigt sein, wenn sich die <strong>Tätigkeit stark ändert</strong> oder eine <strong>Führungsfunktion</strong> übernommen wird, da sich die Parteien neu prüfen müssen."
+        },
+        {
+          "text": "Immer, wenn ein neuer Arbeitsvertrag unterschrieben wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein neuer Vertrag allein reicht nicht; es braucht eine <strong>substanzielle Änderung der Funktion</strong>, da man sich ja bereits kennt."
+        },
+        {
+          "text": "Nur, wenn der Lohn erhöht wird.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Lohnerhöhung ist kein Grund für eine neue Probezeit; die <strong>Art der Tätigkeit</strong> ist entscheidend."
+        },
+        {
+            "text": "Wenn der Mitarbeiter dies ausdrücklich wünscht.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Der Wunsch des Mitarbeiters allein ist keine ausreichende Begründung; es muss eine <strong>objektive Notwendigkeit</strong> zur erneuten Prüfung geben."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist gemäss Beitrag der Hauptzweck der Probezeit?</p>",
+      "options": [
+        {
+          "text": "Arbeitgeber und Arbeitnehmer sollen prüfen können, ob die Zusammenarbeit funktioniert.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Probezeit dient dem <strong>gegenseitigen Kennenlernen</strong> und der Prüfung, ob die <strong>Zusammenarbeit passt</strong>."
+        },
+        {
+          "text": "Dem Arbeitgeber die Möglichkeit zu geben, den Lohn kurzfristig anzupassen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Lohnanpassung ist nicht der <strong>Zweck der Probezeit</strong>; es geht um das <strong>Prüfen der Eignung</strong>."
+        },
+        {
+          "text": "Dem Arbeitnehmer zu ermöglichen, möglichst schnell wieder zu kündigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das ist zwar eine Folge der kürzeren Fristen, aber der <strong>Hauptzweck</strong> ist das <strong>gegenseitige Kennenlernen und Prüfen</strong>."
+        },
+        {
+            "text": "Den Arbeitnehmer auf seine Belastbarkeit zu testen.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Auch wenn die Leistung beurteilt wird, ist der Kernzweck das <strong>gegenseitige Kennenlernen</strong> und die <strong>Passung der Zusammenarbeit</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was sollte der Hörer im Beitrag überprüfen, um möglicherweise doch Geld für die Krankheitstage während der gekündigten Probezeit zu erhalten?</p>",
+      "options": [
+        {
+          "text": "Ob im Arbeitsvertrag eine Krankentaggeldversicherung erwähnt ist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Rechtsexpertin rät, im <strong>Arbeitsvertrag nachzuschauen</strong>, ob eine <strong>Krankentaggeldversicherung</strong> besteht, die zahlen könnte."
+        },
+        {
+          "text": "Ob sein Arzt ihm ein rückwirkendes Zeugnis ausstellt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Arztzeugnis ändert nichts an der fehlenden <strong>gesetzlichen Lohnfortzahlungspflicht</strong>; die <strong>Versicherung</strong> ist entscheidend."
+        },
+        {
+          "text": "Ob die Kündigung formell korrekt zugestellt wurde.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Korrektheit der Zustellung beeinflusst nicht die Frage der <strong>Lohnzahlung bei Krankheit</strong> während der Probezeit."
+        },
+        {
+            "text": "Ob er Anspruch auf Arbeitslosengeld hat.",
+            "is_correct": false,
+            "feedback": "❌ Falsch. Arbeitslosengeld ist eine andere Leistung; für die <strong>Lohnzahlung während der Krankheitstage</strong> ist die <strong>Krankentaggeldversicherung</strong> relevant."
         }
       ]
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>Eine erneute Probezeit nach einem Temporäreinsatz ist unzulässig.</p>",
+      "question": "<p>Laut Beitrag gilt der Kündigungsschutz bei Krankheit bereits während der Probezeit.</p>",
       "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Eine erneute Probezeit nach einem Temporäreinsatz ist zulässig.",
-      "feedback_incorrect": "❌ Richtig. Eine erneute Probezeit nach einem Temporäreinsatz ist zulässig."
+      "feedback_correct": "✅ Richtig! Der Beitrag erklärt, dass der Kündigungsschutz bei Krankheit erst nach der Probezeit greift.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag stellt klar, dass der Kündigungsschutz bei Krankheit während der Probezeit noch nicht gilt."
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>Bei Krankheit während der Probezeit hat man immer Anspruch auf Lohnfortzahlung.</p>",
+      "question": "<p>Die Probezeit darf gemäss den Informationen im Beitrag maximal sechs Monate dauern.</p>",
       "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Es besteht kein genereller Anspruch auf Lohnfortzahlung, ausser durch eine Krankentaggeldversicherung.",
-      "feedback_incorrect": "❌ Richtig. Es besteht kein genereller Anspruch auf Lohnfortzahlung, ausser durch eine Krankentaggeldversicherung."
-    },
-    {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>In welchem Fall kann innerhalb des gleichen Betriebs eine neue Probezeit vereinbart werden?</p>",
-      "options": [
-        {
-          "text": "Bei gleichbleibender Tätigkeit und Abteilung.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Eine neue Probezeit ist möglich, wenn der Arbeitnehmer eine neue Funktion oder Tätigkeit übernimmt."
-        },
-        {
-          "text": "Bei Krankheit des Arbeitnehmers.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Eine neue Probezeit ist möglich, wenn der Arbeitnehmer eine neue Funktion oder Tätigkeit übernimmt."
-        },
-        {
-          "text": "Bei Übernahme einer Führungsfunktion oder einer neuen Tätigkeit.",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "Nach Ablauf eines Jahres.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Eine neue Probezeit ist möglich, wenn der Arbeitnehmer eine neue Funktion oder Tätigkeit übernimmt."
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Was sollte ein Arbeitnehmer bei Krankheit während der Probezeit tun?</p>",
-      "options": [
-        {
-          "text": "Den Arbeitgeber nicht informieren.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Arbeitnehmer sollte prüfen, ob eine Krankentaggeldversicherung besteht und den Arbeitgeber informieren."
-        },
-        {
-          "text": "Im Arbeitsvertrag prüfen, ob eine Krankentaggeldversicherung besteht.",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "Sich selbstständig krankschreiben.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Arbeitnehmer sollte prüfen, ob eine Krankentaggeldversicherung besteht und den Arbeitgeber informieren."
-        },
-        {
-          "text": "Einen Anwalt konsultieren.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Arbeitnehmer sollte prüfen, ob eine Krankentaggeldversicherung besteht und den Arbeitgeber informieren."
-        }
-      ]
+      "feedback_correct": "✅ Richtig! Der Beitrag erwähnt, dass die Probezeit normalerweise nicht länger als drei Monate dauern darf.",
+      "feedback_incorrect": "❌ Falsch. Die maximal zulässige Dauer der Probezeit beträgt laut Beitrag drei Monate, nicht sechs."
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>Die maximale Dauer der Probezeit beträgt in der Regel drei Monate.</p>",
+      "question": "<p>Der im Beitrag erwähnte Hörer erhielt die Kündigung, während er krankgeschrieben war.</p>",
       "correct_answer": true,
-      "feedback_correct": "✅ Richtig! Die Probezeit darf in der Regel nicht länger als drei Monate dauern.",
-      "feedback_incorrect": "❌ Falsch. Die Probezeit darf in der Regel nicht länger als drei Monate dauern."
+      "feedback_correct": "✅ Richtig! Der Hörer berichtet, dass er die Kündigung erhielt, während er krank war.",
+      "feedback_incorrect": "❌ Falsch. Der Hörer gibt im Beitrag an, dass er die Kündigung noch während seiner Krankheit bekam."
     },
     {
       "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Der Hörer arbeitete im Bereich Maschinenbau.</p>",
-      "correct_answer": true,
-      "feedback_correct": "✅ Richtig! Der Hörer arbeitete im Maschinenbau.",
-      "feedback_incorrect": "❌ Falsch. Der Hörer arbeitete im Maschinenbau."
-    },
-    {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Wer hat die Rechtsauskunft im Beitrag gegeben?</p>",
-      "options": [
-        {
-          "text": "Stefan Wüterich",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Gabriela Baumgartner gab die Rechtsauskunft im Beitrag."
-        },
-        {
-          "text": "Gabriela Baumgartner",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "Der Hörer selbst",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Gabriela Baumgartner gab die Rechtsauskunft im Beitrag."
-        },
-        {
-          "text": "Ein unbekannter Anwalt",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Gabriela Baumgartner gab die Rechtsauskunft im Beitrag."
-        }
-      ]
-    },
-    {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Aus welchem Kanton kam der Hörer?</p>",
-      "options": [
-        {
-          "text": "Zürich",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Hörer kam aus dem Kanton St. Gallen."
-        },
-        {
-          "text": "Bern",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Hörer kam aus dem Kanton St. Gallen."
-        },
-        {
-          "text": "St. Gallen",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "Aargau",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Hörer kam aus dem Kanton St. Gallen."
-        }
-      ]
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Der Hörer war mit seiner Arbeit zufrieden.</p>",
-      "correct_answer": true,
-      "feedback_correct": "✅ Richtig! Der Hörer und seine Vorgesetzten waren mit seiner Arbeit zufrieden.",
-      "feedback_incorrect": "❌ Falsch. Der Hörer und seine Vorgesetzten waren mit seiner Arbeit zufrieden."
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Der Arbeitgeber muss die Kündigung während der Probezeit begründen.</p>",
+      "bloom_level": "Verstehen",
+      "question": "<p>Ein wesentlicher Vorteil der Probezeit für Arbeitnehmende ist der umfassende Schutz vor einer Kündigung durch den Arbeitgeber.</p>",
       "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Der Arbeitgeber muss die Kündigung während der Probezeit nicht begründen.",
-      "feedback_incorrect": "❌ Richtig. Der Arbeitgeber muss die Kündigung während der Probezeit nicht begründen."
+      "feedback_correct": "✅ Richtig! Der Beitrag hebt hervor, dass gerade der Kündigungsschutz während der Probezeit nicht gilt, was ein Nachteil ist. Der Vorteil liegt eher in der Möglichkeit, selbst schnell zu kündigen, wenn der Job nicht passt.",
+      "feedback_incorrect": "❌ Falsch. Während der Probezeit besteht gerade kein umfassender Kündigungsschutz; dieser gilt erst danach. Das ist ein wesentliches Risiko der Probezeit."
     },
     {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Welcher Aspekt ist bei einer Krankheit während der Probezeit besonders wichtig?</p>",
-      "options": [
-        {
-          "text": "Die Dauer der Krankheit",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Das Bestehen einer Krankentaggeldversicherung ist wichtig, da sonst kein Lohnfortzahlungsanspruch besteht."
-        },
-        {
-          "text": "Das Vorliegen eines Arztzeugnisses",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Das Bestehen einer Krankentaggeldversicherung ist wichtig, da sonst kein Lohnfortzahlungsanspruch besteht."
-        },
-        {
-          "text": "Die Art der Krankheit",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Das Bestehen einer Krankentaggeldversicherung ist wichtig, da sonst kein Lohnfortzahlungsanspruch besteht."
-        },
-        {
-          "text": "Das Bestehen einer Krankentaggeldversicherung",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        }
-      ]
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wenn ein Angestellter innerhalb der gleichen Firma die Abteilung wechselt, aber eine sehr ähnliche Tätigkeit ausübt, ist eine neue Probezeit gemäss den Erklärungen im Beitrag normalerweise nicht zulässig.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Der Beitrag erklärt, dass eine neue Probezeit bei einem internen Wechsel nur bei einer wesentlichen Änderung der Funktion gerechtfertigt ist, da man sich ja bereits kennt.",
+      "feedback_incorrect": "❌ Falsch. Laut Beitrag ist eine neue Probezeit bei einem internen Wechsel ohne wesentliche Funktionsänderung normalerweise nicht zulässig, weil der Zweck des Kennenlernens bereits erfüllt ist."
     },
     {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Wie lange arbeitete der Hörer temporär, bevor er fest angestellt wurde?</p>",
-      "options": [
-        {
-          "text": "Einen Monat",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Die genaue Dauer des Temporäreinsatzes wird im Beitrag nicht erwähnt."
-        },
-        {
-          "text": "Es wird nicht genau genannt",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "Drei Monate",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Die genaue Dauer des Temporäreinsatzes wird im Beitrag nicht erwähnt."
-        },
-        {
-          "text": "Sechs Monate",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Die genaue Dauer des Temporäreinsatzes wird im Beitrag nicht erwähnt."
-        }
-      ]
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Tatsache, dass der Arbeitgeber bei Krankheit während der Probezeit nicht zwingend Lohn zahlen muss, stellt für den Arbeitnehmer ein finanzielles Risiko dar.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Da keine gesetzliche Lohnfortzahlungspflicht besteht, trägt der Arbeitnehmer das Risiko, bei Krankheit während der Probezeit kein Einkommen zu haben, falls keine Krankentaggeldversicherung greift.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag beschreibt dies als \"Nachteil\" der Probezeit, da ohne Krankentaggeldversicherung der Lohnanspruch bei Krankheit entfällt, was ein klares finanzielles Risiko ist."
     }
   ]
 }

@@ -1,0 +1,329 @@
+{
+  "title": "Verständnisfragen Lohn bleibt aus",
+  "headerImage": "img1.jpg",
+  "media": {
+      "type": "mp3",
+      "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2023/01/Espresso_05-01-2023-814.mp3",
+      "source": "https://www.srf.ch/sendungen/kassensturz-espresso/rechtsfragen/arbeitsrecht/lohn-bleibt-aus-was-kann-ich-tun-wenn-der-lohn-nicht-kommt"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist laut dem Beitrag der erste Schritt, wenn der Lohn ausbleibt?</p>",
+      "options": [
+        {
+          "text": "Den Arbeitgeber sofort betreiben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Betreibung</strong> ist ein späterer Schritt, falls die Mahnung erfolglos bleibt."
+        },
+        {
+          "text": "Den Arbeitgeber mahnen (per SMS, Mail oder eingeschriebenem Brief).",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der erste Schritt ist, den <strong>Arbeitgeber zu mahnen</strong> und ihm eine Frist zur Zahlung zu setzen."
+        },
+        {
+          "text": "Sofort die Arbeit niederlegen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Arbeit niederlegen</strong> darf man erst, wenn der Arbeitgeber nach der Mahnung und Fristsetzung immer noch nicht zahlt."
+        },
+        {
+          "text": "Direkt beim Konkursamt Insolvenzentschädigung beantragen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Insolvenzentschädigung</strong> kommt erst ins Spiel, wenn ein Konkursverfahren eröffnet wurde."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche maximale Frist sollte man dem Arbeitgeber in der Mahnung zur Lohnzahlung setzen?</p>",
+      "options": [
+        {
+          "text": "Einen Monat",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Monat ist eine zu lange Frist in dieser Situation."
+        },
+        {
+          "text": "Zwei Wochen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die empfohlene Frist ist kürzer."
+        },
+        {
+          "text": "Maximal eine Woche",
+          "is_correct": true,
+          "feedback": "✅ Richtig! In der Mahnung sollte dem Arbeitgeber eine <strong>Frist von maximal einer Woche</strong> gesetzt werden."
+        },
+        {
+          "text": "Drei Tage",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl Eile geboten ist, wird eine Frist von maximal einer Woche genannt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was darf ein Angestellter tun, wenn der Arbeitgeber die gesetzte Zahlungsfrist verstreichen lässt?</p>",
+      "options": [
+        {
+          "text": "Er muss weiterarbeiten, aber nur halbtags.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt keine Regelung, nur halbtags zu arbeiten."
+        },
+        {
+          "text": "Er darf die Arbeit niederlegen (zu Hause bleiben), bis der Lohn bezahlt ist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Lässt der Arbeitgeber die <strong>Frist verstreichen</strong>, darf der Angestellte die <strong>Arbeit niederlegen</strong>."
+        },
+        {
+          "text": "Er muss fristlos kündigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine fristlose Kündigung ist zwar möglich, aber nicht zwingend und oft nicht ratsam ohne neuen Job."
+        },
+        {
+          "text": "Er muss den Chef persönlich zur Rede stellen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein persönliches Gespräch ist nicht die rechtlich vorgesehene nächste Massnahme."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie viele Monatslöhne deckt die Insolvenzentschädigung maximal ab?</p>",
+      "options": [
+        {
+          "text": "Einen Monatslohn",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Deckung ist höher."
+        },
+        {
+          "text": "Zwei Monatslöhne",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Deckung ist höher."
+        },
+        {
+          "text": "Vier Monatslöhne",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die <strong>Insolvenzentschädigung</strong> ist auf <strong>maximal vier Monatslöhne</strong> beschränkt."
+        },
+        {
+          "text": "Sechs Monatslöhne",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Deckung ist auf vier Monatslöhne begrenzt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wann muss der Arbeitgeber die Sozialversicherungsabgaben des letzten Jahres abrechnen?</p>",
+      "options": [
+        {
+          "text": "Sofort nach jeder Lohnzahlung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Abrechnung gegenüber der AHV erfolgt jährlich."
+        },
+        {
+          "text": "Ende Juni des laufenden Jahres.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Stichtag ist früher im Jahr."
+        },
+        {
+          "text": "Ende Januar des Folgejahres.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Arbeitgeber muss <strong>Ende Januar</strong> die <strong>Sozialversicherungsabgaben</strong> des Vorjahres abrechnen."
+        },
+        {
+          "text": "Am Ende des Geschäftsjahres der Firma.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Stichtag ist gesetzlich auf Ende Januar festgelegt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es wichtig, bei ausbleibendem Lohn nicht monatelang untätig zu bleiben?</p>",
+      "options": [
+        {
+          "text": "Weil man sonst den Anspruch auf den Lohn komplett verliert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Lohnanspruch verjährt nicht so schnell, aber andere Risiken bestehen."
+        },
+        {
+          "text": "Weil die Insolvenzentschädigung auf maximal vier Monatslöhne begrenzt ist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Wartet man zu lange, riskiert man im Falle eines <strong>Konkurses</strong>, mehr als <strong>vier Monatslöhne</strong> zu verlieren, da die <strong>Insolvenzentschädigung begrenzt</strong> ist."
+        },
+        {
+          "text": "Weil der Arbeitgeber sonst denkt, man sei mit der Situation einverstanden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Untätigkeit wird nicht als Einverständnis gewertet, birgt aber finanzielle Risiken."
+        },
+        {
+          "text": "Weil man sonst die Frist für eine fristlose Kündigung verpasst.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Hauptrisiko ist der finanzielle Verlust bei einem Konkurs."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der Zweck der Insolvenzentschädigung?</p>",
+      "options": [
+        {
+          "text": "Sie bestraft den Arbeitgeber für die Nichtzahlung der Löhne.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Insolvenzentschädigung</strong> ist eine Leistung für den Arbeitnehmenden, keine Strafe für den Arbeitgeber."
+        },
+        {
+          "text": "Sie deckt die Lohnforderungen der Angestellten, wenn der Arbeitgeber Konkurs geht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Sie dient dazu, einen Teil der <strong>ausstehenden Lohnforderungen</strong> zu decken, wenn der <strong>Arbeitgeber zahlungsunfähig (Konkurs)</strong> ist."
+        },
+        {
+          "text": "Sie finanziert die Weiterführung des Betriebs während des Konkursverfahrens.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sie ist für die <strong>Lohnansprüche der Angestellten</strong> gedacht, nicht für den Betrieb."
+        },
+        {
+          "text": "Sie zahlt die Anwaltskosten der Angestellten im Streitfall.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sie deckt <strong>Lohnforderungen</strong>, nicht Anwaltskosten."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Unter welcher Bedingung wird im Beitrag empfohlen, das Arbeitsverhältnis fristlos zu kündigen, wenn der Lohn ausbleibt?</p>",
+      "options": [
+        {
+          "text": "Sobald der Lohn einen Tag zu spät kommt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine <strong>fristlose Kündigung</strong> ist ein drastischer Schritt und nicht bei geringfügiger Verspätung empfohlen."
+        },
+        {
+          "text": "Nur, wenn man bereits eine Zusage für eine neue Stelle hat.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Eine <strong>fristlose Kündigung</strong> wird nur empfohlen, wenn bereits eine <strong>neue Stelle</strong> sicher ist, da man sonst ohne Einkommen dasteht."
+        },
+        {
+          "text": "Wenn der Arbeitgeber telefonisch nicht erreichbar ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Nichterreichbarkeit allein ist kein ausreichender Grund für eine fristlose Kündigung in diesem Kontext."
+        },
+        {
+          "text": "Wenn Kollegen ebenfalls keinen Lohn erhalten haben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Situation der Kollegen ändert nichts an der Empfehlung bezüglich der eigenen Kündigung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Konsequenz hat es für Angestellte, wenn der Arbeitgeber die Prämien für die Unfallversicherung nicht bezahlt?</p>",
+      "options": [
+        {
+          "text": "Die Angestellten sind bei einem Unfall nicht mehr versichert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der <strong>Versicherungsschutz</strong> bleibt bestehen."
+        },
+        {
+          "text": "Die Angestellten müssen die Prämien selber nachzahlen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die <strong>Prämienschuld</strong> liegt beim Arbeitgeber."
+        },
+        {
+          "text": "Die Angestellten bleiben trotzdem versichert und erhalten Leistungen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Auch wenn der Arbeitgeber die <strong>Prämien nicht zahlt</strong>, bleibt der <strong>Versicherungsschutz für die Angestellten</strong> bestehen und die Unfallversicherung zahlt im Schadenfall."
+        },
+        {
+          "text": "Die Unfallversicherung kündigt den Vertrag mit dem Arbeitgeber sofort.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Versicherung wird den Arbeitgeber mahnen und betreiben, aber der Schutz der Angestellten bleibt gewährleistet."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wie kann ein Angestellter überprüfen, ob der Arbeitgeber die abgezogenen AHV-Beiträge tatsächlich eingezahlt hat?</p>",
+      "options": [
+        {
+          "text": "Durch Nachfrage beim Arbeitgeber.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Wenn der Arbeitgeber schon den Lohn nicht zahlt, ist eine Nachfrage möglicherweise nicht zielführend oder verlässlich."
+        },
+        {
+          "text": "Durch Einfordern eines Kontoauszugs von der zuständigen Ausgleichskasse.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein <strong>Kontoauszug von der Ausgleichskasse</strong> zeigt, ob die <strong>AHV-Beiträge</strong> vom Arbeitgeber <strong>eingezahlt</strong> wurden."
+        },
+        {
+          "text": "Durch Prüfung der monatlichen Lohnabrechnung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Lohnabrechnung zeigt nur den Abzug, nicht die tatsächliche Einzahlung durch den Arbeitgeber."
+        },
+        {
+          "text": "Durch eine Anfrage beim Betreibungsamt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Betreibungsamt ist dafür nicht zuständig."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Angestellter muss zwingend weiterarbeiten, auch wenn der Arbeitgeber den Lohn über Monate hinweg nicht zahlt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Beitrag erklärt, dass man nach erfolgloser Mahnung die Arbeit niederlegen darf.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag stellt klar, dass man unter bestimmten Voraussetzungen (Mahnung, Fristsetzung) das Recht hat, die Arbeit niederzulegen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Eine Mahnung wegen ausstehendem Lohn kann formlos per SMS erfolgen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Laut Beitrag kann die Mahnung per SMS, Mail oder eingeschriebenem Brief erfolgen.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag erwähnt explizit SMS, Mail oder eingeschriebenen Brief als mögliche Formen der Mahnung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Die Insolvenzentschädigung deckt den gesamten Lohnausfall ab, egal wie lange dieser andauert.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Insolvenzentschädigung ist auf maximal vier Monatslöhne begrenzt.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag weist darauf hin, dass die Insolvenzentschädigung auf maximal vier Monatslöhne beschränkt ist."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wenn ein Angestellter die Arbeit niederlegt, weil der Lohn ausbleibt, gilt dies als fristlose Kündigung durch den Angestellten.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Das Niederlegen der Arbeit ist keine Kündigung, sondern ein Zurückbehaltungsrecht der Arbeitsleistung, bis der Lohn gezahlt wird.",
+      "feedback_incorrect": "❌ Falsch. Die Arbeit niederzulegen bedeutet nicht automatisch zu kündigen. Es ist ein Recht des Arbeitnehmers bei Lohnverzug nach Mahnung."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Falls der Arbeitgeber die AHV-Beiträge nicht einzahlt, hat der Arbeitnehmer später Nachteile bei der Rente, die nicht mehr korrigiert werden können.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Arbeitnehmer kann fehlende Einzahlungen bei der Ausgleichskasse mittels Lohnausweisen nachmelden, um Nachteile zu verhindern.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag erklärt, dass der Arbeitnehmer durch Vorlage der Lohnausweise bei der Ausgleichskasse sicherstellen kann, dass die Beiträge nachgebucht werden und keine Nachteile entstehen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Einleitung einer Betreibung gegen den Arbeitgeber wegen ausstehendem Lohn kann dazu führen, dass über den Arbeitgeber der Konkurs eröffnet wird.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Wenn die Betreibung weitergezogen wird und der Arbeitgeber nicht zahlen kann, kann dies zu einem Konkursverfahren führen.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag erklärt, dass das Weiterziehen der Betreibung zu einem Konkursverfahren führen kann, wenn der Arbeitgeber zahlungsunfähig ist."
+    }
+  ]
+}

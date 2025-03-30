@@ -1,0 +1,279 @@
+{
+  "title": "Verständnisfragen Haftung fürs Geschäftsauto",
+  "headerImage": "img1.jpg",
+  "media": {
+      "type": "mp3",
+      "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2023/10/Espresso_12-10-2023-812.mp3",
+      "source": "https://www.srf.ch/sendungen/kassensturz-espresso/rechtsfragen/arbeitsrecht/haftung-fuers-geschaeftsauto-winterreifen-im-sommer-kann-ich-bei-unfall-belangt-werden"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ist es in der Schweiz gesetzlich verboten, im Sommer mit Winterreifen zu fahren?</p>",
+      "options": [
+        {
+          "text": "Nein, es ist nicht verboten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Beitrag erklärt, dass es in der Schweiz <strong>nicht verboten</strong> ist, im Sommer mit Winterreifen zu fahren, auch wenn es nicht empfohlen wird."
+        },
+        {
+          "text": "Ja, es ist generell verboten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird explizit erwähnt, dass das Fahren mit Winterreifen im Sommer <strong>nicht verboten</strong> ist."
+        },
+        {
+          "text": "Ja, aber nur auf Autobahnen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt <strong>kein spezifisches Verbot</strong> für Autobahnen oder andere Strassentypen bezüglich Winterreifen im Sommer."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was ist laut Fachleuten ein wesentlicher Nachteil von Winterreifen im Sommer?</p>",
+      "options": [
+        {
+          "text": "Sie haben auf trockenen Strassen einen längeren Bremsweg.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Fachleute weisen darauf hin, dass man mit Winterreifen im Sommer einen <strong>längeren Bremsweg</strong> hat."
+        },
+        {
+          "text": "Sie nutzen sich im Sommer weniger ab.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Winterreifen nutzen sich bei warmen Temperaturen tendenziell <strong>schneller</strong> ab."
+        },
+        {
+          "text": "Sie verursachen weniger Benzinverbrauch.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird erwähnt, dass das Auto mit Winterreifen <strong>mehr Benzin</strong> braucht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welche Art von Fahrzeug fährt der Hörer im Beitrag für seine Arbeit?</p>",
+      "options": [
+        {
+          "text": "Einen Transporter/Lieferwagen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Hörer ist Handwerker und fährt mit einem <strong>Transporter</strong> zu seinen Kunden."
+        },
+        {
+          "text": "Einen Personenwagen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag ist von einem <strong>Transporter</strong> oder Lieferwagen die Rede, nicht von einem normalen PW."
+        },
+        {
+          "text": "Ein Motorrad.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Hörer fährt einen <strong>Transporter</strong> für seine Arbeit als Handwerker."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wem gehört das Fahrzeug, das der Hörer im Beitrag beruflich nutzt?</p>",
+      "options": [
+        {
+          "text": "Seinem Arbeitgeber.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Es wird klar gesagt, dass der Wagen <strong>seinem Arbeitgeber gehört</strong> und ihm zur Verfügung gestellt wird."
+        },
+        {
+          "text": "Ihm selbst.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag erwähnt, dass es sich um ein <strong>Geschäftsauto</strong> handelt, das dem Arbeitgeber gehört."
+        },
+        {
+          "text": "Einer Leasingfirma, direkt vom Hörer geleast.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Fahrzeug wird vom <strong>Arbeitgeber zur Verfügung gestellt</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ist es gemäss Beitrag in der Schweiz verboten, im Winter mit Sommerreifen zu fahren?</p>",
+      "options": [
+        {
+          "text": "Nein, es ist nicht explizit verboten.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Beitrag erwähnt gegen Ende, dass es auch <strong>nicht verboten</strong> ist, im Winter mit Sommerreifen zu fahren, dies aber bei einem Unfall Konsequenzen haben kann."
+        },
+        {
+          "text": "Ja, es ist strengstens verboten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt <strong>kein explizites Verbot</strong>, aber es wird dringend davon abgeraten und kann bei einem Unfall Folgen haben."
+        },
+        {
+          "text": "Ja, sobald Schnee auf der Strasse liegt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein <strong>generelles Verbot</strong> wird im Beitrag nicht erwähnt, jedoch die möglichen Konsequenzen bei einem Unfall."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum kann ein Fahrer trotz erlaubter Winterreifen im Sommer bei einem Unfall belangt werden?</p>",
+      "options": [
+        {
+          "text": "Weil er seine Fahrweise nicht an den längeren Bremsweg angepasst hat.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Man kann belangt werden, wenn man <strong>unvorsichtig fährt</strong> oder Regeln missachtet, z.B. den <strong>Sicherheitsabstand</strong> nicht an den längeren Bremsweg anpasst."
+        },
+        {
+          "text": "Allein aufgrund der Tatsache, dass Winterreifen montiert waren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Rechtsexpertin stellt klar, dass man <strong>nicht allein wegen der Pneus</strong> einen Vorwurf gemacht bekommen kann."
+        },
+        {
+          "text": "Weil die Haftpflichtversicherung bei Winterreifen im Sommer generell nicht zahlt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Haftpflichtversicherung zahlt den Schaden am anderen Auto. Ob sie Regress nimmt, hängt vom <strong>Verhalten des Fahrers</strong> ab, nicht allein von den Reifen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Unter welcher Bedingung kann ein Arbeitnehmer für den Schaden am Geschäftsauto haftbar gemacht werden?</p>",
+      "options": [
+        {
+          "text": "Wenn er nachweislich fahrlässig gehandelt hat.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Eine Haftung gegenüber dem Arbeitgeber für Schäden am Geschäftsauto setzt voraus, dass der Arbeitnehmer <strong>fahrlässig gehandelt</strong> hat, also unvorsichtig gefahren ist."
+        },
+        {
+          "text": "Immer, wenn ein Schaden am Geschäftsauto entsteht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Haftung besteht nicht automatisch bei jedem Schaden, sondern erfordert ein <strong>Verschulden</strong> (mindestens Fahrlässigkeit) des Arbeitnehmers."
+        },
+        {
+          "text": "Nur, wenn der Schaden über 10'000 Franken beträgt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Haftung hängt von der <strong>Fahrlässigkeit</strong> ab, nicht von einer bestimmten Schadenshöhe."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist die mögliche Hauptfolge, wenn man im Winter mit Sommerreifen einen Unfall verursacht, der mit Winterreifen vermeidbar gewesen wäre?</p>",
+      "options": [
+        {
+          "text": "Der Entzug des Führerausweises.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Beitrag erwähnt, dass man riskiert, dass der <strong>Ausweis weg</strong> ist, wenn herauskommt, dass der Unfall mit Winterpneus nicht passiert wäre."
+        },
+        {
+          "text": "Eine Busse von maximal CHF 100.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die genannte mögliche Konsequenz ist gravierender, nämlich der <strong>Entzug des Führerausweises</strong>."
+        },
+        {
+          "text": "Eine obligatorische Nachschulung.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Als spezifische Folge wird der mögliche <strong>Entzug des Führerausweises</strong> genannt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was bedeutet es gemäss Beitrag, die Fahrweise anzupassen, wenn man im Sommer mit Winterreifen fährt?</p>",
+      "options": [
+        {
+          "text": "Mehr Abstand halten und vorausschauender fahren, um rechtzeitig bremsen zu können.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Da man weiss, dass der <strong>Bremsweg länger</strong> ist, muss man die Fahrweise anpassen, z.B. durch <strong>grösseren Abstand</strong> und früheres Bremsen."
+        },
+        {
+          "text": "Die Geschwindigkeit generell um 20 km/h reduzieren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht um eine <strong>situative Anpassung</strong> des Fahrverhaltens (Abstand, Bremsbereitschaft), nicht um eine pauschale Geschwindigkeitsreduktion."
+        },
+        {
+          "text": "Besonders vorsichtig in Kurven fahren.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Fokus liegt auf dem <strong>längeren Bremsweg</strong> und der daraus resultierenden Notwendigkeit, mehr Abstand zu halten und früher zu bremsen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Versicherung deckt primär den Schaden am Fahrzeug der anderen beteiligten Person bei einem Unfall?</p>",
+      "options": [
+        {
+          "text": "Die Haftpflichtversicherung des Unfallverursachers.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Beitrag erwähnt, dass die <strong>Haftpflichtversicherung</strong> den Schaden am <strong>anderen Auto</strong> zahlt."
+        },
+        {
+          "text": "Die Kaskoversicherung des Geschädigten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Kaskoversicherung deckt Schäden am eigenen Fahrzeug. Für Schäden an Dritten ist die <strong>Haftpflichtversicherung</strong> zuständig."
+        },
+        {
+          "text": "Die Unfallversicherung des Fahrers.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Unfallversicherung deckt Personenschäden, nicht aber Sachschäden am Fahrzeug Dritter. Dafür ist die <strong>Haftpflichtversicherung</strong> da."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Das Fahren mit Winterreifen im Sommer ist in der Schweiz ausdrücklich erlaubt, wird aber von Experten nicht empfohlen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Es ist nicht verboten, aber Fachleute raten davon ab, unter anderem wegen des längeren Bremswegs.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag bestätigt, dass es nicht verboten ist, aber nicht empfohlen wird."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Laut Beitrag führen Winterreifen im Sommer zu einem geringeren Benzinverbrauch als Sommerreifen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Im Beitrag wird erwähnt, dass das Auto mit Winterreifen im Sommer mehr Benzin braucht.",
+      "feedback_incorrect": "❌ Falsch. Im Beitrag heisst es, dass das Auto mit Winterreifen im Sommer mehr Benzin braucht."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Der Hörer im Beitrag nutzt sein privates Auto für die Fahrten zu den Kunden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Hörer fährt einen Transporter, der seinem Arbeitgeber gehört.",
+      "feedback_incorrect": "❌ Falsch. Es handelt sich um ein Geschäftsauto, das vom Arbeitgeber zur Verfügung gestellt wird."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wenn Sie im Sommer mit Winterreifen einen Unfall verursachen, haften Sie allein aufgrund der Reifenwahl für den entstandenen Schaden.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Haftung hängt vom Fahrverhalten ab (Fahrlässigkeit), nicht allein von der Reifenwahl.",
+      "feedback_incorrect": "❌ Falsch. Laut Rechtsexpertin kann Ihnen allein wegen der Pneus kein Vorwurf gemacht werden; entscheidend ist das Fahrverhalten."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Das Wissen um den längeren Bremsweg von Winterreifen im Sommer verpflichtet den Fahrer rechtlich, die Fahrweise anzupassen (z.B. mehr Abstand halten).</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Wer weiss, dass der Bremsweg länger ist, muss entsprechend fahren, um nicht fahrlässig zu handeln.",
+      "feedback_incorrect": "❌ Falsch. Genau das wird im Beitrag erklärt: Man muss sich anpassen, da man um den längeren Bremsweg weiss. Unterlässt man dies und es kommt zum Unfall, kann man belangt werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Verursacht man im Winter mit Sommerreifen einen Unfall, der mit Winterreifen nicht passiert wäre, hat dies keine rechtlichen Konsequenzen für den Fahrer.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Im Beitrag wird erwähnt, dass man in einem solchen Fall riskieren kann, den Führerausweis zu verlieren.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag weist darauf hin, dass dies zum Entzug des Führerausweises führen kann."
+    }
+  ]
+}

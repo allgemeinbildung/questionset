@@ -1,274 +1,329 @@
 {
-  "title": "WC-Pause",
+  "title": "Verständnisfragen WC-Pause",
+  "headerImage": "img1.jpg",
   "media": {
-    "type": "",
-    "url": "",
-    "source": ""
+      "type": "mp3",
+      "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2022/09/Espresso_15-09-2022_52b312bb28294da0841b7318831e5a84.mp3",
+      "source": "https://www.srf.ch/sendungen/kassensturz-espresso/rechtsfragen/arbeitsrecht/wc-pause-muss-ich-ausstempeln-wenn-ich-aufs-wc-gehe"
   },
   "questions": [
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Was ist die rechtliche Situation bezüglich WC-Pausen in der Schweiz?</p>",
+      "question": "<p>Darf ein Arbeitgeber gemäss dem Beitrag rechtlich verlangen, dass Mitarbeitende für den Gang zur Toilette ausstempeln?</p>",
       "options": [
         {
-          "text": "Arbeitnehmer müssen für WC-Pausen ausstempeln.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Die Rechtsexpertin im Beitrag erklärt, dass Arbeitgeber das Verlangen nach Ausstempeln für WC-Pausen rechtlich durchsetzen können."
-        },
-        {
-          "text": "Arbeitnehmer dürfen während der Arbeitszeit nicht auf die Toilette gehen.",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Die Rechtsexpertin im Beitrag erklärt, dass Arbeitgeber das Verlangen nach Ausstempeln für WC-Pausen rechtlich durchsetzen können."
-        },
-        {
-          "text": "Arbeitgeber dürfen WC-Pausen nicht verbieten, können aber verlangen, dass Arbeitnehmer dafür ausstempeln.",
+          "text": "Ja, rechtlich gesehen dürfen Betriebe das verlangen.",
           "is_correct": true,
-          "feedback": "✅ Richtig!"
+          "feedback": "✅ Richtig! Obwohl es als 'kleinkariert und schikanös' bezeichnet wird, ist es <strong>rechtlich gesehen zulässig</strong>, das Ausstempeln für WC-Pausen zu verlangen."
         },
         {
-          "text": "WC-Pausen sind immer bezahlte Arbeitszeit.",
+          "text": "Nein, das ist grundsätzlich verboten, da es ein menschliches Bedürfnis ist.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die Rechtsexpertin im Beitrag erklärt, dass Arbeitgeber das Verlangen nach Ausstempeln für WC-Pausen rechtlich durchsetzen können."
+          "feedback": "❌ Falsch. Das Verbot, auf die Toilette zu gehen, ist nicht erlaubt (Fürsorgepflicht), aber das <strong>Ausstempeln</strong> kann rechtlich <strong>verlangt werden</strong>."
+        },
+        {
+          "text": "Nur, wenn die Pause länger als fünf Minuten dauert.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Im Beitrag wird keine spezifische Zeitdauer erwähnt, ab wann das Ausstempeln für WC-Pausen verlangt werden darf; es wird als <strong>generell rechtlich zulässig</strong> dargestellt."
+        },
+        {
+          "text": "Nur in Call-Centern, wie im Beispiel erwähnt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Call-Center ist nur ein Beispiel; die <strong>rechtliche Möglichkeit</strong> besteht für <strong>alle Betriebe</strong>."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Wie lange ist die bezahlte Pause bei einem Arbeitstag von mehr als 9 Stunden?</p>",
+      "question": "<p>Welche Pflicht hat der Arbeitgeber bezüglich des Toilettengangs der Mitarbeitenden laut Gesetz?</p>",
       "options": [
         {
-          "text": "15 Minuten",
+          "text": "Er muss sicherstellen, dass die Toiletten immer sauber sind.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Der Beitrag nennt eine Stunde bezahlte Pause bei einem Arbeitstag von mehr als neun Stunden."
+          "feedback": "❌ Falsch. Obwohl Sauberkeit wichtig ist, bezieht sich die im Beitrag genannte Pflicht auf etwas anderes: die <strong>Fürsorgepflicht</strong>."
         },
         {
-          "text": "30 Minuten",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Beitrag nennt eine Stunde bezahlte Pause bei einem Arbeitstag von mehr als neun Stunden."
-        },
-        {
-          "text": "45 Minuten",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Beitrag nennt eine Stunde bezahlte Pause bei einem Arbeitstag von mehr als neun Stunden."
-        },
-        {
-          "text": "60 Minuten",
+          "text": "Er darf den Mitarbeitenden nicht verbieten, auf die Toilette zu gehen.",
           "is_correct": true,
-          "feedback": "✅ Richtig!"
-        }
-      ]
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Gabriela Baumgartner findet es fair, dass Arbeitnehmer für WC-Pausen ausstempeln müssen.</p>",
-      "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Im Beitrag wird ihre Aussage zitiert, dass sie es kleinkariert und schikanös findet.",
-      "feedback_incorrect": "❌ Richtig. Im Beitrag wird ihre Aussage zitiert, dass sie es kleinkariert und schikanös findet."
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Kaffeepausen sind immer bezahlte Arbeitszeit.</p>",
-      "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Ob Kaffeepausen bezahlt werden, hängt vom Arbeitgeber ab. Es gibt keine gesetzliche Regelung dazu.",
-      "feedback_incorrect": "❌ Richtig. Ob Kaffeepausen bezahlt werden, hängt vom Arbeitgeber ab. Es gibt keine gesetzliche Regelung dazu."
-    },
-    {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Welcher Begriff beschreibt die Pflicht des Arbeitgebers, sich um das Wohl der Arbeitnehmer zu kümmern?</p>",
-      "options": [
-        {
-          "text": "Fürsorgepflicht",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
+          "feedback": "✅ Richtig! Die <strong>Fürsorgepflicht</strong> des Arbeitgebers beinhaltet, dass er den Toilettengang <strong>nicht verbieten</strong> darf."
         },
         {
-          "text": "Weisungsrecht",
+          "text": "Er muss die Zeit für den Toilettengang immer als Arbeitszeit bezahlen.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Der Begriff wird im Beitrag im Zusammenhang mit der Pflicht des Arbeitgebers genannt, Toilettenpausen zu ermöglichen."
+          "feedback": "❌ Falsch. Der Beitrag erklärt, dass die Zeit auf der Toilette <strong>nicht zwingend bezahlte Arbeitszeit</strong> ist."
         },
         {
-          "text": "Treuepflicht",
+          "text": "Er muss spezielle Pausenzeiten für den Toilettengang festlegen.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Der Begriff wird im Beitrag im Zusammenhang mit der Pflicht des Arbeitgebers genannt, Toilettenpausen zu ermöglichen."
-        },
-        {
-          "text": "Pflicht zur Lohnfortzahlung",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Begriff wird im Beitrag im Zusammenhang mit der Pflicht des Arbeitgebers genannt, Toilettenpausen zu ermöglichen."
+          "feedback": "❌ Falsch. Es gibt gesetzliche Pausenregelungen, aber keine spezifischen für den Toilettengang; dieser fällt unter die <strong>allgemeine Erlaubnis</strong> aufgrund der <strong>Fürsorgepflicht</strong>."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Was ist ein Beispiel für eine bezahlte Pause?</p>",
+      "question": "<p>Wie lange muss eine gesetzliche Pause mindestens sein, wenn ein Arbeitstag mehr als neun Stunden dauert?</p>",
       "options": [
         {
-          "text": "Eine Rauchpause im Freien",
+          "text": "Eine Viertelstunde",
           "is_correct": false,
-          "feedback": "❌ Falsch. Im Beitrag wird erklärt, dass nur Pausen bezahlt werden, in denen der Arbeitnehmer den Arbeitsplatz nicht verlassen darf und erreichbar sein muss."
+          "feedback": "❌ Falsch. Eine Viertelstunde Pause ist bei einer Arbeitszeit von <strong>mehr als fünfeinhalb Stunden</strong> vorgesehen."
         },
         {
-          "text": "Ein kurzer Toilettengang",
+          "text": "Eine halbe Stunde",
           "is_correct": false,
-          "feedback": "❌ Falsch. Im Beitrag wird erklärt, dass nur Pausen bezahlt werden, in denen der Arbeitnehmer den Arbeitsplatz nicht verlassen darf und erreichbar sein muss."
+          "feedback": "❌ Falsch. Diese Dauer wird im Beitrag im Zusammenhang mit den gesetzlichen Mindestpausen nicht genannt. Bei <strong>mehr als neun Stunden</strong> ist es <strong>eine Stunde</strong>."
         },
         {
-          "text": "Eine Kaffeepause mit Kollegen in der Kantine",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Im Beitrag wird erklärt, dass nur Pausen bezahlt werden, in denen der Arbeitnehmer den Arbeitsplatz nicht verlassen darf und erreichbar sein muss."
-        },
-        {
-          "text": "Eine Pause, in der der Arbeitnehmer am Arbeitsplatz erreichbar sein muss",
+          "text": "Eine Stunde",
           "is_correct": true,
-          "feedback": "✅ Richtig!"
-        }
-      ]
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Arbeitnehmer haben in der Schweiz einen gesetzlichen Anspruch auf bezahlte Pausen.</p>",
-      "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Arbeitnehmer haben zwar einen Anspruch auf Pausen, diese müssen aber nicht bezahlt werden.",
-      "feedback_incorrect": "❌ Richtig. Arbeitnehmer haben zwar einen Anspruch auf Pausen, diese müssen aber nicht bezahlt werden."
-    },
-    {
-      "type": "TrueFalse",
-      "bloom_level": "Erinnern",
-      "question": "<p>Rauchpausen müssen vom Arbeitgeber immer bezahlt werden.</p>",
-      "correct_answer": false,
-      "feedback_correct": "✅ Falsch! Der Beitrag erwähnt, dass es immer häufiger vorkommt, dass Raucher für ihre Pausen ausstempeln müssen.",
-      "feedback_incorrect": "❌ Richtig. Der Beitrag erwähnt, dass es immer häufiger vorkommt, dass Raucher für ihre Pausen ausstempeln müssen."
-    },
-    {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>In welcher Situation darf der Arbeitgeber die Pausenzeiten der Arbeitnehmer bestimmen?</p>",
-      "options": [
-        {
-          "text": "Immer",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Arbeitgeber darf die Pausenzeiten zwar festlegen, muss dabei aber die Bedürfnisse der Arbeitnehmer und die betrieblichen Abläufe berücksichtigen."
+          "feedback": "✅ Richtig! Bei einem Arbeitstag von <strong>mehr als neun Stunden</strong> hat man Anspruch auf <strong>eine Stunde Pause</strong>."
         },
         {
-          "text": "Nur wenn es im Arbeitsvertrag steht",
+          "text": "Zwei Stunden",
           "is_correct": false,
-          "feedback": "❌ Falsch. Der Arbeitgeber darf die Pausenzeiten zwar festlegen, muss dabei aber die Bedürfnisse der Arbeitnehmer und die betrieblichen Abläufe berücksichtigen."
-        },
-        {
-          "text": "Nur wenn es betrieblich notwendig ist",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "Nie",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Arbeitgeber darf die Pausenzeiten zwar festlegen, muss dabei aber die Bedürfnisse der Arbeitnehmer und die betrieblichen Abläufe berücksichtigen."
+          "feedback": "❌ Falsch. Das Gesetz schreibt bei <strong>mehr als neun Stunden</strong> Arbeitszeit <strong>eine Stunde Pause</strong> vor, nicht zwei."
         }
       ]
     },
     {
       "type": "MultipleChoice",
       "bloom_level": "Erinnern",
-      "question": "<p>Was ist KEIN Grund für eine bezahlte Pause?</p>",
+      "question": "<p>Welche Art von Pausen muss der Arbeitgeber gemäss Gesetz bezahlen?</p>",
       "options": [
         {
-          "text": "Der Arbeitnehmer muss während der Pause erreichbar sein.",
+          "text": "Alle Pausen, die während der Arbeitszeit gemacht werden.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die Erholung des Arbeitnehmers ist zwar ein wichtiger Zweck der Pause, rechtfertigt aber nicht automatisch eine bezahlte Pause."
+          "feedback": "❌ Falsch. Der Beitrag stellt klar, dass Pausen <strong>grundsätzlich nicht bezahlt</strong> sind, mit einer Ausnahme."
         },
         {
-          "text": "Der Arbeitnehmer darf den Arbeitsplatz während der Pause nicht verlassen.",
+          "text": "Nur die Mittagspause.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die Erholung des Arbeitnehmers ist zwar ein wichtiger Zweck der Pause, rechtfertigt aber nicht automatisch eine bezahlte Pause."
+          "feedback": "❌ Falsch. Die Mittagspause ist eine normale Pause und daher <strong>grundsätzlich nicht bezahlt</strong>, es sei denn, die spezielle Bedingung trifft zu."
         },
         {
-          "text": "Die Pause dient der Erholung des Arbeitnehmers.",
+          "text": "Pausen, während denen man den Arbeitsplatz nicht verlassen darf und erreichbar sein muss.",
           "is_correct": true,
-          "feedback": "✅ Richtig!"
+          "feedback": "✅ Richtig! Nur wenn man während der Pause den <strong>Arbeitsplatz nicht verlassen darf</strong> und <strong>erreichbar sein muss</strong>, gilt die Pause als <strong>bezahlte Arbeitszeit</strong>."
         },
         {
-          "text": "Die Pause ist im Arbeitsvertrag als bezahlte Pause festgelegt.",
+          "text": "Nur Pausen, die kürzer als 15 Minuten sind.",
           "is_correct": false,
-          "feedback": "❌ Falsch. Die Erholung des Arbeitnehmers ist zwar ein wichtiger Zweck der Pause, rechtfertigt aber nicht automatisch eine bezahlte Pause."
+          "feedback": "❌ Falsch. Die Bezahlung einer Pause hängt nicht von ihrer Länge ab, sondern davon, ob man den <strong>Arbeitsplatz verlassen darf</strong> oder nicht."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Für welche anderen Pausen neben der WC-Pause wird im Beitrag erwähnt, dass Arbeitgeber das Ausstempeln verlangen können?</p>",
+      "options": [
+        {
+          "text": "Nur für Kaffeepausen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Kaffeepausen werden erwähnt, aber auch eine andere Art von Pause, bei der das Ausstempeln <strong>immer häufiger verlangt</strong> wird."
+        },
+        {
+          "text": "Für Kaffeepausen und Raucherpausen.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Beitrag nennt explizit <strong>Kaffeepausen</strong> und <strong>Raucherpausen</strong> als Beispiele, bei denen Arbeitgeber das <strong>Ausstempeln verlangen können</strong>."
+        },
+        {
+          "text": "Nur für Raucherpausen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Raucherpausen werden als Beispiel genannt, bei dem das Ausstempeln häufiger vorkommt, aber auch <strong>Kaffeepausen</strong> werden als <strong>mögliches Beispiel</strong> erwähnt."
+        },
+        {
+          "text": "Für Sitzungspausen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sitzungspausen werden im Beitrag nicht als Beispiel für Pausen genannt, bei denen das Ausstempeln verlangt werden könnte. Genannt werden <strong>Kaffee- und Raucherpausen</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum wird das Verlangen des Ausstempelns für WC-Pausen als 'kleinkariert und schikanös' bezeichnet, obwohl es rechtlich erlaubt ist?</p>",
+      "options": [
+        {
+          "text": "Weil es die Produktivität der Mitarbeitenden senkt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Grund für die negative Bewertung liegt nicht primär in der Produktivität, sondern im <strong>Umgang mit einem menschlichen Grundbedürfnis</strong> und dem empfundenen <strong>Mangel an Vertrauen</strong>."
+        },
+        {
+          "text": "Weil es gegen die Fürsorgepflicht des Arbeitgebers verstösst.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Ausstempeln selbst verstösst nicht gegen die Fürsorgepflicht (diese verbietet nur das Verbot des WC-Gangs), aber es wird als <strong>unangemessen</strong> und <strong>übermässig kontrollierend</strong> empfunden."
+        },
+        {
+          "text": "Weil es ein menschliches Grundbedürfnis betrifft und als übermässige Kontrolle empfunden wird.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Begriffe 'kleinkariert und schikanös' deuten darauf hin, dass diese Praxis als <strong>unverhältnismässige Kontrolle</strong> eines <strong>menschlichen Grundbedürfnisses</strong> und als Zeichen von <strong>Misstrauen</strong> wahrgenommen wird."
+        },
+        {
+          "text": "Weil dadurch die gesetzlichen Pausenzeiten unterschritten werden könnten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Problem ist nicht die Unterschreitung gesetzlicher Pausen, sondern die Tatsache, dass die <strong>Zeit für ein Grundbedürfnis</strong> von der <strong>Arbeitszeit abgezogen</strong> wird, was als kleinlich gilt."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist der rechtliche Unterschied zwischen dem Verbot, auf die Toilette zu gehen, und der Anweisung, dafür auszustempeln?</p>",
+      "options": [
+        {
+          "text": "Es gibt keinen rechtlichen Unterschied, beides ist verboten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Beitrag erklärt klar einen Unterschied: Das <strong>Verbot</strong> ist wegen der <strong>Fürsorgepflicht nicht erlaubt</strong>, das <strong>Ausstempeln</strong> hingegen schon."
+        },
+        {
+          "text": "Das Verbot verstösst gegen die Fürsorgepflicht, das Ausstempeln betrifft die Frage der bezahlten Arbeitszeit.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das <strong>Verbot</strong> des WC-Gangs verletzt die <strong>Fürsorgepflicht</strong>. Das <strong>Ausstempeln</strong> bezieht sich darauf, ob diese Zeit als <strong>bezahlte Arbeitszeit</strong> gilt oder als <strong>unbezahlte Pause</strong>."
+        },
+        {
+          "text": "Das Verbot ist nur mündlich erlaubt, das Ausstempeln muss schriftlich angeordnet werden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Form der Anweisung (mündlich/schriftlich) ist nicht der Kern des rechtlichen Unterschieds. Es geht um <strong>Fürsorgepflicht</strong> versus <strong>Bezahlung der Zeit</strong>."
+        },
+        {
+          "text": "Das Verbot ist immer erlaubt, das Ausstempeln nur in bestimmten Branchen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das <strong>Verbot</strong> ist wegen der <strong>Fürsorgepflicht nicht erlaubt</strong>. Das <strong>Ausstempeln</strong> ist <strong>rechtlich generell möglich</strong>, nicht nur in bestimmten Branchen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Schlussfolgerung lässt sich aus der Regelung ziehen, dass Pausen nur bezahlt werden, wenn man den Arbeitsplatz nicht verlassen darf?</p>",
+      "options": [
+        {
+          "text": "Arbeitgeber wollen generell keine Pausen bezahlen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Regelung basiert auf der gesetzlichen Definition von Arbeitszeit. Es geht darum, ob man dem Arbeitgeber <strong>zur Verfügung steht</strong> oder nicht."
+        },
+        {
+          "text": "Bezahlte Pausen gelten als Arbeitszeit, weil der Mitarbeitende dem Arbeitgeber weiterhin zur Verfügung steht.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Wenn man den Arbeitsplatz nicht verlassen darf und erreichbar sein muss, steht man dem Arbeitgeber quasi <strong>weiterhin zur Verfügung</strong>, weshalb diese Zeit als <strong>bezahlte Arbeitszeit</strong> gilt."
+        },
+        {
+          "text": "Kurze Pausen unter 15 Minuten sind immer bezahlt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Bezahlung hängt nicht von der Dauer ab, sondern von der Bedingung, ob der <strong>Arbeitsplatz verlassen werden darf</strong>."
+        },
+        {
+          "text": "Nur Pausen in gefährlichen Arbeitsumgebungen werden bezahlt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Gefährlichkeit der Umgebung ist nicht das Kriterium für die Bezahlung der Pause, sondern die <strong>Verfügbarkeit am Arbeitsplatz</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum wird im Beitrag erwähnt, dass bei Raucherpausen das Ausstempeln häufiger verlangt wird als bei Kaffeepausen?</p>",
+      "options": [
+        {
+          "text": "Weil Rauchen gesundheitsschädlich ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl Rauchen gesundheitsschädlich ist, ist der Grund für die strengere Handhabung eher die <strong>gesellschaftliche Akzeptanz</strong> und die <strong>Häufigkeit/Dauer</strong> solcher Pausen."
+        },
+        {
+          "text": "Weil Kaffeepausen kürzer sind als Raucherpausen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Dauer ist nicht der explizit genannte Grund. Der Beitrag deutet eher auf eine <strong>generelle Tendenz</strong> hin, <strong>Raucherpausen strenger</strong> zu behandeln."
+        },
+        {
+          "text": "Weil Arbeitgeber bei Kaffeepausen oft toleranter ('nicht so streng') sind, während Raucherpausen zunehmend kritischer gesehen werden.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Beitrag sagt, dass Arbeitgeber bei Kaffeepausen oft '<strong>nicht so streng</strong>' sind, während es bei Raucherpausen '<strong>immer mehr vorkommt</strong>', dass ausgestempelt werden muss, was auf eine <strong>unterschiedliche Toleranz</strong> hindeutet."
+        },
+        {
+          "text": "Weil Kaffeetrinken die Konzentration fördert, Rauchen aber nicht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Solche leistungsbezogenen Argumente werden im Beitrag nicht genannt. Es geht um die <strong>Praxis des Ausstempelns</strong> und die <strong>unterschiedliche Handhabung</strong> durch Arbeitgeber."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welche Haltung vertritt die Rechtsexpertin Gabriela Baumgartner persönlich gegenüber der Praxis des Ausstempelns für WC-Pausen, auch wenn sie die rechtliche Lage erklärt?</p>",
+      "options": [
+        {
+          "text": "Sie hält es für eine notwendige Massnahme zur Kontrolle der Arbeitszeit.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ihre erste Reaktion war nicht Zustimmung, sondern sie bezeichnete es als '<strong>kleinkariert und schikanös</strong>'."
+        },
+        {
+          "text": "Sie findet es rechtlich korrekt und daher auch angemessen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Sie erklärt zwar die <strong>rechtliche Korrektheit</strong>, ihre persönliche Bewertung ('<strong>kleinkariert und schikanös</strong>') zeigt aber, dass sie es nicht angemessen findet."
+        },
+        {
+          "text": "Sie hält es für rechtlich zulässig, aber persönlich für 'kleinkariert und schikanös'.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Sie erklärt die <strong>rechtliche Zulässigkeit</strong> ('rechtlich gesehen dürfen Betriebe das'), äussert aber gleichzeitig ihre persönliche Meinung, dass es '<strong>kleinkariert und schikanös</strong>' ist."
+        },
+        {
+          "text": "Sie äussert keine persönliche Meinung, sondern erklärt nur die Fakten.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ihre deutliche Wortwahl ('<strong>kleinkariert und schikanös</strong>') stellt eine klare persönliche Bewertung dar."
         }
       ]
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>Wenn ein Arbeitnehmer während der Pause den Arbeitsplatz verlassen darf, ist die Pause immer unbezahlt.</p>",
+      "question": "<p>Laut Beitrag ist es Arbeitgebern aufgrund ihrer Fürsorgepflicht generell verboten, den Gang zur Toilette zu untersagen.</p>",
       "correct_answer": true,
-      "feedback_correct": "✅ Richtig! Das Verlassen des Arbeitsplatzes ist ein Indikator für eine unbezahlte Pause.",
-      "feedback_incorrect": "❌ Falsch. Das Verlassen des Arbeitsplatzes ist ein Indikator für eine unbezahlte Pause."
+      "feedback_correct": "✅ Richtig! Der Beitrag stellt klar, dass die <strong>Fürsorgepflicht</strong> den Arbeitgeber dazu verpflichtet, den <strong>Toilettengang zu erlauben</strong>.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag betont, dass die <strong>Fürsorgepflicht</strong> dem Arbeitgeber verbietet, den <strong>Toilettengang zu untersagen</strong>."
     },
     {
       "type": "TrueFalse",
       "bloom_level": "Erinnern",
-      "question": "<p>Der Betriebsrat kann bei der Festlegung der Pausenzeiten mitbestimmen.</p>",
+      "question": "<p>Gesetzlich vorgeschriebene Pausen sind gemäss dem Beitrag immer bezahlte Arbeitszeit.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Beitrag erklärt, dass Pausen <strong>grundsätzlich nicht bezahlt</strong> sind, ausser man darf den Arbeitsplatz nicht verlassen.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag stellt klar, dass Pausen <strong>nur dann bezahlt</strong> sind, wenn man den <strong>Arbeitsplatz nicht verlassen darf</strong> und erreichbar sein muss."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Bei einer täglichen Arbeitszeit von 7 Stunden hat man gesetzlich Anspruch auf eine Stunde Pause.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Eine Stunde Pause ist erst bei <strong>mehr als 9 Stunden</strong> Arbeit vorgeschrieben. Bei 7 Stunden (mehr als 5.5) sind es <strong>15 Minuten</strong>.",
+      "feedback_incorrect": "❌ Falsch. Eine Stunde Pause ist erst bei <strong>mehr als 9 Stunden</strong> Arbeit vorgeschrieben. Bei 7 Stunden (mehr als 5.5) beträgt der Anspruch <strong>15 Minuten</strong>."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Tatsache, dass das Ausstempeln für WC-Pausen rechtlich erlaubt ist, bedeutet, dass die Zeit auf der Toilette nicht als Arbeitszeit im Sinne des Gesetzes gilt.</p>",
       "correct_answer": true,
-      "feedback_correct": "✅ Richtig! Der Betriebsrat hat ein Mitbestimmungsrecht bei der Gestaltung der Arbeitszeit, wozu auch die Pausenzeiten gehören.",
-      "feedback_incorrect": "❌ Falsch. Der Betriebsrat hat ein Mitbestimmungsrecht bei der Gestaltung der Arbeitszeit, wozu auch die Pausenzeiten gehören."
+      "feedback_correct": "✅ Richtig! Wenn das Ausstempeln verlangt werden darf, impliziert dies, dass die WC-Pause als <strong>Unterbrechung der Arbeit</strong> (unbezahlte Pause) und nicht als <strong>bezahlte Arbeitszeit</strong> gewertet werden kann.",
+      "feedback_incorrect": "❌ Falsch. Die rechtliche Erlaubnis zum Ausstempeln basiert darauf, dass diese Zeit eben <strong>nicht zwingend</strong> als <strong>bezahlte Arbeitszeit</strong> gilt, sondern als <strong>unbezahlte Pause</strong> gewertet werden kann."
     },
     {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>An wen kann sich ein Arbeitnehmer wenden, wenn er Probleme mit den Pausenzeiten hat?</p>",
-      "options": [
-        {
-          "text": "An den Betriebsrat",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Alle genannten Stellen können Arbeitnehmern bei Problemen mit den Pausenzeiten unterstützen und beraten."
-        },
-        {
-          "text": "An die Gewerkschaft",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Alle genannten Stellen können Arbeitnehmern bei Problemen mit den Pausenzeiten unterstützen und beraten."
-        },
-        {
-          "text": "An das kantonale Arbeitsinspektorat",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Alle genannten Stellen können Arbeitnehmern bei Problemen mit den Pausenzeiten unterstützen und beraten."
-        },
-        {
-          "text": "An alle genannten Stellen",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        }
-      ]
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Die Fürsorgepflicht des Arbeitgebers bezieht sich nur darauf, dass er Pausen gewähren muss, nicht aber auf die Erlaubnis, jederzeit kurz auf die Toilette zu gehen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Fürsorgepflicht umfasst laut Beitrag explizit auch, dass der Arbeitgeber den <strong>Gang zur Toilette nicht verbieten</strong> darf, da dies ein <strong>Grundbedürfnis</strong> ist.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag erklärt, dass die <strong>Fürsorgepflicht</strong> gerade beinhaltet, dass der Arbeitgeber den <strong>Gang zur Toilette nicht verbieten</strong> darf."
     },
     {
-      "type": "MultipleChoice",
-      "bloom_level": "Erinnern",
-      "question": "<p>Was ist das Hauptziel des Beitrags von Kassensturz-Espresso?</p>",
-      "options": [
-        {
-          "text": "Arbeitnehmer über ihre Rechte bezüglich WC-Pausen zu informieren",
-          "is_correct": true,
-          "feedback": "✅ Richtig!"
-        },
-        {
-          "text": "Arbeitgeber zu kritisieren, die von ihren Arbeitnehmern verlangen, für WC-Pausen auszustempeln",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Beitrag fokussiert darauf, die rechtliche Situation zu erklären und Arbeitnehmer über ihre Rechte aufzuklären."
-        },
-        {
-          "text": "Eine Diskussion über die Bedeutung von Pausen am Arbeitsplatz anzuregen",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Beitrag fokussiert darauf, die rechtliche Situation zu erklären und Arbeitnehmer über ihre Rechte aufzuklären."
-        },
-        {
-          "text": "Die rechtliche Situation von Pausen in der Schweiz zu erklären",
-          "is_correct": false,
-          "feedback": "❌ Falsch. Der Beitrag fokussiert darauf, die rechtliche Situation zu erklären und Arbeitnehmer über ihre Rechte aufzuklären."
-        }
-      ]
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Aus dem Beitrag geht hervor, dass die Regelung zum Ausstempeln bei Raucherpausen tendenziell strenger gehandhabt wird als bei Kaffeepausen.</p>",
+      "correct_answer": true,
+      "feedback_correct": "✅ Richtig! Es wird erwähnt, dass Arbeitgeber bei Kaffeepausen oft 'nicht so streng' sind, während es bei Raucherpausen '<strong>immer mehr vorkommt</strong>', dass <strong>ausgestempelt</strong> werden muss.",
+      "feedback_incorrect": "❌ Falsch. Der Beitrag deutet klar darauf hin, dass das Ausstempeln bei <strong>Raucherpausen häufiger</strong> verlangt wird ('immer mehr vorkommt') als bei Kaffeepausen, wo Arbeitgeber oft <strong>toleranter</strong> sind."
     }
   ]
 }

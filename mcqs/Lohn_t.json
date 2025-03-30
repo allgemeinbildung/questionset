@@ -1,0 +1,329 @@
+{
+  "title": "Verständnisfragen Lohnzahlungspflicht",
+  "headerImage": "img1.jpg",
+  "media": {
+    "type": "mp3",
+    "url": "https://download-media.srf.ch/world/audio/Espresso-radio/2024/08/Espresso-radio-007ed7f4-7097-4a49-80b9-d474a7a96ae1.mp3",
+    "source": "https://www.srf.ch/audio/espresso/bis-wann-muss-mein-voller-lohn-da-sein?partId=b2202ceb-e0ed-42fd-b3df-e899f053d970#autoplay"
+  },
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wann muss der Lohn gemäss Gesetz spätestens auf dem Konto des Mitarbeitenden sein?</p>",
+      "options": [
+        {
+          "text": "Am 15. des Monats",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Gesetz schreibt den <strong>letzten Tag des Monats</strong> als Frist vor."
+        },
+        {
+          "text": "Am letzten Tag des Monats",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Laut Gesetz muss der <strong>volle Lohn</strong> bis zum <strong>letzten Tag des Monats</strong> auf dem Konto sein, sofern nichts anderes vereinbart wurde."
+        },
+        {
+          "text": "Am ersten Tag des Folgemonats",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Überweisung erst im <strong>Folgemonat</strong> ist laut Gesetz und Bundesgerichtsentscheid <strong>nicht zulässig</strong>."
+        },
+        {
+          "text": "Innerhalb der ersten Woche des Folgemonats",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die gesetzliche Frist ist der <strong>letzte Tag des Monats</strong>, nicht die erste Woche des Folgemonats."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Was wollte der Arbeitgeber im beschriebenen Fall ursprünglich mit dem zusätzlichen Lohnanteil von 20% tun?</p>",
+      "options": [
+        {
+          "text": "Ihn gar nicht auszahlen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Arbeitgeber wollte den Lohn zahlen, aber <strong>verspätet</strong>."
+        },
+        {
+          "text": "Ihn sofort nach dem ersten Monat überweisen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Der Arbeitgeber hat im ersten Monat nur den <strong>alten Lohn</strong> überwiesen und wollte den Zusatz erst später zahlen."
+        },
+        {
+          "text": "Ihn erst am Ende der zweimonatigen Periode überweisen",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Der Chef sagte, er würde die <strong>20% mehr Lohn</strong> erst am <strong>Ende der zwei Monate</strong> überweisen."
+        },
+        {
+          "text": "Ihn als Bonus am Jahresende auszahlen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ging um die Auszahlung nach <strong>zwei Monaten</strong>, nicht am Jahresende."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welchen ersten Schritt empfiehlt die Rechtsexpertin, wenn der Lohn nicht korrekt überwiesen wurde?</p>",
+      "options": [
+        {
+          "text": "Sofort eine Betreibung einleiten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Betreibung ist ein <strong>späterer Schritt</strong>, falls andere Massnahmen nicht wirken."
+        },
+        {
+          "text": "Direkt die Arbeit niederlegen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Arbeit niederzulegen ist erst nach einer <strong>erfolglosen Mahnung</strong> mit Fristsetzung möglich."
+        },
+        {
+          "text": "Das Gespräch mit dem Chef suchen",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Die Expertin empfiehlt, zuerst mit dem <strong>Chef zu sprechen</strong> und zu <strong>reklamieren</strong>."
+        },
+        {
+          "text": "Einen Anwalt einschalten",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Ein Anwalt kann später sinnvoll sein, aber der <strong>erste empfohlene Schritt</strong> ist das <strong>Gespräch</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Welches Format wird für eine schriftliche Mahnung an den Arbeitgeber besonders empfohlen, um den Versand beweisen zu können?</p>",
+      "options": [
+        {
+          "text": "Eine normale E-Mail",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl E-Mails erwähnt werden, wird der <strong>eingeschriebene Brief</strong> für den <strong>Beweis</strong> besonders empfohlen."
+        },
+        {
+          "text": "Eine SMS",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl SMS erwähnt werden, wird der <strong>eingeschriebene Brief</strong> für den <strong>Beweis</strong> besonders empfohlen."
+        },
+        {
+          "text": "Ein eingeschriebener Brief",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Ein <strong>eingeschriebener Brief</strong> wird empfohlen, da man so den <strong>Versand beweisen</strong> kann."
+        },
+        {
+          "text": "Eine mündliche Mitteilung vor Zeugen",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine <strong>schriftliche Mahnung</strong> wird empfohlen, insbesondere per <strong>eingeschriebenem Brief</strong> für die Beweisbarkeit."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Erinnern",
+      "question": "<p>Wie oft muss man gemäss der Expertin einen zu tiefen Lohn ohne Protest annehmen, damit man ihn rechtlich akzeptiert hat?</p>",
+      "options": [
+        {
+          "text": "Einmal",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es braucht <strong>mehr als eine</strong> widerspruchslose Annahme."
+        },
+        {
+          "text": "Zweimal",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es braucht <strong>mehr als zwei</strong> widerspruchslose Annahmen."
+        },
+        {
+          "text": "Dreimal nacheinander",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Wenn man <strong>dreimal nacheinander</strong> einen tieferen Lohn <strong>ohne Protest</strong> annimmt, gilt dies rechtlich als <strong>Akzeptanz</strong>."
+        },
+        {
+          "text": "Fünfmal nacheinander",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die genannte Zahl ist <strong>dreimal nacheinander</strong>."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Warum ist es laut Bundesgerichtsentscheid unzulässig, den Lohn für geleistete Arbeit erst im Folgemonat zu überweisen?</p>",
+      "options": [
+        {
+          "text": "Weil es die Buchhaltung der Firma zu stark vereinfacht.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Vereinfachung der Buchhaltung ist <strong>kein rechtlicher Grund</strong>, die gesetzliche Zahlungsfrist zu missachten."
+        },
+        {
+          "text": "Weil die Mitarbeitenden ihr Geld pünktlich für ihre Ausgaben benötigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl dies ein wichtiger praktischer Grund ist, basiert die Unzulässigkeit auf der <strong>gesetzlichen Regelung</strong> und dem <strong>Bundesgerichtsentscheid</strong>, der die Auszahlung bis <strong>Monatsende</strong> fordert."
+        },
+        {
+          "text": "Weil das Gesetz die Auszahlung bis zum Monatsende vorschreibt und der Entscheid dies bestätigt.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das <strong>Gesetz fordert</strong> die Auszahlung bis zum <strong>letzten Tag des Monats</strong>, und ein <strong>Bundesgerichtsentscheid</strong> hat explizit bestätigt, dass eine spätere Zahlung <strong>unzulässig</strong> ist."
+        },
+        {
+          "text": "Weil dadurch Steuervorteile für den Arbeitgeber entstehen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es gibt keine Hinweise auf <strong>Steuervorteile</strong> als Grund für die Unzulässigkeit der verspäteten Zahlung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was riskieren Angestellte, wenn sie über längere Zeit einen zu tiefen Lohn erhalten und sich nicht beschweren?</p>",
+      "options": [
+        {
+          "text": "Sie riskieren, dass der Arbeitgeber sie für unmotiviert hält.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Hauptrisiko ist ein <strong>rechtliches</strong>, nicht primär eine Frage der Motivationseinschätzung."
+        },
+        {
+          "text": "Sie riskieren, den Anspruch auf den fehlenden Lohnanteil zu verlieren.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Wenn man wiederholt (<strong>dreimal</strong>) einen tieferen Lohn <strong>ohne Protest</strong> annimmt, kann man rechtlich den <strong>Anspruch auf den fehlenden Teil verlieren</strong>, da dies als <strong>stillschweigende Zustimmung</strong> gilt."
+        },
+        {
+          "text": "Sie riskieren, dass der Arbeitgeber die Lohnzahlungen ganz einstellt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Ausbleiben von Beschwerden führt nicht automatisch zur <strong>Einstellung der Zahlungen</strong>, sondern zur <strong>rechtlichen Akzeptanz</strong> des tieferen Lohns."
+        },
+        {
+          "text": "Sie riskieren, keine Lohnerhöhung in der Zukunft zu bekommen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Das Hauptrisiko betrifft den <strong>aktuell geschuldeten Lohn</strong>, nicht unbedingt zukünftige Erhöhungen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Unter welcher Voraussetzung dürfen Angestellte die Arbeit einstellen, wenn der Lohn ausbleibt?</p>",
+      "options": [
+        {
+          "text": "Sobald der Lohn auch nur einen Tag zu spät ist.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es ist ein <strong>formales Vorgehen</strong> mit <strong>Mahnung und Fristsetzung</strong> nötig."
+        },
+        {
+          "text": "Erst nachdem sie mündlich reklamiert haben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine <strong>schriftliche Mahnung</strong> mit <strong>Fristsetzung</strong> ist erforderlich, bevor die Arbeit eingestellt werden darf."
+        },
+        {
+          "text": "Nachdem sie den Arbeitgeber schriftlich gemahnt und eine Frist gesetzt haben, die verstrichen ist.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Das Recht, <strong>zu Hause zu bleiben</strong> (Arbeitsverweigerung), entsteht erst, wenn der Arbeitgeber nach einer <strong>schriftlichen Mahnung</strong> mit gesetzter <strong>Frist</strong> (z.B. 5 Tage bis 1 Woche) <strong>nicht zahlt</strong>."
+        },
+        {
+          "text": "Nur wenn der Arbeitgeber ausdrücklich zustimmt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Die Zustimmung des Arbeitgebers ist <strong>nicht erforderlich</strong>; es ist ein <strong>Recht des Angestellten</strong> unter bestimmten Bedingungen."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Was ist mit der Aussage \"Reden lohnt sich\" im Kontext des Beitrags gemeint?</p>",
+      "options": [
+        {
+          "text": "Dass man durch Gespräche mehr Lohn verdienen kann.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Es geht nicht um generelle Lohnerhöhungen, sondern um die <strong>Klärung von Unstimmigkeiten</strong> bei der <strong>bestehenden Lohnzahlung</strong>."
+        },
+        {
+          "text": "Dass viele Probleme, wie die verspätete Lohnzahlung im Beispiel, durch direkte Kommunikation gelöst werden können.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Im Beispiel führte das <strong>Gespräch mit dem Chef</strong> zu einer <strong>Einigung</strong> und zeigte, dass <strong>Kommunikation</strong> oft der erste und erfolgreichste Schritt zur <strong>Problemlösung</strong> ist."
+        },
+        {
+          "text": "Dass man nur durch Reden rechtliche Schritte vermeiden kann.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Reden ist der <strong>erste Schritt</strong>, aber wenn es nicht hilft, sind <strong>rechtliche Schritte</strong> (Mahnung, etc.) notwendig und möglich."
+        },
+        {
+          "text": "Dass Reden über Lohnprobleme immer zu einer Einigung führt.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Reden ist zwar oft erfolgreich, wie im Beispiel, aber es gibt <strong>keine Garantie</strong> für eine Einigung."
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "bloom_level": "Verstehen",
+      "question": "<p>Welches ist die gravierendste Massnahme, die ein Angestellter ergreifen kann, wenn der Arbeitgeber den Lohn trotz Mahnung nicht zahlt?</p>",
+      "options": [
+        {
+          "text": "Eine negative Bewertung des Arbeitgebers im Internet schreiben.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Online-Bewertung hat <strong>keine direkte rechtliche Wirkung</strong> auf die Lohnzahlung."
+        },
+        {
+          "text": "Den Arbeitgeber bei der Gewerkschaft melden.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Eine Meldung bei der Gewerkschaft kann unterstützen, aber die <strong>Betreibung</strong> ist der im Beitrag genannte <strong>rechtliche Eskalationsschritt</strong>."
+        },
+        {
+          "text": "Den Arbeitgeber betreiben und damit ein Konkursverfahren riskieren.",
+          "is_correct": true,
+          "feedback": "✅ Richtig! Wenn Mahnungen und Arbeitsverweigerung nicht helfen, kann der Angestellte den <strong>Arbeitgeber betreiben</strong>. Dies kann zu einem <strong>Konkursverfahren</strong> führen, was eine sehr <strong>gravierende Folge</strong> für den Arbeitgeber ist."
+        },
+        {
+          "text": "Den Arbeitsvertrag fristlos kündigen.",
+          "is_correct": false,
+          "feedback": "❌ Falsch. Obwohl eine fristlose Kündigung bei Lohnverzug möglich sein kann, wird im Beitrag die <strong>Betreibung</strong> als der <strong>weiterführende Schritt</strong> nach erfolgloser Mahnung und Arbeitsverweigerung genannt."
+        }
+      ]
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Laut Gesetz muss der Lohn bis zum 15. des Monats auf dem Konto des Mitarbeitenden sein.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Das Gesetz schreibt vor, dass der Lohn bis zum letzten Tag des Monats auf dem Konto sein muss, nicht bis zum 15.",
+      "feedback_incorrect": "❌ Falsch. Im Gesetz steht, dass der Lohn bis zum letzten Tag des Monats auf dem Konto der Mitarbeitenden sein muss."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Im Beispielfall hatte sich die Hörerin bereit erklärt, ihr Pensum für zwei Monate um 10% zu erhöhen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Hörerin hatte einer Erhöhung um 20% zugestimmt, nicht um 10%.",
+      "feedback_incorrect": "❌ Falsch. Die Hörerin hatte sich bereit erklärt, ihr Pensum um 20% zu erhöhen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Erinnern",
+      "question": "<p>Ein Bundesgerichtsentscheid erlaubt es Arbeitgebern ausdrücklich, den Lohn für geleistete Arbeit erst im Folgemonat zu überweisen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Der Bundesgerichtsentscheid besagt das Gegenteil: Es ist unzulässig, den Lohn erst im Folgemonat zu überweisen.",
+      "feedback_incorrect": "❌ Falsch. Der zitierte Bundesgerichtsentscheid hält fest, dass es unzulässig ist, den Lohn für geleistete Arbeit erst im nächsten Monat zu überweisen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Wenn ein Unternehmen finanzielle Schwierigkeiten hat, darf es die Lohnzahlungen automatisch später leisten.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Finanzielle Schwierigkeiten entbinden den Arbeitgeber nicht automatisch von der pünktlichen Lohnzahlungspflicht. Die Angestellten haben weiterhin das Recht, ihren Lohn zu fordern und gegebenenfalls die Arbeit nach erfolgloser Mahnung einzustellen.",
+      "feedback_incorrect": "❌ Falsch. Auch bei finanziellen Schwierigkeiten des Arbeitgebers gelten die gesetzlichen Regeln zur Lohnzahlung. Angestellte müssen den Lohn einfordern und können bei ausbleibender Zahlung nach Mahnung die Arbeit niederlegen."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Mitarbeitende, die wegen ausbleibender Lohnzahlung die Arbeit einstellen, müssen die verpasste Arbeitszeit später nachholen.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Wenn die Arbeit rechtmässig wegen ausstehendem Lohn eingestellt wird (nach Mahnung und Fristablauf), muss die Zeit nicht nachgearbeitet werden.",
+      "feedback_incorrect": "❌ Falsch. Die Zeit, während der die Arbeit rechtmässig wegen ausstehendem Lohn eingestellt wurde, muss später nicht nachgearbeitet werden."
+    },
+    {
+      "type": "TrueFalse",
+      "bloom_level": "Verstehen",
+      "question": "<p>Eine Mahnung wegen ausstehendem Lohn ist nur gültig, wenn sie per eingeschriebenem Brief erfolgt.</p>",
+      "correct_answer": false,
+      "feedback_correct": "✅ Richtig! Die Expertin erwähnt, dass eine Mahnung auch per SMS oder E-Mail erfolgen kann, obwohl der eingeschriebene Brief wegen der Beweisbarkeit empfohlen wird.",
+      "feedback_incorrect": "❌ Falsch. Laut der Expertin kann eine Mahnung auch per SMS oder E-Mail erfolgen. Der eingeschriebene Brief wird jedoch für die bessere Beweisbarkeit empfohlen."
+    }
+  ]
+}
